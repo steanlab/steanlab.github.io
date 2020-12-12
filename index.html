@@ -9,9 +9,32 @@ body {
 	background-image: url();
 }
 </style>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
 </head>
 
-<body>
+<body onLoad="MM_preloadImages('donate2.png')">
 <p>&nbsp;</p>
 <p align="center" style="font-family: Arial, 'Arial Narrow', 'Arial Black'; font-size: large;"><strong>GitHub Page of Siarhei Besarab (@steanlab)</strong><br>
 <img src="ru.png" width="32" height="21" alt=""/> <em>Сергей Бесараб </em><img src="by.png" width="32" height="22" alt=""/><em> Сяргей Бесараб</em> </p>
@@ -35,8 +58,9 @@ body {
     <p align="left" style="font-family: Arial, 'Arial Narrow', 'Arial Black'"><a href="https://soundcloud.com/siarhei-v-besarab/sets/phytochemist-notes-vol-1"><img src="radio.png" width="595" height="143" alt=""/></a><br>
       A  stories about  fruits/vegetables on belarussian radio  (see on <a href="https://soundcloud.com/siarhei-v-besarab/sets/phytochemist-notes-vol-1">SoundCloud</a>)    </p>
     <hr noshade size="1">
-    <p align="left" style="font-family: Arial, 'Arial Narrow', 'Arial Black'"><strong>DONATE</strong>:<strong> W</strong>ebMoney 650377296748-<a href="https://yoomoney.ru/to/410018843026512"><strong>Y</strong>andexMoney</a>-<a href="https://www.patreon.com/steanlab"><strong>P</strong>atreon</a>-<a href="https://ko-fi.com/steanlab"><strong>K</strong>o-Fi</a>-<a href="https://liberapay.com/steanlab/donate"><strong>L</strong>iberapay</a><br>
-      CRYPTO DONATE: <br>
+    <p align="center" style="font-family: Arial, 'Arial Narrow', 'Arial Black'"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','donate2.png',1)"><img src="donate1.png" alt="" width="595" height="41" id="Image21"></a></p>
+    <p align="center" style="font-family: Arial, 'Arial Narrow', 'Arial Black'"><strong>W</strong>ebMoney 650377296748-<a href="https://yoomoney.ru/to/410018843026512"><strong>Y</strong>andexMoney</a>-<a href="https://www.patreon.com/steanlab"><strong>P</strong>atreon</a>-<a href="https://ko-fi.com/steanlab"><strong>K</strong>o-Fi</a>-<a href="https://liberapay.com/steanlab/donate"><strong>L</strong>iberapay</a></p>
+    <p align="left" style="font-family: Arial, 'Arial Narrow', 'Arial Black'">      CRYPTO DONATE: <br>
       <strong> <span style="color: #FFFFFF">_<img src="btc.png" width="16" height="16" alt=""/></span> BTC</strong>: 3QRyF2UwcKECVtk1Ep8scndmCBoRATvZkx<br>
       <strong><span style="color: #FFFFFF">_<img src="bch.png" width="16" height="16" alt=""/></span> BCH</strong>: qrz4zqrue7lml0un42j9lalw4863zz8tnvhxt8p5z8 <br>
       <strong><span style="color: #FFFFFF">_<img src="etc.png" width="16" height="16" alt=""/></span> ETC</strong>: 0x3Aa313FA17444db70536A0ec5493F3aaA49C9CBf<br>

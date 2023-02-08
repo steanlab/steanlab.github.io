@@ -1,0 +1,3 @@
+﻿https://steanlab.github.io
+https://steanlab.github.io/scihack/scihack.html
+https://steanlab.github.io/bibliography/biblio.html

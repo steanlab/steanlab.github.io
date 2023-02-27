@@ -18,6 +18,5 @@ Siarhei Besarab /@stean _or_ @steanlab/ — бел. **[Сяргей Бесара
 **Public activities**
 
 ![]({{site.baseurl}}/images/lab66.png)
-
 ![]({{site.baseurl}}/images/scihack.png)
 

@@ -13,11 +13,11 @@ Siarhei Besarab /@stean _or_ @steanlab/ — бел. **[Сяргей Бесара
 
 ### My research interests include:
 
-- **Colloid science**: adsorbents (among other medical adsorbents) — catalysts and their supports aerosols — nanomaterials and varios hybrid composites — porous and fibrous aerosol filtering materials
-- **Industrial toxicology**: personal protective equipment (PPE) — Respiratory Protective Equipment (RPE)
-- **Public safety**: radiation defence — antidotes — non-ionizing radiation — EM absorbers
+- **Colloid science**: adsorbents — catalysts and their supports — nanomaterials and hybrid composites — porous and fibrous aerosol filtering materials
+- **Industrial toxicology**: heavy metals decontamination — plastics degradation
+- **Public safety**: radiation defence — antidotes — non-ionizing radiation — EM absorbers — personal protective equipment (PPE) — Respiratory Protective Equipment (RPE)
 - **Green** and **Phytochemistry** | ethnobotany | bioinsecticides/biorepellents
-- **FoodTech**:  nowel/alternative food sources — food safety
+- **FoodTech**:  novel/alternative food sources — food safety
 - **Medical electronics**: wearable devices — medical sensors — Point-of-Care
 
 **Citizen Science Public activities**

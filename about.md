@@ -6,4 +6,14 @@ published: true
 ---
 
 ![]({{site.baseurl}}/images/name.png)
-Hi there! I also maintain a tiny blog. It is mostly written in Russian, except for articles whose topic could interest a broader readership. All ideas expressed here are my own, except explicitly indicated otherwise, and should not be attributed to any of my employers (past or present). Old blog posts may not reflect my current opinions.
+
+Siarhei Besarab (@steanlab), бел. Сяргей Бесараб, рус. Сергей Бесараб
+
+- Independent Scientist. 
+- Certified Researcher in Surface&Interface Chemistry
+- Inventor ([TIPS](https://en.wikipedia.org/wiki/TRIZ)) and innovative Expert.
+- Science journalist ([HABR](https://habr.com/ru/users/steanlab/posts)/[MEDIUM](https://medium.com/@steanlab)).
+- Citizen science evangelist
+
+
+

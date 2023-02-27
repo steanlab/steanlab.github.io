@@ -13,12 +13,12 @@ Hey there everyone! My name is Siarhei, and I'm an independent scientist and cer
 
 ### My research interests include:
 
-- **Colloid science**: adsorbents (among other medical adsorbents) | catalysts and their supports aerosols |  nanomaterials and varios hybrid composites | porous and fibrous aerosol filtering materials
-- **Industrial toxicology**: personal protective equipment (PPE) | Respiratory Protective Equipment (RPE)
-- **Public safety**: radiation defence | antidotes | non-ionizing radiation | EM absorbers
-- **Green** and **Phytochemistry** | ethnobotany | bioinsecticides/biorepellents;
-- **FoodTech**:  nowel/alternative food sources | food safety;
-- **Medical electronics**: wearable devices | medical sensors | Point-of-Care
+- **Colloid science**: adsorbents (among other medical adsorbents) — catalysts and their supports aerosols — nanomaterials and varios hybrid composites — porous and fibrous aerosol filtering materials
+- **Industrial toxicology**: personal protective equipment (PPE) — Respiratory Protective Equipment (RPE)
+- **Public safety**: radiation defence — antidotes — non-ionizing radiation — EM absorbers
+- **Green** and **Phytochemistry** | ethnobotany | bioinsecticides/biorepellents
+- **FoodTech**:  nowel/alternative food sources — food safety
+- **Medical electronics**: wearable devices — medical sensors — Point-of-Care
 
 **Citizen Science Public activities**
 

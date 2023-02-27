@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/steanlab
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://steanlab.github.io
+  * I am steanlab (https://keybase.io/steanlab) on keybase.
+  * I have a public key with fingerprint F9F2 237E C324 7FD0 A8DF  D8BD 8F3A 6CC2 5399 44AE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010162cabe2e9c8e462b0ac00d3d6d07c602e74ae5a91244a47aad3eb5be4ab70d760a",
+      "fingerprint": "f9f2237ec3247fd0a8dfd8bd8f3a6cc2539944ae",
+      "host": "keybase.io",
+      "key_id": "8f3a6cc2539944ae",
+      "kid": "010162cabe2e9c8e462b0ac00d3d6d07c602e74ae5a91244a47aad3eb5be4ab70d760a",
+      "uid": "94cab813448934420236c9ed1380ed19",
+      "username": "steanlab"
+    },
+    "service": {
+      "hostname": "steanlab.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1677535878,
+  "expire_in": 157680000,
+  "prev": "db7e1f1a3f09e79d34fd2b57003f29750944b0482441eb94fec6fc4324b10d07",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSFRBGF4rK7WilQqyCzEFVmw6537OQlIRaRKRhWG1sM2cmbN7Ss9Z
+9xy3xIxuWBCmiYFh2Y0ksRuFUhndN6JeghYL0YKwegjqwaIIheZYvUSPzcM/zD/f
+983/f/M/mjzWl5n2vPiV+TiVOJ727P7JKp8+sriuBmCbVINgDdhORzdaTqjjhreb
+BAQB5CAn8zrClKearlJR5jFEOoREIDKBii5DnioiohLSOF4UkaggRASKJUxFhBVI
+FBkiEACGaUVoPBY3LZfJGprB84JCdYEXFYNApBKDqJiohoBkXeclQdOYGGXEqO14
+DFYcRg7NM22WY4fwaHn/wP/nuqtG5TSRSamcIIqqxgIPeUHWNUo4QYUsah7QoXEL
+VVCGdlyKrHKEQW0AsGzC1KlnrNfJX4i8iOlGq/CvrmJx27V1u5zdR1035gQ9vlsd
+8wg7KA7/lgpj0yLMTcZI0Lhj2hYIcgypu6anzcmKIgmSqqgBQHfGzDgNmx5CUmQV
+suW9QxNMkmCFcgaHBANqVNGIIBqEx5ICoWDwmiJB5iiGosrc4SjWRIPqsqGL7Mcw
+B5mFwGuu0rJBUGBloojXlhmxkFsVp6D2wb3QOF9apm98+hhvynyZGVP/zN7yqxN9
+51rHrW3dIEy6s/D9trwxGYNz8hcPLK2Pnb8XytKSH6c0fS3ed+Olf86prHmbfvQf
+erO/5UtO+hN/X/dQx+Vp3zI2T3hZO1yy6utAz54PZWn+usr1Aj+0MjLzYXZdfv6k
+rtV369tvL9vRMhztXhC43luRmG2Ubunbu253ErQhx272d450Hr7KBZ/fndYYSWZn
+3cpcM2vniqJbu0rXFyzJm1v26cQqs3Gt3ZB8Or/1defpM0Uli3a/2tS7C9Q6uRea
+jhQUhN7t25gs3NPednZGz83h5lRP4etrkcE74G3Do/SLXQ+GemOXxk/P/XzwRc7Q
+uQOlqQPVHd9zjzV3He1o3dof6oulrlz/CTaPRhA=
+=MBK3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/steanlab
+
+==================================================================

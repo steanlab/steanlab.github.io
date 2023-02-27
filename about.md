@@ -7,7 +7,7 @@ published: true
 
 ![]({{site.baseurl}}/images/name.png)
 
-Siarhei Besarab (@stean | @steanlab), бел. Сяргей Бесараб, рус. Сергей Бесараб
+Siarhei Besarab (@stean _or_ @steanlab), бел. Сяргей Бесараб, рус. Сергей Бесараб
 
 - Independent Scientist. 
 - Certified Researcher in Surface&Interface Chemistry

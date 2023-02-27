@@ -15,5 +15,9 @@ Siarhei Besarab /@stean _or_ @steanlab/ — бел. **[Сяргей Бесара
 - Science journalist ([HABR](https://habr.com/ru/users/steanlab/posts)/[MEDIUM](https://medium.com/@steanlab))
 - Citizen science evangelist
 
+**Public activities**
 
+![]({{site.baseurl}}/images/lab66.png)
+
+![]({{site.baseurl}}/images/scihack.png)
 

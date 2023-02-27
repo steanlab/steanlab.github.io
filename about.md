@@ -25,3 +25,10 @@ ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесар�
 [![]({{site.baseurl}}/images/lab66.png)](https://t.me/joinchat/AAAAAFFhzPKyiLO85pRxUA)
 [![]({{site.baseurl}}/images/scihack.png)](https://be.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96_%D0%BD%D0%B0%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D1%8B_%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD)
 [![]({{site.baseurl}}/images/radio.png)](https://soundcloud.com/siarhei-v-besarab/sets/phytochemist-notes-vol-1)
+
+---
+
+For very, very, very important things, please use **encrypted mail** to contact me:
+
+From my profile page on the [Keybase online identity registry](https://keybase.io/steanlab), you can encrypt a message so that I will be the only one able to read it; simply send me the result by email.
+If you already use OpenPGP, you can also get my public key [via Keybase](https://keybase.io/steanlab/pgp_keys.asc) or via your usual key server. This key’s fingerprint is: **F9F2 237E C324 7FD0 A8DF D8BD 8F3A 6CC2 5399 44AE**

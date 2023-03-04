@@ -7,7 +7,7 @@ published: true
 
 ![]({{site.baseurl}}/images/footer.png)
 
-ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесараб** {[BE:WIKIPEDIA](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)} — RUS: Сергей Бесараб
+ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесараб** {[BE:WIKIPEDIA](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)} — RUS: [Сергей Бесараб](https://www.google.com/search?kgmid=/g/11jfg45gk2)
 
 > Hey there everyone! My name is Siarhei, and I'm an independent belarusian scientist and certified researcher in Surface and Interface Chemistry. Additionally, I'm also a science communicator, journalist, and writer for [HABR](https://habr.com/ru/users/steanlab/posts)/[MEDIUM](https://medium.com/@steanlab). My scientific interests are broad and transdisciplinary, and also I'm passionate about promoting Citizen Science. This tiny website is meant to establish online presence in a more simple (more «traditionally scientific») way than what trendy social media want to offer.
 

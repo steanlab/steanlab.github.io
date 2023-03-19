@@ -130,6 +130,7 @@ ____
 - P [Тритий - последний из «радиационных могикан»](https://www.patreon.com/posts/tritii-poslednii-60175941)
 - P [Радиация в украшениях и драгоценных камнях](https://www.patreon.com/posts/radiatsiia-v-i-59843281)
 - P [Наведенная радиация от рентген-аппаратов](https://www.patreon.com/posts/navedennaia-ot-61957288)
+- P [Centurion 169041. История атомного танка](https://www.patreon.com/posts/80235777)
 - P [FUN буднего дня или Смотрим внутрь с помощью интроскопа метрополитена](https://www.patreon.com/posts/fun-budnego-dnia-36284448)
 - M [(+62) Ист☢рия одной трагедии](https://steanlab.medium.com/nesvizh-7793fe60a1e2)
 - [(+133) Бижутерия, которую Вы заслужили (?). Радиоактивное урановое стекло в магазинах для рукодельниц](https://habr.com/ru/post/596541/)

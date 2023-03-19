@@ -92,6 +92,7 @@ ____
 - P [В защиту плюща или Обеляем «мужегон» всея балабольского государства](https://www.patreon.com/posts/zashchita-ili-57795695)
 - P [А<sup>3</sup>-Ацетилхолин и Алкалоиды Амариллисовых](https://www.patreon.com/posts/a3-atsetilkholin-57971322)
 - P [Вашему вниманию - ЦИКЛАМЕН!](https://www.patreon.com/posts/vashemu-58011859)
+- P [Оставьте в покое первоцветы](https://www.patreon.com/posts/80236468)
 
 ## Серия «опусы про его величество клей»
 

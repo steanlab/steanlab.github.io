@@ -126,6 +126,7 @@ ____
 - P [Кружок юного радиофоба №3. РАДОН](https://www.patreon.com/posts/kruzhok-iunogo-3-59056359)
 - M [Полметра бетона до. Что такое хранилище отработанного топлива ЗАЭС](https://steanlab.medium.com/usedfuel-a91c0d47bcb3)
 - M [Лучший сувенир из «отпуска» в южных районах Беларуси (устар. Белоруссии)](https://steanlab.medium.com/americium-51a802a81c1c)
+- P [Обедненный уран в бронебойных снарядах. Ликбез](https://www.patreon.com/posts/80479601)
 - P [Серьги из чернобылита. Поделочные камни из подреакторного пространства](https://www.patreon.com/posts/80237673)
 - P [Торий-232. Про радиоактивность старой фототехники](https://www.patreon.com/posts/radioaktivnost-56960026)
 - P [Uran-802. Двойной радиационный удар по Бресту](https://www.patreon.com/posts/uran-802-dvoinoi-59235588)

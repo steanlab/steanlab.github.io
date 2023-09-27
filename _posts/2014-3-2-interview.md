@@ -12,6 +12,20 @@ published: true
 {:toc}
 ____
 
+# Voice of America
+
+- [VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl’s Radioactive Soil](https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html)
+- [Photos Indicate Russian Looting of Radioactive Materials from Ukraine’s Chernobyl](https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html)
+
+# Radio France internationale (UA)
+
+- [Білоруський радіаційний хімік: Білорусь із ядерною зброєю — це мавпа з гранатою](https://www.rfi.fr/uk/%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/20230329-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%85%D1%96%D0%BC%D1%96%D0%BA-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C-%D1%96%D0%B7-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D1%8E-%D0%B7%D0%B1%D1%80%D0%BE%D1%94%D1%8E-%D1%86%D0%B5-%D0%BC%D0%B0%D0%B2%D0%BF%D0%B0-%D0%B7-%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%8E)
+
+# Deutsche Welle
+
+- [Защита диссертаций в РБ: междусобойчик под контролем властей](https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190)
+- ["Список экстремистов" от МВД Беларуси: кого и за что внесли"Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
+
 # Наша Ніва
 
 - [Амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па WiFi замест камер. Аказваецца, беларусы прэзентавалі падобны метад 6 год таму](https://nashaniva.com/310711)
@@ -110,3 +124,19 @@ ____
 
 - [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)
 - [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)
+
+# Газета Салідарнасць
+
+- [Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»](https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)
+
+# REFORM.BY
+
+- [Химик раскритиковал сюжеты БТ об «отравителе милиционеров» Латыпове](https://reform.by/165661-himik-raskritikoval-sjuzhety-bt-ob-otravitele-milicionerov-latypove)
+
+# Onliner
+
+- [Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»](https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen)
+
+# Газета СБ. Беларусь сегодня
+
+- [Есть вопрос: что не мешало бы изобрести?](https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html)

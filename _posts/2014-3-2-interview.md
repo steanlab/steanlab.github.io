@@ -39,6 +39,23 @@ ____
 - [Чарвякі пад скурай як у фільмах жахаў. Навуковец тлумачыць, што такое дырафілярыёз, які распаўсюджваецца на Гомельшчыне](https://nashaniva.com/326374)
 - [Хімік Сяргей Бесараб патлумачыў, што не так з БелАЭС і якая перадавая тэхналогія выкарыстоўваецца Украінай у вайне](https://nashaniva.com/326574)
 
+  #Беларускае радыё Рацыя
+
+- [Лукашэнкаўцы будуць захоўваць радыеактыўныя адкіды ў гліне. Навуковец — гэта небяспечна!](https://www.racyja.com/hramadstva/lukashysty-buduts-zakhouvats-radyeakt/)
+- [Ці пагражае Беларусі і Польшчы сітуацыя на Хмяльніцкай АЭС?](https://www.racyja.com/sumezhzha/tsi-pagrazhae-belarusi-i-polshchy-situats/)
+- [Сяргей Бесараб: Новая Беларусь можа лёгка стаць высокатэхналагічнай краінай](https://www.racyja.com/hramadstva/syargej-besarab-novaya-belarus-mozha-lyo/)
+- [Сяргей Бесараб: Мы зараз вяртаемся ў 1996 год, калі Беларусь пазбаўлялася ядзернай зброі](https://www.racyja.com/palityka/syargej-besarab-my-zaraz-vyartaemsya-u-1996-g/)
+- [Сяргей Бесараб: БелАЭС – гэта кабальная сувязь Беларусі з Расеяй на 50 год наперад](https://www.racyja.com/ekanomika/syargej-besarab-belaes-geta-kabaln/)
+- [Кляшчы на Падляшшы: дзе іх трэба асцерагацца?](https://www.racyja.com/sumezhzha/klyashchy-na-padlyashshy-dze-ikh-treba-astsera/)
+- [Будучыня БелАЭС: выкарыстанне для патрэб Расеі і запужванне для астатняга свету?](https://www.racyja.com/ekanomika/buduchynya-belaes-vykarystanne-dlya-pat/)
+- [Сяргей Бесараб: Лагер пад Асіповічамі – хутчэй для ахоўнікаў ядзернай зброі, чым для ПВК «Вагнер»](https://www.racyja.com/palityka/syargej-besarab-lager-pad-asipovichami/)
+- [Сяргей Бесараб: Пры мажлівасці Украіна паспрабуе знішчыць сховішчы ядзернай зброі ў Беларусі](https://www.racyja.com/palityka/syargej-besarab-pry-mazhlivastsi-ukrain/)
+- [Ці сапраўды павялічылася выпраменьванне ў зоне вакол БелАЭС?](https://www.racyja.com/ekanomika/tsi-sapraudy-pavyalichylasya-vypramenv/)
+- [Для чаго беларускі спецназ на БелАЭС?](https://www.racyja.com/hramadstva/dlya-chago-belaruski-spetsnaz-na-belaes/)
+- [Сяргей Бесараб: Уся хімічная прамысловасць Беларусі сёння – гэта падтрыманне створанага ў савецкі час](https://www.racyja.com/hramadstva/syargej-besarab-usya-khimichnaya-pramyslo/)
+- [Чаму так шмат вос і шэршняў на Падляшшы сёлета?](https://www.racyja.com/sumezhzha/chamu-tak-shmat-vos-i-shershnyau-na-padlyashshy/)
+- [Якую ядзерную зброю РФ можа даць Лукашэнку?](https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/)
+
   # Белсат
 
 - [«Робяць сяк-так». Чаму ў Беларусі зноў абваліўся мост — і чаго чакаць надалей](https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej)

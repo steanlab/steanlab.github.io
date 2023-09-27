@@ -76,3 +76,37 @@ ____
 - [«Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?](https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa)
 - [На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России](https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody)
 - [Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец](https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa)
+
+# Зеленый портал
+
+- [Сергей Бесараб: «В домашней аптечке обязательно нужно иметь радиозащитную дозу йодидов»](https://greenbelarus.info/articles/29-08-2022/sergey-besarab-v-domashney-aptechke-obyazatelno-nuzhno-imet-radiozaschitnuyu)
+- [В Донецке заявляют об утечке аммиака из-за обстрела пивного завода](https://greenbelarus.info/articles/11-08-2022/v-donecke-zayavlyayut-ob-utechke-ammiaka-iz-za-obstrela-pivnogo-zavoda)
+- [Что делать в случае ядерного взрыва, как обезопасить себя и продукты питания](https://greenbelarus.info/articles/03-10-2022/chto-delat-v-sluchae-yadernogo-vzryva-kak-obezopasit-sebya-i-produkty-pitaniya)
+- [Ядерные отходы: почему они не уехали в Россию и что это значит для Беларуси?](https://greenbelarus.info/articles/27-11-2022/yadernye-otkhody-pochemu-oni-ne-uekhali-v-rossiyu-i-chto-eto-znachit-dlya)
+- [Беларусский радиационный химик: Беларусь с ядерным оружием – это обезьяна с гранатой](https://greenbelarus.info/articles/07-04-2023/belarusskiy-radiacionnyy-khimik-belarus-s-yadernym-oruzhiem-eto-obezyana-s)
+- [«Это подарок для террористов или психически неуравновешенных людей». Поговорили с экспертами об облучении радиацией продуктов и товаров. Их вывод: вреда больше, чем пользы](https://greenbelarus.info/articles/18-04-2023/razmeschenie-ustanovok-dlya-oblucheniya-na-razlichnykh-obektakh-eto-podarok)
+- [Были, есть и будут: какие радиоактивные элементы «подарил» нам Чернобыль?](https://greenbelarus.info/articles/19-04-2023/ne-stronciem-edinym-kakie-radioaktivnye-elementy-ostavil-nam-chernobyl)
+- [Атомные станции опасны, даже если никаких аварий на них не происходит](https://greenbelarus.info/articles/19-05-2023/atomnye-stancii-opasny-dazhe-esli-nikakikh-avariy-na-nikh-ne-proiskhodit)
+
+# CityDog
+
+- [«В беларуских аптеках такого йода нет». Специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации](https://citydog.io/post/kakoy-yod/)
+
+- [Если случится ядерный удар: какой йод можно найти в беларуских аптеках? Сколько он стоит и поможет ли при радиации? Вот наглядная инструкция](https://citydog.io/post/kak-vybrat-yod/)
+
+# DEV.BY
+- [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
+- [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
+- [Где в Беларуси живут «экстремисты»? Анализ списка МВД из 1700+ человек](https://devby.io/news/gde-v-belarusi-zhivut-ekstremisty)
+- [Научный хакатон в Минске: домашний наркотест, синтез генов и алгоритм для перебора картофеля](https://devby.io/news/pervyy-v-strane-nauchnyy-hakaton-vyigral-spektrometr-dlya-provedeniya-testa-na-narkotiki)
+
+# Новы Час Online
+
+- [Дзе ў Беларусі жыве найбольш «экстрэмістаў»?](https://novychas.online/hramadstva/dze-u-belarusi-zyve-najbolsz-ekstremistau)
+- [«Гомель-30» — сакрэтная база для ядзернай зброі РФ? Ці ПК-24, дзе здзекуюцца з жанчын-палітвязняў?](https://novychas.online/hramadstva/homel-30-sakretnaja-baza-dlja-jadzernaj-zbroi)
+- [Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі](https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha)
+
+# ЕвроРадио
+
+- [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)
+- [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)

@@ -24,7 +24,7 @@ ____
 # Deutsche Welle
 
 - [Защита диссертаций в РБ: междусобойчик под контролем властей](https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190)
-- ["Список экстремистов" от МВД Беларуси: кого и за что внесли"Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
+- ["Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
 
 # Наша Ніва
 

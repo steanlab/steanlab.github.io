@@ -134,6 +134,9 @@ ____
 - [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)
 - [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)
 
+# Авторский проект Никиты Мелкозерова "Жизнь-малина"
+- [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)
+
 # Газета Салідарнасць
 
 - [Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»](https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)

@@ -86,6 +86,7 @@ ____
 - [На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России](https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody)
 - [Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец](https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa)
 - [«Вся Земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее Симоньян взорвать бомбу над Сибирью](https://vot-tak.tv/novosti/04-10-2023-simonyan-vzryv)
+- [Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?](https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu)
 
 # Зеленый портал
 

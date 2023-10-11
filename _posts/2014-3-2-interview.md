@@ -72,6 +72,7 @@ ____
 - [Сяргей Бесараб: Уся хімічная прамысловасць Беларусі сёння – гэта падтрыманне створанага ў савецкі час](https://www.racyja.com/hramadstva/syargej-besarab-usya-khimichnaya-pramyslo/)
 - [Чаму так шмат вос і шэршняў на Падляшшы сёлета?](https://www.racyja.com/sumezhzha/chamu-tak-shmat-vos-i-shershnyau-na-padlyashshy/)
 - [Якую ядзерную зброю РФ можа даць Лукашэнку?](https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/)
+- [Праграмма Штосьці не так. Інтэрвью з Міколай Бянько наконт выкарыстання расейскай ядзернай зброі для выбуху ў космасе](https://www.racyja.com/wp-content/uploads/2023/07/2023-10-08_Bjanko_Shtosci_AN.mp3)
 
   # Белсат
 
@@ -108,6 +109,7 @@ ____
 - [ПРИВОДИТ К РАКУ?! Зачем облучают продукты и какие дозы смертельно опасны для человека](https://www.youtube.com/watch?v=zX7xBi3YQ6s)
 - [Лукашенко НЕ ОЖИДАЛ! Вот что будет, если ударят тактическим ядерным оружием по Дроздам](https://www.youtube.com/watch?v=49sYqq6nvfE)
 - [Как вытащить КЛЕЩА, чем опасен укус энцефалитного клеща и другие важные вопросы](https://www.youtube.com/watch?v=zIYUrt0y-AQ)
+- [Они хотят УДАРИТЬ ЯДЕРКОЙ по ПУТИНУ: есть ли у России ядерное оружие и стоит ли бояться?](https://www.youtube.com/watch?v=C1vAkg6HtkQ)
 
 # Zerkalo.io (ex TUT.BY)
 

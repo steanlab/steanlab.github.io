@@ -16,7 +16,7 @@ ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесар�
 - **Colloid science**: adsorbents — catalysts and their supports — nanomaterials and hybrid composites — porous and fibrous aerosol filtering materials
 - **Industrial toxicology**: heavy metals decontamination — plastics degradation
 - **Public safety**: radiation defence — antidotes — non-ionizing radiation — EM absorbers — personal protective equipment (PPE) — Respiratory Protective Equipment (RPE)
-- **Green** and **Phytochemistry**: ethnobotany | bioinsecticides/biorepellents
+- **Green** and **Phytochemistry**: ethnobotany/bioinsecticides/biorepellents
 - **FoodTech**:  novel/alternative food sources — food safety
 - **Medical electronics**: wearable devices — medical sensors — Point-of-Care
 

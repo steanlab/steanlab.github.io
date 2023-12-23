@@ -93,6 +93,7 @@ ____
 - [«Вся Земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее Симоньян взорвать бомбу над Сибирью](https://vot-tak.tv/novosti/04-10-2023-simonyan-vzryv)
 - [Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?](https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu)
 - [Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі](https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki)
+- [Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023](https://youtu.be/iXYwQTFsU1c?t=1191)
 
 # Зеленый портал
 

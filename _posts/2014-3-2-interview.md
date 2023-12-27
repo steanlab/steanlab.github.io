@@ -77,6 +77,7 @@ ____
 - [Якую ядзерную зброю РФ можа даць Лукашэнку?](https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/)
 - [Праграмма Штосьці не так. Інтэрвью з Міколай Бянько наконт выкарыстання расейскай ядзернай зброі для выбуху ў космасе](https://www.racyja.com/wp-content/uploads/2023/07/2023-10-08_Bjanko_Shtosci_AN.mp3)
 - [МНС выдала ліцэнзію на эксплуатацыю 2-га блока БелАЭС](https://www.racyja.com/ekanomika/mns-vydala-litsenziyu-na-ekspluatatsyyu-2-g/)
+- [Ці ставіць у дамах навагоднюю ялінку?](https://racyja.com/by/kultura/ci-stavic-u-damach-navahodnjuju-jalinku/)
 
   # Белсат
 

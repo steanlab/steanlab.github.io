@@ -96,6 +96,7 @@ ____
 - [Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?](https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu)
 - [Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі](https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki)
 - [Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023](https://youtu.be/iXYwQTFsU1c?t=1191)
+- [Прагнозы на 2024. Навука. Праграмма Тыдзень 07.01.2024](https://youtu.be/AAOKeDtxsU8?t=770)
 
 # Зеленый портал
 

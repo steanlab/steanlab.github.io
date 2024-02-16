@@ -98,6 +98,7 @@ ____
 - [Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі](https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki)
 - [Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023](https://youtu.be/iXYwQTFsU1c?t=1191)
 - [Прагнозы на 2024. Навука. Праграмма Тыдзень 07.01.2024](https://youtu.be/AAOKeDtxsU8?t=770)
+- [«Нават праказа здзівіла б менш». Навуковец патлумачыў, чаму цынга ў Латыпава – жахліва](https://belsat.eu/news/16-02-2024-navat-prakaza-zdzivila-b-mensh-navukovets-patlumachyu-chamu-tsynga-u-latypava-zhahliva)
 
 # Зеленый портал
 

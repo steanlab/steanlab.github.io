@@ -9,16 +9,16 @@ published: true
 
 ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесараб** {[BE:WIKIPEDIA](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)} — RUS: [Сергей Бесараб](https://www.google.com/search?kgmid=/g/11jfg45gk2)
 
-> Hey there everyone! My name is Siarhei, and I'm an independent belarusian scientist and certified researcher in Surface and Interface Chemistry. Additionally, I'm also a science communicator, journalist, and writer for [HABR](https://habr.com/ru/users/steanlab/posts)/[MEDIUM](https://medium.com/@steanlab). My scientific interests are broad and transdisciplinary, and also I'm passionate about promoting Citizen Science. This tiny website is meant to establish online presence in a more simple (more «traditionally scientific») way than what trendy social media want to offer.
+> Hi everyone! I'm Siarhei, an independent Belarusian scientist and certified researcher specializing in surface and interface chemistry. In addition to my scientific work, I'm also a science communicator, journalist, and writer for [HABR](https://habr.com/ru/users/steanlab/posts)/[MEDIUM](https://medium.com/@steanlab). My scientific interests are diverse and transdisciplinary, and I'm particularly passionate about promoting citizen science. This website aims to establish an online presence in a more straightforward and "traditionally scientific" manner compared to the offerings of trendy social media.
 
-### My research interests include:
+### My research interests cover:
 
-- **Colloid science**: adsorbents — catalysts and their supports — nanomaterials and hybrid composites — porous and fibrous aerosol filtering materials
-- **Industrial toxicology**: heavy metals decontamination — plastics degradation
-- **Public safety**: radiation defence — antidotes — non-ionizing radiation — EM absorbers — personal protective equipment (PPE) — Respiratory Protective Equipment (RPE)
-- **Green** and **Phytochemistry**: ethnobotany/bioinsecticides/biorepellents
-- **FoodTech**:  novel/alternative food sources — food safety
-- **Medical electronics**: wearable devices — medical sensors — Point-of-Care
+- **Colloid science**: adsorbents, catalysts, and their supports, nanomaterials, and hybrid composites, porous and fibrous aerosol filtering materials.
+- **Industrial toxicology**: decontamination of heavy metals, plastics degradation
+- **Public safety**: defense against radiation, antidotes, non-ionizing radiation, EM absorbers, personal protective equipment (PPE), Respiratory Protective Equipment (RPE)
+- **Green** and **Phytochemistry**: ethnobotany, bioinsecticides, biorepellents
+- **FoodTech**:  novel and alternative food sources, food safety
+- **Medical electronics**: wearable devices, medical sensors, Point-of-Care
 
 **Citizen Science Public activities**
 

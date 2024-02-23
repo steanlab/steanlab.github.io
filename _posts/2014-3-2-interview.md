@@ -111,6 +111,7 @@ ____
 - [«Это подарок для террористов или психически неуравновешенных людей». Поговорили с экспертами об облучении радиацией продуктов и товаров. Их вывод: вреда больше, чем пользы](https://greenbelarus.info/articles/18-04-2023/razmeschenie-ustanovok-dlya-oblucheniya-na-razlichnykh-obektakh-eto-podarok)
 - [Были, есть и будут: какие радиоактивные элементы «подарил» нам Чернобыль?](https://greenbelarus.info/articles/19-04-2023/ne-stronciem-edinym-kakie-radioaktivnye-elementy-ostavil-nam-chernobyl)
 - [Атомные станции опасны, даже если никаких аварий на них не происходит](https://greenbelarus.info/articles/19-05-2023/atomnye-stancii-opasny-dazhe-esli-nikakikh-avariy-na-nikh-ne-proiskhodit)
+- [«Калі б за справу ўзялася ваенная контрвыведка, мяне б, хутчэй за ўсё, знайшлі. Таму я хутка з’ехаў з Беларусі»](https://greenbelarus.info/articles/23-02-2024/kali-b-za-spravu-uzyalasya-vaennaya-kontrvyvedka-myane-b-khutchey-za-usyo)
 
 # Обычное утро (ОУ)
 

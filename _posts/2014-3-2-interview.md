@@ -101,6 +101,7 @@ ____
 - [Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023](https://youtu.be/iXYwQTFsU1c?t=1191)
 - [Прагнозы на 2024. Навука. Праграмма Тыдзень 07.01.2024](https://youtu.be/AAOKeDtxsU8?t=770)
 - [«Нават праказа здзівіла б менш». Навуковец патлумачыў, чаму цынга ў Латыпава – жахліва](https://belsat.eu/news/16-02-2024-navat-prakaza-zdzivila-b-mensh-navukovets-patlumachyu-chamu-tsynga-u-latypava-zhahliva)
+- [«Это худшая зависимость!» Беларусь подсела на российскую урановую иглу](https://belsat.eu/ru/programs/26-02-2024-eto-hudshaya-zavisimost-belarus-podsela-na-rossijskuyu-uranovuyu-iglu)
 
 # Зеленый портал
 
@@ -160,6 +161,7 @@ ____
 - [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)
 - [С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием](https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem)
 - [В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?](https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec)
+- ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

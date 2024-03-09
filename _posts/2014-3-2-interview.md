@@ -162,6 +162,7 @@ ____
 - [С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием](https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem)
 - [В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?](https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec)
 - ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
+- [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

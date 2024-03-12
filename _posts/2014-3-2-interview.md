@@ -164,6 +164,7 @@ ____
 - [В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?](https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec)
 - ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
 - [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
+- [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

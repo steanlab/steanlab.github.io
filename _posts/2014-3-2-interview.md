@@ -159,23 +159,23 @@ ____
 
 # ЕвроРадио
 
-- [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)
-- [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)
-- [С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием](https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem)
-- [В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?](https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec)
-- ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
-- [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
-- [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
+- [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic) - [WEBARCHIVE](https://web.archive.org/web/20230627170801/https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)
+- [Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга](https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga) - [WEBARCHIVE](https://web.archive.org/web/20230907060208/https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga)
+- [С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием](https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem) - [WEBARCHIVE](https://web.archive.org/web/20240130094606/https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem)
+- [В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?](https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec) - [WEBARCHIVE](https://web.archive.org/web/20240216082939/https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec)
+- ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau) - [WEBARCHIVE](https://web.archive.org/web/20240301193936/https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
+- [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina) - [WEBARCHIVE](https://web.archive.org/web/20240309150056/https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
+- [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik) - [WEBARCHIVE](https://web.archive.org/web/20240312181850/https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)
 
 # Газета Салідарнасць
 
-- [Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»](https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)
-- [Сергей Бесараб: «Если отбросить здравый смысл и посчитать, что Лукашенко выбирал Островец с точки зрения радиологической угрозы для Литвы — тогда все нормально»](https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406)
-- [«Что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать»](https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/)
-- [Вучоны-хімік: Знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля](https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/)
+- [Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»](https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)- [WEBARCHIVE](https://web.archive.org/web/20230707141347/https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)
+- [Сергей Бесараб: «Если отбросить здравый смысл и посчитать, что Лукашенко выбирал Островец с точки зрения радиологической угрозы для Литвы — тогда все нормально»](https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406)- [WEBARCHIVE](https://web.archive.org/web/20231026074738/https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406)
+- [«Что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать»](https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/)- [WEBARCHIVE](https://web.archive.org/web/20240127153610/https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/)
+- [Вучоны-хімік: Знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля](https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/)- [WEBARCHIVE](https://web.archive.org/web/20240319152650/https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/)
 
 # REFORM.BY
 

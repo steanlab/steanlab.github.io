@@ -161,8 +161,12 @@ ____
 
 # Штодзень
 
-- [Звесткі пра савецкі ваенны аб’ект “Гомель-30”](https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/) - [WEBARCHIVE](https://web.archive.org/web/20231206032252/https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/))
+- [Тактычную ядзерную зброю могуць размясціць каля Гомеля](https://homeldays.org/taktychnuju-jadzernuju-zbroju-moguc-razmjascic-kalja-gomelja/) - [WEBARCHIVE](https://web.archive.org/web/20230404131208/https://homeldays.org/taktychnuju-jadzernuju-zbroju-moguc-razmjascic-kalja-gomelja/)
+- [Звесткі пра савецкі ваенны аб’ект “Гомель-30”](https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/) - [WEBARCHIVE](https://web.archive.org/web/20231206032252/https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/)
 - [“Калі вы і вашыя родзічы жывеце ў раёне радыяцыйнага забруджання і карыстаецеся пячным ацяпленнем — уважліва стаўцеся да пытанняў радыяцыйнай гігіены”](https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/) - [WEBARCHIVE](https://web.archive.org/web/20231004021436/https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/)
+- [Каля Рэчыцы фіксуюць нетыповае захворванне паразітамі, якія паражаюць мяккія тканкі людзей](https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/) - [WEBARCHIVE](https://web.archive.org/web/20231010050416/https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/)
+- [Гомель — зноў у лідарах па “экстрэмістах“](https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/) - [WEBARCHIVE](https://web.archive.org/web/20231129154120/https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/)
+- [Жлобін на Гомельшчыне лідзіруе па колькасці экстрэмістаў](https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/) - [WEBARCHIVE](https://web.archive.org/web/20240328122437/https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/)
 
 # ЕвроРадио
 

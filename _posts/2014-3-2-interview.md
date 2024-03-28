@@ -159,6 +159,11 @@ ____
 - [«В беларуских аптеках такого йода нет». Специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации](https://citydog.io/post/kakoy-yod/)
 - [Если случится ядерный удар: какой йод можно найти в беларуских аптеках? Сколько он стоит и поможет ли при радиации? Вот наглядная инструкция](https://citydog.io/post/kak-vybrat-yod/)
 
+# Штодзень
+
+- [Звесткі пра савецкі ваенны аб’ект “Гомель-30”](https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/) - [WEBARCHIVE](https://web.archive.org/web/20231206032252/https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/))
+- [“Калі вы і вашыя родзічы жывеце ў раёне радыяцыйнага забруджання і карыстаецеся пячным ацяпленнем — уважліва стаўцеся да пытанняў радыяцыйнай гігіены”](https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/) - [WEBARCHIVE](https://web.archive.org/web/20231004021436/https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/)
+
 # ЕвроРадио
 
 - [Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць](https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic) - [WEBARCHIVE](https://web.archive.org/web/20230627170801/https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic)

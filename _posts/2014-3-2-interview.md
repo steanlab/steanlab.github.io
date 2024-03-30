@@ -168,6 +168,7 @@ ____
 - [Каля Рэчыцы фіксуюць нетыповае захворванне паразітамі, якія паражаюць мяккія тканкі людзей](https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/) - [WEBARCHIVE](https://web.archive.org/web/20231010050416/https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/)
 - [Гомель — зноў у лідарах па “экстрэмістах“](https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/) - [WEBARCHIVE](https://web.archive.org/web/20231129154120/https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/)
 - [Жлобін на Гомельшчыне лідзіруе па колькасці экстрэмістаў](https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/) - [WEBARCHIVE](https://web.archive.org/web/20240328122437/https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/)
+- [«Падарунак» дзясяткам пакаленняў: як Беларусь будзе захоўваць ядзерныя адходы са сваёй АЭС](https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/) - [WEBARCHIVE](https://web.archive.org/web/20240330222406/https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/)
 
 # ЕвроРадио
 

@@ -108,6 +108,7 @@ ____
 - [«Нават праказа здзівіла б менш». Навуковец патлумачыў, чаму цынга ў Латыпава – жахліва](https://belsat.eu/news/16-02-2024-navat-prakaza-zdzivila-b-mensh-navukovets-patlumachyu-chamu-tsynga-u-latypava-zhahliva)
 - [«Это худшая зависимость!» Беларусь подсела на российскую урановую иглу](https://belsat.eu/ru/programs/26-02-2024-eto-hudshaya-zavisimost-belarus-podsela-na-rossijskuyu-uranovuyu-iglu)
 - [«Палітычнае пудзіла». Дзе ў Беларусі можа з'явіцца магільнік радыеактыўных адкідаў?](https://belsat.eu/news/27-03-2024-u-belarusi-vybirayuts-mestsa-zahouvannya-radyeaktyunyh-adkidau) - [WEBARCHIVE](https://web.archive.org/web/20240327231623/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/27-03-2024-u-belarusi-vybirayuts-mestsa-zahouvannya-radyeaktyunyh-adkidau)
+-  [114 гадоў з дня народзінаў Барыса Кіта. Праграмма Аб'ектыў 06.04.2024](https://youtu.be/i8bYzv3nJEU?t=984)
 
 # Зеленый портал
 

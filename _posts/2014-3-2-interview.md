@@ -86,6 +86,7 @@ ____
 - [Сяргей Бесараб: Трансфер ядзернай зброі з Расеі ў Беларусь сапраўды завершаны](https://racyja.com/by/palityka/sjarhej-besarab-transfer-jadzernaj-zbroi-z-rasei-u-belarus-sapraudy-zaversany/)- [WEBARCHIVE](https://web.archive.org/web/20231230003553/https://racyja.com/by/palityka/sjarhej-besarab-transfer-jadzernaj-zbroi-z-rasei-u-belarus-sapraudy-zaversany/)
 - [Як беларусам адсвяткаваць Дзень ліку Пі ў Польшчы?](https://racyja.com/by/sumezza/jak-belarusam-adsvjatkavac-dzen-liku-pi-u-polscy)- [WEBARCHIVE](https://web.archive.org/web/20240315164437/https://racyja.com/by/sumezza/jak-belarusam-adsvjatkavac-dzen-liku-pi-u-polscy/)
 - [Сяргей Бесараб пра беларускую навуку ў выгнанні і на «ваенных рэйках» унутры Беларусі](https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/)- [WEBARCHIVE](https://web.archive.org/web/20240327220340/https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/)
+- [114 гадоў з дня нараджэння Барыса Кіта](https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)- [WEBARCHIVE](https://web.archive.org/web/20240406084805/https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)
 
   # Белсат
 

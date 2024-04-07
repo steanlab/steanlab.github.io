@@ -201,10 +201,6 @@ ____
 
 - [Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»](https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen)
 
-# Газета СБ. Беларусь сегодня
-
-- [Есть вопрос: что не мешало бы изобрести?](https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html)
-
 # Беларуский расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)
@@ -212,3 +208,12 @@ ____
 # Thinktanks
 
 - [ Основные техногенные угрозы для Беларуси — радиационные](https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html)
+
+# Газета СБ. Беларусь сегодня
+
+- [Есть вопрос: что не мешало бы изобрести?](https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html)
+
+# Беларусское телевидение (СТВ/БТ)
+
+- [Столичное телевидение. В Беларуси с помощью смартфона можно будет измерить давление и определить качество продуктов](https://web.archive.org/web/20201007084712/http://www.ctv.by/v-belarusi-s-pomoshchyu-smartfona-mozhno-budet-izmerit-davlenie-i-opredelit-kachestvo-produktov)
+- [В Парке высоких технологий прошел первый научный хакатон в Беларуси](https://www.tvr.by/videogallery/informatsionno-analiticheskie/panorama/panorama-01-06-2017/)

@@ -186,6 +186,10 @@ ____
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)
 
+#Благотворительный фонд "Страна для жизни
+
+-[Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»](https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
+
 # Газета Салідарнасць
 
 - [Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»](https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)- [WEBARCHIVE](https://web.archive.org/web/20230707141347/https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/)

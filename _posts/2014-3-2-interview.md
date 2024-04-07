@@ -188,7 +188,7 @@ ____
 
 # Благотворительный фонд "Страна для жизни
 
--[Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»](https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
+- [Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»](https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
 
 # Газета Салідарнасць
 

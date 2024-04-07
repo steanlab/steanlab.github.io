@@ -186,7 +186,7 @@ ____
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)
 
-#Благотворительный фонд "Страна для жизни
+# Благотворительный фонд "Страна для жизни
 
 -[Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»](https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
 

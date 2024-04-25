@@ -123,6 +123,7 @@ ____
 - [Были, есть и будут: какие радиоактивные элементы «подарил» нам Чернобыль?](https://greenbelarus.info/articles/19-04-2023/ne-stronciem-edinym-kakie-radioaktivnye-elementy-ostavil-nam-chernobyl)
 - [Атомные станции опасны, даже если никаких аварий на них не происходит](https://greenbelarus.info/articles/19-05-2023/atomnye-stancii-opasny-dazhe-esli-nikakikh-avariy-na-nikh-ne-proiskhodit)
 - [«Калі б за справу ўзялася ваенная контрвыведка, мяне б, хутчэй за ўсё, знайшлі. Таму я хутка з’ехаў з Беларусі»](https://greenbelarus.info/articles/23-02-2024/kali-b-za-spravu-uzyalasya-vaennaya-kontrvyvedka-myane-b-khutchey-za-usyo)
+- [Набыў у Менску радыяактыўныя пацеркі. Хімік расказвае, як засцерагчыся ад выпраменьвання дома](https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad)- [WEBARCHIVE](https://web.archive.org/web/20240425215954/https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad)
 
 # Обычное утро (ОУ)
 

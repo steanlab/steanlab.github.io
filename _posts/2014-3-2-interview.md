@@ -179,6 +179,8 @@ ____
 - [Гомель — зноў у лідарах па “экстрэмістах“](https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/) - [WEBARCHIVE](https://web.archive.org/web/20231129154120/https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/)
 - [Жлобін на Гомельшчыне лідзіруе па колькасці экстрэмістаў](https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/) - [WEBARCHIVE](https://web.archive.org/web/20240328122437/https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/)
 - [«Падарунак» дзясяткам пакаленняў: як Беларусь будзе захоўваць ядзерныя адходы са сваёй АЭС](https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/) - [WEBARCHIVE](https://web.archive.org/web/20240330222406/https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/)
+- [Плошча забруджвання Беларусі цэзіем-137 зменшылася амаль у два разы, сцвярджаюць улады. Але што значаць гэтыя лічбы?](https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/) - [WEBARCHIVE](https://web.archive.org/web/20240425193933/https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/)
+
 
 # ЕвроРадио
 

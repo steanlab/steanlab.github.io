@@ -168,6 +168,9 @@ ____
 - [«Гомель-30» — сакрэтная база для ядзернай зброі РФ? Ці ПК-24, дзе здзекуюцца з жанчын-палітвязняў?](https://novychas.online/hramadstva/homel-30-sakretnaja-baza-dlja-jadzernaj-zbroi)
 - [Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі](https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha)
 
+# Позірк
+- [Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі](https://pozirk.online/be/longreads/82141/)- [WEBARCHIVE](https://web.archive.org/web/20240426095409/https://pozirk.online/be/longreads/82141/)
+
 # CityDog
 
 - [«В беларуских аптеках такого йода нет». Специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации](https://citydog.io/post/kakoy-yod/)

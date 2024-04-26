@@ -111,6 +111,7 @@ ____
 -  [114 гадоў з дня народзінаў Барыса Кіта. Праграмма Аб'ектыў 06.04.2024](https://youtu.be/i8bYzv3nJEU?t=984) - [TXT](https://belsat.eu/in-focus/06-04-2024-114-gadou-z-dnya-narodzinau-barysa-kita)
 -  [Ці можна космас назваць нашым? Праграмма Аб'ектыў 12.04.2024](https://belsat.eu/in-focus/12-04-2024-tsi-mozhna-kosmas-nazvats-nashym)
 -  [«Яна праверыла, ці можна зрабіць ёгурт у космасе». Чаму космас не стаў «нашым» з-за палёту Васілеўскай](https://belsat.eu/news/12-04-2024-yana-praveryla-tsi-mozhna-zrabits-yogurt-u-kosmase-chamu-kosmas-ne-stau-nashym-z-za-palyotu-vasileuskaj) - [WEBARCHIVE](https://web.archive.org/web/20240416142752/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/12-04-2024-yana-praveryla-tsi-mozhna-zrabits-yogurt-u-kosmase-chamu-kosmas-ne-stau-nashym-z-za-palyotu-vasileuskaj)
+-  [Чарнобыльская катастрофа: 10 рэчаў, якія варта ведаць](https://belsat.eu/news/23-04-2024-charnobylskaya-katastrofa-10-rechau)- [WEBARCHIVE](https://web.archive.org/web/20240426054421/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/23-04-2024-charnobylskaya-katastrofa-10-rechau)
 
 # Зеленый портал
 

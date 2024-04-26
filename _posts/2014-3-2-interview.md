@@ -170,7 +170,12 @@ ____
 - [Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі](https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha)
 
 # Позірк
+
 - [Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі](https://pozirk.online/be/longreads/82141/)- [WEBARCHIVE](https://web.archive.org/web/20240426095409/https://pozirk.online/be/longreads/82141/)
+
+# Радыё Свабода
+
+-[Беларускія ўлады расказалі, як змагаюцца з наступствамі Чарнобыльскай аварыі. Эколягі ім запярэчылі](https://www.svaboda.org/a/32922242.html)
 
 # CityDog
 

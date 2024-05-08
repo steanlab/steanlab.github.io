@@ -205,6 +205,7 @@ ____
 - ["Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў](https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau) - [WEBARCHIVE](https://web.archive.org/web/20240301193936/https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau)
 - [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina) - [WEBARCHIVE](https://web.archive.org/web/20240309150056/https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
 - [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik) - [WEBARCHIVE](https://web.archive.org/web/20240312181850/https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
+- [Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай](https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

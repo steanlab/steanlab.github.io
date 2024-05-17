@@ -159,8 +159,6 @@ ____
 - [«Как тебе такое, Илон Маск? Заквасить йогурт за миллионы рублей?» Мнение ученого о визите Марины Василевской на МКС](https://news.zerkalo.io/life/66143.html)- [WEBARCHIVE](https://web.archive.org/web/20240417100748/https://news.zerkalo.io/life/66143.html)
 - [«Самые сильные за последние десятилетия». Ожидается магнитная буря — в Беларуси будут полярные сияния (если повезет с погодой)](https://news.zerkalo.io/life/67978.html)- [WEBARCHIVE](https://web.archive.org/web/20240510162525/https://news.zerkalo.io/life/67978.html)
 
-
-
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
@@ -209,6 +207,7 @@ ____
 - [Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў](https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina) - [WEBARCHIVE](https://web.archive.org/web/20240309150056/https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina)
 - [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik) - [WEBARCHIVE](https://web.archive.org/web/20240312181850/https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
 - [Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай](https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay)
+- [Не давярайце ўсяму, што пішуць. Хімік тлумачыць, як правільна выбраць SPF](https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)- [WEBARCHIVE](https://web.archive.org/web/20240517091518/https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

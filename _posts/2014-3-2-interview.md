@@ -223,6 +223,7 @@ ____
 - [Сергей Бесараб: «Если отбросить здравый смысл и посчитать, что Лукашенко выбирал Островец с точки зрения радиологической угрозы для Литвы — тогда все нормально»](https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406)- [WEBARCHIVE](https://web.archive.org/web/20231026074738/https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406)
 - [«Что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать»](https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/)- [WEBARCHIVE](https://web.archive.org/web/20240127153610/https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/)
 - [Вучоны-хімік: Знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля](https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/)- [WEBARCHIVE](https://web.archive.org/web/20240319152650/https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/)
+- [Бесараб: «Беларускім прадпрыемствам грошы вельмі патрэбныя, і ў цяперашніх варунках для іх «вайна — маці родная»](https://gazetaby.com/post/besarab-belaruskim-pradpryemstvam-groshy-velmi-patrebnyya-i-u-cyaperas/200599)- [WEBARCHIVE](https://web.archive.org/web/20240528074636/https://gazetaby.com/post/besarab-belaruskim-pradpryemstvam-groshy-velmi-patrebnyya-i-u-cyaperas/200599)
 
 # REFORM.BY
 

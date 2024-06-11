@@ -159,7 +159,9 @@ ____
 - [«Ученый заканчивается там же, где заканчивается и личное достоинство». Мнение о том, что не так с белорусской наукой](https://news.zerkalo.io/economics/62224.html)
 - [«Как тебе такое, Илон Маск? Заквасить йогурт за миллионы рублей?» Мнение ученого о визите Марины Василевской на МКС](https://news.zerkalo.io/life/66143.html)- [WEBARCHIVE](https://web.archive.org/web/20240417100748/https://news.zerkalo.io/life/66143.html)
 - [«Самые сильные за последние десятилетия». Ожидается магнитная буря — в Беларуси будут полярные сияния (если повезет с погодой)](https://news.zerkalo.io/life/67978.html)- [WEBARCHIVE](https://web.archive.org/web/20240510162525/https://news.zerkalo.io/life/67978.html)
-- [Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать](https://news.zerkalo.io/cellar/69173.html)-- [WEBARCHIVE](https://web.archive.org/web/20240528151452/https://news.zerkalo.io/cellar/69173.html)
+- [Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать](https://news.zerkalo.io/cellar/69173.html)- [WEBARCHIVE](https://web.archive.org/web/20240528151452/https://news.zerkalo.io/cellar/69173.html)
+- [Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды](https://news.zerkalo.io/life/70460.html)- [WEBARCHIVE](https://web.archive.org/web/20240611090640/https://news.zerkalo.io/life/70460.html)
+
 
 
 # DEV.BY

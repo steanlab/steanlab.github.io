@@ -130,6 +130,7 @@ ____
 - [Набыў у Менску радыяактыўныя пацеркі. Хімік расказвае, як засцерагчыся ад выпраменьвання дома](https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad)- [WEBARCHIVE](https://web.archive.org/web/20240425215954/https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad)
 - [Ці ёсць у мяне дома радыяцыя? Гутарка пра штодзённае апраменьванне](https://www.youtube.com/watch?v=nu_FeLxJtjc)
 - [«Радиация в паре с враньём, глупостью и закрытостью – совершенно несовместимые вещи»](https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye)- [WEBARCHIVE](https://web.archive.org/web/20240506222650/https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye)
+- [Розніца ў якасці велізарная. Хімік — пра склад расійскага і еўрапейскага Persil](https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil) - [WEBARCHIVE](https://web.archive.org/web/20240617220406/https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil)
 
 # Обычное утро (ОУ)
 

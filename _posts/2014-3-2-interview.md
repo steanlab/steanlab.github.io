@@ -216,6 +216,7 @@ ____
 - [Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік](https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik) - [WEBARCHIVE](https://web.archive.org/web/20240312181850/https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik)
 - [Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай](https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay)
 - [Не давярайце ўсяму, што пішуць. Хімік тлумачыць, як правільна выбраць SPF](https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)- [WEBARCHIVE](https://web.archive.org/web/20240517091518/https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)
+- [Сергей Бесараб: через Беларусь к звездам — отличная национальная идея!](https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya)- [WEBARCHIVE](https://web.archive.org/web/20240620084920/https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

@@ -164,8 +164,6 @@ ____
 - [Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать](https://news.zerkalo.io/cellar/69173.html)- [WEBARCHIVE](https://web.archive.org/web/20240528151452/https://news.zerkalo.io/cellar/69173.html)
 - [Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды](https://news.zerkalo.io/life/70460.html)- [WEBARCHIVE](https://web.archive.org/web/20240611090640/https://news.zerkalo.io/life/70460.html)
 
-
-
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
@@ -217,6 +215,7 @@ ____
 - [Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай](https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay)
 - [Не давярайце ўсяму, што пішуць. Хімік тлумачыць, як правільна выбраць SPF](https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)- [WEBARCHIVE](https://web.archive.org/web/20240517091518/https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf)
 - [Сергей Бесараб: через Беларусь к звездам — отличная национальная идея!](https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya)- [WEBARCHIVE](https://web.archive.org/web/20240620084920/https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya)
+- [Garnier vs Bielita: химик проанализировал состав наших (и ваших) кремов для лица](https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica)- [WEBARCHIVE](https://web.archive.org/web/20240625083038/https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

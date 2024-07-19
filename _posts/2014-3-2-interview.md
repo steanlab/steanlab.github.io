@@ -165,6 +165,7 @@ ____
 - [«Самые сильные за последние десятилетия». Ожидается магнитная буря — в Беларуси будут полярные сияния (если повезет с погодой)](https://news.zerkalo.io/life/67978.html)- [WEBARCHIVE](https://web.archive.org/web/20240510162525/https://news.zerkalo.io/life/67978.html)
 - [Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать](https://news.zerkalo.io/cellar/69173.html)- [WEBARCHIVE](https://web.archive.org/web/20240528151452/https://news.zerkalo.io/cellar/69173.html)
 - [Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды](https://news.zerkalo.io/life/70460.html)- [WEBARCHIVE](https://web.archive.org/web/20240611090640/https://news.zerkalo.io/life/70460.html)
+- [С чем связаны природные аномалии, которые одна за одной обрушиваются на Беларусь? Ученый объяснил и рассказал, чего ждать дальше](https://news.zerkalo.io/life/73695.html) - [WEBARCHIVE](https://web.archive.org/web/20240719152359/https://news.zerkalo.io/life/73695.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

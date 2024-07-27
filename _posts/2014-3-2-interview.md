@@ -63,7 +63,8 @@ ____
 - ["Каб я ведаў, што гэта дзяржтаямніца, то можа і не пісаў бы так хвацка". Хімік Сяргей Бесараб расказаў, як сумяшчае навуку і грамадзянскую пазіцыю](https://web.archive.org/web/20240223162359/https://d1a9nnmcvk9pjz.cloudfront.net/337123)([RU](https://nashaniva.com/ru/337123)) - [WEBARCHIVE](https://web.archive.org/web/20240223162210/https://nashaniva.com/337123)
 - [Навуковец раіць саджаць на лецішчы лаванду і разводзіць паўлінаў. Навошта?](https://web.archive.org/web/20240309205034/https://nashaniva.com/338129)([RU](https://web.archive.org/web/20240309211022/https://nashaniva.com/ru/338129))
 - [«Падарунак» дзясяткам пакаленняў. Як Беларусь будзе захоўваць ядзерныя адкіды са сваёй АЭС і ў чым адзіны яе шанец](https://nashaniva.com/339603)([RU](https://nashaniva.com/ru/339603))- [WEBARCHIVE](https://web.archive.org/web/20240331165443/https://nashaniva.com/339603)
-- [«Хлопцаў затрымалі за дзіцячыя петарды». Навуковец пракаментаваў арышт юнакоў за выбухоўку](https://nashaniva.com/344689) - - [WEBARCHIVE](https://web.archive.org/web/20240611102912/https://nashaniva.com/344689)
+- [«Хлопцаў затрымалі за дзіцячыя петарды». Навуковец пракаментаваў арышт юнакоў за выбухоўку](https://nashaniva.com/344689) - [WEBARCHIVE](https://web.archive.org/web/20240611102912/https://nashaniva.com/344689)
+- [Ці можна карыстацца тэлефонам у навальніцу? Расказвае навуковец](https://nashaniva.com/347971) - [WEBARCHIVE](https://web.archive.org/web/20240727143531/https://nashaniva.com/347971)
 
 # Беларускае радыё Рацыя
 

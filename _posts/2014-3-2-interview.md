@@ -170,6 +170,8 @@ ____
 - [Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды](https://news.zerkalo.io/life/70460.html)- [WEBARCHIVE](https://web.archive.org/web/20240611090640/https://news.zerkalo.io/life/70460.html)
 - [С чем связаны природные аномалии, которые одна за одной обрушиваются на Беларусь? Ученый объяснил и рассказал, чего ждать дальше](https://news.zerkalo.io/life/73695.html) - [WEBARCHIVE](https://web.archive.org/web/20240719152359/https://news.zerkalo.io/life/73695.html)
 - [«В некоторых случаях необходима обязательная проверка психического состояния». Мнение ученого о том, что не так в Академии наук](https://news.zerkalo.io/economics/75716.html) - [WEBARCHIVE](https://web.archive.org/web/20240813144201/https://news.zerkalo.io/economics/75716.html)
+- [Беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. И вот почему](https://news.zerkalo.io/life/76056.html) - [WEBARCHIVE](https://web.archive.org/web/20240817140707/https://news.zerkalo.io/life/76056.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

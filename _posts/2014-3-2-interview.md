@@ -259,6 +259,10 @@ ____
 
 - [ Основные техногенные угрозы для Беларуси — радиационные](https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html)
 
+# Наша візія
+
+- [Будучыня беларускай навукі. Ракеты для расейскай арміі – ці грамадзянская навука і прыватныя лабараторыі для эксперыментаў моладзі](https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2)- [WEBARCHIVE](https://web.archive.org/web/20240819103105/https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2)
+
 # Газета СБ. Беларусь сегодня
 
 - [Есть вопрос: что не мешало бы изобрести?](https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html)

@@ -65,6 +65,7 @@ ____
 - [«Падарунак» дзясяткам пакаленняў. Як Беларусь будзе захоўваць ядзерныя адкіды са сваёй АЭС і ў чым адзіны яе шанец](https://nashaniva.com/339603)([RU](https://nashaniva.com/ru/339603))- [WEBARCHIVE](https://web.archive.org/web/20240331165443/https://nashaniva.com/339603)
 - [«Хлопцаў затрымалі за дзіцячыя петарды». Навуковец пракаментаваў арышт юнакоў за выбухоўку](https://nashaniva.com/344689) - [WEBARCHIVE](https://web.archive.org/web/20240611102912/https://nashaniva.com/344689)
 - [Ці можна карыстацца тэлефонам у навальніцу? Расказвае навуковец](https://nashaniva.com/347971) - [WEBARCHIVE](https://web.archive.org/web/20240727143531/https://nashaniva.com/347971)
+- [У Акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт](https://nashaniva.com/350586) - [WEBARCHIVE](https://web.archive.org/web/20240903140416/https://nashaniva.com/350586)
 
 # Беларускае радыё Рацыя
 

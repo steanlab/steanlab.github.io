@@ -256,6 +256,10 @@ ____
 
 - [Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»](https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen)
 
+# Petitions.by
+
+- [https://e-petitions.by/articles/4993](https://web.archive.org/web/20240908173716/https://telegra.ph/ZHalkoe-zrelishche-Belarusy-prosyat-ne-otklyuchat-internet-uchenym-v-Akademii-Nauk-09-08)
+
 # Беларусcкий расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)

@@ -175,6 +175,8 @@ ____
 - [Беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. И вот почему](https://news.zerkalo.io/life/76056.html) - [WEBARCHIVE](https://web.archive.org/web/20240817140707/https://news.zerkalo.io/life/76056.html)
 - [В Академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз](https://news.zerkalo.io/life/77452.html) - [WEBARCHIVE](https://web.archive.org/web/20240903155859/https://news.zerkalo.io/life/77452.html)
 - [Дым над Беларусью: есть ли опасность и как защититься от вреда](https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20240909165912/https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda) - [BE](https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody) - [WEBARCHIVE](https://web.archive.org/web/20240909170031/https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody)
+- [«Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это](https://news.zerkalo.io/cellar/77981.html)- [WEBARCHIVE](https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

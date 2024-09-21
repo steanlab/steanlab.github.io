@@ -138,7 +138,7 @@ ____
 - [Ці ёсць у мяне дома радыяцыя? Гутарка пра штодзённае апраменьванне](https://www.youtube.com/watch?v=nu_FeLxJtjc)
 - [«Радиация в паре с враньём, глупостью и закрытостью – совершенно несовместимые вещи»](https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye)- [WEBARCHIVE](https://web.archive.org/web/20240506222650/https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye)
 - [Розніца ў якасці велізарная. Хімік — пра склад расійскага і еўрапейскага Persil](https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil) - [WEBARCHIVE](https://web.archive.org/web/20240617220406/https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil)
-- [Взрывы в Торопце. Долетят ли выбросы до Беларуси?](https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi)- [WEBARCHIVE]
+- [Взрывы в Торопце. Долетят ли выбросы до Беларуси?](https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi)- [WEBARCHIVE](https://web.archive.org/web/20240921075107/https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi)
 
 # Обычное утро (ОУ)
 

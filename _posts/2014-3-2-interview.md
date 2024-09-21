@@ -176,6 +176,8 @@ ____
 - [Беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. И вот почему](https://news.zerkalo.io/life/76056.html) - [WEBARCHIVE](https://web.archive.org/web/20240817140707/https://news.zerkalo.io/life/76056.html)
 - [В Академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз](https://news.zerkalo.io/life/77452.html) - [WEBARCHIVE](https://web.archive.org/web/20240903155859/https://news.zerkalo.io/life/77452.html)
 - [«Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это](https://news.zerkalo.io/cellar/77981.html)- [WEBARCHIVE](https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html)
+- [«Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)](https://news.zerkalo.io/life/78923.html) - [WEBARCHIVE]
+
 
 
 # DEV.BY

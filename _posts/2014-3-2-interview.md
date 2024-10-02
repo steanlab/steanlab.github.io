@@ -179,8 +179,6 @@ ____
 - [«Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это](https://news.zerkalo.io/cellar/77981.html)- [WEBARCHIVE](https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html)
 - [«Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)](https://news.zerkalo.io/life/78923.html) - [WEBARCHIVE](https://web.archive.org/web/20240921171328/https://news.zerkalo.io/life/78923.html)
 
-
-
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
@@ -239,6 +237,7 @@ ____
 - [Як праверыць кавун на нітраты ў хатніх умовах і ці шкодзяць яны арганізму](https://euroradio.fm/yak-praveryc-kavun-na-nitraty-u-khatnikh-umovakh-i-ci-shkodzyac-yany-arganizmu)- [WEBARCHIVE](https://web.archive.org/web/20240827111638/https://euroradio.fm/yak-praveryc-kavun-na-nitraty-u-khatnikh-umovakh-i-ci-shkodzyac-yany-arganizmu). [RU](https://euroradio.fm/ru/kak-proverit-arbuz-na-nitraty-v-domashnikh-usloviyakh-i-vredyat-li-oni-organizmu)- [WEBARCHIVE](https://web.archive.org/web/20240827112807/https://euroradio.fm/ru/kak-proverit-arbuz-na-nitraty-v-domashnikh-usloviyakh-i-vredyat-li-oni-organizmu)
 - [Белорусских академиков, живущих за рубежом, хотят лишать званий](https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy)- [WEBARCHIVE](https://web.archive.org/web/20240903192639/https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy)
 - [Дым над Беларусью: есть ли опасность и как защититься от вреда](https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20240909165912/https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda) - [BE](https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody) - [WEBARCHIVE](https://web.archive.org/web/20240909170031/https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody)
+- [Пыль над Беларусью: есть ли опасность и как уберечься от вреда?](https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20241002115915/https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

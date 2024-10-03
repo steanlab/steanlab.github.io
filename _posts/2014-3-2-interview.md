@@ -178,6 +178,8 @@ ____
 - [В Академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз](https://news.zerkalo.io/life/77452.html) - [WEBARCHIVE](https://web.archive.org/web/20240903155859/https://news.zerkalo.io/life/77452.html)
 - [«Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это](https://news.zerkalo.io/cellar/77981.html)- [WEBARCHIVE](https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html)
 - [«Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)](https://news.zerkalo.io/life/78923.html) - [WEBARCHIVE](https://web.archive.org/web/20240921171328/https://news.zerkalo.io/life/78923.html)
+- [«Для любителей заговоров и чертовщины». В Кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. В чем дело](https://news.zerkalo.io/cellar/79813.html)- [WEBARCHIVE](https://web.archive.org/web/20241003081912/https://news.zerkalo.io/cellar/79813.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

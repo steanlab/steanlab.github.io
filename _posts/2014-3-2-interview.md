@@ -92,6 +92,7 @@ ____
 - [Сяргей Бесараб пра беларускую навуку ў выгнанні і на «ваенных рэйках» унутры Беларусі](https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/)- [WEBARCHIVE](https://web.archive.org/web/20240327220340/https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/)
 - [114 гадоў з дня нараджэння Барыса Кіта](https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)- [WEBARCHIVE](https://web.archive.org/web/20240406084805/https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)
 - [Ці небяспечны для Падляшша пажары на Альманскіх балотах і ў Чарнобыльскай зоне?](https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/) - [WEBARCHIVE](https://web.archive.org/web/20240910104343/https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/)
+- [Ці могуць лясы Падляшша пераўтварыцца ў крыніцы вуглякіслага газу?](https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)- [WEBARCHIVE](https://web.archive.org/web/20241009150656/https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)
 
   # Белсат
 

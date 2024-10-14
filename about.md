@@ -20,7 +20,7 @@ ENG: Siarhei Besarab {@stean _or_ @steanlab} — BEL: **Сяргей Бесар�
 - **FoodTech**:  novel and alternative food sources, food safety
 - **Medical electronics**: wearable devices, medical sensors, Point-of-Care
 
-Working E-MAIL: siarhei.besarab@gmail.com
+Working E-mail: siarhei.besarab@gmail.com
 
 **Citizen Science Public activities**
 

@@ -187,6 +187,7 @@ ____
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
 - [Где в Беларуси живут «экстремисты»? Анализ списка МВД из 1700+ человек](https://devby.io/news/gde-v-belarusi-zhivut-ekstremisty)
 - [Научный хакатон в Минске: домашний наркотест, синтез генов и алгоритм для перебора картофеля](https://devby.io/news/pervyy-v-strane-nauchnyy-hakaton-vyigral-spektrometr-dlya-provedeniya-testa-na-narkotiki)
+- [Почему Нобелевская премия отстаёт от реального научного прогресса? Объясняет учёный-химик](https://devby.io/blogs/posts/nobel-prize)- [WEBARCHIVE](https://archive.is/wip/zDq70)
 
 # Новы Час Online
 

@@ -182,6 +182,8 @@ ____
 - [«Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)](https://news.zerkalo.io/life/78923.html) - [WEBARCHIVE](https://web.archive.org/web/20240921171328/https://news.zerkalo.io/life/78923.html)
 - [«Для любителей заговоров и чертовщины». В Кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. В чем дело](https://news.zerkalo.io/cellar/79813.html)- [WEBARCHIVE](https://web.archive.org/web/20241003081912/https://news.zerkalo.io/cellar/79813.html)
 - [«Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени](https://news.zerkalo.io/life/83323.html) - [ARCHIVE.IS](https://archive.is/wip/Tlkc6)
+- [Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем](https://news.zerkalo.io/life/83643.html)- [ARCHIVE.IS](https://archive.is/wip/hkQYX)
+
 
 
 

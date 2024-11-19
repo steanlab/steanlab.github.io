@@ -93,7 +93,7 @@ ____
 - [114 гадоў з дня нараджэння Барыса Кіта](https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)- [WEBARCHIVE](https://web.archive.org/web/20240406084805/https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/)
 - [Ці небяспечны для Падляшша пажары на Альманскіх балотах і ў Чарнобыльскай зоне?](https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/) - [WEBARCHIVE](https://web.archive.org/web/20240910104343/https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/)
 - [Ці могуць лясы Падляшша пераўтварыцца ў крыніцы вуглякіслага газу?](https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)- [WEBARCHIVE](https://web.archive.org/web/20241009150656/https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)
-- [Ці ў змозе чалавецтва спыніць змены клімату?](https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu) - [ARCHIVE.IS](https://archive.is/wip/TzIoW)
+- [Ці ў змозе чалавецтва спыніць змены клімату?](https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu) - [WEBARCHIVE](https://web.archive.org/web/20241115004127/https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu)
 
   # Белсат
 
@@ -181,11 +181,9 @@ ____
 - [«Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это](https://news.zerkalo.io/cellar/77981.html)- [WEBARCHIVE](https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html)
 - [«Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)](https://news.zerkalo.io/life/78923.html) - [WEBARCHIVE](https://web.archive.org/web/20240921171328/https://news.zerkalo.io/life/78923.html)
 - [«Для любителей заговоров и чертовщины». В Кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. В чем дело](https://news.zerkalo.io/cellar/79813.html)- [WEBARCHIVE](https://web.archive.org/web/20241003081912/https://news.zerkalo.io/cellar/79813.html)
-- [«Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени](https://news.zerkalo.io/life/83323.html) - [ARCHIVE.IS](https://archive.is/wip/Tlkc6)
-- [Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем](https://news.zerkalo.io/life/83643.html)- [ARCHIVE.IS](https://archive.is/wip/hkQYX)
-
-
-
+- [«Производитель нарушил нормы либо нужно закрыть неприятное дело». Химик разобрал официальную версию смерти четырех детей после ужина в РФ](https://news.zerkalo.io/life/79170.html)- [WEBARCHIVE](https://web.archive.org/web/20240930204023/https://news.zerkalo.io/life/79170.html)
+- [«Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени](https://news.zerkalo.io/life/83323.html) - [WEBARCHIVE](https://web.archive.org/web/20241114184102/https://news.zerkalo.io/life/83323.html))
+- [Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем](https://news.zerkalo.io/life/83643.html)- [WEBARCHIVE](https://web.archive.org/web/20241118171222/https://news.zerkalo.io/life/83643.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

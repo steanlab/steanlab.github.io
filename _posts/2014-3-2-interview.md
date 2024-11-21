@@ -184,6 +184,8 @@ ____
 - [«Производитель нарушил нормы либо нужно закрыть неприятное дело». Химик разобрал официальную версию смерти четырех детей после ужина в РФ](https://news.zerkalo.io/life/79170.html)- [WEBARCHIVE](https://web.archive.org/web/20240930204023/https://news.zerkalo.io/life/79170.html)
 - [«Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени](https://news.zerkalo.io/life/83323.html) - [WEBARCHIVE](https://web.archive.org/web/20241114184102/https://news.zerkalo.io/life/83323.html))
 - [Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем](https://news.zerkalo.io/life/83643.html)- [WEBARCHIVE](https://web.archive.org/web/20241118171222/https://news.zerkalo.io/life/83643.html)
+- [Каждый раз, когда завариваете чай, сверху появляется неприятная маслянистая пленка? Спросили у ученого, откуда она берется и вредна ли](https://news.zerkalo.io/cellar/83756.html) - [WEBARCHIVE](https://web.archive.org/web/20241121104315/https://news.zerkalo.io/cellar/83756.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

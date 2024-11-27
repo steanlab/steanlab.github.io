@@ -240,7 +240,7 @@ ____
 
 ## Тематические статьи: Продовольственная безопасность
 
-- (+190) [Пленка на чае. Блеск и нищета](https://habr.com/ru/articles/859722)
+- (+300) [Пленка на чае. Блеск и нищета](https://habr.com/ru/articles/859722)
 - P [ПРОБИОТИКИ против МИКОТОКСИНОВ](https://www.patreon.com/posts/probiotiki-55182251)
 - P [Intro про механизмы порчи (продуктов). Адсорберы кислорода](https://www.patreon.com/posts/intro-pro-porchi-58707295)
 - P [Заменители кофе](https://www.patreon.com/posts/zameniteli-kofe-55297643)

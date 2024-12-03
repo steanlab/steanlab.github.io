@@ -94,6 +94,7 @@ ____
 - [Ці небяспечны для Падляшша пажары на Альманскіх балотах і ў Чарнобыльскай зоне?](https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/) - [WEBARCHIVE](https://web.archive.org/web/20240910104343/https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/)
 - [Ці могуць лясы Падляшша пераўтварыцца ў крыніцы вуглякіслага газу?](https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)- [WEBARCHIVE](https://web.archive.org/web/20241009150656/https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/)
 - [Ці ў змозе чалавецтва спыніць змены клімату?](https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu) - [WEBARCHIVE](https://web.archive.org/web/20241115004127/https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu)
+- [Сяргей Бесараб пра спыненне супрацы CERN з Расеяй і Беларуссю](https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju)- [WEBARCHIVE](https://web.archive.org/web/20241203125845/https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju/)
 
   # Белсат
 

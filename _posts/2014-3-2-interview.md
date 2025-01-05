@@ -251,6 +251,7 @@ ____
 - [Белорусских академиков, живущих за рубежом, хотят лишать званий](https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy)- [WEBARCHIVE](https://web.archive.org/web/20240903192639/https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy)
 - [Дым над Беларусью: есть ли опасность и как защититься от вреда](https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20240909165912/https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda) - [BE](https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody) - [WEBARCHIVE](https://web.archive.org/web/20240909170031/https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody)
 - [Пыль над Беларусью: есть ли опасность и как уберечься от вреда?](https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20241002115915/https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)
+- [Опять белые разводы на ботинках. Что делать? Разбираем с учёным-химиком](https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom)-[ARCHIVE.IS](https://archive.is/BUiQG)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

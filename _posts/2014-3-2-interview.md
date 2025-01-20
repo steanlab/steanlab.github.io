@@ -96,6 +96,7 @@ ____
 - [Ці ў змозе чалавецтва спыніць змены клімату?](https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu) - [WEBARCHIVE](https://web.archive.org/web/20241115004127/https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu)
 - [Сяргей Бесараб пра спыненне супрацы CERN з Расеяй і Беларуссю](https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju)- [WEBARCHIVE](https://web.archive.org/web/20241203125845/https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju/)
 - [Сяргей Бесараб пра спыненне працы БелАЭС](https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)- [WEBARCHIVE](https://web.archive.org/web/20241223124631/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)
+- [Ці паўплывае на «псеўдавыбары» прастой БелАЭС?](https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes) - [WEBARCHIVE]
 
   # Белсат
 

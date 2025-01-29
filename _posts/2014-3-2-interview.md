@@ -67,6 +67,7 @@ ____
 - [Ці можна карыстацца тэлефонам у навальніцу? Расказвае навуковец](https://nashaniva.com/347971) - [WEBARCHIVE](https://web.archive.org/web/20240727143531/https://nashaniva.com/347971)
 - [У Акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт](https://nashaniva.com/350586) - [WEBARCHIVE](https://web.archive.org/web/20240903140416/https://nashaniva.com/350586)
 - [Ці магчыма атруціцца пасля апрацоўкі дыхлафосам? Тлумачыць хімік](https://nashaniva.com/351993)- [WEBARCHIVE](https://web.archive.org/web/20240925081822/https://nashaniva.com/351993)
+- [Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію](https://nashaniva.com/360401)- [WEBARCHIVE](https://web.archive.org/web/20250129091524/https://nashaniva.com/360401)
 
 # Беларускае радыё Рацыя
 

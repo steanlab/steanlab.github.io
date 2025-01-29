@@ -194,7 +194,7 @@ ____
 - [Задумывались, почему хурма вяжет? Оказывается, химия все объясняет](https://news.zerkalo.io/life/84754.html) - [WEBARCHIVE](https://web.archive.org/web/20241130184032/https://news.zerkalo.io/life/84754.html)
 - [Какие «прорывные технологии» помогут Лукашенко? Ученый считает, что можно попробовать «запрещенку» и sextech — вот его мнение](https://news.zerkalo.io/life/85166.html) - [WEBARCHIVE](https://web.archive.org/web/20241204201846/https://news.zerkalo.io/life/85166.html)
 - [«Так он показывает человеку: я опасен». Рассказываем, как обычный картофель может убить человека](https://news.zerkalo.io/life/88719.html)-[WEBARCHIVE](https://web.archive.org/web/20250118163346/https://news.zerkalo.io/life/88719.html)
-
+- [Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит](https://news.zerkalo.io/cellar/89634.html)-[WEBARCHIVE](https://web.archive.org/save/https://news.zerkalo.io/cellar/89634.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

@@ -195,6 +195,7 @@ ____
 - [Какие «прорывные технологии» помогут Лукашенко? Ученый считает, что можно попробовать «запрещенку» и sextech — вот его мнение](https://news.zerkalo.io/life/85166.html) - [WEBARCHIVE](https://web.archive.org/web/20241204201846/https://news.zerkalo.io/life/85166.html)
 - [«Так он показывает человеку: я опасен». Рассказываем, как обычный картофель может убить человека](https://news.zerkalo.io/life/88719.html)-[WEBARCHIVE](https://web.archive.org/web/20250118163346/https://news.zerkalo.io/life/88719.html)
 - [Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит](https://news.zerkalo.io/cellar/89634.html)-[WEBARCHIVE](https://web.archive.org/save/https://news.zerkalo.io/cellar/89634.html)
+- [«Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки](https://news.zerkalo.io/life/90056.html)-[WEBARCHIVE](https://web.archive.org/web/20250201095635/https://news.zerkalo.io/life/90056.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

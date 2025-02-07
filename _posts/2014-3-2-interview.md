@@ -98,6 +98,7 @@ ____
 - [Сяргей Бесараб пра спыненне супрацы CERN з Расеяй і Беларуссю](https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju)- [WEBARCHIVE](https://web.archive.org/web/20241203125845/https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju/)
 - [Сяргей Бесараб пра спыненне працы БелАЭС](https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)- [WEBARCHIVE](https://web.archive.org/web/20241223124631/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)
 - [Ці паўплывае на «псеўдавыбары» прастой БелАЭС?](https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes) - [ARCHIVE.is](https://archive.is/wip/Ajy9H)
+- [У Беларусі вучоных лёгка ператвараюць у палітзняволеных](https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/)-[ARCHIVE.IS](https://archive.is/wip/tHhcx)
 
   # Белсат
 

@@ -132,6 +132,7 @@ ____
 - [Чым і наколькі шкодныя вэйпы, якія сабраліся забараніць у Беларусі](https://belsat.eu/news/23-07-2024-chym-shkodnyya-vejpy)-[WEBARCHIVE](https://web.archive.org/web/20240728074004/https://telegra.ph/CHym-%D1%96-nakolk%D1%96-shkodnyya-vehjpy-yak%D1%96ya-sabral%D1%96sya-zabaran%D1%96c-u-Belarus%D1%96-07-28)
 - [Чаго чакаць ад 2025 года? Спыталі экспертаў. Частка 2: пра эканоміку, міжнародную палітыку і штучны інтэлект](https://belsat.eu/84355651/pragnozy-2025-2)-[WEBARCHIVE](https://web.archive.org/web/20250104110410/https://belsat.eu/84355651/pragnozy-2025-2)
 - [Забруджаныя чарнобыльскай катастрофай землі вяртаюць у абарот. Гэта небяспечна і наўрад ці патрэбна](https://belsat.eu/84426984/czarnobyl-viartajuc) - [WEBARCHIVE](https://web.archive.org/web/20250109123405/https://belsat.eu/84426984/czarnobyl-viartajuc) - [ARCHIVE.IS](https://archive.is/EvEF5)
+- [«Грантасмокі» Лукашэнкі. На якія праекты ўлады раздалі грошы беларусаў](https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau)-[WEBARCHIVE](https://web.archive.org/web/20250211172844/https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau) - [ARCHIVE.IS](https://archive.is/wip/7GkRi)
 
 # Зеленый портал
 

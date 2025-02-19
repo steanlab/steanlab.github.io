@@ -269,7 +269,7 @@ ____
 # Белые Халаты (belhalat.news)
 - [Академия наук назвала четыре значимых медицинских разработки, а мы посмотрели, в чем суть этих достижений](https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie) - [WEBARCHIVE](https://web.archive.org/web/20250117165656/https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie)
 - [Все про оземпик](https://www.belhalat.news/articles/vse-pro-ozempik) - [WEBARCHIVE](https://web.archive.org/web/20250207181853/https://www.belhalat.news/articles/vse-pro-ozempik) - [ARCHIVE.IS](https://archive.is/CkkWl)
-- [Лекарства от простуды и гриппа в Европе «штырят». Почему?](https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut) - [WEBARCHIVE]
+- [Лекарства от простуды и гриппа в Европе «штырят». Почему?](https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut) - [WEBARCHIVE](https://web.archive.org/web/20250219154532/https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut)
 
 # Благотворительный фонд "Страна для жизни
 

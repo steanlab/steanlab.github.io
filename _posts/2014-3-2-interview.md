@@ -133,6 +133,7 @@ ____
 - [Чаго чакаць ад 2025 года? Спыталі экспертаў. Частка 2: пра эканоміку, міжнародную палітыку і штучны інтэлект](https://belsat.eu/84355651/pragnozy-2025-2)-[WEBARCHIVE](https://web.archive.org/web/20250104110410/https://belsat.eu/84355651/pragnozy-2025-2)
 - [Забруджаныя чарнобыльскай катастрофай землі вяртаюць у абарот. Гэта небяспечна і наўрад ці патрэбна](https://belsat.eu/84426984/czarnobyl-viartajuc) - [WEBARCHIVE](https://web.archive.org/web/20250109123405/https://belsat.eu/84426984/czarnobyl-viartajuc) - [ARCHIVE.IS](https://archive.is/EvEF5)
 - [«Грантасмокі» Лукашэнкі. На якія праекты ўлады раздалі грошы беларусаў](https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau)-[WEBARCHIVE](https://web.archive.org/web/20250211172844/https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau) - [ARCHIVE.IS](https://archive.is/wip/7GkRi)
+- [ВОТ-ТАК-ТВ.Украина заявила об ударе российского дрона по саркофагу Чернобыльской АЭС. Чем это грозит](https://vot-tak.tv/85053412/chaes-udar)-[WEBARCHIVE](https://web.archive.org/web/20250219114058/https://vot-tak.tv/85053412/chaes-udar)
 
 # Зеленый портал
 

@@ -224,6 +224,7 @@ ____
 - [«Хлопцаў затрымалі за дзіцячыя пэтарды». Навуковец пракамэнтаваў арышт юнакоў за выбухоўку](https://www.svaboda.org/a/32987593.html)-[WEBARCHIVE](https://web.archive.org/web/20240611073236/https://www.svaboda.org/a/32987593.html)
 - [У Беларусі хочуць забараніць вэйпы. Экспэрты падазраюць, што гэта ў інтарэсах вытворцаў цыгарэт](https://www.svaboda.org/a/33039864.html)-[WEBARCHIVE](https://web.archive.org/web/20240718094401/https://www.svaboda.org/a/33039864.html)
 - [Анкалёгія, алергія, іншыя хваробы. Чым пагражаюць беларусам пажары на Палесьсі і ва Ўкраіне](https://www.svaboda.org/a/33114820.html)-[WEBARCHIVE](https://web.archive.org/web/20240911083018/https://www.svaboda.org/a/33114820.html)
+- [«Усё навідавоку — бяры і перапрацоўвай». Навуковец Сяргей Бесараб — пра рэдказямельныя мэталы ў Беларусі і сьвеце](https://www.svaboda.org/a/33330429.html) - [WEBARCHIVE](https://web.archive.org/web/20250227163304/https://www.svaboda.org/a/33330429.html)
 
 # CityDog
 

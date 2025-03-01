@@ -217,6 +217,10 @@ ____
 
 - [Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі](https://pozirk.online/be/longreads/82141/)- [WEBARCHIVE](https://web.archive.org/web/20240426095409/https://pozirk.online/be/longreads/82141/)
 
+# Новая Газета Европа
+
+- [Травы, масла и йодовая сеточка. По статистике, почти половина россиян хотя бы иногда прибегает к нетрадиционной медицине. Объясняем, что с ней не так](https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka) - [WEBARCHIVE](https://web.archive.org/web/20250301095116/https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka)
+
 # Радыё Свабода
 
 - [Беларускія ўлады расказалі, як змагаюцца з наступствамі Чарнобыльскай аварыі. Эколягі ім запярэчылі](https://www.svaboda.org/a/32922242.html)- [WEBARCHIVE](https://web.archive.org/web/20240426164036/https://www.svaboda.org/a/32922242.html)

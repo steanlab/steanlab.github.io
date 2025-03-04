@@ -268,6 +268,7 @@ ____
 - [Пыль над Беларусью: есть ли опасность и как уберечься от вреда?](https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)- [WEBARCHIVE](https://web.archive.org/web/20241002115915/https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda)
 - [Опять белые разводы на ботинках. Что делать? Разбираем с учёным-химиком](https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom)-[ARCHIVE.IS](https://archive.is/BUiQG)
 - [“Паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта](https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta)-[ARCHIVE.IS](https://archive.is/nqBbe)
+- [Ці варта шукаць у Беларусі рэдказямельныя металы? Адказвае навуковец](https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec) - [ARCHIVE.IS](https://archive.is/wip/oBBgx)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

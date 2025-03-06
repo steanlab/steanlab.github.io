@@ -68,6 +68,7 @@ ____
 - [У Акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт](https://nashaniva.com/350586) - [WEBARCHIVE](https://web.archive.org/web/20240903140416/https://nashaniva.com/350586)
 - [Ці магчыма атруціцца пасля апрацоўкі дыхлафосам? Тлумачыць хімік](https://nashaniva.com/351993)- [WEBARCHIVE](https://web.archive.org/web/20240925081822/https://nashaniva.com/351993)
 - [Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію](https://nashaniva.com/360401)- [WEBARCHIVE](https://web.archive.org/web/20250129091524/https://nashaniva.com/360401)
+- [Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне](https://nashaniva.com/362665) - [WEBARCHIVE](https://web.archive.org/web/20250306184354/https://nashaniva.com/362665)
 
 # Беларускае радыё Рацыя
 
@@ -199,6 +200,8 @@ ____
 - [«Так он показывает человеку: я опасен». Рассказываем, как обычный картофель может убить человека](https://news.zerkalo.io/life/88719.html)-[WEBARCHIVE](https://web.archive.org/web/20250118163346/https://news.zerkalo.io/life/88719.html)
 - [Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит](https://news.zerkalo.io/cellar/89634.html)-[WEBARCHIVE](https://web.archive.org/save/https://news.zerkalo.io/cellar/89634.html)
 - [«Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки](https://news.zerkalo.io/life/90056.html)-[WEBARCHIVE](https://web.archive.org/web/20250201095635/https://news.zerkalo.io/life/90056.html)
+- [«Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси](https://news.zerkalo.io/economics/93150.html) - [WEBARCHIVE](https://web.archive.org/web/20250306171009/https://news.zerkalo.io/economics/93150.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

@@ -280,6 +280,7 @@ ____
 - [Академия наук назвала четыре значимых медицинских разработки, а мы посмотрели, в чем суть этих достижений](https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie) - [WEBARCHIVE](https://web.archive.org/web/20250117165656/https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie)
 - [Все про оземпик](https://www.belhalat.news/articles/vse-pro-ozempik) - [WEBARCHIVE](https://web.archive.org/web/20250207181853/https://www.belhalat.news/articles/vse-pro-ozempik) - [ARCHIVE.IS](https://archive.is/CkkWl)
 - [Лекарства от простуды и гриппа в Европе «штырят». Почему?](https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut) - [WEBARCHIVE](https://web.archive.org/web/20250219154532/https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut)
+- [Все про кофеин](https://www.belhalat.news/articles/vse-pro-kofein)-[WEBARCHIVE](https://web.archive.org/web/20250313094243/https://www.belhalat.news/articles/vse-pro-kofein)
 
 # Благотворительный фонд "Страна для жизни
 

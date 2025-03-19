@@ -272,6 +272,7 @@ ____
 - [Опять белые разводы на ботинках. Что делать? Разбираем с учёным-химиком](https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom)-[ARCHIVE.IS](https://archive.is/BUiQG)
 - [“Паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта](https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta)-[ARCHIVE.IS](https://archive.is/nqBbe)
 - [Ці варта шукаць у Беларусі рэдказямельныя металы? Адказвае навуковец](https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec) - [ARCHIVE.IS](https://archive.is/wip/oBBgx)
+- [Вейпы небяспечнейшыя за звычайныя цыгарэты? Адказваюць нарколаг і навуковец](https://euroradio.fm/veypy-nebyaspechneyshyya-za-zvychaynyya-cygarety-adkazvayuc-doktar-narkolag-i-navukov) - [ARCHIVE.IS](https://archive.is/wip/kBiE7)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

@@ -283,10 +283,14 @@ ____
 - [Лекарства от простуды и гриппа в Европе «штырят». Почему?](https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut) - [WEBARCHIVE](https://web.archive.org/web/20250219154532/https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut)
 - [Все про кофеин](https://www.belhalat.news/articles/vse-pro-kofein)-[WEBARCHIVE](https://web.archive.org/web/20250313094243/https://www.belhalat.news/articles/vse-pro-kofein)
 
-# Благотворительный фонд "Страна для жизни
+# Благотворительный фонд "Страна для жизни"
 
 - [Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»](https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
 - [Siarhei Besarab: “It is necessary to convey to the world community those terrible crimes”](https://en.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy) - [WEBARCHIVE](https://web.archive.org/web/20240407223820/https://en.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy)
+
+# Инициатива "Честные люди"
+
+-[Сергей Бесараб: «Беларуской науке нужна свобода»](https://honestby.substack.com/p/25e) - [WEBARCHIVE](https://web.archive.org/web/20250321002340/https://honestby.substack.com/p/25e)
 
 # Газета Салідарнасць
 

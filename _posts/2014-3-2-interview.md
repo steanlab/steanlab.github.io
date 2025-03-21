@@ -290,7 +290,7 @@ ____
 
 # Инициатива "Честные люди"
 
--[Сергей Бесараб: «Беларуской науке нужна свобода»](https://honestby.substack.com/p/25e) - [WEBARCHIVE](https://web.archive.org/web/20250321002340/https://honestby.substack.com/p/25e)
+- [Сергей Бесараб: «Беларуской науке нужна свобода»](https://honestby.substack.com/p/25e) - [WEBARCHIVE](https://web.archive.org/web/20250321002340/https://honestby.substack.com/p/25e)
 
 # Газета Салідарнасць
 

@@ -317,6 +317,7 @@ ____
 # Беларусcкий расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)
+- [Соль в мешке. Продукцию «Беларуськалия» переименовали и продают ЕС в обход санкций](https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii)-[ARCHIVE.IS](https://archive.is/wip/vXOr9)
 
 # Thinktanks
 

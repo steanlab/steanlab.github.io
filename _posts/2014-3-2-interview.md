@@ -100,6 +100,7 @@ ____
 - [Сяргей Бесараб пра спыненне працы БелАЭС](https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)- [WEBARCHIVE](https://web.archive.org/web/20241223124631/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes)
 - [Ці паўплывае на «псеўдавыбары» прастой БелАЭС?](https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes) - [ARCHIVE.is](https://archive.is/wip/Ajy9H)-[WEBARCHIVE](https://web.archive.org/web/20250120233953/https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes/)
 - [У Беларусі вучоных лёгка ператвараюць у палітзняволеных](https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/)-[ARCHIVE.IS](https://archive.is/wip/tHhcx)-[WEBARCHIVE](https://web.archive.org/web/20250207104816/https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/)
+- [Сяргей Бесараб: І другая БелАЭС карысці Беларусі не прынясе](https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase) - [WEBARCHIVE](https://web.archive.org/web/20250402132457/https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase)
 
   # Белсат
 

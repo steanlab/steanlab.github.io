@@ -204,6 +204,7 @@ ____
 - [Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит](https://news.zerkalo.io/cellar/89634.html)-[WEBARCHIVE](https://web.archive.org/save/https://news.zerkalo.io/cellar/89634.html)
 - [«Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки](https://news.zerkalo.io/life/90056.html)-[WEBARCHIVE](https://web.archive.org/web/20250201095635/https://news.zerkalo.io/life/90056.html)
 - [«Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси](https://news.zerkalo.io/economics/93150.html) - [WEBARCHIVE](https://web.archive.org/web/20250306171009/https://news.zerkalo.io/economics/93150.html)
+- [Спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в Instagram и TikTok. Вот его ответ](https://news.zerkalo.io/cellar/96471.html)- [WEBARCHIVE](https://web.archive.org/web/20250410181053/https://news.zerkalo.io/cellar/96471.html)
 
 
 # DEV.BY

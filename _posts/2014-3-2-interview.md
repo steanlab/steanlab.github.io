@@ -102,6 +102,7 @@ ____
 - [У Беларусі вучоных лёгка ператвараюць у палітзняволеных](https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/)-[ARCHIVE.IS](https://archive.is/wip/tHhcx)-[WEBARCHIVE](https://web.archive.org/web/20250207104816/https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/)
 - [Сяргей Бесараб: І другая БелАЭС карысці Беларусі не прынясе](https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase) - [WEBARCHIVE](https://web.archive.org/web/20250402132457/https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase)
 - [Тэхналагічны герой, які пранёс праз усё жыццё беларушчыну](https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/) - [WEBARCHIVE](https://web.archive.org/web/20250405112225/https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/)
+- [У Беларусі працягваецца абмеркаванне будаўніцтва другой АЭС](https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/) - [WEBARCHIVE](https://web.archive.org/web/20250415104622/https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/)
 
   # Белсат
 

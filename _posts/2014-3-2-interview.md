@@ -206,6 +206,8 @@ ____
 - [«Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки](https://news.zerkalo.io/life/90056.html)-[WEBARCHIVE](https://web.archive.org/web/20250201095635/https://news.zerkalo.io/life/90056.html)
 - [«Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси](https://news.zerkalo.io/economics/93150.html) - [WEBARCHIVE](https://web.archive.org/web/20250306171009/https://news.zerkalo.io/economics/93150.html)
 - [Спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в Instagram и TikTok. Вот его ответ](https://news.zerkalo.io/cellar/96471.html)- [WEBARCHIVE](https://web.archive.org/web/20250410181053/https://news.zerkalo.io/cellar/96471.html)
+- [Одна привычка может существенно повлиять на уровень микропластика в организме. В чем дело и как обезопасить себя — спросили ученого](https://news.zerkalo.io/life/97783.html) - [WEBARCHIVE](https://web.archive.org/web/20250429105746/https://by-zerkalo-read.space/news/life/97783.html?social)
+
 
 
 # DEV.BY

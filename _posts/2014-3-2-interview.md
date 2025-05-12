@@ -69,6 +69,7 @@ ____
 - [Ці магчыма атруціцца пасля апрацоўкі дыхлафосам? Тлумачыць хімік](https://nashaniva.com/351993)- [WEBARCHIVE](https://web.archive.org/web/20240925081822/https://nashaniva.com/351993)
 - [Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію](https://nashaniva.com/360401)- [WEBARCHIVE](https://web.archive.org/web/20250129091524/https://nashaniva.com/360401)
 - [Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне](https://nashaniva.com/362665) - [WEBARCHIVE](https://web.archive.org/web/20250306184354/https://nashaniva.com/362665)
+- [«Гэтая партыя прайграная». Беларускія даследчыкі — пра тое, у што ператварылася Акадэмія навук](https://nashaniva.com/364587) - [WEBARCHIVE](https://web.archive.org/web/20250512084843/https://nashaniva.com/364587) - [RU](https://web.archive.org/web/20250512084954/https://nashaniva.com/ru/364587)
 
 # Беларускае радыё Рацыя
 

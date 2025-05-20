@@ -209,8 +209,7 @@ ____
 - [«Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси](https://news.zerkalo.io/economics/93150.html) - [WEBARCHIVE](https://web.archive.org/web/20250306171009/https://news.zerkalo.io/economics/93150.html)
 - [Спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в Instagram и TikTok. Вот его ответ](https://news.zerkalo.io/cellar/96471.html)- [WEBARCHIVE](https://web.archive.org/web/20250410181053/https://news.zerkalo.io/cellar/96471.html)
 - [Одна привычка может существенно повлиять на уровень микропластика в организме. В чем дело и как обезопасить себя — спросили ученого](https://news.zerkalo.io/life/97783.html) - [WEBARCHIVE](https://web.archive.org/web/20250429105746/https://by-zerkalo-read.space/news/life/97783.html?social)
-
-
+- [Всего один предмет может превратить ваш завтрак в бомбу замедленного действия. Вот что говорит беларусский ученый](https://news.zerkalo.io/cellar/99730.html) - [WEBARCHIVE](https://web.archive.org/web/20250520191008/https://news.zerkalo.io/cellar/99730.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

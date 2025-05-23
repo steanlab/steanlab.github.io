@@ -227,6 +227,7 @@ ____
 # Позірк
 
 - [Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі](https://pozirk.online/be/longreads/82141/)- [WEBARCHIVE](https://web.archive.org/web/20240426095409/https://pozirk.online/be/longreads/82141/)
+- [Назначение унылого Караника может быть метафорой, отражающей состояние Академии наук — ученый](https://pozirk.online/ru/news/139413/)-[WEBARCHIVE](https://web.archive.org/web/20250523000208/https://pozirk.online/ru/news/139413/)
 
 # Новая Газета Европа
 

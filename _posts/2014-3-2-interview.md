@@ -70,6 +70,7 @@ ____
 - [Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію](https://nashaniva.com/360401)- [WEBARCHIVE](https://web.archive.org/web/20250129091524/https://nashaniva.com/360401)
 - [Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне](https://nashaniva.com/362665) - [WEBARCHIVE](https://web.archive.org/web/20250306184354/https://nashaniva.com/362665)
 - [«Гэтая партыя прайграная». Беларускія даследчыкі — пра тое, у што ператварылася Акадэмія навук](https://nashaniva.com/364587) - [WEBARCHIVE](https://web.archive.org/web/20250512084843/https://nashaniva.com/364587) - [RU](https://web.archive.org/web/20250512084954/https://nashaniva.com/ru/364587)
+- [«Сыходзіць эпоха навуковага стэндапу». Бесараб пра зняцце з пасады былога кіраўніка Акадэміі навук](https://nashaniva.com/368513) - [WEBARCHIVE](https://web.archive.org/web/20250523082115/https://nashaniva.com/368513)
 
 # Беларускае радыё Рацыя
 

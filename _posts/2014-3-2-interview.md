@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Siarhei Besarab. Media Commentary & Interviews | Сергей Бесараб. Комментарии в СМИ
+title: Siarhei Besarab. Media Commentary & Interviews | Комментарии в СМИ
 published: true
 ---
 
-EN: A curated selection of my interviews and expert takes on science and tech, featured across various media outlets. Sorted by outlet, updated when time allows.
+EN: A curated selection of my interviews and expert takes on science and tech, featured across various media outlets. Sorted by outlet, updated when time allows
 RU: Подмножество общетехнических комментариев в средствах массовой информации. Cортировка по изданиям, актуализируется по мере возможного
 
 **СОДЕРЖАНИЕ**

@@ -4,7 +4,7 @@ title: Siarhei Besarab. Selected Publications | Сергей Бесараб. А�
 published: true
 ---
 
-A curated subset of authored works published across various platforms. This list serves as the primary, periodically updated bibliography of technical journalism and science communication articles · Подмножество авторских работ, опубликованных на различных ресурсах. Можно считать данный перечень основной, периодически актуализируемой библиографией технической публицистики и научно-популярных статей. 
+📜 EN: A curated subset of authored works published across various platforms. This list serves as the primary, periodically updated bibliography of technical journalism and science communication articles 📜 RU: Подмножество авторских работ, опубликованных на различных ресурсах. Можно считать данный перечень основной, периодически актуализируемой библиографией технической публицистики и научно-популярных статей. 
 
 **СОДЕРЖАНИЕ**
 

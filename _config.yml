@@ -6,7 +6,7 @@
 name: Siarhei Besarab
 
 # Short bio or description (displayed in the header)
-description: belarusian chemist, inventor, science journalist
+description: belarusian research chemist · science communicator · writer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
@@ -22,14 +22,14 @@ footer-links:
   facebook: steanlab
   flickr:
   github:
-  instagram:
+  instagram: steanlab
   linkedin: steanlab
   pinterest:
   rss:
-  email: s.v.besarab@gmail.com
-  twitter:
+  email: siarhei.besarab@gmail.com
+  twitter: siarheibesarab
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCrnz8gz3j6Gg6Cn_ufLu6eg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 

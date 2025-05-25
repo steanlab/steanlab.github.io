@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Сергей Бесараб. Авторские публикации
+title: Siarhei Besarab. Selected Publications | Сергей Бесараб. Авторские публикации
 published: true
 ---
 
-Подмножество авторских работ, опубликованных на различных ресурсах. Можно считать данный перечень основной, периодически актуализируемой библиографией технической публицистики и научно-популярных статей. 
+A curated subset of authored works published across various platforms. This list serves as the primary, periodically updated bibliography of technical journalism and science communication articles · Подмножество авторских работ, опубликованных на различных ресурсах. Можно считать данный перечень основной, периодически актуализируемой библиографией технической публицистики и научно-популярных статей. 
 
 **СОДЕРЖАНИЕ**
 

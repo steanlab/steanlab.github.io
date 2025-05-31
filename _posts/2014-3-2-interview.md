@@ -244,6 +244,7 @@ ____
 - [Анкалёгія, алергія, іншыя хваробы. Чым пагражаюць беларусам пажары на Палесьсі і ва Ўкраіне](https://www.svaboda.org/a/33114820.html)-[WEBARCHIVE](https://web.archive.org/web/20240911083018/https://www.svaboda.org/a/33114820.html)
 - [«Усё навідавоку — бяры і перапрацоўвай». Навуковец Сяргей Бесараб — пра рэдказямельныя мэталы ў Беларусі і сьвеце](https://www.svaboda.org/a/33330429.html) - [WEBARCHIVE](https://web.archive.org/web/20250227163304/https://www.svaboda.org/a/33330429.html)
 - [«ПіК Свабоды»: Гардон адказаў за «экстрэміста». Рэдказёмы ў Гомлі. Вярхоўны камісар ААН едзе ў Беларусь?](https://www.svaboda.org/a/33330553.html)- [WEBARCHIVE](https://web.archive.org/web/20250227185935/https://www.svaboda.org/a/33330553.html)
+- [Дыктатура і БелАЭС. Як улады ў Беларусі шкодзяць людзям і прыродзе праз атамную станцыю](https://www.svaboda.org/a/33429574.html) - [WEBARCHIVE](https://web.archive.org/web/20250531074322/https://www.svaboda.org/a/33429574.html)
 
 # CityDog
 

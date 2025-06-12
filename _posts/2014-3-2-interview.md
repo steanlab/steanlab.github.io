@@ -161,6 +161,7 @@ ____
 - [Взрывы в Торопце. Долетят ли выбросы до Беларуси?](https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi)- [WEBARCHIVE](https://web.archive.org/web/20240921075107/https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi)
 - [Сергей Бесараб: Радиоактивное бремя ляжет на плечи беларусов на столетия](https://greenbelarus.info/articles/25-04-2025/sergey-bessarab-radioaktivnoe-bremya-lyazhet-na-plechi-belarusov-na-stoletiya) - [WEBARCHIVE](https://web.archive.org/web/20250526072511/https://greenbelarus.info/articles/25-04-2025/sergey-bessarab-radioaktivnoe-bremya-lyazhet-na-plechi-belarusov-na-stoletiya)
 - [“Зялёная сетка” вызначыла лепшы кантэнт пра экалогію Беларусі](https://greenbelarus.info/green_award) - [WEBARCHIVE](https://web.archive.org/web/20250606163735/https://greenbelarus.info/articles/05-06-2025/v-plastikovom-plenu-ot-vershin-everesta-do-glubin-marianskoy-vpadiny)
+- [«Побач з тэхналогіямі павінна заўсёды ісці этыка»](https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka) - [WEBARCHIVE](https://web.archive.org/web/20250612102239/https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka)
 
 # Обычное утро (ОУ)
 

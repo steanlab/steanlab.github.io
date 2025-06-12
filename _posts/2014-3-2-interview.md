@@ -105,6 +105,7 @@ ____
 - [Сяргей Бесараб: І другая БелАЭС карысці Беларусі не прынясе](https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase) - [WEBARCHIVE](https://web.archive.org/web/20250402132457/https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase)
 - [Тэхналагічны герой, які пранёс праз усё жыццё беларушчыну](https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/) - [WEBARCHIVE](https://web.archive.org/web/20250405112225/https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/)
 - [У Беларусі працягваецца абмеркаванне будаўніцтва другой АЭС](https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/) - [WEBARCHIVE](https://web.archive.org/web/20250415104622/https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/)
+- [Сяргей Бесараб: Трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год](https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/) - [WEBARCHIVE](https://web.archive.org/web/20250612214833/https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/)
 
   # Белсат
 

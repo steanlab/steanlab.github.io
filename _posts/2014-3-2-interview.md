@@ -330,6 +330,14 @@ ____
 
 - [https://e-petitions.by/articles/4993](https://web.archive.org/web/20240908173716/https://telegra.ph/ZHalkoe-zrelishche-Belarusy-prosyat-ne-otklyuchat-internet-uchenym-v-Akademii-Nauk-09-08)
 
+# VoiceOfBelarus
+
+- [36-year-old Minsk resident named Aliaksandr, born under Taurus zodiac sign: Portrait of typical Belarusian ‘extremist’](https://www.voiceofbelarus.org/belarus-news/36-old-minsk-resident-named-aliaksandr-taurus-portrait-of-typical-belarusian-extremist/) - [WEBARCHIVE](https://web.archive.org/web/20250613213959/https://www.voiceofbelarus.org/belarus-news/36-old-minsk-resident-named-aliaksandr-taurus-portrait-of-typical-belarusian-extremist/)
+
+# Our House
+
+- [How Lukashenko repressed Belarusian scientists who advocated new elections](https://news.house/42353) - [WEBARCHIVE](https://web.archive.org/web/20250613213503/https://news.house/42353)
+
 # Беларусcкий расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)

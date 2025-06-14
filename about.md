@@ -15,6 +15,19 @@ published: true
 - MSc in Environmental Chemistry, University of the NAS of Belarus ([view official diploma]({{site.baseurl}}/images/msc.jpg))
 - MSc in Pharmaceutical Chemistry, Belarusian State University ([view official diploma]({{site.baseurl}}/images/bsu.jpg))
 
+### Awards & Honors
+
+- Presidential Scholarship for Talented Young Scientists, Belarus
+- Winner, Russian Startup Tour 2016
+- Green Award Prize — for climate analysis, eco-content, and science podcasting
+- Multiple national and international research grants and innovation awards
+
+### Publications & Patents
+
+- Author of a scientific monograph, 50+ scientific and 200+ popular science publications
+- Author/co-author of 12 patents in materials science, environmental technology, and industrial chemistry (adsorbents, filtration systems, mercury removal, catalytic materials)
+- Regular expert contributor for Zerkalo.io, dev.by, BELSAT, Radio Free Europe/Radio Liberty, Deutsche Welle, Voice of America, and others
+
 ### Research Interests
 
 - **Colloid and surface science**: Synthesis, modification, and functionalization of nanomaterials, porous and fibrous filtration media, catalysts, and hybrid composites for environmental, biomedical, and industrial applications. Research on interfacial phenomena, adsorption mechanisms, and surface engineering for advanced materials and separation technologies
@@ -30,7 +43,13 @@ published: true
 
 nanomaterials, functional materials, adsorption, remediation, environmental monitoring, public health, radiation safety, bioactive compounds, green chemistry, food safety, biosensors, wearable devices, machine learning, science communication, sustainability, circular economy, policy, risk assessment, STEM education.
 
-**Community & Outreach**
+### Volunteer & Community Engagement
+
+- Science advocacy, academic freedom, and human rights
+- Public lectures, STEM education, Wikipedia contributor, science festivals, hackathons, citizen and public science initiatives
+- Environmental expeditions, outdoor education, survival skills instructor
+
+### Community & Outreach
 
 [![]({{site.baseurl}}/images/lab66.png)](https://t.me/joinchat/AAAAAFFhzPKyiLO85pRxUA)
 [![]({{site.baseurl}}/images/scihack.png)](https://be.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D1%96_%D0%BD%D0%B0%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D1%8B_%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD)

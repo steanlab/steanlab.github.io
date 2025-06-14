@@ -37,8 +37,8 @@ published: true
 [![]({{site.baseurl}}/images/radio.png)](https://soundcloud.com/siarhei-v-besarab/sets/phytochemist-notes-vol-1)
 
 ---
-ENG: Siarhei Besarab
-BEL: **Сяргей Бесараб** ([Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1) 
-RUS: Сергей Бесараб ([Google](https://www.google.com/search?kgmid=/g/11jfg45gk2))
+- ENG: Siarhei Besarab
+- BEL: **Сяргей Бесараб** ([Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)) 
+- RUS: Сергей Бесараб ([Google](https://www.google.com/search?kgmid=/g/11jfg45gk2))
 
 For secure communication, use my public PGP key (fingerprint: **F9F2 237E C324 7FD0 A8DF D8BD 8F3A 6CC2 5399 44AE**), available via [via Keybase](https://keybase.io/steanlab/pgp_keys.asc)

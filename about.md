@@ -17,18 +17,18 @@ published: true
 
 ### Research Interests
 
-- **Colloid and surface science**: functional adsorbents, catalysts and supports, nanomaterials, hybrid composites, filtration materials
-- **Industrial toxicology**: heavy metal remediation, plastic degradation
-- **Public safety and health**: radiation protection, antidotal systems, shielding from non-ionizing radiation, electromagnetic absorbers, PPE/RPE
-- **Green** and **Phytochemistry**: ethnobotanical research, bioinsecticides, biorepellents
-- **FoodTech**:  novel food sources, safety and risk assessment
-- **Medical electronics**: wearables, biosensors, point-of-care diagnostics
+- **Colloid and surface science**: Synthesis, modification, and functionalization of nanomaterials, porous and fibrous filtration media, catalysts, and hybrid composites for environmental, biomedical, and industrial applications. Research on interfacial phenomena, adsorption mechanisms, and surface engineering for advanced materials and separation technologies
+- **Environmental Chemistry & Industrial Toxicology**: Remediation of heavy metals and legacy pollutants, degradation of plastics and persistent contaminants, environmental monitoring, and development of sustainable solutions for air and water purification, waste valorization, and circular economy
+- **Public and Occupational Health**: Radiation and chemical safety, development of antidotal systems, respiratory and personal protective equipment (PPE/RPE), risk assessment, exposure mitigation, and science-based policy for human and ecosystem health
+- **Green Chemistry & Phytochemistry**: Extraction and application of bioactive compounds (polyphenols, antioxidants, bioinsecticides, biorepellents) from agri-food by-products and natural sources; sustainable synthesis, green solvents, and valorization of biomass for food, pharma, and environmental uses
+- **Food Science & FoodTech**:  Novel food sources, food safety, functional foods, nutritional analysis, risk assessment, and development of analytical and biotechnological methods for food quality and security
+- **Medical Electronics & Biosensing**: Design and integration of wearable devices, biosensors, and point-of-care diagnostics for health monitoring, environmental sensing, and personalized medicine
+- **Data Science & Digital Tools in Chemistry**: Application of AI, machine learning, big data analytics, computational modeling, and digital/AR/VR technologies to accelerate research, education, and innovation in chemistry and materials science
+- **Science Communication & Policy**:Science journalism, public outreach, STEM education, citizen science, and advocacy for open science, academic freedom, and evidence-based policy in technology, environment, and public health
 
-### Professional Highlights
+### Keywords & Professional Highlights
 
-- Peer-reviewed publications and open science projects
-- Leadership in scientific hackathons and outreach
-- Development of novel materials for environmental and health applications
+nanomaterials, functional materials, adsorption, remediation, environmental monitoring, public health, radiation safety, bioactive compounds, green chemistry, food safety, biosensors, wearable devices, machine learning, science communication, sustainability, circular economy, policy, risk assessment, STEM education.
 
 **Community & Outreach**
 

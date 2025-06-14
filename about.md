@@ -11,9 +11,9 @@ published: true
 
 ### Education
 
-- PhD Candidate in Colloid Chemistry, IGIC of the NAS of Belarus (completed all requirements except dissertation defense; dissertation draft submitted) ([view official diploma](site.baseurl/images/res.jpg))
-- MSc in Environmental Chemistry, University of the NAS of Belarus ([view official diploma](site.baseurl/images/msc.jpg))
-- MSc in Pharmaceutical Chemistry, Belarusian State University ([view official diploma](site.baseurl/images/bsu.jpg))
+- PhD Candidate in Colloid Chemistry, IGIC of the NAS of Belarus (completed all requirements except dissertation defense; dissertation draft submitted) ([view official diploma]({{site.baseurl}}/images/res.jpg))
+- MSc in Environmental Chemistry, University of the NAS of Belarus ([view official diploma]({{site.baseurl}}/images/msc.jpg))
+- MSc in Pharmaceutical Chemistry, Belarusian State University ([view official diploma]({{site.baseurl}}/images/bsu.jpg))
 
 ### Research Interests
 

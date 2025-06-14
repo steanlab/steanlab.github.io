@@ -19,7 +19,7 @@ published: true
 
 - Presidential Scholarship for Talented Young Scientists, Belarus
 - Winner, Russian Startup Tour 2016
-- Green Award Prize — for climate analysis, eco-content, and science podcasting
+- Green Award Prize 2025 — for climate analysis, eco-content, and science podcasting
 - Multiple national and international research grants and innovation awards
 
 ### Publications & Patents

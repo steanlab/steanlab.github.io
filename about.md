@@ -7,7 +7,7 @@ published: true
 
 ![]({{site.baseurl}}/images/footer.png)
 
-> Hi everyone! I’m Siarhei Besarab  (@stean / @steanlab), an independent scientist and [certified researcher]({{site.baseurl}}/images/res.jpg) specializing in Colloid Chemistry (Surface Science). I hold dual Master of Science degrees in Environmental Chemistry and Pharmaceutical Chemistry. My primary focus lies in surface and interface phenomena, particularly within colloid science and materials chemistry. Alongside my research, I actively contribute to public science communication as a writer for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts) and [Medium](https://medium.com/@steanlab). I’m deeply committed to promoting citizen science and fostering interdisciplinary dialogue. This website serves as a professional and academically grounded alternative to conventional social media profiles.
+> Hi everyone! I’m Siarhei Besarab  (@stean / @steanlab), an independent scientist and [certified researcher]({{site.baseurl}}/images/res.jpg) specializing in Colloid Chemistry (Surface Science) and hold dual Master of Science degrees in Environmental Chemistry and Pharmaceutical Chemistry. My primary focus lies in surface and interface phenomena, particularly within colloid science and materials chemistry. Alongside my research, I actively contribute to public science communication as a writer for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts) and [Medium](https://medium.com/@steanlab). I’m deeply committed to promoting citizen science and fostering interdisciplinary dialogue. This website serves as a professional and academically grounded alternative to conventional social media profiles.
 
 ### Education
 
@@ -37,7 +37,7 @@ published: true
 - **Food Science & FoodTech**:  Novel food sources, food safety, functional foods, nutritional analysis, risk assessment, and development of analytical and biotechnological methods for food quality and security
 - **Medical Electronics & Biosensing**: Design and integration of wearable devices, biosensors, and point-of-care diagnostics for health monitoring, environmental sensing, and personalized medicine
 - **Data Science & Digital Tools in Chemistry**: Application of AI, machine learning, big data analytics, computational modeling, and digital/AR/VR technologies to accelerate research, education, and innovation in chemistry and materials science
-- **Science Communication & Policy**:Science journalism, public outreach, STEM education, citizen science, and advocacy for open science, academic freedom, and evidence-based policy in technology, environment, and public health
+- **Science Communication & Policy**: Science journalism, public outreach, STEM education, citizen science, and advocacy for open science, academic freedom, and evidence-based policy in technology, environment, and public health
 
 ### Keywords & Professional Highlights
 

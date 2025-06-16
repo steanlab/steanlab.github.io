@@ -7,7 +7,7 @@ published: true
 
 ![]({{site.baseurl}}/images/footer.png)
 
-> Hi everyone! I’m Siarhei Besarab  (@stean / @steanlab), an independent scientist and [certified researcher]({{site.baseurl}}/images/res.jpg) specializing in Colloid Chemistry (Surface Science) and hold dual Master of Science degrees in Environmental Chemistry and Pharmaceutical Chemistry. My primary focus lies in surface and interface phenomena, particularly within colloid science and materials chemistry. Alongside my research, I actively contribute to public science communication as a writer for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts) and [Medium](https://medium.com/@steanlab). I’m deeply committed to promoting citizen science and fostering interdisciplinary dialogue. This website serves as a professional and academically grounded alternative to conventional social media profiles.
+> Hola! I’m Siarhei Besarab (@stean / @steanlab), an independent scientist, PhD Candidate (ABD), and [certified researcher]({{site.baseurl}}/images/res.jpg) specializing in Colloid Chemistry and Surface Science. I hold dual Master of Science degrees in Environmental Chemistry and Pharmaceutical Chemistry. My primary focus lies in surface and interfacial phenomena, particularly within colloid and materials chemistry. Alongside my research, I actively contribute to public science communication as a writer for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts), [Substack](https://lab66.substack.com) and [Medium](https://medium.com/@steanlab). I’m deeply committed to promoting citizen science and fostering interdisciplinary dialogue. This website serves as a professional, academically grounded alternative to conventional social media profiles.
 
 ### Education
 

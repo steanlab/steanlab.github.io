@@ -3,6 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
+title: Siarhei Besarab
 name: Siarhei Besarab
 
 # Short bio or description (displayed in the header)
@@ -14,6 +15,7 @@ avatar: /images/logo.png
 og_image: /images/og-image.jpg
 og_image_width: 1200
 og_image_height: 630
+facebook_app_id: "1221388345862223"
 #
 # Flags below are optional
 #
@@ -45,7 +47,7 @@ google_analytics: G-2KEDTCTX6B
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://steanlab.github.io
+url: "https://steanlab.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

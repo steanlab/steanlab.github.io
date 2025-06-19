@@ -20,6 +20,7 @@
 <meta property="og:title" content="{{ page.title | default: site.title }}">
 <meta property="og:description" content="{{ meta_description }}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+{% if site.facebook_app_id %}<meta property="fb:app_id" content="{{site.facebook_app_id }}" />{% endif %}
 
 <!-- Графическое превью с указанием размеров -->
 {% if page.image %}

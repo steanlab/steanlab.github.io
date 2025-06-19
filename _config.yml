@@ -10,7 +10,9 @@ description: Multidisciplinary Scientist · Research Chemist · Writer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
-og-image: /images/og-image.jpg
+og_image: /images/og-image.jpg
+og_image_width: 1200
+og_image_height: 630
 #
 # Flags below are optional
 #

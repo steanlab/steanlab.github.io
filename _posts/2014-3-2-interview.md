@@ -345,7 +345,7 @@ ____
 
 # Thinktanks
 
-- [ Основные техногенные угрозы для Беларуси — радиационные]([https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html](https://web.archive.org/web/20230320000608/https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html))
+- [Основные техногенные угрозы для Беларуси — радиационные](https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html) - [WEBARCHIVE](https://web.archive.org/web/20230320000608/https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html)
 
 # Наша візія
 

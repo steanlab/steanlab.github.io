@@ -37,7 +37,8 @@ published: true
 - **Food Science & FoodTech**:  Novel food sources, food safety, functional foods, nutritional analysis, risk assessment, and development of analytical and biotechnological methods for food quality and security
 - **Medical Electronics & Biosensing**: Design and integration of wearable devices, biosensors, and point-of-care diagnostics for health monitoring, environmental sensing, and personalized medicine
 - **Data Science & Digital Tools in Chemistry**: Application of AI, machine learning, big data analytics, computational modeling, and digital/AR/VR technologies to accelerate research, education, and innovation in chemistry and materials science
-- **Science Communication & Policy**: Science journalism, public outreach, STEM education, citizen science, and advocacy for open science, academic freedom, and evidence-based policy in technology, environment, and public health
+- **Science Communication & Policy**: Science journalism, public outreach, STEM education, citizen science and advocacy for open science, academic freedom, and evidence-based policy in technology, environment, public health, science activism (science in society, chemistry in society)
+- **Future Studies & Techno-Ethics**: Technological forecasting methodologies, transhumanist paradigms (human enhancement, longevity, AI integration), ethical frameworks for emerging technologies, societal impacts of NBIC-convergence (nano-bio-info-cogno), governance models for responsible innovation, and science communication in futurological contexts, regulatory frameworks for human-technology symbiosis, posthuman scenarios, existential risk mitigation
 
 ### Keywords & Professional Highlights
 
@@ -56,7 +57,7 @@ nanomaterials, functional materials, adsorption, remediation, environmental moni
 [![]({{site.baseurl}}/images/radio.png)](https://soundcloud.com/siarhei-v-besarab/sets/phytochemist-notes-vol-1)
 
 ---
-- ENG: **Siarhei Besarab**
+- ENG: **Siarhei Besarab** ([Wikipedia](https://en.wikipedia.org/wiki/Siarhei_Besarab))
 - BEL: **Сяргей Бесараб** ([Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)) 
 - RUS: **Сергей Бесараб** ([Google](https://www.google.com/search?kgmid=/g/11jfg45gk2))
 

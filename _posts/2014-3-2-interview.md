@@ -359,3 +359,8 @@ ____
 
 - [Столичное телевидение. В Беларуси с помощью смартфона можно будет измерить давление и определить качество продуктов](https://web.archive.org/web/20201007084712/http://www.ctv.by/v-belarusi-s-pomoshchyu-smartfona-mozhno-budet-izmerit-davlenie-i-opredelit-kachestvo-produktov)
 - [В Парке высоких технологий прошел первый научный хакатон в Беларуси](https://www.tvr.by/videogallery/informatsionno-analiticheskie/panorama/panorama-01-06-2017/)
+
+# charter97
+
+- [Сергей Бесараб: В Беларуси не просто сменится режим, но и уровень жизни вырастет до европейского](https://charter97.link/ru/news/2023/7/7/554914/) - [WEBARCHIVE](https://web.archive.org/web/20250628131117/https://charter97.link/ru/news/2023/7/7/554914/)
+- [Белорусские ученые требуют немедленной остановки всех военных действий РФ, направленных против Украины](https://charter97.org/ru/news/2022/3/2/457221/) - [WEBARCHIVE](https://web.archive.org/web/20250625165451/https://charter97.org/ru/news/2022/3/2/457221/)

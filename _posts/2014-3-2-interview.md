@@ -143,7 +143,7 @@ ____
 - [ВОТ-ТАК-ТВ.Украина заявила об ударе российского дрона по саркофагу Чернобыльской АЭС. Чем это грозит](https://vot-tak.tv/85053412/chaes-udar)-[WEBARCHIVE](https://web.archive.org/web/20250219114058/https://vot-tak.tv/85053412/chaes-udar)
 - [Адкуль у беларусаў у ДНК балканцы і якія рызыкі ў генетычных тэстаў? Тлумачыць навуковец](https://belsat.eu/85952537/dnk-testy-zdarouje) - [WEBARCHIVE](https://web.archive.org/web/20250403075331/https://belsat.eu/85952537/dnk-testy-zdarouje)
 - [Lukashenka aims to recover and develop Chernobyl disaster-contaminated fields and forests. Is it safe and necessary?](https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary) - [WEBARCHIVE](https://web.archive.org/web/20250518175732/https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary)
-- [Навуковец Сяргей Бесараб: тарнада ў Беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць](https://belsat.eu/87829612/tarnada-belarus) - [WEBARCHIVE](https://web.archive.org/web/20250714111608/https://belsat.eu/87829612/tarnada-belarus)
+- [Навуковец Сяргей Бесараб: тарнада ў Беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць](https://belsat.eu/87829612/tarnada-belarus) - [WEBARCHIVE](https://web.archive.org/web/20250714111608/https://belsat.eu/87829612/tarnada-belarus), [[RU](https://ru.belsat.eu/87831297/tornado-belarus)] - [WEBARCHIVE](https://web.archive.org/web/20250714150730/https://ru.belsat.eu/87831297/tornado-belarus)
 
 # Зеленый портал
 

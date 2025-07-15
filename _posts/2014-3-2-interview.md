@@ -109,12 +109,12 @@ ____
 
   # Белсат
 
-- [«Робяць сяк-так». Чаму ў Беларусі зноў абваліўся мост — і чаго чакаць надалей](https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej)
-- [Пад Лунінцом пачалі разбудоўваць вайсковы аэрадром. Валяць радыеактыўны лес](https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les)
-- [Бачу навіны пра пагрозу ядравай вайны. Што зрабіць проста зараз, каб падрыхтавацца?](https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/)
-- [Стэрылізацыя радыеактыўным апраменьваннем небяспечная?](https://belsat.eu/in-focus/16-03-2023-sterylizatsyya-radyeaktyunym-apramenvannem-nebyaspechnaya)
-- [Чаму беларускі сыр нельга лічыць малочным прадуктам?](https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam)
-- [Пяць прычынаў не адмаўляцца ад АЭС](https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes)
+- [«Робяць сяк-так». Чаму ў Беларусі зноў абваліўся мост — і чаго чакаць надалей](https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej) - [WEBARCHIVE](https://web.archive.org/web/20220604013835/https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej/)
+- [Пад Лунінцом пачалі разбудоўваць вайсковы аэрадром. Валяць радыеактыўны лес](https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les) - [WEBARCHIVE](https://web.archive.org/web/20220818163134/https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les/)
+- [Бачу навіны пра пагрозу ядравай вайны. Што зрабіць проста зараз, каб падрыхтавацца?](https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/) - [WEBARCHIVE](https://web.archive.org/web/20221002212911/https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/)
+- [Стэрылізацыя радыеактыўным апраменьваннем небяспечная?](https://belsat.eu/in-focus/16-03-2023-sterylizatsyya-radyeaktyunym-apramenvannem-nebyaspechnaya) - [WEBARCHIVE]
+- [Чаму беларускі сыр нельга лічыць малочным прадуктам?](https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam) - [WEBARCHIVE]
+- [Пяць прычынаў не адмаўляцца ад АЭС](https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes) [WEBARCHIVE]
 - [Найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года](https://belsat.eu/news/05-05-2023-najchastsej-represavali-filolagau-i-gistorykau-statystyka-represiyau-u-navutsy-ad-2020-goda)
 - [«Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?](https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa)
 - [На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России](https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody)

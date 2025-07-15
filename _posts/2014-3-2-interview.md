@@ -116,9 +116,9 @@ ____
 - [Чаму беларускі сыр нельга лічыць малочным прадуктам?](https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam) - [WEBARCHIVE]
 - [Пяць прычынаў не адмаўляцца ад АЭС](https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes) [WEBARCHIVE]
 - [Найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года](https://belsat.eu/news/05-05-2023-najchastsej-represavali-filolagau-i-gistorykau-statystyka-represiyau-u-navutsy-ad-2020-goda)
-- [«Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?](https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa)
+- [«Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?](https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa) - [[Medium](https://steanlab.medium.com/acari-05b8e3bd2fc9)]
 - [На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России](https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody)
-- [Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец](https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa)
+- [Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец](https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa) - [[Medium](https://medium.com/@steanlab/hornet-8bccedc4aa73)]
 - [«Вся Земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее Симоньян взорвать бомбу над Сибирью](https://vot-tak.tv/novosti/04-10-2023-simonyan-vzryv)
 - [Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?](https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu)
 - [Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі](https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki)

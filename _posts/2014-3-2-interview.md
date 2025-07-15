@@ -114,7 +114,7 @@ ____
 - [Бачу навіны пра пагрозу ядравай вайны. Што зрабіць проста зараз, каб падрыхтавацца?](https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/) - [WEBARCHIVE](https://web.archive.org/web/20221002212911/https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/)
 - [Стэрылізацыя радыеактыўным апраменьваннем небяспечная?](https://belsat.eu/in-focus/16-03-2023-sterylizatsyya-radyeaktyunym-apramenvannem-nebyaspechnaya) - [WEBARCHIVE]
 - [Чаму беларускі сыр нельга лічыць малочным прадуктам?](https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam) - [WEBARCHIVE]
-- [Пяць прычынаў не адмаўляцца ад АЭС](https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes) [WEBARCHIVE]
+- [Пяць прычынаў не адмаўляцца ад АЭС](https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes) [[Medium](https://medium.com/@steanlab/fivenukl-cecd47a1e5c7)]
 - [Найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года](https://belsat.eu/news/05-05-2023-najchastsej-represavali-filolagau-i-gistorykau-statystyka-represiyau-u-navutsy-ad-2020-goda)
 - [«Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?](https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa) - [[Medium](https://steanlab.medium.com/acari-05b8e3bd2fc9)]
 - [На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России](https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody)

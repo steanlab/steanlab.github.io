@@ -144,6 +144,7 @@ ____
 - [Адкуль у беларусаў у ДНК балканцы і якія рызыкі ў генетычных тэстаў? Тлумачыць навуковец](https://belsat.eu/85952537/dnk-testy-zdarouje) - [WEBARCHIVE](https://web.archive.org/web/20250403075331/https://belsat.eu/85952537/dnk-testy-zdarouje)
 - [Lukashenka aims to recover and develop Chernobyl disaster-contaminated fields and forests. Is it safe and necessary?](https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary) - [WEBARCHIVE](https://web.archive.org/web/20250518175732/https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary)
 - [Навуковец Сяргей Бесараб: тарнада ў Беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць](https://belsat.eu/87829612/tarnada-belarus) - [WEBARCHIVE](https://web.archive.org/web/20250714111608/https://belsat.eu/87829612/tarnada-belarus), [[RU](https://ru.belsat.eu/87831297/tornado-belarus)] - [WEBARCHIVE](https://web.archive.org/web/20250714150730/https://ru.belsat.eu/87831297/tornado-belarus)
+- [«І смех, і грэх». Урад абнавіў спіс «вызначальных» для эканомікі Беларусі інавацыяў](https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau) - [WEBARCHIVE](https://web.archive.org/web/20250716072157/https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau)
 
 # Зеленый портал
 

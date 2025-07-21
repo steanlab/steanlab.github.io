@@ -107,6 +107,7 @@ ____
 - [У Беларусі працягваецца абмеркаванне будаўніцтва другой АЭС](https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/) - [WEBARCHIVE](https://web.archive.org/web/20250415104622/https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/)
 - [Сяргей Бесараб: Трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год](https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/) - [WEBARCHIVE](https://web.archive.org/web/20250612214833/https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/)
 - [Чаму Літва паведамляе пра сітуацыю на БелАЭС хутчэй за Беларусь?](https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/) - [WEBARCHIVE](https://web.archive.org/web/20250718153101/https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/)
+- [Сяргей Бесараб: Устойлівы прагноз для Беларусі: буры, шквалы, залевы і тарнада](https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/) - [WEBARCHIVE](https://web.archive.org/web/20250721111026/https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/)
 
   # Белсат
 

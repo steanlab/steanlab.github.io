@@ -295,6 +295,7 @@ ____
 - [“Паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта](https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta)-[ARCHIVE.IS](https://archive.is/nqBbe)
 - [Ці варта шукаць у Беларусі рэдказямельныя металы? Адказвае навуковец](https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec) - [ARCHIVE.IS](https://archive.is/wip/oBBgx)
 - [Вейпы небяспечнейшыя за звычайныя цыгарэты? Адказваюць нарколаг і навуковец](https://euroradio.fm/veypy-nebyaspechneyshyya-za-zvychaynyya-cygarety-adkazvayuc-doktar-narkolag-i-navukov) - [ARCHIVE.IS](https://archive.is/wip/kBiE7)
+- [У Беларусі могуць знікнуць бульба і лён-даўгунец](https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec) - [WEBARCHIVE](https://web.archive.org/web/20250721145503/https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec) - [CONIFER](https://conifer.rhizome.org/steanlab/default-collection/20250721145514/https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec) - [ARCHIVE.IS](https://archive.is/wip/5KgIq)
 
 # Авторский проект Никиты Мелкозерова «Жизнь-малина»
 - [Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ](https://www.youtube.com/watch?v=ffLIJD4RGxs)

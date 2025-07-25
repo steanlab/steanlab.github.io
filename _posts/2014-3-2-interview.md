@@ -235,6 +235,7 @@ ____
 - [Дзе ў Беларусі жыве найбольш «экстрэмістаў»?](https://novychas.online/hramadstva/dze-u-belarusi-zyve-najbolsz-ekstremistau)
 - [«Гомель-30» — сакрэтная база для ядзернай зброі РФ? Ці ПК-24, дзе здзекуюцца з жанчын-палітвязняў?](https://novychas.online/hramadstva/homel-30-sakretnaja-baza-dlja-jadzernaj-zbroi)
 - [Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі](https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha)
+- [Феномен Бесараба: калі навука становіцца мовай супраціву](https://novychas.online/asoba/fenomen-besaraba-kali-navuka-stanovicca-movaj-sup) - [WEBARCHIVE](https://web.archive.org/web/20250725062032/https://novychas.online/asoba/fenomen-besaraba-kali-navuka-stanovicca-movaj-sup)
 
 # Позірк
 

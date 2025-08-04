@@ -108,6 +108,7 @@ ____
 - [Сяргей Бесараб: Трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год](https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/) - [WEBARCHIVE](https://web.archive.org/web/20250612214833/https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/)
 - [Чаму Літва паведамляе пра сітуацыю на БелАЭС хутчэй за Беларусь?](https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/) - [WEBARCHIVE](https://web.archive.org/web/20250718153101/https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/)
 - [Сяргей Бесараб: Устойлівы прагноз для Беларусі: буры, шквалы, залевы і тарнада](https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/) - [WEBARCHIVE](https://web.archive.org/web/20250721111026/https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/)
+- [Касіць ці не касіць? Навуковец прапануе «зялёную сярэдзіну»](https://web.archive.org/web/20250804055221/https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/)
 
   # Белсат
 
@@ -274,7 +275,7 @@ ____
 - [«Падарунак» дзясяткам пакаленняў: як Беларусь будзе захоўваць ядзерныя адходы са сваёй АЭС](https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/) - [WEBARCHIVE](https://web.archive.org/web/20240330222406/https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/)
 - [Плошча забруджвання Беларусі цэзіем-137 зменшылася амаль у два разы, сцвярджаюць улады. Але што значаць гэтыя лічбы?](https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/) - [WEBARCHIVE](https://web.archive.org/web/20240425193933/https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/)
 - [Радыяцыйныя пажары: Наколькі гэта небяспечна для жыхароў і што рабіць ва ўмовах замоўчвання інфармацыі ўладамі](https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami) - [WEBARCHIVE](https://web.archive.org/web/20240911125937/https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami/)
-
+- [Гомельшчына, амерыканскія прэрыі і рэпеленты](https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)- [WEBARCHIVE](https://web.archive.org/web/20250804060133/https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)
 
 # ЕвроРадио
 

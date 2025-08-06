@@ -377,3 +377,4 @@ ____
 
 - [Сергей Бесараб: В Беларуси не просто сменится режим, но и уровень жизни вырастет до европейского](https://charter97.link/ru/news/2023/7/7/554914/) - [WEBARCHIVE](https://web.archive.org/web/20250628131117/https://charter97.link/ru/news/2023/7/7/554914/)
 - [Белорусские ученые требуют немедленной остановки всех военных действий РФ, направленных против Украины](https://charter97.org/ru/news/2022/3/2/457221/) - [WEBARCHIVE](https://web.archive.org/web/20250625165451/https://charter97.org/ru/news/2022/3/2/457221/)
+- [«Эти заявления должны комментировать психотерапевты»](https://charter97.org/ru/news/2025/8/6/651055/) - [WEBARCHIVE](https://web.archive.org/web/20250806152429/https://charter97.org/ru/news/2025/8/6/651055/)

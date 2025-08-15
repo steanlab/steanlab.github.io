@@ -150,6 +150,7 @@ ____
 - [«І смех, і грэх». Урад абнавіў спіс «вызначальных» для эканомікі Беларусі інавацыяў](https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau) - [WEBARCHIVE](https://web.archive.org/web/20250716072157/https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau) - [[RU](https://web.archive.org/web/20250716072541/https://ru.belsat.eu/87853846/i-smeh-i-greh-pravitelstvo-obnovilo-spisok-opredelyayushchih-dlya-ekonomiki-belarusi-innovatsij)]
 - [Беларусь сабралася рэгуляваць штучны інтэлект, збірае «экспертную пляцоўку»](https://belsat.eu/87882490/ai) - [WEBARCHIVE](https://web.archive.org/web/20250717102839/https://belsat.eu/87882490/ai) - [archive.is](https://archive.is/2tM60)
 - [«Науку в Беларуси реформируют не нобелевские лауреаты, а люди в погонах»: ученый о нападках Лукашенко на НАН](https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan) - [WEBARCHIVE](https://web.archive.org/web/20250806124338/https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan) - [ARCHIVE.IS](https://archive.is/wip/CeVIn) - [CONIFER](https://conifer.rhizome.org/steanlab/default-collection/20250806132840/https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan)
+- [Праверце, ці не трапілі вы на фота ў польскай кнізе «Marsz Białorusi». Да герояў прыходзяць цяпер сілавікі](https://belsat.eu/88345120/pravertse-tsi-ne-trapili-vy-na-fota-u-polskaj-knize-marsz-bialorusi-da-geroyau-pryhodzyats-tsyaper-silaviki) - [WEBARCHIVE](https://web.archive.org/web/20250815102221/https://belsat.eu/88345120/pravertse-tsi-ne-trapili-vy-na-fota-u-polskaj-knize-marsz-bialorusi-da-geroyau-pryhodzyats-tsyaper-silaviki)
 
 # Зеленый портал
 
@@ -364,6 +365,10 @@ ____
 # Наша візія
 
 - [Будучыня беларускай навукі. Ракеты для расейскай арміі – ці грамадзянская навука і прыватныя лабараторыі для эксперыментаў моладзі](https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2)- [WEBARCHIVE](https://web.archive.org/web/20240819103105/https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2)
+
+# БАЖ
+
+- [Праверце фота: да герояў кнігі Marsz Białorusi прыходзяць сілавікі](https://baj.media/be/praverce-fota-da-geroja-knigi-marsz-bialorusi-pryhodzjac-silaviki/)- [WEBARCHIVE](https://web.archive.org/web/20250815102119/https://baj.media/be/praverce-fota-da-geroja-knigi-marsz-bialorusi-pryhodzjac-silaviki/)
 
 # Газета СБ. Беларусь сегодня
 

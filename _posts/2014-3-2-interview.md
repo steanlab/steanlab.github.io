@@ -227,8 +227,6 @@ ____
 - [«А мне воняет не гарью, а кошачьим туалетом». Беларусы возмущаются, что пакеты в магазинах неприятно пахнут. Объясняем почему](https://news.zerkalo.io/life/103991.html) - [WEBARCHIVE](https://web.archive.org/web/20250716220427/https://news.zerkalo.io/life/103991.html) - [[2](https://conifer.rhizome.org/steanlab/default-collection/20250716221433/https://news.zerkalo.io/life/103991.html)] - [[archive.is](https://archive.is/3S1Wh)] - [[Telegra.ph](https://telegra.ph/A-mne-vonyaet-ne-garyu-a-koshachim-tualetom-Belarusy-vozmushchayutsya-chto-pakety-v-magazinah-nepriyatno-pahnut-Obyasnyaem-poche-07-17)]
 - [Ученый Бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов](https://news.zerkalo.io/life/106316.html) - [ARCHIVE.IS](https://archive.is/IENGR) - [WEBARCHIVE](https://web.archive.org/web/20250815151931/https://news.zerkalo.io/life/106316.html)
 
-
-
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
@@ -263,6 +261,7 @@ ____
 - [«ПіК Свабоды»: Гардон адказаў за «экстрэміста». Рэдказёмы ў Гомлі. Вярхоўны камісар ААН едзе ў Беларусь?](https://www.svaboda.org/a/33330553.html)- [WEBARCHIVE](https://web.archive.org/web/20250227185935/https://www.svaboda.org/a/33330553.html)
 - [Дыктатура і БелАЭС. Як улады ў Беларусі шкодзяць людзям і прыродзе праз атамную станцыю](https://www.svaboda.org/a/33429574.html) - [WEBARCHIVE](https://web.archive.org/web/20250531074322/https://www.svaboda.org/a/33429574.html)
 - [У адкрытым доступе зьявіліся здымкі, па якіх сілавікі вызначаюць удзельнікаў пратэстаў](https://www.svaboda.org/a/33503981.html) - [WEBARCHIVE](https://web.archive.org/web/20250815104614/https://www.svaboda.org/a/33503981.html)
+- [«Вялікі воз» беларускіх талентаў. Навошта навукоўцы зь Беларусі другі раз зьбіраліся ў Эстоніі](https://www.svaboda.org/a/33503777.html) - [WEBARCHIVE](https://web.archive.org/web/20250816182054/https://www.svaboda.org/a/33503777.html)
 
 # CityDog
 

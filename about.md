@@ -63,3 +63,5 @@ nanomaterials, functional materials, adsorption, remediation, environmental moni
 - RUS: **Сергей Бесараб** ([Google](https://www.google.com/search?kgmid=/g/11jfg45gk2))
 
 For secure communication, use my public PGP key (fingerprint: **F9F2 237E C324 7FD0 A8DF D8BD 8F3A 6CC2 5399 44AE**), available via [via Keybase](https://keybase.io/steanlab/pgp_keys.asc)
+
+<noscript><a href="https://liberapay.com/steanlab/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>

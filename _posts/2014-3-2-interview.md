@@ -155,7 +155,7 @@ ____
 - [Крызіс кадраў і ідэалагічны дыктат: што стаіць за прыгожымі словамі ідэолагаў аб навуцы](https://belsat.eu/88443393/idealogija-metadychka-navuka)- [WEBARCHIVE](https://web.archive.org/web/20250821102039/https://belsat.eu/88443393/idealogija-metadychka-navuka)
 - [У Беларусі задумалі ўвесці нормы на смурод у гарадах і ўзровень нябачнай цвілі ў жытле. Сур’ёзна?](https://belsat.eu/88806100/normy-na-smurod-i-cvil) - [WEBARCHIVE](https://web.archive.org/web/20250910174107/https://belsat.eu/88806100/normy-na-smurod-i-cvil) - [ARCHIVE.IS](https://archive.is/wip/0JtWR)
 - [Жыць да 140 гадоў? НАН прапанавала беларусам дыету, пашпарт і надзею. Вучоны пракаментаваў](https://belsat.eu/89234083/zhyc-da-140-gado) - [WEBARCHIVE](https://web.archive.org/web/20251001163945/https://belsat.eu/89234083/zhyc-da-140-gado) - [ARCHIVE.IS](https://archive.is/wip/PUojL) - [RU](https://ru.belsat.eu/89236918/zhit-do-140-let) - [WEBARCHIVE](https://web.archive.org/web/20251001182254/https://ru.belsat.eu/89236918/zhit-do-140-let)
-- [Метэазонды на Літву – гэта наўрад ці кантрабандысты. Навуковец падлічыў, наколькі гэта выгадна](https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty) - [WEBARCHIVE](https://web.archive.org/save/https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty)
+- [Метэазонды на Літву – гэта наўрад ці кантрабандысты. Навуковец падлічыў, наколькі гэта выгадна](https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty) - [WEBARCHIVE](https://web.archive.org/web/20251029123345/https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty)
 
 # Зеленый портал
 

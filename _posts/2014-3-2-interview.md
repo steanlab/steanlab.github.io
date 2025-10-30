@@ -71,6 +71,7 @@ ____
 - [Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне](https://nashaniva.com/362665) - [WEBARCHIVE](https://web.archive.org/web/20250306184354/https://nashaniva.com/362665)
 - [«Гэтая партыя прайграная». Беларускія даследчыкі — пра тое, у што ператварылася Акадэмія навук](https://nashaniva.com/364587) - [WEBARCHIVE](https://web.archive.org/web/20250512084843/https://nashaniva.com/364587) - [RU](https://web.archive.org/web/20250512084954/https://nashaniva.com/ru/364587)
 - [«Сыходзіць эпоха навуковага стэндапу». Бесараб пра зняцце з пасады былога кіраўніка Акадэміі навук](https://nashaniva.com/368513) - [WEBARCHIVE](https://web.archive.org/web/20250523082115/https://nashaniva.com/368513)
+- [Што сабой уяўляюць тыя метэазонды, якія прылятаюць з Беларусі ў Літву? Расказвае Бесараб](https://nashaniva.com/380089)-[WEBARCHIVE](https://web.archive.org/web/20251030101404/https://nashaniva.com/380089)
 
 # Беларускае радыё Рацыя
 

@@ -25,6 +25,7 @@ ____
 
 - [Защита диссертаций в РБ: междусобойчик под контролем властей](https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190) - [WEBARCHIVE](https://web.archive.org/web/20230522132153/https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190)
 - ["Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249) - [WEBARCHIVE](https://web.archive.org/web/20240314070855/https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
+- [Лукашенко хочет продавать Европе воздух. Это возможно?](https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576) - [ARCHIVE.IS](https://archive.is/rIW8g)
 
 # Наша Ніва
 

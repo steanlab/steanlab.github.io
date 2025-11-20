@@ -272,6 +272,7 @@ ____
 - [«Вялікі воз» беларускіх талентаў. Навошта навукоўцы зь Беларусі другі раз зьбіраліся ў Эстоніі](https://www.svaboda.org/a/33503777.html) - [WEBARCHIVE](https://web.archive.org/web/20250816182054/https://www.svaboda.org/a/33503777.html)
 - [«Шкодныя рэчывы на тысячы, а то і мільёны гадоў». Якія радыяактыўныя адкіды хочуць захоўваць у Беларусі і ў чым шкода гэтага](https://www.svaboda.org/a/33546939.html) - [WEBARCHIVE](https://web.archive.org/web/20251002093457/https://www.svaboda.org/a/33546939.html)
 - [Беларускіх кантрабандных цыгарэт стала менш удвая, але цяпер яны спыняюць працу аэрапортаў. Як зьмянілася кантрабанда ў Літву](https://www.svaboda.org/a/33586119.html) - [WEBARCHIVE](https://web.archive.org/web/20251111114750/https://www.svaboda.org/a/33586119.html)
+- [За час працы АЭС у Астраўцы электрычнасьць для людзей падаражэла на 36%. Навошта ўладам Беларусі другая атамная станцыя](https://www.svaboda.org/a/33597163.html) - [ARCHIVE.IS](https://archive.is/wip/flQlq)-[WEBARCHIVE](
 
 # CityDog
 

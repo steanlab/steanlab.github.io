@@ -181,6 +181,7 @@ ____
 - [“Зялёная сетка” вызначыла лепшы кантэнт пра экалогію Беларусі](https://greenbelarus.info/green_award) - [WEBARCHIVE](https://web.archive.org/web/20250606163735/https://greenbelarus.info/articles/05-06-2025/v-plastikovom-plenu-ot-vershin-everesta-do-glubin-marianskoy-vpadiny)
 - [«Побач з тэхналогіямі павінна заўсёды ісці этыка»](https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka) - [WEBARCHIVE](https://web.archive.org/web/20250612102239/https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka)
 - ["Эй, агроном, приехали!" Как Беларуси спасти сельское хозяйство от климатического кризиса](https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo) - [WEBARCHIVE](https://web.archive.org/web/20250730085041/https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo)
+- [БелАЭС — уникальна. Такого чудовищного количества проблем, как на ней, не было ни у кого](https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni) - [WEBARCHIVE](https://web.archive.org/web/20251121103027/https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni)
 
 # Обычное утро (ОУ)
 

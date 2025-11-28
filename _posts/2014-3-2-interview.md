@@ -237,6 +237,7 @@ ____
 - [Всего один предмет может превратить ваш завтрак в бомбу замедленного действия. Вот что говорит беларусский ученый](https://news.zerkalo.io/cellar/99730.html) - [WEBARCHIVE](https://web.archive.org/web/20250520191008/https://news.zerkalo.io/cellar/99730.html)
 - [«А мне воняет не гарью, а кошачьим туалетом». Беларусы возмущаются, что пакеты в магазинах неприятно пахнут. Объясняем почему](https://news.zerkalo.io/life/103991.html) - [WEBARCHIVE](https://web.archive.org/web/20250716220427/https://news.zerkalo.io/life/103991.html) - [[2](https://conifer.rhizome.org/steanlab/default-collection/20250716221433/https://news.zerkalo.io/life/103991.html)] - [[archive.is](https://archive.is/3S1Wh)] - [[Telegra.ph](https://telegra.ph/A-mne-vonyaet-ne-garyu-a-koshachim-tualetom-Belarusy-vozmushchayutsya-chto-pakety-v-magazinah-nepriyatno-pahnut-Obyasnyaem-poche-07-17)]
 - [Ученый Бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов](https://news.zerkalo.io/life/106316.html) - [ARCHIVE.IS](https://archive.is/IENGR) - [WEBARCHIVE](https://web.archive.org/web/20250815151931/https://news.zerkalo.io/life/106316.html)
+- [«Всё прячется». Как и зачем власти возвращают в оборот земли, которые раньше относились к загрязненным радиацией](https://news.zerkalo.io/economics/114538.html)-[ARCHIVE.IS](https://archive.is/Oxh5J)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

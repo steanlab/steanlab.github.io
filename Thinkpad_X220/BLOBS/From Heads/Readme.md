@@ -9,13 +9,13 @@ ifd.bin is from an X220 and already ME partition resided to the new minimized si
 
 Manually regenerate gbe.bin:
 blobs/x220/gbe.bin is generated per bincfg from the following coreboot patch: https://review.coreboot.org/c/coreboot/+/44510
+
 And then by following those instructions:
-# Use this target to generate GbE for X220/x230
-gen-gbe-82579LM:
-	cd build/coreboot-4.8.1/util/bincfg/
-	make
-	./bincfg gbe-82579LM.spec gbe-82579LM.set gbe1.bin
-	# duplicate binary as per spec
-	cat gbe1.bin gbe1.bin > ../../../../blobs/xx20/gbe.bin
-	rm -f gbe1.bin
-	cd - 
+Use this target to generate GbE for X220/x230 gen-gbe-82579LM:
+cd build/coreboot-4.8.1/util/bincfg/
+make
+./bincfg gbe-82579LM.spec gbe-82579LM.set gbe1.bin
+duplicate binary as per spec
+cat gbe1.bin gbe1.bin > ../../../../blobs/xx20/gbe.bin
+rm -f gbe1.bin
+cd - 

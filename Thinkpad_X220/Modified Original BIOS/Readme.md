@@ -17,4 +17,4 @@ More memory speed means more heat, 1866 MHz memory speed may increase your lapto
 
 First flash the original v1.45 bios from "Lenovo X220 v1.45 Original Bios" folder, reboot and run flash.bat from one of the modified BIOS folder as an administrator.
 
-These modifications were made by camiloml, BDMaster, Serg008, Oleh/Rambler and others. I'm (ValdikSS) only created hash recomputation and re-signing script and keep backporting all modifications from older to newer BIOS versions.
+These modifications were made by ValdikSS, camiloml, BDMaster, Serg008, Oleh/Rambler and others

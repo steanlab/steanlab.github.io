@@ -1,1 +1,1 @@
-Schematic diagram
+Schematic diagram + Board View and *bdv viewer

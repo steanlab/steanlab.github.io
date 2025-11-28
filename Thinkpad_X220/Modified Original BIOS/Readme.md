@@ -18,3 +18,18 @@ More memory speed means more heat, 1866 MHz memory speed may increase your lapto
 First flash the original v1.45 bios from "Lenovo X220 v1.45 Original Bios" folder, reboot and run flash.bat from one of the modified BIOS folder as an administrator.
 
 These modifications were made by ValdikSS, camiloml, BDMaster, Serg008, Oleh/Rambler and others
+===================================================================
+
+** Lenovo X220 v1.46 Modified Bios (no whitelist only) **
+
+- Whitelist removal only
+- Re-signed with custom key to get rid of 5 beeps on boot
+
+** Lenovo X220 v1.46 Modified Bios (full-blown) **
+
+- Whitelist removal
+- Unlocked AES-NI on "no-encryption" machines
+- Unlocked hidden advanced menu
+- Unlocked memory speed (supports DDR3 1600 and 1866)
+- Disabled package c-state lock at MSR 0xE2 (for Hackintosh)
+- Re-signed with custom key to get rid of 5 beeps on boot

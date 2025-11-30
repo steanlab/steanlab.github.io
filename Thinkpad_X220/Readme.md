@@ -16,3 +16,7 @@ This section covers various hardware (mostly) modifications that extend the crea
 
 5) [Adapter](https://commons.wikimedia.org/wiki/File:M.2_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg) with hardware switch enabling connection of 2x M.2 SSDs and switching between them.
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/M.2_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg" width="600" alt="2x M.2 SSD to SATA adapter">
+
+6) Adapter with [Bluetooth Daughter Card (BDC)](https://www.thinkwiki.org/wiki/Bluetooth_Daughter_Card_slot) slot and Hirose DF12B(3.0)-14DP-0.5V connector to USB 2.0. When using modern WiFi cards with integrated Bluetooth, this slot becomes available for custom use. Originally the slot operates at 3.3V (200 mA max), so the adapter uses a step-up converter to 5V.
+
+7) Adapter/converter from standard 7.9-5.5mm power port to USB Type-C Power Delivery. The module contains a PD trigger chip. X220 expects 20V with PS_ON signal (READY pin, 10kΩ to GND), which the PD trigger emulates. The original connector is a simple 4-pin scheme (+20V, GND, ID, READY), compatible with drop-in modules. 65W PD charger provides 20V/3.25A, 90W — 20V/4.5A.

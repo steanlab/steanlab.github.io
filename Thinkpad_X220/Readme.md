@@ -3,7 +3,7 @@ This section covers various hardware (mostly) modifications that extend the crea
 ## Various adapters expanding laptop functionality
 
 1) Adapter enabling connection of NVMe SSD drives (2230 and 2242 form factors) to the laptop and booting from them (using UEFI payload from coreboot BIOS or external bootloader like Clover).
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/ExpressCard_to_M.2_2230_or_2242_NVMe_SSD_adapter_front_and_back_views.jpg" width="600" alt="EC2M2U adapter front and back views">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/ExpressCard_to_M.2_2230_or_2242_NVMe_SSD_adapter_front_and_back_views.jpg" width="600" alt="EC2M2U adapter front and back views">
 
 3) Adapter for connecting modern mini-PCIe WiFi 6/7 M.2 form factor cards to the laptop. The external cable allows placing the card in a convenient (free) location under the chassis.[web:13]
 

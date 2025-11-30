@@ -14,3 +14,5 @@ This section covers various hardware (mostly) modifications that extend the crea
 4) [Adapter](https://commons.wikimedia.org/wiki/File:M.2_%26_mSATA_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg) with hardware switch enabling connection of M.2 & mSATA SSDs and switching between them.
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/M.2_%26_mSATA_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg" width="600" alt="M.2 and mSATA dual SSD to SATA adapter">
 
+5) [Adapter](https://commons.wikimedia.org/wiki/File:M.2_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg) with hardware switch enabling connection of 2x M.2 SSDs and switching between them.
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/M.2_dual_SSD_to_SATA_adapter_PCB_with_hardware_switch.jpg" width="600" alt="2x M.2 SSD to SATA adapter">

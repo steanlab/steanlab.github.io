@@ -1,3 +1,5 @@
 3D printed
 
 PAD_1 -> X230 USB-C adapter by huffalump on Thingiverse: https://www.thingiverse.com/thing:3732642. This adapter fits the ZYPDS USB-C 20V adapter. https://www.aliexpress.com/i/1005005394532061.html (Mini Single Function). Allowing you to power your thinkpad with a modern 65W 20V 3.25A charger or powerbank. Red wires to positive, black to negative, blue disconnected (fakes a 90W charger). Can route blue through a 10k resistor to negative, providing a 65W data signal to the main board if you wish.
+
+PAD_2 -> https://hackaday.io/project/180691-type-cinkpad. Board type-C to dell charger adapter (https://aliexpress.ru/item/4000298727514.html). Uploaded FreeCAD and STL files but this part need some trimming modifications to fit into thinkpad body. Install PD board into holder part, fix it with epoxy and install assembly to laptop. Solder the PD board: cut old power socket from cable with motherboard connector, then connect black wires to GND, red wires to +20V and blue wire to GND through 10K resistor.

@@ -160,7 +160,7 @@ ____
 - [Метэазонды на Літву – гэта наўрад ці кантрабандысты. Навуковец падлічыў, наколькі гэта выгадна](https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty) - [WEBARCHIVE](https://web.archive.org/web/20251029123345/https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty) - [Archive.is](https://archive.is/wip/EPB68) - [Medium](https://steanlab.medium.com/weather-balloon-3f5bdbced624) - [RU](https://ru.belsat.eu/89732120/meteozondy-na-litvu-eto-vriad-li-kontrabandisty)-[Archive.is](https://archive.is/wip/77N7w)
 - [Замест рыбы – сурагат: навуковец раскрытыкаваў новую распрацоўку для школьных сталовак](https://belsat.eu/89945986/zamest-ryby-suragat)-[WEBARCHIVE](https://web.archive.org/web/20251110160952/https://belsat.eu/89945986/zamest-ryby-suragat)
 - [Як на Літву запускаюць метэазонды з цыгарэтамі – і хто гэта робіць. Расследаванні «Бюро» і LRT](https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu) - [WEBARCHIVE](https://web.archive.org/web/20251111222601/https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu)
-- [Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы]([Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы](https://belsat.eu/90155359/novyya-pagrozy-chalavectvu) - [WEBARCHIVE](https://web.archive.org/web/20251122153854/https://belsat.eu/90155359/novyya-pagrozy-chalavectvu)
+- [Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы](https://belsat.eu/90155359/novyya-pagrozy-chalavectvu) - [WEBARCHIVE](https://web.archive.org/web/20251122153854/https://belsat.eu/90155359/novyya-pagrozy-chalavectvu)
 
 # Зеленый портал
 

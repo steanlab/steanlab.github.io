@@ -1,1 +1,1 @@
-Папка для любимого маленького помощника
+This section covers various hardware (mostly) modifications that extend the creative lifespan of my favorite little subnotebook (Belarusian Wiki page [here](https://be.wikipedia.org/wiki/Lenovo_ThinkPad_X220))

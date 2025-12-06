@@ -296,7 +296,7 @@ ____
 - [Радыяцыйныя пажары: Наколькі гэта небяспечна для жыхароў і што рабіць ва ўмовах замоўчвання інфармацыі ўладамі](https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami) - [WEBARCHIVE](https://web.archive.org/web/20240911125937/https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami/)
 - [Гомельшчына, амерыканскія прэрыі і рэпеленты](https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)- [WEBARCHIVE](https://web.archive.org/web/20250804060133/https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)
 - [Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына](https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/) - [WEBARCHIVE](https://web.archive.org/web/20251130113217/https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/)
-- [Чарнобыль: абы не было панікі (падкаст)](https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/) - [Archive.is](https://archive.is/9t6AH)
+- [Чарнобыль: абы не было панікі](https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/) ([падкаст](/_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3) - [Archive.is](https://archive.is/9t6AH)
 
 # ЕвроРадио
 

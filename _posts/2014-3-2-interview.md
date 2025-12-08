@@ -112,6 +112,7 @@ ____
 - [Сяргей Бесараб: Устойлівы прагноз для Беларусі: буры, шквалы, залевы і тарнада](https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/) - [WEBARCHIVE](https://web.archive.org/web/20250721111026/https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/)
 - [Касіць ці не касіць? Навуковец прапануе «зялёную сярэдзіну»](https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/) - [WEBARCHIVE](https://web.archive.org/web/20250806131927/https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/) - [ARCHIVE.IS](https://archive.is/wip/VE7T3)
 - [Смяротна небяспечная цвіль пагражае чалавецтву](https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)-[WEBARCHIVE](https://web.archive.org/web/20251009063326/https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)
+- [Зіма будзе цяплейшая, але больш кантрасная](https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [WEBARCHIVE](https://web.archive.org/web/20251208165416/https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [AUDIO](/_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3)
 
   # Белсат
 

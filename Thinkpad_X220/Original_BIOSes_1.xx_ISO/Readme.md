@@ -1,8 +1,8 @@
-8duj30us.iso -> bios 1.45 ec 1.24
-8duj29us.iso -> bios 1.44 ec 1.24
-8duj22us.iso -> bios 1.37 ec 1.23
-8duj21uc.iso -> bios 1.36 ec 1.22
-8duj16uc.iso -> bios 1.29 ec 1.20
-8duj12uc.iso -> bios 1.24 ec 1.13
-8duj11uc.iso -> bios 1.22 ec 1.12
-8duj10uc.iso -> bios 1.21	ec 1.11
+- 8duj30us.iso -> bios 1.45 ec 1.24
+- 8duj29us.iso -> bios 1.44 ec 1.24
+- 8duj22us.iso -> bios 1.37 ec 1.23
+- 8duj21uc.iso -> bios 1.36 ec 1.22
+- 8duj16uc.iso -> bios 1.29 ec 1.20
+- 8duj12uc.iso -> bios 1.24 ec 1.13
+- 8duj11uc.iso -> bios 1.22 ec 1.12
+- 8duj10uc.iso -> bios 1.21	ec 1.11

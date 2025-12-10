@@ -6,7 +6,7 @@
 - 8duj12uc.iso -> bios 1.24 ec 1.13
 - 8duj11uc.iso -> bios 1.22 ec 1.12
 - 8duj10uc.iso -> bios 1.21	ec 1.11
-
+- 8duj09uc.iso -> bios 1.19 ec 1.09
 - --------------------------------
 
 #EC_VER_BIOS

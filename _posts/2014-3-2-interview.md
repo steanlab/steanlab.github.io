@@ -376,7 +376,8 @@ ____
 # Беларусcкий расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)
-- [Соль в мешке. Продукцию «Беларуськалия» переименовали и продают ЕС в обход санкций](https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii)-[ARCHIVE.IS](https://archive.is/wip/vXOr9)
+- [Соль в мешке. Продукцию «Беларуськалия» переименовали и продают ЕС в обход санкций](https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii)-[ARCHIVE.IS](https://archive.is/wip/vXOr9)-[WEBARCHIVE RU](https://web.archive.org/web/20251216170118/https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii)-[WEBARCHIVE EN](https://web.archive.org/web/20251216170520/https://investigatebel.org/en/investigations/belaruskaliy-obhodit-sankcii)
+- [Грошы з пырскаў. Як два «гаманцы» Лукашэнкі зладзілі паборы на мяжы](https://investigatebel.org/by/investigations/lukashenko-wallets-border-disinfection)-[EN](https://investigatebel.org/en/investigations/lukashenko-wallets-border-disinfection)-[RU](https://investigatebel.org/ru/investigations/lukashenko-wallets-border-disinfection) - [WEBARCHIVE BY](https://web.archive.org/web/20251216170010/https://investigatebel.org/by/investigations/lukashenko-wallets-border-disinfection) - [WEBARCHIVE RU] - [WEBARCHIVE EN](https://web.archive.org/web/20251216165721/https://investigatebel.org/en/investigations/lukashenko-wallets-border-disinfection)
 
 # Thinktanks
 

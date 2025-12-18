@@ -27,6 +27,10 @@ ____
 - ["Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249) - [WEBARCHIVE](https://web.archive.org/web/20240314070855/https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
 - [Лукашенко хочет продавать Европе воздух. Это возможно?](https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576) - [ARCHIVE.IS](https://archive.is/rIW8g)-[WEBARCHIVE](https://web.archive.org/web/20251120231734/https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576)
 
+# 2digital.news
+
+- [A technooptimist on what will finally burst the AI bubble](https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/)
+
 # Наша Ніва
 
 - [Амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па WiFi замест камер. Аказваецца, беларусы прэзентавалі падобны метад 6 год таму](https://nashaniva.com/310711) ([RU](https://nashaniva.com/ru/310711))- [WEBARCHIVE](https://web.archive.org/web/20230222033251/https://nashaniva.com/310711)

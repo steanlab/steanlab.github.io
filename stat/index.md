@@ -21,23 +21,22 @@ published: true
 
 - 2025-12-13 Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c)
 - 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg)
-- 2024-03-23 Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE)
-- 2021-11-13 Наталья Радина [https://www.youtube.com/watch?v=u7nTonNXh1w](https://www.youtube.com/watch?v=u7nTonNXh1w)
-- 2023-02-25 Дмитрий Лукашук [https://www.youtube.com/watch?v=_7eKT8hdYro](https://www.youtube.com/watch?v=_7eKT8hdYro)
-- 2022-10-22 Татьяна Замировская [https://www.youtube.com/watch?v=FV_GpsRX_PI](https://www.youtube.com/watch?v=FV_GpsRX_PI)
 - 2025-11-08 Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)
-- 2021-05-20 Антон Мартыненко [https://www.youtube.com/watch?v=ROPNLKBBY0Y](https://www.youtube.com/watch?v=ROPNLKBBY0Y)
-- 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg)
-- 2024-05-11 Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c)
-- 2023-09-30 Сергей Подсосонный [https://www.youtube.com/watch?v=AKbZnZ1Urws](https://www.youtube.com/watch?v=AKbZnZ1Urws)
-- 2023-04-01 Александр Ивулин [https://www.youtube.com/watch?v=psz43wkPoJ0](https://www.youtube.com/watch?v=psz43wkPoJ0)
-- 2023-01-28 Дарья Чульцова [https://www.youtube.com/watch?v=HeqwbwTOAZ0](https://www.youtube.com/watch?v=HeqwbwTOAZ0)
-- 2021-05-06 Константин Каверин [https://www.youtube.com/watch?v=HSKC-PHCjVg](https://www.youtube.com/watch?v=HSKC-PHCjVg)
 - 2025-04-26 Федор Павлюченко [https://www.youtube.com/watch?v=-rCDcdt_xuY](https://www.youtube.com/watch?v=-rCDcdt_xuY)
+- 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg)
 - 2024-12-21 Дмитрий Гурневич [https://www.youtube.com/watch?v=Zmql_ZdSOso](https://www.youtube.com/watch?v=Zmql_ZdSOso)
 - 2024-08-17 Матвей Гонопольский [https://www.youtube.com/watch?v=_DQH2wLaxBw](https://www.youtube.com/watch?v=_DQH2wLaxBw)
+- 2024-05-11 Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c)
+- 2024-03-23 Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE)
+- 2023-09-30 Сергей Подсосонный [https://www.youtube.com/watch?v=AKbZnZ1Urws](https://www.youtube.com/watch?v=AKbZnZ1Urws)
+- 2023-04-01 Александр Ивулин [https://www.youtube.com/watch?v=psz43wkPoJ0](https://www.youtube.com/watch?v=psz43wkPoJ0)
+- 2023-02-25 Дмитрий Лукашук [https://www.youtube.com/watch?v=_7eKT8hdYro](https://www.youtube.com/watch?v=_7eKT8hdYro)
+- 2023-01-28 Дарья Чульцова [https://www.youtube.com/watch?v=HeqwbwTOAZ0](https://www.youtube.com/watch?v=HeqwbwTOAZ0)
+- 2022-10-22 Татьяна Замировская [https://www.youtube.com/watch?v=FV_GpsRX_PI](https://www.youtube.com/watch?v=FV_GpsRX_PI)
 - 2021-12-11 Дмитрий Навоша [https://www.youtube.com/watch?v=Vnu0REH9KRE](https://www.youtube.com/watch?v=Vnu0REH9KRE)
-​
+- 2021-11-13 Наталья Радина [https://www.youtube.com/watch?v=u7nTonNXh1w](https://www.youtube.com/watch?v=u7nTonNXh1w)
+- 2021-05-20 Антон Мартыненко [https://www.youtube.com/watch?v=ROPNLKBBY0Y](https://www.youtube.com/watch?v=ROPNLKBBY0Y)
+- 2021-05-06 Константин Каверин [https://www.youtube.com/watch?v=HSKC-PHCjVg](https://www.youtube.com/watch?v=HSKC-PHCjVg)​
 
 # Экономисты
 

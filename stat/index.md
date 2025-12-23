@@ -11,7 +11,6 @@ published: true
 
 * TOC
 {:toc}
-____
 
 # Журналисты
 

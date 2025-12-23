@@ -57,7 +57,7 @@ ____
 
 - Марина Ментусова [https://www.youtube.com/watch?v=SHr3EXCahek](https://www.youtube.com/watch?v=SHr3EXCahek)
 - Екатерина Раецкая [https://www.youtube.com/watch?v=5CM6Vrvy3q0](https://www.youtube.com/watch?v=5CM6Vrvy3q0)
-​- Инга Хрущева [https://www.youtube.com/watch?v=_gR8M5DLf68](https://www.youtube.com/watch?v=_gR8M5DLf68)
+- Инга Хрущева [https://www.youtube.com/watch?v=_gR8M5DLf68](https://www.youtube.com/watch?v=_gR8M5DLf68)
 - Анна Бонд [https://www.youtube.com/watch?v=6u5KOoUEgU0](https://www.youtube.com/watch?v=6u5KOoUEgU0)
 - Денис Дудинский [https://www.youtube.com/watch?v=_ILwDOmkPK4](https://www.youtube.com/watch?v=_ILwDOmkPK4)
 - Александр Жданович (Маляваныч) [https://www.youtube.com/watch?v=5CVzBZRDVv0](https://www.youtube.com/watch?v=5CVzBZRDVv0)
@@ -143,7 +143,7 @@ ____
 - Игорь «Янки» Янков [https://www.youtube.com/watch?v=rrC-KTKU_Kg](https://www.youtube.com/watch?v=rrC-KTKU_Kg)
 - Алексей «Дэн» Ковальчук [https://www.youtube.com/watch?v=ejxbk8e9pcI](https://www.youtube.com/watch?v=ejxbk8e9pcI)
 - Олег Талерчик [https://www.youtube.com/watch?v=iFyiXTZFAZY](https://www.youtube.com/watch?v=iFyiXTZFAZY)
-- Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский [https://www.youtube.com/watch?v=YJt5KWBDes4](https://www.youtube.com/watch?v=YJt5KWBDes4)
+- [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский] (https://www.youtube.com/watch?v=YJt5KWBDes4)
 - Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
 - Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
 - Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)
@@ -152,7 +152,7 @@ ____
 - Александр Азаров [https://www.youtube.com/watch?v=60V8abAFKBI](https://www.youtube.com/watch?v=60V8abAFKBI)
 - Артем «Грот» Кузьмич [https://www.youtube.com/watch?v=MXIe43j3nXU](https://www.youtube.com/watch?v=MXIe43j3nXU)
 - Андрей Остапович [https://www.youtube.com/watch?v=6RNaI1KAssM](https://www.youtube.com/watch?v=6RNaI1KAssM)
-- Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков [https://www.youtube.com/watch?v=1oy4Qe_B44M](https://www.youtube.com/watch?v=1oy4Qe_B44M)
+- [Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков](https://www.youtube.com/watch?v=1oy4Qe_B44M)
 
 # Актеры/Кино/Режиссура
 

@@ -54,7 +54,7 @@ published: true
 - 2021-11-06 Артем Шрайбман [https://www.youtube.com/watch?v=RKDwtINhMw4](https://www.youtube.com/watch?v=RKDwtINhMw4)
 - 2020-11-05 Артем Шрайбман [https://www.youtube.com/watch?v=B895gqXyuzY](https://www.youtube.com/watch?v=B895gqXyuzY)
 - 2025-05-24 Андрей Маховский [https://www.youtube.com/watch?v=L2hogW-hYrI](https://www.youtube.com/watch?v=L2hogW-hYrI)
-- Лев Львовский [https://www.youtube.com/watch?v=5oFULVgU80M](https://www.youtube.com/watch?v=5oFULVgU80M)
+- 2024-10-26 Лев Львовский [https://www.youtube.com/watch?v=5oFULVgU80M](https://www.youtube.com/watch?v=5oFULVgU80M)
 - 2024-01-27 Алесь Олехнович [https://www.youtube.com/watch?v=7NSS9Em3BKI](https://www.youtube.com/watch?v=7NSS9Em3BKI)
 ​
 # Ведущие
@@ -122,11 +122,10 @@ published: true
 - 2022-05-14 Андрей Вардомацкий [https://www.youtube.com/watch?v=Z2lcb7ztAXw](https://www.youtube.com/watch?v=Z2lcb7ztAXw)
 - 2023-03-11 Тимофей Акудович [https://www.youtube.com/watch?v=LXPnI0yLJ_0](https://www.youtube.com/watch?v=LXPnI0yLJ_0)
 - 2025-05-17 Виктор Якубов [https://www.youtube.com/watch?v=yZ1cPI-OPpY](https://www.youtube.com/watch?v=yZ1cPI-OPpY)
-- Русцис Камунтавичус [https://www.youtube.com/watch?v=3SIi_w_PobM](https://www.youtube.com/watch?v=3SIi_w_PobM)
+- 2024-06-22 Рустис Камунтавичус [https://www.youtube.com/watch?v=3SIi_w_PobM](https://www.youtube.com/watch?v=3SIi_w_PobM)
 - 2022-11-26 Тамара Эйдэльман [https://www.youtube.com/watch?v=lKB2o6AizPw](https://www.youtube.com/watch?v=lKB2o6AizPw)
 - 2024-05-04 Ольга Шпарага [https://www.youtube.com/watch?v=JaTD8I6NExM](https://www.youtube.com/watch?v=JaTD8I6NExM)
 - 2025-10-25 Владимир Мацкевич [https://www.youtube.com/watch?v=eSd-bHv_cw8](https://www.youtube.com/watch?v=eSd-bHv_cw8)
-- Владимир Мацкевич [https://www.youtube.com/watch?v=EddcEIN4m_w](https://www.youtube.com/watch?v=EddcEIN4m_w)
 - 2024-03-09 Ирина Сидорская [https://www.youtube.com/watch?v=rgmQs1xXPaQ](https://www.youtube.com/watch?v=rgmQs1xXPaQ)
 ​
 # Врачи
@@ -145,18 +144,18 @@ published: true
 - 2024-09-21 ПКК «Хип» [https://www.youtube.com/watch?v=rr_r7TR264A](https://www.youtube.com/watch?v=rr_r7TR264A)
 - 2024-09-14 ПКК «Альгерд» [https://www.youtube.com/watch?v=IDdomo6wksM](https://www.youtube.com/watch?v=IDdomo6wksM)
 - 2024-08-24 Игорь «Янки» Янков [https://www.youtube.com/watch?v=rrC-KTKU_Kg](https://www.youtube.com/watch?v=rrC-KTKU_Kg)
-- Алексей «Дэн» Ковальчук [https://www.youtube.com/watch?v=ejxbk8e9pcI](https://www.youtube.com/watch?v=ejxbk8e9pcI)
+- 2023-11-25 Алексей «Дэн» Ковальчук [https://www.youtube.com/watch?v=ejxbk8e9pcI](https://www.youtube.com/watch?v=ejxbk8e9pcI)
 - 2023-08-26 Олег Талерчик [https://www.youtube.com/watch?v=iFyiXTZFAZY](https://www.youtube.com/watch?v=iFyiXTZFAZY)
-- [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский](https://www.youtube.com/watch?v=YJt5KWBDes4)
-- Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
-- Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
-- Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)
-- Игорь «Янки» Янков [https://www.youtube.com/watch?v=Xi_T40IBBdY](https://www.youtube.com/watch?v=Xi_T40IBBdY)
+- 2023-08-19 [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский](https://www.youtube.com/watch?v=YJt5KWBDes4)
+- 2023-11-11 Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
+- 2023-08-05 Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
+- 2023-07-08 Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)
+- 2023-07-01 Игорь «Янки» Янков [https://www.youtube.com/watch?v=Xi_T40IBBdY](https://www.youtube.com/watch?v=Xi_T40IBBdY)
 - 2023-01-14 Валерий Сахащик [https://www.youtube.com/watch?v=MXrXcVXMJ_0](https://www.youtube.com/watch?v=MXrXcVXMJ_0)
 - 2022-09-10 Александр Азаров [https://www.youtube.com/watch?v=60V8abAFKBI](https://www.youtube.com/watch?v=60V8abAFKBI)
-- Артем «Грот» Кузьмич [https://www.youtube.com/watch?v=MXIe43j3nXU](https://www.youtube.com/watch?v=MXIe43j3nXU)
+- 2024-09-07 Артем «Грот» Кузьмич [https://www.youtube.com/watch?v=MXIe43j3nXU](https://www.youtube.com/watch?v=MXIe43j3nXU)
 - 2024-03-30 Андрей Остапович [https://www.youtube.com/watch?v=6RNaI1KAssM](https://www.youtube.com/watch?v=6RNaI1KAssM)
-- [Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков](https://www.youtube.com/watch?v=1oy4Qe_B44M)
+- 2022-03-19 [Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков](https://www.youtube.com/watch?v=1oy4Qe_B44M)
 
 # Актеры/Кино/Режиссура
 
@@ -195,6 +194,7 @@ published: true
 - 2021-09-25 Илья Салей [https://www.youtube.com/watch?v=WcVal7KgKNs](https://www.youtube.com/watch?v=WcVal7KgKNs)
 - 2022-10-08 Алексей Леончик [https://www.youtube.com/watch?v=uHGhqy5rsaw](https://www.youtube.com/watch?v=uHGhqy5rsaw)
 - 2023-02-18 Алесь Михалевич [https://www.youtube.com/watch?v=pJwBh9GakTo](https://www.youtube.com/watch?v=pJwBh9GakTo)
+- 2023-12-23 Наталья Мацкевич [https://www.youtube.com/watch?v=EddcEIN4m_w](https://www.youtube.com/watch?v=EddcEIN4m_w)
 
 # Спортсмены и спортивные тренеры
 
@@ -236,7 +236,7 @@ published: true
 - 2021-12-18 Вадим Прокопьев [https://www.youtube.com/watch?v=3607Kt4Poms](https://www.youtube.com/watch?v=3607Kt4Poms)
 - 2021-07-31 Александра Зверева [https://www.youtube.com/watch?v=NMwfJY8loaI](https://www.youtube.com/watch?v=NMwfJY8loaI)
 - 2021-07-17 Антон Мотолько [https://www.youtube.com/watch?v=Mic9VbXSkuM](https://www.youtube.com/watch?v=Mic9VbXSkuM)
-- Наста Базар [https://www.youtube.com/watch?v=zapLYOio0dM](https://www.youtube.com/watch?v=zapLYOio0dM)
+- 2021-09-04 Наста Базар [https://www.youtube.com/watch?v=zapLYOio0dM](https://www.youtube.com/watch?v=zapLYOio0dM)
 - 2024-06-29 Анастасия Костюгова [https://www.youtube.com/watch?v=dErr5Z1CH84](https://www.youtube.com/watch?v=dErr5Z1CH84)
 - 2022-07-23 Дмитрий Щигельский [https://www.youtube.com/watch?v=puZbReTcXi0](https://www.youtube.com/watch?v=puZbReTcXi0)
 
@@ -289,7 +289,7 @@ published: true
 # Дипломаты
 
 - 2023-09-23 Владимир Остапенко [https://www.youtube.com/watch?v=9aJ6iLFvPns](https://www.youtube.com/watch?v=9aJ6iLFvPns)
-- Павел Мацукевич [https://www.youtube.com/watch?v=w456Jrsre3I](https://www.youtube.com/watch?v=w456Jrsre3I)
+- 2023-04-22 Павел Мацукевич [https://www.youtube.com/watch?v=w456Jrsre3I](https://www.youtube.com/watch?v=w456Jrsre3I)
 - 2022-02-26 Анатолий Котов [https://www.youtube.com/watch?v=-ooJCboKiIk](https://www.youtube.com/watch?v=-ooJCboKiIk)
 ​
 # Священники

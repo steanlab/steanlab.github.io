@@ -7,7 +7,7 @@ published: true
 ✍️ Посвящается памяти [Никиты Мелкозерова](https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D1%96%D1%82%D0%B0_%D0%9C%D0%B5%D0%BB%D0%BA%D0%B0%D0%B7%D1%91%D1%80%D0%B0%D1%9E)
 - Общая информация: на 23.12.2005 общее количество просмотров видео канала составляет 32 948 103 просмотров. Или в среднем 143 878 просмотров на видео (их всего 229 штук). В ТОП-5 по количество просмотров (убывание) входят видео про [Игоря «Янки» Янкова](https://www.youtube.com/watch?v=Xi_T40IBBdY) - 1 174 874, [Алексея «Дэн» Ковальчука](https://www.youtube.com/watch?v=ejxbk8e9pcI) - 948 453, [Артема Шрайбмана](https://www.youtube.com/watch?v=B895gqXyuzY) - 740 108, [Cветлану Тихановскую](https://www.youtube.com/watch?v=4MXPNwLqxyM) - 595 384 и [Вадима Прокопьева](https://www.youtube.com/watch?v=3607Kt4Poms) - 513 562
 
-Ниже представлен путеводитель по персоналиям канала @malina_by с разбивкой про профессиональной принадлежности. На диаграмме показана сводная статистика. Как видно предпочтения в своих интервью Никита отдавал музыкантам. Остальное делилось поровну между военными, учеными и журналистами
+Ниже представлен путеводитель по персоналиям канала @malina_by с разбивкой про профессиональной принадлежности, добавляются и даты интервью. На диаграмме показана сводная статистика. Как видно предпочтения в своих интервью Никита отдавал музыкантам. Остальное делилось поровну между военными, учеными и журналистами
 
 ![статистика интервью](./stat.jpg)
 
@@ -19,13 +19,13 @@ published: true
 
 # Журналисты
 
-- Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c)
-- Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg)
+- 2025-12-13 Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c)
+- 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg)
 - Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE)
 - Наталья Радина [https://www.youtube.com/watch?v=u7nTonNXh1w](https://www.youtube.com/watch?v=u7nTonNXh1w)
 - Дмитрий Лукашук [https://www.youtube.com/watch?v=_7eKT8hdYro](https://www.youtube.com/watch?v=_7eKT8hdYro)
 - Татьяна Замировская [https://www.youtube.com/watch?v=FV_GpsRX_PI](https://www.youtube.com/watch?v=FV_GpsRX_PI)
-- Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)
+- 2025-11-08 Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)
 - Антон Мартыненко [https://www.youtube.com/watch?v=ROPNLKBBY0Y](https://www.youtube.com/watch?v=ROPNLKBBY0Y)
 - Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg)
 - Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c)
@@ -41,8 +41,8 @@ published: true
 
 # Экономисты
 
-- Александр Кнырович [https://www.youtube.com/watch?v=9N_gZi7EoOs](https://www.youtube.com/watch?v=9N_gZi7EoOs)
-- Ольга Лойко [https://www.youtube.com/watch?v=fgFZPoxJAjM](https://www.youtube.com/watch?v=fgFZPoxJAjM)
+- 2025-12-20 Александр Кнырович [https://www.youtube.com/watch?v=9N_gZi7EoOs](https://www.youtube.com/watch?v=9N_gZi7EoOs)
+- 2025-06-28 Ольга Лойко [https://www.youtube.com/watch?v=fgFZPoxJAjM](https://www.youtube.com/watch?v=fgFZPoxJAjM)
 - Сергей Чалый [https://www.youtube.com/watch?v=nHwEo1JrEA0](https://www.youtube.com/watch?v=nHwEo1JrEA0)
 - Артем Шрайбман [https://www.youtube.com/watch?v=qAlEe8DS62A](https://www.youtube.com/watch?v=qAlEe8DS62A)
 - Павел Данейко [https://www.youtube.com/watch?v=P3sfrlb_Zzo](https://www.youtube.com/watch?v=P3sfrlb_Zzo)
@@ -60,14 +60,14 @@ published: true
 ​
 # Ведущие
 
-- Марина Ментусова [https://www.youtube.com/watch?v=SHr3EXCahek](https://www.youtube.com/watch?v=SHr3EXCahek)
-- Екатерина Раецкая [https://www.youtube.com/watch?v=5CM6Vrvy3q0](https://www.youtube.com/watch?v=5CM6Vrvy3q0)
+- 2025-09 13 Марина Ментусова [https://www.youtube.com/watch?v=SHr3EXCahek](https://www.youtube.com/watch?v=SHr3EXCahek)
+- 2025-11-15 Екатерина Раецкая [https://www.youtube.com/watch?v=5CM6Vrvy3q0](https://www.youtube.com/watch?v=5CM6Vrvy3q0)
 - Инга Хрущева [https://www.youtube.com/watch?v=_gR8M5DLf68](https://www.youtube.com/watch?v=_gR8M5DLf68)
 - Анна Бонд [https://www.youtube.com/watch?v=6u5KOoUEgU0](https://www.youtube.com/watch?v=6u5KOoUEgU0)
 - Денис Дудинский [https://www.youtube.com/watch?v=_ILwDOmkPK4](https://www.youtube.com/watch?v=_ILwDOmkPK4)
 - Александр Жданович (Маляваныч) [https://www.youtube.com/watch?v=5CVzBZRDVv0](https://www.youtube.com/watch?v=5CVzBZRDVv0)
-- Антон Беляев [https://www.youtube.com/watch?v=EKLmhYJtHu8](https://www.youtube.com/watch?v=EKLmhYJtHu8)
-- Иван Прус [https://www.youtube.com/watch?v=Tc13pXOeMxU](https://www.youtube.com/watch?v=Tc13pXOeMxU)
+- 2025-11-22 Антон Беляев [https://www.youtube.com/watch?v=EKLmhYJtHu8](https://www.youtube.com/watch?v=EKLmhYJtHu8)
+- 2025-10-04 Иван Прус [https://www.youtube.com/watch?v=Tc13pXOeMxU](https://www.youtube.com/watch?v=Tc13pXOeMxU)
 - Коля Серьга [https://www.youtube.com/watch?v=X98f8IBHTBk](https://www.youtube.com/watch?v=X98f8IBHTBk)
 - Глеб Семенов [https://www.youtube.com/watch?v=bQT9-0h5B2U](https://www.youtube.com/watch?v=bQT9-0h5B2U)
 - Иван Подрез [https://www.youtube.com/watch?v=QHY8Q8WnXVY](https://www.youtube.com/watch?v=QHY8Q8WnXVY)
@@ -77,9 +77,9 @@ published: true
 ​
 # Политики
 
-- Павел Латушко [https://www.youtube.com/watch?v=AnOTIRAOIqg](https://www.youtube.com/watch?v=AnOTIRAOIqg)
-- Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY)
-- Сергей Тихановский [https://www.youtube.com/watch?v=VpRL-VUvWUY](https://www.youtube.com/watch?v=VpRL-VUvWUY)
+- 2025-08-30 Павел Латушко [https://www.youtube.com/watch?v=AnOTIRAOIqg](https://www.youtube.com/watch?v=AnOTIRAOIqg)
+- 2025-08-02 Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY)
+- 2025-07-06 Сергей Тихановский [https://www.youtube.com/watch?v=VpRL-VUvWUY](https://www.youtube.com/watch?v=VpRL-VUvWUY)
 - Денис Кучинский [https://www.youtube.com/watch?v=J0JiZE-PlJE](https://www.youtube.com/watch?v=J0JiZE-PlJE)
 - Алесь Логвинец [https://www.youtube.com/watch?v=fUTDroJhZmY](https://www.youtube.com/watch?v=fUTDroJhZmY)
 - Валерий Цепкало [https://www.youtube.com/watch?v=pYl_VbrFfHM](https://www.youtube.com/watch?v=pYl_VbrFfHM)
@@ -93,11 +93,11 @@ published: true
 - Павел Латушко [https://www.youtube.com/watch?v=zzxU3XJslyk](https://www.youtube.com/watch?v=zzxU3XJslyk)
 - Светлана Тихановская [https://www.youtube.com/watch?v=4MXPNwLqxyM](https://www.youtube.com/watch?v=4MXPNwLqxyM)
 - Алана Гебремариам [https://www.youtube.com/watch?v=b_4fAXVl2ag](https://www.youtube.com/watch?v=b_4fAXVl2ag)
-- Евгений Афанагель [https://www.youtube.com/watch?v=6tDVVKKtKNA](https://www.youtube.com/watch?v=6tDVVKKtKNA)
+- 2025-10-18 Евгений Афанагель [https://www.youtube.com/watch?v=6tDVVKKtKNA](https://www.youtube.com/watch?v=6tDVVKKtKNA)
 
 # Литераторы
 
-- Владимир Короткевич [https://www.youtube.com/watch?v=Mog_TNCbias](https://www.youtube.com/watch?v=Mog_TNCbias)
+- 2025-12-06 Владимир Короткевич [https://www.youtube.com/watch?v=Mog_TNCbias](https://www.youtube.com/watch?v=Mog_TNCbias)
 - Саша Филипенко [https://www.youtube.com/watch?v=UgmPD5hb1fc](https://www.youtube.com/watch?v=UgmPD5hb1fc)
 - Виктор Мартинович [https://www.youtube.com/watch?v=Z1bMAtAEnYE](https://www.youtube.com/watch?v=Z1bMAtAEnYE)
 - Владимир Некляев [https://www.youtube.com/watch?v=UuffJSAFhYg](https://www.youtube.com/watch?v=UuffJSAFhYg)
@@ -111,14 +111,14 @@ published: true
 
 # Ученые и преподаватели
 
-- Татьяна Щитцова [https://www.youtube.com/watch?v=FHMfxRCLqAg](https://www.youtube.com/watch?v=FHMfxRCLqAg)
-- Роза Турарбекова [https://www.youtube.com/watch?v=e3ZMMcZiCs0](https://www.youtube.com/watch?v=e3ZMMcZiCs0)
-- Наталья Дулина [https://www.youtube.com/watch?v=xOdJ1F12uiI](https://www.youtube.com/watch?v=xOdJ1F12uiI)
+- 2025-07-26 Татьяна Щитцова [https://www.youtube.com/watch?v=FHMfxRCLqAg](https://www.youtube.com/watch?v=FHMfxRCLqAg)
+- 2025-10-11 Роза Турарбекова [https://www.youtube.com/watch?v=e3ZMMcZiCs0](https://www.youtube.com/watch?v=e3ZMMcZiCs0)
+- 2025-07-12 Наталья Дулина [https://www.youtube.com/watch?v=xOdJ1F12uiI](https://www.youtube.com/watch?v=xOdJ1F12uiI)
 - Иван Сивцов [https://www.youtube.com/watch?v=BuawLlZ6vmY](https://www.youtube.com/watch?v=BuawLlZ6vmY)
 - Павел Терешкович [https://www.youtube.com/watch?v=PCjL-ZeSJb4](https://www.youtube.com/watch?v=PCjL-ZeSJb4)
 - Геннадий Коршунов [https://www.youtube.com/watch?v=DhpxJmtazTY](https://www.youtube.com/watch?v=DhpxJmtazTY)
 - Сергей Бесараб [https://www.youtube.com/watch?v=ffLIJD4RGxs](https://www.youtube.com/watch?v=ffLIJD4RGxs)
-- Владислав Иванов [https://www.youtube.com/watch?v=vMrbFaY8V1g](https://www.youtube.com/watch?v=vMrbFaY8V1g)
+- 2025-07-19 Владислав Иванов [https://www.youtube.com/watch?v=vMrbFaY8V1g](https://www.youtube.com/watch?v=vMrbFaY8V1g)
 - Илья Колмановский [https://www.youtube.com/watch?v=AdjbOjoWovc](https://www.youtube.com/watch?v=AdjbOjoWovc)
 - Андрей Вардомацкий [https://www.youtube.com/watch?v=Z2lcb7ztAXw](https://www.youtube.com/watch?v=Z2lcb7ztAXw)
 - Тимофей Акудович [https://www.youtube.com/watch?v=LXPnI0yLJ_0](https://www.youtube.com/watch?v=LXPnI0yLJ_0)
@@ -126,13 +126,13 @@ published: true
 - Русцис Камунтавичус [https://www.youtube.com/watch?v=3SIi_w_PobM](https://www.youtube.com/watch?v=3SIi_w_PobM)
 - Тамара Эйдэльман [https://www.youtube.com/watch?v=lKB2o6AizPw](https://www.youtube.com/watch?v=lKB2o6AizPw)
 - Ольга Шпарага [https://www.youtube.com/watch?v=JaTD8I6NExM](https://www.youtube.com/watch?v=JaTD8I6NExM)
-- Владимир Мацкевич [https://www.youtube.com/watch?v=eSd-bHv_cw8](https://www.youtube.com/watch?v=eSd-bHv_cw8)
+- 2025-10-25 Владимир Мацкевич [https://www.youtube.com/watch?v=eSd-bHv_cw8](https://www.youtube.com/watch?v=eSd-bHv_cw8)
 - Владимир Мацкевич [https://www.youtube.com/watch?v=EddcEIN4m_w](https://www.youtube.com/watch?v=EddcEIN4m_w)
 - Ирина Сидорская [https://www.youtube.com/watch?v=rgmQs1xXPaQ](https://www.youtube.com/watch?v=rgmQs1xXPaQ)
 ​
 # Врачи
 
-- Владимир Пикиреня [https://www.youtube.com/watch?v=llvRS4Z6yH8](https://www.youtube.com/watch?v=llvRS4Z6yH8)
+- 2025-06-14 Владимир Пикиреня [https://www.youtube.com/watch?v=llvRS4Z6yH8](https://www.youtube.com/watch?v=llvRS4Z6yH8)
 - Станислав Соловей [https://www.youtube.com/watch?v=tRpnmUVh_N0](https://www.youtube.com/watch?v=tRpnmUVh_N0)
 - Лидия Тарасенко [https://www.youtube.com/watch?v=sjf7YSu3JZ4](https://www.youtube.com/watch?v=sjf7YSu3JZ4)
 - Лидия Тарасенко [https://www.youtube.com/watch?v=9WSWowlmiZY](https://www.youtube.com/watch?v=9WSWowlmiZY)
@@ -178,11 +178,11 @@ published: true
 ​
 # Политологи
 
-- Валерий Корбалевич [https://www.youtube.com/watch?v=AmyCwYgt5-E](https://www.youtube.com/watch?v=AmyCwYgt5-E)
+- 2025-06-21 Валерий Корбалевич [https://www.youtube.com/watch?v=AmyCwYgt5-E](https://www.youtube.com/watch?v=AmyCwYgt5-E)
 - Виталий Цыганков [https://www.youtube.com/watch?v=nyi-hv8sTAE](https://www.youtube.com/watch?v=nyi-hv8sTAE)
 - Максим Кац [https://www.youtube.com/watch?v=zYinziKhn6E](https://www.youtube.com/watch?v=zYinziKhn6E)
 - Леся Рудник [https://www.youtube.com/watch?v=iz8WSVUH8Oc](https://www.youtube.com/watch?v=iz8WSVUH8Oc)
-- Александр Класковский [https://www.youtube.com/watch?v=GSwCAcFqnDQ](https://www.youtube.com/watch?v=GSwCAcFqnDQ)
+- 2025-09-06 Александр Класковский [https://www.youtube.com/watch?v=GSwCAcFqnDQ](https://www.youtube.com/watch?v=GSwCAcFqnDQ)
 - Валерий Корбалевич [https://www.youtube.com/watch?v=TNLlJrS_Guk](https://www.youtube.com/watch?v=TNLlJrS_Guk)
 - Игорь Тышкевич [https://www.youtube.com/watch?v=VFQXyeX614Y](https://www.youtube.com/watch?v=VFQXyeX614Y)
 - Александр Добровольский [https://www.youtube.com/watch?v=hLe4Y4yQtng](https://www.youtube.com/watch?v=hLe4Y4yQtng)
@@ -231,7 +231,7 @@ published: true
 
 # Политические активисты
 
-- Николай Дедок [https://www.youtube.com/watch?v=pz0Ul8MSNz4](https://www.youtube.com/watch?v=pz0Ul8MSNz4)
+- 2025-09-20 Николай Дедок [https://www.youtube.com/watch?v=pz0Ul8MSNz4](https://www.youtube.com/watch?v=pz0Ul8MSNz4)
 - Палина Шарендо-Панасюк [https://www.youtube.com/watch?v=etyMmZfgX6c](https://www.youtube.com/watch?v=etyMmZfgX6c)
 - Ольга Токарчук [https://www.youtube.com/watch?v=84zGAp1rD5o](https://www.youtube.com/watch?v=84zGAp1rD5o)
 - Вадим Прокопьев [https://www.youtube.com/watch?v=3607Kt4Poms](https://www.youtube.com/watch?v=3607Kt4Poms)
@@ -262,7 +262,7 @@ published: true
 - Павел Городницкий (РСП) [https://www.youtube.com/watch?v=t5PMQaXjGEE](https://www.youtube.com/watch?v=t5PMQaXjGEE)
 - Анастасия Шпаковская (NAKA) [https://www.youtube.com/watch?v=M6W78BMBH28](https://www.youtube.com/watch?v=M6W78BMBH28)
 - Ольга Барабанщикова [https://www.youtube.com/watch?v=ierNxCypVhc](https://www.youtube.com/watch?v=ierNxCypVhc)
-- Геннадий Шульман [https://www.youtube.com/watch?v=YrSZZOAZYyI](https://www.youtube.com/watch?v=YrSZZOAZYyI)
+- 2025-11-29 Геннадий Шульман [https://www.youtube.com/watch?v=YrSZZOAZYyI](https://www.youtube.com/watch?v=YrSZZOAZYyI)
 
 # Блогеры  
 

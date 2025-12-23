@@ -40,7 +40,7 @@ ____
 - Ольга Лойко [https://www.youtube.com/watch?v=fgFZPoxJAjM](https://www.youtube.com/watch?v=fgFZPoxJAjM)
 - Сергей Чалый [https://www.youtube.com/watch?v=nHwEo1JrEA0](https://www.youtube.com/watch?v=nHwEo1JrEA0)
 - Артем Шрайбман [https://www.youtube.com/watch?v=qAlEe8DS62A](https://www.youtube.com/watch?v=qAlEe8DS62A)
-​- Павел Данейко [https://www.youtube.com/watch?v=P3sfrlb_Zzo](https://www.youtube.com/watch?v=P3sfrlb_Zzo)
+- Павел Данейко [https://www.youtube.com/watch?v=P3sfrlb_Zzo](https://www.youtube.com/watch?v=P3sfrlb_Zzo)
 - Сергей Чалый [https://www.youtube.com/watch?v=q7WCjOqdVK4](https://www.youtube.com/watch?v=q7WCjOqdVK4)
 - Сергей Чалый [https://www.youtube.com/watch?v=tLJRgnGI848](https://www.youtube.com/watch?v=tLJRgnGI848)
 - Лев Львовский [https://www.youtube.com/watch?v=hfUmagQKDrs](https://www.youtube.com/watch?v=hfUmagQKDrs)
@@ -56,7 +56,7 @@ ____
 # Ведущие
 
 - Марина Ментусова [https://www.youtube.com/watch?v=SHr3EXCahek](https://www.youtube.com/watch?v=SHr3EXCahek)
-​- Екатерина Раецкая [https://www.youtube.com/watch?v=5CM6Vrvy3q0](https://www.youtube.com/watch?v=5CM6Vrvy3q0)
+- Екатерина Раецкая [https://www.youtube.com/watch?v=5CM6Vrvy3q0](https://www.youtube.com/watch?v=5CM6Vrvy3q0)
 ​- Инга Хрущева [https://www.youtube.com/watch?v=_gR8M5DLf68](https://www.youtube.com/watch?v=_gR8M5DLf68)
 - Анна Бонд [https://www.youtube.com/watch?v=6u5KOoUEgU0](https://www.youtube.com/watch?v=6u5KOoUEgU0)
 - Денис Дудинский [https://www.youtube.com/watch?v=_ILwDOmkPK4](https://www.youtube.com/watch?v=_ILwDOmkPK4)
@@ -73,7 +73,7 @@ ____
 # Политики
 
 - Павел Латушко [https://www.youtube.com/watch?v=AnOTIRAOIqg](https://www.youtube.com/watch?v=AnOTIRAOIqg)
-​- Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY)
+- Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY)
 - Сергей Тихановский [https://www.youtube.com/watch?v=VpRL-VUvWUY](https://www.youtube.com/watch?v=VpRL-VUvWUY)
 - Денис Кучинский [https://www.youtube.com/watch?v=J0JiZE-PlJE](https://www.youtube.com/watch?v=J0JiZE-PlJE)
 - Алесь Логвинец [https://www.youtube.com/watch?v=fUTDroJhZmY](https://www.youtube.com/watch?v=fUTDroJhZmY)

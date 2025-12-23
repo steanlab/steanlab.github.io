@@ -143,7 +143,7 @@ ____
 - Игорь «Янки» Янков [https://www.youtube.com/watch?v=rrC-KTKU_Kg](https://www.youtube.com/watch?v=rrC-KTKU_Kg)
 - Алексей «Дэн» Ковальчук [https://www.youtube.com/watch?v=ejxbk8e9pcI](https://www.youtube.com/watch?v=ejxbk8e9pcI)
 - Олег Талерчик [https://www.youtube.com/watch?v=iFyiXTZFAZY](https://www.youtube.com/watch?v=iFyiXTZFAZY)
-- [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский] (https://www.youtube.com/watch?v=YJt5KWBDes4)
+- [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский](https://www.youtube.com/watch?v=YJt5KWBDes4)
 - Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
 - Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
 - Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)

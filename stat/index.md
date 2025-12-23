@@ -1,7 +1,18 @@
-Статистическая обработка
+---
+layout: post
+title: Путеводитель по материалам youtube канала @malina_by
+published: true
+---
 
+✍️ Памяти Никиты Мелкозерова
 
-Журналисты
+**СОДЕРЖАНИЕ**
+
+* TOC
+{:toc}
+____
+
+# Журналисты
 
 - Александр Отрощенков https://www.youtube.com/watch?v=mUAkDuPy81c
 - Степан Путило https://www.youtube.com/watch?v=Fzl_2itAReg
@@ -22,7 +33,7 @@
 - Матвей Гонопольский https://www.youtube.com/watch?v=_DQH2wLaxBw
 - Дмитрий Навоша https://www.youtube.com/watch?v=Vnu0REH9KRE
 
-Экономисты
+# Экономисты
 
 - Александр Кнырович https://www.youtube.com/watch?v=9N_gZi7EoOs
 - Ольга Лойко https://www.youtube.com/watch?v=fgFZPoxJAjM
@@ -41,8 +52,7 @@
 - Лев Львовский https://www.youtube.com/watch?v=5oFULVgU80M
 - Алесь Олехнович https://www.youtube.com/watch?v=7NSS9Em3BKI
 
-
-Ведущие
+# Ведущие
 
 - Марина Ментусова https://www.youtube.com/watch?v=SHr3EXCahek
 - Екатерина Раецкая https://www.youtube.com/watch?v=5CM6Vrvy3q0
@@ -59,8 +69,7 @@
 - Ольга Чекулаева https://www.youtube.com/watch?v=gHh2_mRpfpo
 - Екатерина Водоносова https://www.youtube.com/watch?v=MdT-xo5m-aw
 
-
-Политики
+# Политики
 
 - Павел Латушко https://www.youtube.com/watch?v=AnOTIRAOIqg
 - Светлана Тихановская https://www.youtube.com/watch?v=4CCQNvbyIjY
@@ -80,7 +89,7 @@
 - Алана Гебремариам https://www.youtube.com/watch?v=b_4fAXVl2ag
 - Евгений Афанагель https://www.youtube.com/watch?v=6tDVVKKtKNA
 
-Литераторы
+# Литераторы
 
 - Владимир Короткевич https://www.youtube.com/watch?v=Mog_TNCbias
 - Саша Филипенко https://www.youtube.com/watch?v=UgmPD5hb1fc
@@ -95,7 +104,7 @@
 - Виктор Шендерович https://www.youtube.com/watch?v=pZZ6JOZYaUg
 
 
-Ученые и преподаватели
+# Ученые и преподаватели
 
 - Татьяна Щитцова https://www.youtube.com/watch?v=FHMfxRCLqAg
 - Роза Турарбекова https://www.youtube.com/watch?v=e3ZMMcZiCs0
@@ -117,8 +126,7 @@
 - Владимир Мацкевич https://www.youtube.com/watch?v=EddcEIN4m_w
 - Ирина Сидорская https://www.youtube.com/watch?v=rgmQs1xXPaQ
 
-
-Врачи
+# Врачи
 
 - Владимир Пикиреня https://www.youtube.com/watch?v=llvRS4Z6yH8
 - Станислав Соловей https://www.youtube.com/watch?v=tRpnmUVh_N0
@@ -126,8 +134,7 @@
 - Лидия Тарасенко  https://www.youtube.com/watch?v=9WSWowlmiZY
 - Юрий Арашидзе https://www.youtube.com/watch?v=1rOnPyTXNoc
 
-
-Военные и представители силовых ведомств
+# Военные и представители силовых ведомств
 
 - Александр «Кусь» Клочко https://www.youtube.com/watch?v=D3YenhYYprU
 - Владимир Жигарь https://www.youtube.com/watch?v=Z-o6SOo2yv8
@@ -148,7 +155,7 @@
 - Андрей Остапович https://www.youtube.com/watch?v=6RNaI1KAssM
 - Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков https://www.youtube.com/watch?v=1oy4Qe_B44M
 
-Актеры/Кино/Режиссура
+# Актеры/Кино/Режиссура
 
 - Дмитрий Есеневич https://www.youtube.com/watch?v=BDjKctJuy98
 - Валентина Гарцуева https://www.youtube.com/watch?v=6JxV0S35mwQ
@@ -165,8 +172,7 @@
 - Павел Харланчук https://www.youtube.com/watch?v=DyINVbupyHM
 - Мара Тамкович https://www.youtube.com/watch?v=puCTj66LqiM
 
-
-Политологи
+# Политологи
 
 - Валерий Корбалевич https://www.youtube.com/watch?v=AmyCwYgt5-E
 - Виталий Цыганков  https://www.youtube.com/watch?v=nyi-hv8sTAE
@@ -177,7 +183,7 @@
 - Игорь Тышкевич https://www.youtube.com/watch?v=VFQXyeX614Y
 - Александр Добровольский https://www.youtube.com/watch?v=hLe4Y4yQtng
 
-Юристы и правозащитники
+# Юристы и правозащитники
 
 - Леонид Судаленко https://www.youtube.com/watch?v=PfPT4IpRoYU
 - Дмитрий Зикрацкий https://www.youtube.com/watch?v=VEOW9JswXNc
@@ -187,8 +193,7 @@
 - Алексей Леончик https://www.youtube.com/watch?v=uHGhqy5rsaw
 - Алесь Михалевич https://www.youtube.com/watch?v=pJwBh9GakTo
 
-
-Спортсмены и спортивные тренеры
+# Спортсмены и спортивные тренеры
 
 - Олег Дулуб https://www.youtube.com/watch?v=FW8mnS_Su6Q
 - Надежда Остапчук https://www.youtube.com/watch?v=DiL4GhN8GqE
@@ -206,7 +211,7 @@
 - Владимир Бережков https://www.youtube.com/watch?v=99sMJq5oPJ0
 - Степан Попов https://www.youtube.com/watch?v=b5qAjHJF9ck
 
-Инженеры, IT, венчур
+# Инженеры, IT, венчур
 
 - Павел Либер https://www.youtube.com/watch?v=-oYmfLOxxYk
 - Алексей Картынник https://www.youtube.com/watch?v=EAwGyW00WhI
@@ -220,7 +225,7 @@
 - Валерий Остринский https://www.youtube.com/watch?v=JkYt6o26bWA
 - Ярослав Лихачевский https://www.youtube.com/watch?v=xA2YjXhI6Rs
 
-Политические активисты
+# Политические активисты
 
 - Николай Дедок https://www.youtube.com/watch?v=pz0Ul8MSNz4
 - Палина Шарендо-Панасюк https://www.youtube.com/watch?v=etyMmZfgX6c
@@ -232,7 +237,7 @@
 - Анастасия Костюгова https://www.youtube.com/watch?v=dErr5Z1CH84
 - Дмитрий Щигельский  https://www.youtube.com/watch?v=puZbReTcXi0
 
-Певцы, музыканты, продюссеры
+# Певцы, музыканты, продюссеры
 
 - Игорь Бортник (Лева Би-2) https://www.youtube.com/watch?v=QbO9kjw4Dns
 - Александр Чернухо https://www.youtube.com/watch?v=yTo-vUMS-Fc
@@ -255,7 +260,7 @@
 - Ольга Барабанщикова https://www.youtube.com/watch?v=ierNxCypVhc
 - Геннадий Шульман https://www.youtube.com/watch?v=YrSZZOAZYyI
 
-Блогеры
+# Блогеры
 
 - Андрей Паук https://www.youtube.com/watch?v=XKMPTZ5HXfo
 - Александр Рыков (@BalaganOFF) https://www.youtube.com/watch?v=pWjmpFK8beI
@@ -267,7 +272,7 @@
 - Артем Шапоров https://www.youtube.com/watch?v=RNhREhzKY_E
 - Александр Гойшик (@Gašek) https://www.youtube.com/watch?v=WfrDudPk8hA
 
-Комики
+# Комики
 
 - Идрак Мирзализаде https://www.youtube.com/watch?v=I1MuaXugHhw
 - Евгений Сморигин https://www.youtube.com/watch?v=BY2PU6vNOwc
@@ -278,18 +283,18 @@
 - Ирина Приходько https://www.youtube.com/watch?v=cRVREY_Vf9I
 - Марк Величко («Дети Тьюринга») https://www.youtube.com/watch?v=__3icXeazX8
 
-Дипломаты
+# Дипломаты
 
 - Владимир Остапенко https://www.youtube.com/watch?v=9aJ6iLFvPns
 - Павел Мацукевич https://www.youtube.com/watch?v=w456Jrsre3I
 - Анатолий Котов https://www.youtube.com/watch?v=-ooJCboKiIk
 
-Священники
+# Священники
 
 - Александр Кухта https://www.youtube.com/watch?v=1fGWZp4DQH8
 - Вячеслав Борок https://www.youtube.com/watch?v=LpODxvRv9Fc
 
-Другое
+# Другое
 
 - Владимир Цеслер https://www.youtube.com/watch?v=N4Ew0XJlMOE
 - Максим Жбанков https://www.youtube.com/watch?v=LkzHWilshFY

@@ -138,152 +138,153 @@ published: true
 
 # Военные и представители силовых ведомств
 
-- 2025-03-22 Александр «Кусь» Клочко [https://www.youtube.com/watch?v=D3YenhYYprU](https://www.youtube.com/watch?v=D3YenhYYprU)
 - 2025-05-31 Владимир Жигарь [https://www.youtube.com/watch?v=Z-o6SOo2yv8](https://www.youtube.com/watch?v=Z-o6SOo2yv8)
+- 2025-03-22 Александр «Кусь» Клочко [https://www.youtube.com/watch?v=D3YenhYYprU](https://www.youtube.com/watch?v=D3YenhYYprU)
 - 2025-03-01 Матвей Купрейчик [https://www.youtube.com/watch?v=YN7zXw2-DCk](https://www.youtube.com/watch?v=YN7zXw2-DCk)
 - 2024-09-21 ПКК «Хип» [https://www.youtube.com/watch?v=rr_r7TR264A](https://www.youtube.com/watch?v=rr_r7TR264A)
 - 2024-09-14 ПКК «Альгерд» [https://www.youtube.com/watch?v=IDdomo6wksM](https://www.youtube.com/watch?v=IDdomo6wksM)
+- 2024-09-07 Артем «Грот» Кузьмич [https://www.youtube.com/watch?v=MXIe43j3nXU](https://www.youtube.com/watch?v=MXIe43j3nXU)
 - 2024-08-24 Игорь «Янки» Янков [https://www.youtube.com/watch?v=rrC-KTKU_Kg](https://www.youtube.com/watch?v=rrC-KTKU_Kg)
+- 2024-03-30 Андрей Остапович [https://www.youtube.com/watch?v=6RNaI1KAssM](https://www.youtube.com/watch?v=6RNaI1KAssM)
 - 2023-11-25 Алексей «Дэн» Ковальчук [https://www.youtube.com/watch?v=ejxbk8e9pcI](https://www.youtube.com/watch?v=ejxbk8e9pcI)
+- 2023-11-11 Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
 - 2023-08-26 Олег Талерчик [https://www.youtube.com/watch?v=iFyiXTZFAZY](https://www.youtube.com/watch?v=iFyiXTZFAZY)
 - 2023-08-19 [Денис «Кит» Прохоров, Алексей «Психолог» Назаров, ПКК «Ракета», Евгений «Салам» Журавский, Вячеслав «Мирик» Грановский](https://www.youtube.com/watch?v=YJt5KWBDes4)
-- 2023-11-11 Ян «Беларус» Мельников [https://www.youtube.com/watch?v=a-44D9sn3hM](https://www.youtube.com/watch?v=a-44D9sn3hM)
 - 2023-08-05 Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
 - 2023-07-08 Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)
 - 2023-07-01 Игорь «Янки» Янков [https://www.youtube.com/watch?v=Xi_T40IBBdY](https://www.youtube.com/watch?v=Xi_T40IBBdY)
 - 2023-01-14 Валерий Сахащик [https://www.youtube.com/watch?v=MXrXcVXMJ_0](https://www.youtube.com/watch?v=MXrXcVXMJ_0)
 - 2022-09-10 Александр Азаров [https://www.youtube.com/watch?v=60V8abAFKBI](https://www.youtube.com/watch?v=60V8abAFKBI)
-- 2024-09-07 Артем «Грот» Кузьмич [https://www.youtube.com/watch?v=MXIe43j3nXU](https://www.youtube.com/watch?v=MXIe43j3nXU)
-- 2024-03-30 Андрей Остапович [https://www.youtube.com/watch?v=6RNaI1KAssM](https://www.youtube.com/watch?v=6RNaI1KAssM)
 - 2022-03-19 [Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков](https://www.youtube.com/watch?v=1oy4Qe_B44M)
 
 # Актеры/Кино/Режиссура
 
+- 2025-04-19 Дмитрий Савелов [https://www.youtube.com/watch?v=W7zLMgu8dxQ](https://www.youtube.com/watch?v=W7zLMgu8dxQ)
+- 2025-02-08 Андрей Гнет [https://www.youtube.com/watch?v=Bv71Of9NAD0](https://www.youtube.com/watch?v=Bv71Of9NAD0)
+- 
 - 2024-08-31 Дмитрий Есеневич [https://www.youtube.com/watch?v=BDjKctJuy98](https://www.youtube.com/watch?v=BDjKctJuy98)
 - 2024-05-25 Валентина Гарцуева [https://www.youtube.com/watch?v=6JxV0S35mwQ](https://www.youtube.com/watch?v=6JxV0S35mwQ)
+- 2024-05-18 Мара Тамкович [https://www.youtube.com/watch?v=puCTj66LqiM](https://www.youtube.com/watch?v=puCTj66LqiM)
 - 2024-02-03 Игорь Сигов [https://www.youtube.com/watch?v=67zfjTIfbxo](https://www.youtube.com/watch?v=67zfjTIfbxo)
 - 2023-12-09 Михаил Зуй [https://www.youtube.com/watch?v=vKqU4RITRJw](https://www.youtube.com/watch?v=vKqU4RITRJw)
+- 2023-09-09 Кристина Дробыш [https://www.youtube.com/watch?v=3WOt26bDaSc](https://www.youtube.com/watch?v=3WOt26bDaSc)
 - 2023-03-18 Александр Гарцуев [https://www.youtube.com/watch?v=12sQqvZ5pO4](https://www.youtube.com/watch?v=12sQqvZ5pO4)
 - 2023-01-21 Олег Гарбуз [https://www.youtube.com/watch?v=EBi2Syj2NJY](https://www.youtube.com/watch?v=EBi2Syj2NJY)
-- 2021-03-24 Зоя Белохвостик [https://www.youtube.com/watch?v=c1xh2_Xl_UA](https://www.youtube.com/watch?v=c1xh2_Xl_UA)
-- 2021-10-02 Андрей Курейчик [https://www.youtube.com/watch?v=iA3lC-pUA34](https://www.youtube.com/watch?v=iA3lC-pUA34)
 - 2022-05-07 Николай Халезин [https://www.youtube.com/watch?v=X_K6RJZnqxc](https://www.youtube.com/watch?v=X_K6RJZnqxc)
-- 2025-02-08 Андрей Гнет [https://www.youtube.com/watch?v=Bv71Of9NAD0](https://www.youtube.com/watch?v=Bv71Of9NAD0)
-- 2025-04-19 Дмитрий Савелов [https://www.youtube.com/watch?v=W7zLMgu8dxQ](https://www.youtube.com/watch?v=W7zLMgu8dxQ)
-- 2023-09-09 Кристина Дробыш [https://www.youtube.com/watch?v=3WOt26bDaSc](https://www.youtube.com/watch?v=3WOt26bDaSc)
+- 2021-10-02 Андрей Курейчик [https://www.youtube.com/watch?v=iA3lC-pUA34](https://www.youtube.com/watch?v=iA3lC-pUA34)
+- 2021-03-24 Зоя Белохвостик [https://www.youtube.com/watch?v=c1xh2_Xl_UA](https://www.youtube.com/watch?v=c1xh2_Xl_UA)
 - 2020-09-10 Павел Харланчук [https://www.youtube.com/watch?v=DyINVbupyHM](https://www.youtube.com/watch?v=DyINVbupyHM)
-- 2024-05-18 Мара Тамкович [https://www.youtube.com/watch?v=puCTj66LqiM](https://www.youtube.com/watch?v=puCTj66LqiM)
 ​
 # Политологи
 
-- 2025-06-21 Валерий Корбалевич [https://www.youtube.com/watch?v=AmyCwYgt5-E](https://www.youtube.com/watch?v=AmyCwYgt5-E)
-- 2023-12-16 Виталий Цыганков [https://www.youtube.com/watch?v=nyi-hv8sTAE](https://www.youtube.com/watch?v=nyi-hv8sTAE)
-- 2022-12-17 Максим Кац [https://www.youtube.com/watch?v=zYinziKhn6E](https://www.youtube.com/watch?v=zYinziKhn6E)
-- 2025-02-01 Леся Рудник [https://www.youtube.com/watch?v=iz8WSVUH8Oc](https://www.youtube.com/watch?v=iz8WSVUH8Oc)
 - 2025-09-06 Александр Класковский [https://www.youtube.com/watch?v=GSwCAcFqnDQ](https://www.youtube.com/watch?v=GSwCAcFqnDQ)
-- 2022-03-26 Валерий Корбалевич [https://www.youtube.com/watch?v=TNLlJrS_Guk](https://www.youtube.com/watch?v=TNLlJrS_Guk)
+- 2025-06-21 Валерий Корбалевич [https://www.youtube.com/watch?v=AmyCwYgt5-E](https://www.youtube.com/watch?v=AmyCwYgt5-E)
+- 2025-02-01 Леся Рудник [https://www.youtube.com/watch?v=iz8WSVUH8Oc](https://www.youtube.com/watch?v=iz8WSVUH8Oc)
+- 2023-12-16 Виталий Цыганков [https://www.youtube.com/watch?v=nyi-hv8sTAE](https://www.youtube.com/watch?v=nyi-hv8sTAE)
 - 2023-11-18 Игорь Тышкевич [https://www.youtube.com/watch?v=VFQXyeX614Y](https://www.youtube.com/watch?v=VFQXyeX614Y)
 - 2023-05-20 Александр Добровольский [https://www.youtube.com/watch?v=hLe4Y4yQtng](https://www.youtube.com/watch?v=hLe4Y4yQtng)
+- 2022-12-17 Максим Кац [https://www.youtube.com/watch?v=zYinziKhn6E](https://www.youtube.com/watch?v=zYinziKhn6E)
+- 2022-03-26 Валерий Корбалевич [https://www.youtube.com/watch?v=TNLlJrS_Guk](https://www.youtube.com/watch?v=TNLlJrS_Guk)
 ​
 # Юристы и правозащитники
 
+- 2023-12-23 Наталья Мацкевич [https://www.youtube.com/watch?v=EddcEIN4m_w](https://www.youtube.com/watch?v=EddcEIN4m_w)
 - 2023-08-12 Леонид Судаленко [https://www.youtube.com/watch?v=PfPT4IpRoYU](https://www.youtube.com/watch?v=PfPT4IpRoYU)
-- 2021-08-14 Дмитрий Зикрацкий [https://www.youtube.com/watch?v=VEOW9JswXNc](https://www.youtube.com/watch?v=VEOW9JswXNc)
+- 2023-02-18 Алесь Михалевич [https://www.youtube.com/watch?v=pJwBh9GakTo](https://www.youtube.com/watch?v=pJwBh9GakTo)
+- 2022-10-08 Алексей Леончик [https://www.youtube.com/watch?v=uHGhqy5rsaw](https://www.youtube.com/watch?v=uHGhqy5rsaw)
 - 2022-04-23 Андрей Стрижак [https://www.youtube.com/watch?v=qJHKSzgTPCs](https://www.youtube.com/watch?v=qJHKSzgTPCs)
 - 2021-11-20 Андрей Палудо [https://www.youtube.com/watch?v=5XZ7rf_znO4](https://www.youtube.com/watch?v=5XZ7rf_znO4)
 - 2021-09-25 Илья Салей [https://www.youtube.com/watch?v=WcVal7KgKNs](https://www.youtube.com/watch?v=WcVal7KgKNs)
-- 2022-10-08 Алексей Леончик [https://www.youtube.com/watch?v=uHGhqy5rsaw](https://www.youtube.com/watch?v=uHGhqy5rsaw)
-- 2023-02-18 Алесь Михалевич [https://www.youtube.com/watch?v=pJwBh9GakTo](https://www.youtube.com/watch?v=pJwBh9GakTo)
-- 2023-12-23 Наталья Мацкевич [https://www.youtube.com/watch?v=EddcEIN4m_w](https://www.youtube.com/watch?v=EddcEIN4m_w)
+- 2021-08-14 Дмитрий Зикрацкий [https://www.youtube.com/watch?v=VEOW9JswXNc](https://www.youtube.com/watch?v=VEOW9JswXNc)
 
 # Спортсмены и спортивные тренеры
 
+- 2024-01-14 Александр Хацкевич [https://www.youtube.com/watch?v=-xf5bj4LVIk](https://www.youtube.com/watch?v=-xf5bj4LVIk)
 - 2023-04-29 Олег Дулуб [https://www.youtube.com/watch?v=FW8mnS_Su6Q](https://www.youtube.com/watch?v=FW8mnS_Su6Q)
-- 2020-08-03 Надежда Остапчук [https://www.youtube.com/watch?v=DiL4GhN8GqE](https://www.youtube.com/watch?v=DiL4GhN8GqE)
-- 2020-07-23 Виталий Гурков [https://www.youtube.com/watch?v=5uBc7Vhx87E](https://www.youtube.com/watch?v=5uBc7Vhx87E)
+- 2022-05-21 Степан Попов [https://www.youtube.com/watch?v=b5qAjHJF9ck](https://www.youtube.com/watch?v=b5qAjHJF9ck)
+- 2021-10-30 Кристина Тимановская [https://www.youtube.com/watch?v=7SYggASnTLE](https://www.youtube.com/watch?v=7SYggASnTLE)
+- 2021-07-08 Екатерина Снытина [https://www.youtube.com/watch?v=RU8dvYKgHI4](https://www.youtube.com/watch?v=RU8dvYKgHI4)
+- 2021-05-27 Андрей Кравченко [https://www.youtube.com/watch?v=hZGFLP2dC0U](https://www.youtube.com/watch?v=hZGFLP2dC0U)
+- 2020-11-26 Владимир Бережков [https://www.youtube.com/watch?v=99sMJq5oPJ0](https://www.youtube.com/watch?v=99sMJq5oPJ0)
 - 2020-10-29 Елена Левченко [https://www.youtube.com/watch?v=evBHm5Wp6Ko](https://www.youtube.com/watch?v=evBHm5Wp6Ko)
 - 2020-10-22 Егор Мещеряков [https://www.youtube.com/watch?v=I3K41g9Umpk](https://www.youtube.com/watch?v=I3K41g9Umpk)
 - 2020-10-09 Александра Герасименя [https://www.youtube.com/watch?v=U5AvXPvYAYQ](https://www.youtube.com/watch?v=U5AvXPvYAYQ)
 - 2020-10-02 Александра Романовская [https://www.youtube.com/watch?v=RHit3lkXRd8](https://www.youtube.com/watch?v=RHit3lkXRd8)
-- 2021-05-27 Андрей Кравченко [https://www.youtube.com/watch?v=hZGFLP2dC0U](https://www.youtube.com/watch?v=hZGFLP2dC0U)
-- 2021-07-08 Екатерина Снытина [https://www.youtube.com/watch?v=RU8dvYKgHI4](https://www.youtube.com/watch?v=RU8dvYKgHI4)
-- 2021-10-30 Кристина Тимановская [https://www.youtube.com/watch?v=7SYggASnTLE](https://www.youtube.com/watch?v=7SYggASnTLE)
-- 2024-01-14 Александр Хацкевич [https://www.youtube.com/watch?v=-xf5bj4LVIk](https://www.youtube.com/watch?v=-xf5bj4LVIk)
-- 2020-06-27 Станислав Драгун [https://www.youtube.com/watch?v=3PGjh_LpWRY](https://www.youtube.com/watch?v=3PGjh_LpWRY)
 - 2020-09-25 Василий Хомутовский [https://www.youtube.com/watch?v=lAWIf4XSqTY](https://www.youtube.com/watch?v=lAWIf4XSqTY)
-- 2020-11-26 Владимир Бережков [https://www.youtube.com/watch?v=99sMJq5oPJ0](https://www.youtube.com/watch?v=99sMJq5oPJ0)
-- 2022-05-21 Степан Попов [https://www.youtube.com/watch?v=b5qAjHJF9ck](https://www.youtube.com/watch?v=b5qAjHJF9ck)
+- 2020-08-03 Надежда Остапчук [https://www.youtube.com/watch?v=DiL4GhN8GqE](https://www.youtube.com/watch?v=DiL4GhN8GqE)
+- 2020-07-23 Виталий Гурков [https://www.youtube.com/watch?v=5uBc7Vhx87E](https://www.youtube.com/watch?v=5uBc7Vhx87E)
+- 2020-06-27 Станислав Драгун [https://www.youtube.com/watch?v=3PGjh_LpWRY](https://www.youtube.com/watch?v=3PGjh_LpWRY)
 
 # Инженеры, IT, венчур
 
-- 2021-08-07 Павел Либер [https://www.youtube.com/watch?v=-oYmfLOxxYk](https://www.youtube.com/watch?v=-oYmfLOxxYk)
-- 2022-12-24 Алексей Картынник [https://www.youtube.com/watch?v=EAwGyW00WhI](https://www.youtube.com/watch?v=EAwGyW00WhI)
-- 2022-07-30 Никита Микадо [https://www.youtube.com/watch?v=0_cc893ChTs](https://www.youtube.com/watch?v=0_cc893ChTs)
-- 2021-07-24 Кирилл Волошин [https://www.youtube.com/watch?v=rC2Xk196Ovk](https://www.youtube.com/watch?v=rC2Xk196Ovk)
-- 2022-03-12 Юрий Мельничек [https://www.youtube.com/watch?v=Lg2sraPQtPw](https://www.youtube.com/watch?v=Lg2sraPQtPw)
-- 2024-11-09 Виктор Хоменок [https://www.youtube.com/watch?v=Gud-pUQYo9s](https://www.youtube.com/watch?v=Gud-pUQYo9s)
-- 2023-06-03 Александр Кувшинов [https://www.youtube.com/watch?v=Mh2EFM4pz5k](https://www.youtube.com/watch?v=Mh2EFM4pz5k)
-- 2022-09-03 Татьяна Зарецкая [https://www.youtube.com/watch?v=A-oDW5Vw6Fc](https://www.youtube.com/watch?v=A-oDW5Vw6Fc)
 - 2024-12-07 Игорь Маханек [https://www.youtube.com/watch?v=MuyoXBc9dQk](https://www.youtube.com/watch?v=MuyoXBc9dQk)
+- 2024-11-09 Виктор Хоменок [https://www.youtube.com/watch?v=Gud-pUQYo9s](https://www.youtube.com/watch?v=Gud-pUQYo9s)
 - 2024-10-12 Валерий Остринский [https://www.youtube.com/watch?v=JkYt6o26bWA](https://www.youtube.com/watch?v=JkYt6o26bWA)
+- 2023-06-03 Александр Кувшинов [https://www.youtube.com/watch?v=Mh2EFM4pz5k](https://www.youtube.com/watch?v=Mh2EFM4pz5k)
+- 2022-12-24 Алексей Картынник [https://www.youtube.com/watch?v=EAwGyW00WhI](https://www.youtube.com/watch?v=EAwGyW00WhI)
+- 2022-09-03 Татьяна Зарецкая [https://www.youtube.com/watch?v=A-oDW5Vw6Fc](https://www.youtube.com/watch?v=A-oDW5Vw6Fc)
+- 2022-07-30 Никита Микадо [https://www.youtube.com/watch?v=0_cc893ChTs](https://www.youtube.com/watch?v=0_cc893ChTs)
+- 2022-03-12 Юрий Мельничек [https://www.youtube.com/watch?v=Lg2sraPQtPw](https://www.youtube.com/watch?v=Lg2sraPQtPw)
 - 2021-10-16 Ярослав Лихачевский [https://www.youtube.com/watch?v=xA2YjXhI6Rs](https://www.youtube.com/watch?v=xA2YjXhI6Rs)
+- 2021-08-07 Павел Либер [https://www.youtube.com/watch?v=-oYmfLOxxYk](https://www.youtube.com/watch?v=-oYmfLOxxYk)
+- 2021-07-24 Кирилл Волошин [https://www.youtube.com/watch?v=rC2Xk196Ovk](https://www.youtube.com/watch?v=rC2Xk196Ovk)
 
 # Политические активисты
 
 - 2025-09-20 Николай Дедок [https://www.youtube.com/watch?v=pz0Ul8MSNz4](https://www.youtube.com/watch?v=pz0Ul8MSNz4)
 - 2025-02-22 Палина Шарендо-Панасюк [https://www.youtube.com/watch?v=etyMmZfgX6c](https://www.youtube.com/watch?v=etyMmZfgX6c)
+- 2024-06-29 Анастасия Костюгова [https://www.youtube.com/watch?v=dErr5Z1CH84](https://www.youtube.com/watch?v=dErr5Z1CH84)
 - 2024-02-17 Ольга Токарчук [https://www.youtube.com/watch?v=84zGAp1rD5o](https://www.youtube.com/watch?v=84zGAp1rD5o)
+- 2022-07-23 Дмитрий Щигельский [https://www.youtube.com/watch?v=puZbReTcXi0](https://www.youtube.com/watch?v=puZbReTcXi0)
 - 2021-12-18 Вадим Прокопьев [https://www.youtube.com/watch?v=3607Kt4Poms](https://www.youtube.com/watch?v=3607Kt4Poms)
+- 2021-09-04 Наста Базар [https://www.youtube.com/watch?v=zapLYOio0dM](https://www.youtube.com/watch?v=zapLYOio0dM)
 - 2021-07-31 Александра Зверева [https://www.youtube.com/watch?v=NMwfJY8loaI](https://www.youtube.com/watch?v=NMwfJY8loaI)
 - 2021-07-17 Антон Мотолько [https://www.youtube.com/watch?v=Mic9VbXSkuM](https://www.youtube.com/watch?v=Mic9VbXSkuM)
-- 2021-09-04 Наста Базар [https://www.youtube.com/watch?v=zapLYOio0dM](https://www.youtube.com/watch?v=zapLYOio0dM)
-- 2024-06-29 Анастасия Костюгова [https://www.youtube.com/watch?v=dErr5Z1CH84](https://www.youtube.com/watch?v=dErr5Z1CH84)
-- 2022-07-23 Дмитрий Щигельский [https://www.youtube.com/watch?v=puZbReTcXi0](https://www.youtube.com/watch?v=puZbReTcXi0)
 
 # Певцы, музыканты, продюссеры
 
+- 2025-11-29 Геннадий Шульман [https://www.youtube.com/watch?v=YrSZZOAZYyI](https://www.youtube.com/watch?v=YrSZZOAZYyI)
 - 2024-11-16 Игорь Бортник (Лева Би-2) [https://www.youtube.com/watch?v=QbO9kjw4Dns](https://www.youtube.com/watch?v=QbO9kjw4Dns)
 - 2024-07-06 Александр Чернухо [https://www.youtube.com/watch?v=yTo-vUMS-Fc](https://www.youtube.com/watch?v=yTo-vUMS-Fc)
 - 2024-04-06 Мериам Герасименко [https://www.youtube.com/watch?v=63FpG_dFUIc](https://www.youtube.com/watch?v=63FpG_dFUIc)
 - 2023-12-02 Сергей Башлыкевич (LEIBONIK) [https://www.youtube.com/watch?v=UGYJUg3ZWyE](https://www.youtube.com/watch?v=UGYJUg3ZWyE)
 - 2023-10-14 Виталий Алексиенок [https://www.youtube.com/watch?v=xP4T8yJVEUU](https://www.youtube.com/watch?v=xP4T8yJVEUU)
-- 2022-12-03 Игорь Банцер [https://www.youtube.com/watch?v=rAMilt8gpKs](https://www.youtube.com/watch?v=rAMilt8gpKs)
-- 2020-11-19 Владимир Пугач (J:МОРС) [https://www.youtube.com/watch?v=lwy9SHa-ztk](https://www.youtube.com/watch?v=lwy9SHa-ztk)
-- 2021-04-15 Юрий Стыльский (Дай Дорогу) [https://www.youtube.com/watch?v=bzPT8O2rZoo](https://www.youtube.com/watch?v=bzPT8O2rZoo)
-- 2021-07-01 Маргарита Левчук [https://www.youtube.com/watch?v=6vGRweCmV4E](https://www.youtube.com/watch?v=6vGRweCmV4E)
-- 2022-02-12 Александр Помидоров [https://www.youtube.com/watch?v=Eua5NEilO3A](https://www.youtube.com/watch?v=Eua5NEilO3A)
-- 2022-10-15 Илья Сильчуков [https://www.youtube.com/watch?v=bW0he-WbByE](https://www.youtube.com/watch?v=bW0he-WbByE)
 - 2023-09-02 Марина Шакюрова (Руся/Shuma) [https://www.youtube.com/watch?v=QxdTTYRubyk](https://www.youtube.com/watch?v=QxdTTYRubyk)
-- 2021-03-11 Ксюша Жук, Артем Лукьяненко (NAVIBAND) [https://www.youtube.com/watch?v=wAQ1TgcWCDs](https://www.youtube.com/watch?v=wAQ1TgcWCDs)
-- 2021-02-11 Лявон Вольски [https://www.youtube.com/watch?v=UtMon2J2JnA](https://www.youtube.com/watch?v=UtMon2J2JnA)
 - 2023-02-11 Андрей Такинданг [https://www.youtube.com/watch?v=R5ZUQvotvlI](https://www.youtube.com/watch?v=R5ZUQvotvlI)
+- 2022-12-03 Игорь Банцер [https://www.youtube.com/watch?v=rAMilt8gpKs](https://www.youtube.com/watch?v=rAMilt8gpKs)
+- 2022-10-15 Илья Сильчуков [https://www.youtube.com/watch?v=bW0he-WbByE](https://www.youtube.com/watch?v=bW0he-WbByE)
+- 2022-02-12 Александр Помидоров [https://www.youtube.com/watch?v=Eua5NEilO3A](https://www.youtube.com/watch?v=Eua5NEilO3A)
 - 2021-11-27 Владислав Новожилов (Gods Tower) [https://www.youtube.com/watch?v=xM32vUTIA14](https://www.youtube.com/watch?v=xM32vUTIA14)
 - 2021-08-28 Павел Городницкий (РСП) [https://www.youtube.com/watch?v=t5PMQaXjGEE](https://www.youtube.com/watch?v=t5PMQaXjGEE)
 - 2021-08-21 Анастасия Шпаковская (NAKA) [https://www.youtube.com/watch?v=M6W78BMBH28](https://www.youtube.com/watch?v=M6W78BMBH28)
+- 2021-07-01 Маргарита Левчук [https://www.youtube.com/watch?v=6vGRweCmV4E](https://www.youtube.com/watch?v=6vGRweCmV4E)
+- 2021-04-15 Юрий Стыльский (Дай Дорогу) [https://www.youtube.com/watch?v=bzPT8O2rZoo](https://www.youtube.com/watch?v=bzPT8O2rZoo)
+- 2021-03-11 Ксюша Жук, Артем Лукьяненко (NAVIBAND) [https://www.youtube.com/watch?v=wAQ1TgcWCDs](https://www.youtube.com/watch?v=wAQ1TgcWCDs)
+- 2021-02-11 Лявон Вольски [https://www.youtube.com/watch?v=UtMon2J2JnA](https://www.youtube.com/watch?v=UtMon2J2JnA)
+- 2020-11-19 Владимир Пугач (J:МОРС) [https://www.youtube.com/watch?v=lwy9SHa-ztk](https://www.youtube.com/watch?v=lwy9SHa-ztk)
 - 2020-11-12 Ольга Барабанщикова [https://www.youtube.com/watch?v=ierNxCypVhc](https://www.youtube.com/watch?v=ierNxCypVhc)
-- 2025-11-29 Геннадий Шульман [https://www.youtube.com/watch?v=YrSZZOAZYyI](https://www.youtube.com/watch?v=YrSZZOAZYyI)
 
 # Блогеры  
 
+- 2025-05-10 Александр Гойшик (@Gašek) [https://www.youtube.com/watch?v=WfrDudPk8hA](https://www.youtube.com/watch?v=WfrDudPk8hA)
 - 2024-11-02 Андрей Паук [https://www.youtube.com/watch?v=XKMPTZ5HXfo](https://www.youtube.com/watch?v=XKMPTZ5HXfo)
 - 2023-11-04 Александр Рыков (@BalaganOFF) [https://www.youtube.com/watch?v=pWjmpFK8beI](https://www.youtube.com/watch?v=pWjmpFK8beI)
 - 2023-02-04 Александр Кабанов [https://www.youtube.com/watch?v=eerPUC_WTck](https://www.youtube.com/watch?v=eerPUC_WTck)
-- 2022-04-02 Михаил Цыганков (@Gypsynkov) [https://www.youtube.com/watch?v=3uTO_0cMQxs](https://www.youtube.com/watch?v=3uTO_0cMQxs)
-- 2021-02-25 Павел Крамар (@Кокобай) [https://www.youtube.com/watch?v=JzS-P09E_Ko](https://www.youtube.com/watch?v=JzS-P09E_Ko)
 - 2022-08-06 Лиза Ветрова [https://www.youtube.com/watch?v=DAvLyRcGHb0](https://www.youtube.com/watch?v=DAvLyRcGHb0)
 - 2022-04-30 Максим Шабуцкий‬ [https://www.youtube.com/watch?v=s1rRBLIz9Vg](https://www.youtube.com/watch?v=s1rRBLIz9Vg)
+- 2022-04-02 Михаил Цыганков (@Gypsynkov) [https://www.youtube.com/watch?v=3uTO_0cMQxs](https://www.youtube.com/watch?v=3uTO_0cMQxs)
 - 2022-02-19 Артем Шапоров [https://www.youtube.com/watch?v=RNhREhzKY_E](https://www.youtube.com/watch?v=RNhREhzKY_E)
-- 2025-05-10 Александр Гойшик (@Gašek) [https://www.youtube.com/watch?v=WfrDudPk8hA](https://www.youtube.com/watch?v=WfrDudPk8hA)
+- 2021-02-25 Павел Крамар (@Кокобай) [https://www.youtube.com/watch?v=JzS-P09E_Ko](https://www.youtube.com/watch?v=JzS-P09E_Ko)
 
 # Комики
 
-- 2022-04-09 Идрак Мирзализаде [https://www.youtube.com/watch?v=I1MuaXugHhw](https://www.youtube.com/watch?v=I1MuaXugHhw)
-- 2023-07-15 Евгений Сморигин [https://www.youtube.com/watch?v=BY2PU6vNOwc](https://www.youtube.com/watch?v=BY2PU6vNOwc)
-- 2023-10-28 Дмитрий Танкович [https://www.youtube.com/watch?v=JnZCGuHVo9Q](https://www.youtube.com/watch?v=JnZCGuHVo9Q)
 - 2024-12-14 Максим Коновал [https://www.youtube.com/watch?v=v85fx-4-qr8](https://www.youtube.com/watch?v=v85fx-4-qr8)
 - 2024-04-13 Саша Калинкин [https://www.youtube.com/watch?v=4I7AY6qSCSY](https://www.youtube.com/watch?v=4I7AY6qSCSY)
 - 2024-03-02 Павел Батуев [https://www.youtube.com/watch?v=cPdMfuPGguI](https://www.youtube.com/watch?v=cPdMfuPGguI)
+- 2023-10-28 Дмитрий Танкович [https://www.youtube.com/watch?v=JnZCGuHVo9Q](https://www.youtube.com/watch?v=JnZCGuHVo9Q)
+- 2023-07-15 Евгений Сморигин [https://www.youtube.com/watch?v=BY2PU6vNOwc](https://www.youtube.com/watch?v=BY2PU6vNOwc)
 - 2023-03-04 Ирина Приходько [https://www.youtube.com/watch?v=cRVREY_Vf9I](https://www.youtube.com/watch?v=cRVREY_Vf9I)
+- 2022-04-09 Идрак Мирзализаде [https://www.youtube.com/watch?v=I1MuaXugHhw](https://www.youtube.com/watch?v=I1MuaXugHhw)
 - 2021-02-18 Марк Величко («Дети Тьюринга») [https://www.youtube.com/watch?v=__3icXeazX8](https://www.youtube.com/watch?v=__3icXeazX8)​
 
 # Дипломаты
@@ -300,15 +301,6 @@ published: true
 
 - 2025-04-12 Владимир Цеслер [https://www.youtube.com/watch?v=N4Ew0XJlMOE](https://www.youtube.com/watch?v=N4Ew0XJlMOE)
 - 2022-08-27 Максим Жбанков [https://www.youtube.com/watch?v=LkzHWilshFY](https://www.youtube.com/watch?v=LkzHWilshFY)
-- 2021-01-28 Ольга Хижинкова [https://www.youtube.com/watch?v=a4a-eGWuOXE](https://www.youtube.com/watch?v=a4a-eGWuOXE)
 - 2021-04-22 Никита Монич [https://www.youtube.com/watch?v=ohmfobDyEPA](https://www.youtube.com/watch?v=ohmfobDyEPA)
+- 2021-01-28 Ольга Хижинкова [https://www.youtube.com/watch?v=a4a-eGWuOXE](https://www.youtube.com/watch?v=a4a-eGWuOXE)
 - 2020-09-17 Ольга Хижинкова [https://www.youtube.com/watch?v=ENuaCRXSYU8](https://www.youtube.com/watch?v=ENuaCRXSYU8)
-
-
-
-
-
-
-
-
-

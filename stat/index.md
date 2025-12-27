@@ -23,7 +23,7 @@ published: true
 # Журналисты
 
 - 2025-12-13 Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%90%D1%82%D1%80%D0%BE%D1%88%D1%87%D0%B0%D0%BD%D0%BA%D0%B0%D1%9E)]
-- 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%90%D1%82%D1%80%D0%BE%D1%88%D1%87%D0%B0%D0%BD%D0%BA%D0%B0%D1%9E](https://be.wikipedia.org/wiki/%D0%A1%D1%86%D1%8F%D0%BF%D0%B0%D0%BD_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D1%83%D1%86%D1%96%D0%BB%D0%B0)]
+- 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%86%D1%8F%D0%BF%D0%B0%D0%BD_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D1%83%D1%86%D1%96%D0%BB%D0%B0)]
 - 2025-11-08 Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)
 - 2025-04-26 Федор Павлюченко [https://www.youtube.com/watch?v=-rCDcdt_xuY](https://www.youtube.com/watch?v=-rCDcdt_xuY)
 - 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D1%96%D1%8F_%D0%90%D0%BB%D0%B5%D0%B3%D0%B0%D1%9E%D0%BD%D0%B0_%D0%9B%D1%83%D1%86%D0%BA%D1%96%D0%BD%D0%B0)]

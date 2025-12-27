@@ -79,23 +79,23 @@ published: true
 ​
 # Политики
 
-- 2025-10-18 Евгений Афанагель [https://www.youtube.com/watch?v=6tDVVKKtKNA](https://www.youtube.com/watch?v=6tDVVKKtKNA)
-- 2025-08-30 Павел Латушко [https://www.youtube.com/watch?v=AnOTIRAOIqg](https://www.youtube.com/watch?v=AnOTIRAOIqg)
-- 2025-08-02 Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY)
-- 2025-07-06 Сергей Тихановский [https://www.youtube.com/watch?v=VpRL-VUvWUY](https://www.youtube.com/watch?v=VpRL-VUvWUY)
+- 2025-10-18 Евгений Афанагель [https://www.youtube.com/watch?v=6tDVVKKtKNA](https://www.youtube.com/watch?v=6tDVVKKtKNA) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%AF%D1%9E%D0%B3%D0%B5%D0%BD_%D0%90%D1%84%D0%BD%D0%B0%D0%B3%D0%B5%D0%BB%D1%8C)]
+- 2025-08-30 Павел Латушко [https://www.youtube.com/watch?v=AnOTIRAOIqg](https://www.youtube.com/watch?v=AnOTIRAOIqg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9F%D0%B0%D1%9E%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0)]
+- 2025-08-02 Светлана Тихановская [https://www.youtube.com/watch?v=4CCQNvbyIjY](https://www.youtube.com/watch?v=4CCQNvbyIjY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D1%96%D0%B5%D1%9E%D0%BD%D0%B0_%D0%A6%D1%96%D1%85%D0%B0%D0%BD%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D1%8F)]
+- 2025-07-06 Сергей Тихановский [https://www.youtube.com/watch?v=VpRL-VUvWUY](https://www.youtube.com/watch?v=VpRL-VUvWUY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B5%D0%B0%D0%BD%D1%96%D0%B4%D0%B0%D0%B2%D1%96%D1%87_%D0%A6%D1%96%D1%85%D0%B0%D0%BD%D0%BE%D1%9E%D1%81%D0%BA%D1%96)]
 - 2025-06-07 Денис Кучинский [https://www.youtube.com/watch?v=J0JiZE-PlJE](https://www.youtube.com/watch?v=J0JiZE-PlJE)
-- 2025-03-08 Алесь Логвинец [https://www.youtube.com/watch?v=fUTDroJhZmY](https://www.youtube.com/watch?v=fUTDroJhZmY)
-- 2024-06-15 Валерий Цепкало [https://www.youtube.com/watch?v=pYl_VbrFfHM](https://www.youtube.com/watch?v=pYl_VbrFfHM)
-- 2024-06-01 Энн Эплбаум [https://www.youtube.com/watch?v=RXSau-Zesho](https://www.youtube.com/watch?v=RXSau-Zesho)
-- 2023-10-07 Алана Гебремариам [https://www.youtube.com/watch?v=b_4fAXVl2ag](https://www.youtube.com/watch?v=b_4fAXVl2ag)
-- 2023-03-25 Зенон Позняк [https://www.youtube.com/watch?v=Dlx4jE9Wvlk](https://www.youtube.com/watch?v=Dlx4jE9Wvlk)
-- 2022-12-10 Франак Вечерко [https://www.youtube.com/watch?v=OxTs8kBcRmY](https://www.youtube.com/watch?v=OxTs8kBcRmY)
-- 2022-07-16 Александр Милинкевич [https://www.youtube.com/watch?v=7B8x0lsRrA4](https://www.youtube.com/watch?v=7B8x0lsRrA4)
-- 2022-05-28 Зенон Позняк [https://www.youtube.com/watch?v=Ygw_oNGn3dA](https://www.youtube.com/watch?v=Ygw_oNGn3dA)
-- 2022-02-05 Анатолий Лебедько [https://www.youtube.com/watch?v=J0zreRLh_c4](https://www.youtube.com/watch?v=J0zreRLh_c4)
-- 2022-01-22 Светлана Тихановская [https://www.youtube.com/watch?v=4MXPNwLqxyM](https://www.youtube.com/watch?v=4MXPNwLqxyM)
-- 2021-09-18 Павел Латушко [https://www.youtube.com/watch?v=zzxU3XJslyk](https://www.youtube.com/watch?v=zzxU3XJslyk)
-- 2021-04-01 Павел Северинец [https://www.youtube.com/watch?v=iaa9qM-BKrI](https://www.youtube.com/watch?v=iaa9qM-BKrI)
+- 2025-03-08 Алесь Логвинец [https://www.youtube.com/watch?v=fUTDroJhZmY](https://www.youtube.com/watch?v=fUTDroJhZmY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%8C_%D0%9B%D0%B0%D0%B3%D0%B2%D1%96%D0%BD%D0%B5%D1%86)]
+- 2024-06-15 Валерий Цепкало [https://www.youtube.com/watch?v=pYl_VbrFfHM](https://www.youtube.com/watch?v=pYl_VbrFfHM) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8B%D0%B9_%D0%92%D1%96%D0%BB%D1%8C%D1%8F%D0%BC%D0%B0%D0%B2%D1%96%D1%87_%D0%A6%D0%B0%D0%BF%D0%BA%D0%B0%D0%BB%D0%B0)]
+- 2024-06-01 Энн Эплбаум [https://www.youtube.com/watch?v=RXSau-Zesho](https://www.youtube.com/watch?v=RXSau-Zesho) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%AD%D0%BD_%D0%AD%D0%BF%D0%BB%D0%B1%D0%B0%D1%9E%D0%BC)]
+- 2023-10-07 Алана Гебремариам [https://www.youtube.com/watch?v=b_4fAXVl2ag](https://www.youtube.com/watch?v=b_4fAXVl2ag) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD%D0%B0_%D0%93%D0%B5%D0%B1%D1%80%D1%8D%D0%BC%D0%B0%D1%80%D1%8B%D1%8F%D0%BC)]
+- 2023-03-25 Зенон Позняк [https://www.youtube.com/watch?v=Dlx4jE9Wvlk](https://www.youtube.com/watch?v=Dlx4jE9Wvlk) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%97%D1%8F%D0%BD%D0%BE%D0%BD_%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D0%B0%D0%B7%D0%BD%D1%8F%D0%BA)]
+- 2022-12-10 Франак Вечерко [https://www.youtube.com/watch?v=OxTs8kBcRmY](https://www.youtube.com/watch?v=OxTs8kBcRmY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%B0%D0%BA_%D0%92%D1%8F%D1%87%D0%BE%D1%80%D0%BA%D0%B0)]
+- 2022-07-16 Александр Милинкевич [https://www.youtube.com/watch?v=7B8x0lsRrA4](https://www.youtube.com/watch?v=7B8x0lsRrA4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9C%D1%96%D0%BB%D1%96%D0%BD%D0%BA%D0%B5%D0%B2%D1%96%D1%87)]
+- 2022-05-28 Зенон Позняк [https://www.youtube.com/watch?v=Ygw_oNGn3dA](https://www.youtube.com/watch?v=Ygw_oNGn3dA) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%97%D1%8F%D0%BD%D0%BE%D0%BD_%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D0%B0%D0%B7%D0%BD%D1%8F%D0%BA)]
+- 2022-02-05 Анатолий Лебедько [https://www.youtube.com/watch?v=J0zreRLh_c4](https://www.youtube.com/watch?v=J0zreRLh_c4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D1%8F%D0%B1%D0%B5%D0%B4%D0%B7%D1%8C%D0%BA%D0%B0)]
+- 2022-01-22 Светлана Тихановская [https://www.youtube.com/watch?v=4MXPNwLqxyM](https://www.youtube.com/watch?v=4MXPNwLqxyM) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D1%96%D0%B5%D1%9E%D0%BD%D0%B0_%D0%A6%D1%96%D1%85%D0%B0%D0%BD%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D1%8F)]
+- 2021-09-18 Павел Латушко [https://www.youtube.com/watch?v=zzxU3XJslyk](https://www.youtube.com/watch?v=zzxU3XJslyk) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9F%D0%B0%D1%9E%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0)]
+- 2021-04-01 Павел Северинец [https://www.youtube.com/watch?v=iaa9qM-BKrI](https://www.youtube.com/watch?v=iaa9qM-BKrI) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%A1%D0%B5%D0%B2%D1%8F%D1%80%D1%8B%D0%BD%D0%B5%D1%86)]
 
 # Литераторы
 

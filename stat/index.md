@@ -52,7 +52,7 @@ published: true
 - 2024-10-05 Павел Данейко [https://www.youtube.com/watch?v=P3sfrlb_Zzo](https://www.youtube.com/watch?v=P3sfrlb_Zzo)
 - 2024-01-27 Алесь Олехнович [https://www.youtube.com/watch?v=7NSS9Em3BKI](https://www.youtube.com/watch?v=7NSS9Em3BKI)
 - 2022-11-19 Сергей Чалый [https://www.youtube.com/watch?v=q7WCjOqdVK4](https://www.youtube.com/watch?v=q7WCjOqdVK4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D1%8F%D1%87%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%A7%D0%B0%D0%BB%D1%8B)]
-- 2022-09-24 Дмитрий Крук [https://www.youtube.com/watch?v=MJVFnn3YFlY](https://www.youtube.com/watch?v=MJVFnn3YFlY)
+- 2022-09-24 Дмитрий Крук [https://www.youtube.com/watch?v=MJVFnn3YFlY](https://www.youtube.com/watch?v=MJVFnn3YFlY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%94%D0%B7%D0%BC%D1%96%D1%82%D1%80%D1%8B%D0%B9_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%B0%D0%B2%D1%96%D1%87_%D0%9A%D1%80%D1%83%D0%BA)]
 - 2021-12-04 Александр Кнырович [https://www.youtube.com/watch?v=IG2Kvx6ONkI](https://www.youtube.com/watch?v=IG2Kvx6ONkI)
 - 2021-11-06 Артем Шрайбман [https://www.youtube.com/watch?v=RKDwtINhMw4](https://www.youtube.com/watch?v=RKDwtINhMw4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D1%80%D1%86%D1%91%D0%BC_%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D0%B5%D0%B2%D1%96%D1%87_%D0%A8%D1%80%D0%B0%D0%B9%D0%B1%D0%BC%D0%B0%D0%BD)]
 - 2020-11-05 Артем Шрайбман [https://www.youtube.com/watch?v=B895gqXyuzY](https://www.youtube.com/watch?v=B895gqXyuzY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D1%80%D1%86%D1%91%D0%BC_%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D0%B5%D0%B2%D1%96%D1%87_%D0%A8%D1%80%D0%B0%D0%B9%D0%B1%D0%BC%D0%B0%D0%BD)]
@@ -70,7 +70,7 @@ published: true
 - 2024-03-16 Глеб Семенов [https://www.youtube.com/watch?v=bQT9-0h5B2U](https://www.youtube.com/watch?v=bQT9-0h5B2U)
 - 2024-02-10 Иван Подрез [https://www.youtube.com/watch?v=QHY8Q8WnXVY](https://www.youtube.com/watch?v=QHY8Q8WnXVY)
 - 2023-04-08 Инга Хрущева [https://www.youtube.com/watch?v=_gR8M5DLf68](https://www.youtube.com/watch?v=_gR8M5DLf68)
-- 2022-09-17 Екатерина Водоносова [https://www.youtube.com/watch?v=MdT-xo5m-aw](https://www.youtube.com/watch?v=MdT-xo5m-aw)
+- 2022-09-17 Екатерина Водоносова [https://www.youtube.com/watch?v=MdT-xo5m-aw](https://www.youtube.com/watch?v=MdT-xo5m-aw) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%86%D1%8F%D1%80%D1%8B%D0%BD%D0%B0_%D0%92%D0%B0%D0%B4%D0%B0%D0%BD%D0%BE%D1%81%D0%B0%D0%B2%D0%B0)]
 - 2022-08-20 Ольга Чекулаева [https://www.youtube.com/watch?v=gHh2_mRpfpo](https://www.youtube.com/watch?v=gHh2_mRpfpo)
 - 2022-04-16 Александр Жданович (Маляваныч) [https://www.youtube.com/watch?v=5CVzBZRDVv0](https://www.youtube.com/watch?v=5CVzBZRDVv0)
 - 2021-10-09 Сергей Кузин [https://www.youtube.com/watch?v=sZIU_78zwgw](https://www.youtube.com/watch?v=sZIU_78zwgw)

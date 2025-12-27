@@ -28,7 +28,7 @@ published: true
 - 2025-04-26 Федор Павлюченко [https://www.youtube.com/watch?v=-rCDcdt_xuY](https://www.youtube.com/watch?v=-rCDcdt_xuY)
 - 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D1%96%D1%8F_%D0%90%D0%BB%D0%B5%D0%B3%D0%B0%D1%9E%D0%BD%D0%B0_%D0%9B%D1%83%D1%86%D0%BA%D1%96%D0%BD%D0%B0)]
 - 2024-12-21 Дмитрий Гурневич [https://www.youtube.com/watch?v=Zmql_ZdSOso](https://www.youtube.com/watch?v=Zmql_ZdSOso)
-- 2024-08-17 Матвей Гонопольский [https://www.youtube.com/watch?v=_DQH2wLaxBw](https://www.youtube.com/watch?v=_DQH2wLaxBw)
+- 2024-08-17 Матвей Гонопольский [https://www.youtube.com/watch?v=_DQH2wLaxBw](https://www.youtube.com/watch?v=_DQH2wLaxBw) [[UK:Wikipedia](https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D1%82%D0%B2%D1%96%D0%B9_%D0%AE%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87)]
 - 2024-05-11 Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%BD%D0%B0_%D0%A1%D0%BE%D1%9E%D1%81%D1%8C)]
 - 2024-03-23 Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%86%D1%80%D1%8B%D0%BD%D0%B0_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D1%9E%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BB%D1%96%D0%BF)]
 - 2023-09-30 Сергей Подсосонный [https://www.youtube.com/watch?v=AKbZnZ1Urws](https://www.youtube.com/watch?v=AKbZnZ1Urws)

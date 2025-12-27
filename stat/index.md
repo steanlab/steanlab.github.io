@@ -156,7 +156,7 @@ published: true
 - 2023-08-05 Анастасия «Север» Махамет [https://www.youtube.com/watch?v=W5V52AQ2E_c](https://www.youtube.com/watch?v=W5V52AQ2E_c)
 - 2023-07-08 Павел «Дядька» Шурмей [https://www.youtube.com/watch?v=FfYfKJGx6K0](https://www.youtube.com/watch?v=FfYfKJGx6K0)
 - 2023-07-01 Игорь «Янки» Янков [https://www.youtube.com/watch?v=Xi_T40IBBdY](https://www.youtube.com/watch?v=Xi_T40IBBdY)
-- 2023-01-14 Валерий Сахащик [https://www.youtube.com/watch?v=MXrXcVXMJ_0](https://www.youtube.com/watch?v=MXrXcVXMJ_0)
+- 2023-01-14 Валерий Сахащик [https://www.youtube.com/watch?v=MXrXcVXMJ_0](https://www.youtube.com/watch?v=MXrXcVXMJ_0) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8B%D0%B9_%D0%A1%D1%86%D1%8F%D0%BF%D0%B0%D0%BD%D0%B0%D0%B2%D1%96%D1%87_%D0%A1%D0%B0%D1%85%D0%B0%D1%88%D1%87%D1%8B%D0%BA)]
 - 2022-09-10 Александр Азаров [https://www.youtube.com/watch?v=60V8abAFKBI](https://www.youtube.com/watch?v=60V8abAFKBI)
 - 2022-03-19 [Блогер ‪@Beslive‬ , Алесь Стрельцов, Ксения Петрович, Глеб Покатило, Анастасия Махомет, Алексей Боленков](https://www.youtube.com/watch?v=1oy4Qe_B44M)
 
@@ -164,18 +164,17 @@ published: true
 
 - 2025-04-19 Дмитрий Савелов [https://www.youtube.com/watch?v=W7zLMgu8dxQ](https://www.youtube.com/watch?v=W7zLMgu8dxQ)
 - 2025-02-08 Андрей Гнет [https://www.youtube.com/watch?v=Bv71Of9NAD0](https://www.youtube.com/watch?v=Bv71Of9NAD0)
-- 
 - 2024-08-31 Дмитрий Есеневич [https://www.youtube.com/watch?v=BDjKctJuy98](https://www.youtube.com/watch?v=BDjKctJuy98)
-- 2024-05-25 Валентина Гарцуева [https://www.youtube.com/watch?v=6JxV0S35mwQ](https://www.youtube.com/watch?v=6JxV0S35mwQ)
+- 2024-05-25 Валентина Гарцуева [https://www.youtube.com/watch?v=6JxV0S35mwQ](https://www.youtube.com/watch?v=6JxV0S35mwQ) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D1%8F%D0%BD%D1%86%D1%96%D0%BD%D0%B0_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%9E%D0%BD%D0%B0_%D0%93%D0%B0%D1%80%D1%86%D1%83%D0%B5%D0%B2%D0%B0)]
 - 2024-05-18 Мара Тамкович [https://www.youtube.com/watch?v=puCTj66LqiM](https://www.youtube.com/watch?v=puCTj66LqiM)
-- 2024-02-03 Игорь Сигов [https://www.youtube.com/watch?v=67zfjTIfbxo](https://www.youtube.com/watch?v=67zfjTIfbxo)
+- 2024-02-03 Игорь Сигов [https://www.youtube.com/watch?v=67zfjTIfbxo](https://www.youtube.com/watch?v=67zfjTIfbxo) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%86%D0%B3%D0%B0%D1%80_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%A1%D1%96%D0%B3%D0%B0%D1%9E)]
 - 2023-12-09 Михаил Зуй [https://www.youtube.com/watch?v=vKqU4RITRJw](https://www.youtube.com/watch?v=vKqU4RITRJw)
 - 2023-09-09 Кристина Дробыш [https://www.youtube.com/watch?v=3WOt26bDaSc](https://www.youtube.com/watch?v=3WOt26bDaSc)
-- 2023-03-18 Александр Гарцуев [https://www.youtube.com/watch?v=12sQqvZ5pO4](https://www.youtube.com/watch?v=12sQqvZ5pO4)
-- 2023-01-21 Олег Гарбуз [https://www.youtube.com/watch?v=EBi2Syj2NJY](https://www.youtube.com/watch?v=EBi2Syj2NJY)
-- 2022-05-07 Николай Халезин [https://www.youtube.com/watch?v=X_K6RJZnqxc](https://www.youtube.com/watch?v=X_K6RJZnqxc)
-- 2021-10-02 Андрей Курейчик [https://www.youtube.com/watch?v=iA3lC-pUA34](https://www.youtube.com/watch?v=iA3lC-pUA34)
-- 2021-03-24 Зоя Белохвостик [https://www.youtube.com/watch?v=c1xh2_Xl_UA](https://www.youtube.com/watch?v=c1xh2_Xl_UA)
+- 2023-03-18 Александр Гарцуев [https://www.youtube.com/watch?v=12sQqvZ5pO4](https://www.youtube.com/watch?v=12sQqvZ5pO4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A4%D1%91%D0%B4%D0%B0%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%93%D0%B0%D1%80%D1%86%D1%83%D0%B5%D1%9E)]
+- 2023-01-21 Олег Гарбуз [https://www.youtube.com/watch?v=EBi2Syj2NJY](https://www.youtube.com/watch?v=EBi2Syj2NJY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%B3_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%93%D0%B0%D1%80%D0%B1%D1%83%D0%B7)]
+- 2022-05-07 Николай Халезин [https://www.youtube.com/watch?v=X_K6RJZnqxc](https://www.youtube.com/watch?v=X_K6RJZnqxc) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D1%96%D1%87_%D0%A5%D0%B0%D0%BB%D0%B5%D0%B7%D1%96%D0%BD)]
+- 2021-10-02 Андрей Курейчик [https://www.youtube.com/watch?v=iA3lC-pUA34](https://www.youtube.com/watch?v=iA3lC-pUA34) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D1%8D%D0%B9_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9A%D1%83%D1%80%D1%8D%D0%B9%D1%87%D1%8B%D0%BA)]
+- 2021-03-24 Зоя Белохвостик [https://www.youtube.com/watch?v=c1xh2_Xl_UA](https://www.youtube.com/watch?v=c1xh2_Xl_UA) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%97%D0%BE%D1%8F_%D0%92%D0%B0%D0%BB%D1%8F%D0%BD%D1%86%D1%96%D0%BD%D0%B0%D1%9E%D0%BD%D0%B0_%D0%91%D0%B5%D0%BB%D0%B0%D1%85%D0%B2%D0%BE%D1%81%D1%86%D1%96%D0%BA)]
 - 2020-09-10 Павел Харланчук [https://www.youtube.com/watch?v=DyINVbupyHM](https://www.youtube.com/watch?v=DyINVbupyHM)
 ​
 # Политологи

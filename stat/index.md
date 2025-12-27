@@ -23,21 +23,21 @@ published: true
 # Журналисты
 
 - 2025-12-13 Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%90%D1%82%D1%80%D0%BE%D1%88%D1%87%D0%B0%D0%BD%D0%BA%D0%B0%D1%9E)]
-- 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg)
+- 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%90%D1%82%D1%80%D0%BE%D1%88%D1%87%D0%B0%D0%BD%D0%BA%D0%B0%D1%9E](https://be.wikipedia.org/wiki/%D0%A1%D1%86%D1%8F%D0%BF%D0%B0%D0%BD_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D1%83%D1%86%D1%96%D0%BB%D0%B0)]
 - 2025-11-08 Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)
 - 2025-04-26 Федор Павлюченко [https://www.youtube.com/watch?v=-rCDcdt_xuY](https://www.youtube.com/watch?v=-rCDcdt_xuY)
-- 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg)
+- 2025-03-15 Ксения Луцкина [https://www.youtube.com/watch?v=IAA24PGWsIg](https://www.youtube.com/watch?v=IAA24PGWsIg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D1%96%D1%8F_%D0%90%D0%BB%D0%B5%D0%B3%D0%B0%D1%9E%D0%BD%D0%B0_%D0%9B%D1%83%D1%86%D0%BA%D1%96%D0%BD%D0%B0)]
 - 2024-12-21 Дмитрий Гурневич [https://www.youtube.com/watch?v=Zmql_ZdSOso](https://www.youtube.com/watch?v=Zmql_ZdSOso)
 - 2024-08-17 Матвей Гонопольский [https://www.youtube.com/watch?v=_DQH2wLaxBw](https://www.youtube.com/watch?v=_DQH2wLaxBw)
-- 2024-05-11 Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c)
-- 2024-03-23 Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE)
+- 2024-05-11 Анна Соусь [https://www.youtube.com/watch?v=0oMfquSy48c](https://www.youtube.com/watch?v=0oMfquSy48c) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%BD%D0%B0_%D0%A1%D0%BE%D1%9E%D1%81%D1%8C)]
+- 2024-03-23 Ирина Халип [https://www.youtube.com/watch?v=9_zH6pckvvE](https://www.youtube.com/watch?v=9_zH6pckvvE) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%86%D1%80%D1%8B%D0%BD%D0%B0_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D1%9E%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BB%D1%96%D0%BF)]
 - 2023-09-30 Сергей Подсосонный [https://www.youtube.com/watch?v=AKbZnZ1Urws](https://www.youtube.com/watch?v=AKbZnZ1Urws)
-- 2023-04-01 Александр Ивулин [https://www.youtube.com/watch?v=psz43wkPoJ0](https://www.youtube.com/watch?v=psz43wkPoJ0)
-- 2023-02-25 Дмитрий Лукашук [https://www.youtube.com/watch?v=_7eKT8hdYro](https://www.youtube.com/watch?v=_7eKT8hdYro)
-- 2023-01-28 Дарья Чульцова [https://www.youtube.com/watch?v=HeqwbwTOAZ0](https://www.youtube.com/watch?v=HeqwbwTOAZ0)
-- 2022-10-22 Татьяна Замировская [https://www.youtube.com/watch?v=FV_GpsRX_PI](https://www.youtube.com/watch?v=FV_GpsRX_PI)
+- 2023-04-01 Александр Ивулин [https://www.youtube.com/watch?v=psz43wkPoJ0](https://www.youtube.com/watch?v=psz43wkPoJ0) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D1%96%D1%87_%D0%86%D0%B2%D1%83%D0%BB%D1%96%D0%BD)]
+- 2023-02-25 Дмитрий Лукашук [https://www.youtube.com/watch?v=_7eKT8hdYro](https://www.youtube.com/watch?v=_7eKT8hdYro) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%97%D0%BC%D1%96%D1%86%D0%B5%D1%80_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D1%83%D0%BA)]
+- 2023-01-28 Дарья Чульцова [https://www.youtube.com/watch?v=HeqwbwTOAZ0](https://www.youtube.com/watch?v=HeqwbwTOAZ0) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%E2%80%99%D1%8F_%D0%94%D0%B7%D0%BC%D1%96%D1%82%D1%80%D1%8B%D0%B5%D1%9E%D0%BD%D0%B0_%D0%A7%D1%83%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%D0%B0)]
+- 2022-10-22 Татьяна Замировская [https://www.youtube.com/watch?v=FV_GpsRX_PI](https://www.youtube.com/watch?v=FV_GpsRX_PI) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A2%D0%B0%D1%86%D1%86%D1%8F%D0%BD%D0%B0_%D0%9C%D1%96%D1%85%D0%B0%D0%B9%D0%BB%D0%B0%D1%9E%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D1%96%D1%80%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D1%8F)]
 - 2021-12-11 Дмитрий Навоша [https://www.youtube.com/watch?v=Vnu0REH9KRE](https://www.youtube.com/watch?v=Vnu0REH9KRE)
-- 2021-11-13 Наталья Радина [https://www.youtube.com/watch?v=u7nTonNXh1w](https://www.youtube.com/watch?v=u7nTonNXh1w)
+- 2021-11-13 Наталья Радина [https://www.youtube.com/watch?v=u7nTonNXh1w](https://www.youtube.com/watch?v=u7nTonNXh1w) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%BB%D1%8F_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%BD%D0%B0)]
 - 2021-05-20 Антон Мартыненко [https://www.youtube.com/watch?v=ROPNLKBBY0Y](https://www.youtube.com/watch?v=ROPNLKBBY0Y)
 - 2021-05-06 Константин Каверин [https://www.youtube.com/watch?v=HSKC-PHCjVg](https://www.youtube.com/watch?v=HSKC-PHCjVg)​
 

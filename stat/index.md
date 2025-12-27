@@ -46,19 +46,19 @@ published: true
 - 2025-12-20 Александр Кнырович [https://www.youtube.com/watch?v=9N_gZi7EoOs](https://www.youtube.com/watch?v=9N_gZi7EoOs)
 - 2025-06-28 Ольга Лойко [https://www.youtube.com/watch?v=fgFZPoxJAjM](https://www.youtube.com/watch?v=fgFZPoxJAjM)
 - 2025-05-24 Андрей Маховский [https://www.youtube.com/watch?v=L2hogW-hYrI](https://www.youtube.com/watch?v=L2hogW-hYrI)
-- 2025-01-25 Сергей Чалый [https://www.youtube.com/watch?v=nHwEo1JrEA0](https://www.youtube.com/watch?v=nHwEo1JrEA0)
-- 2025-01-18 Артем Шрайбман [https://www.youtube.com/watch?v=qAlEe8DS62A](https://www.youtube.com/watch?v=qAlEe8DS62A)
+- 2025-01-25 Сергей Чалый [https://www.youtube.com/watch?v=nHwEo1JrEA0](https://www.youtube.com/watch?v=nHwEo1JrEA0) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D1%8F%D1%87%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%A7%D0%B0%D0%BB%D1%8B)]
+- 2025-01-18 Артем Шрайбман [https://www.youtube.com/watch?v=qAlEe8DS62A](https://www.youtube.com/watch?v=qAlEe8DS62A) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D1%80%D1%86%D1%91%D0%BC_%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D0%B5%D0%B2%D1%96%D1%87_%D0%A8%D1%80%D0%B0%D0%B9%D0%B1%D0%BC%D0%B0%D0%BD)]
 - 2024-10-26 Лев Львовский [https://www.youtube.com/watch?v=5oFULVgU80M](https://www.youtube.com/watch?v=5oFULVgU80M)
 - 2024-10-05 Павел Данейко [https://www.youtube.com/watch?v=P3sfrlb_Zzo](https://www.youtube.com/watch?v=P3sfrlb_Zzo)
 - 2024-01-27 Алесь Олехнович [https://www.youtube.com/watch?v=7NSS9Em3BKI](https://www.youtube.com/watch?v=7NSS9Em3BKI)
-- 2022-11-19 Сергей Чалый [https://www.youtube.com/watch?v=q7WCjOqdVK4](https://www.youtube.com/watch?v=q7WCjOqdVK4)
+- 2022-11-19 Сергей Чалый [https://www.youtube.com/watch?v=q7WCjOqdVK4](https://www.youtube.com/watch?v=q7WCjOqdVK4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D1%8F%D1%87%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%A7%D0%B0%D0%BB%D1%8B)]
 - 2022-09-24 Дмитрий Крук [https://www.youtube.com/watch?v=MJVFnn3YFlY](https://www.youtube.com/watch?v=MJVFnn3YFlY)
 - 2021-12-04 Александр Кнырович [https://www.youtube.com/watch?v=IG2Kvx6ONkI](https://www.youtube.com/watch?v=IG2Kvx6ONkI)
-- 2021-11-06 Артем Шрайбман [https://www.youtube.com/watch?v=RKDwtINhMw4](https://www.youtube.com/watch?v=RKDwtINhMw4)
-- 2020-11-05 Артем Шрайбман [https://www.youtube.com/watch?v=B895gqXyuzY](https://www.youtube.com/watch?v=B895gqXyuzY)
-- 2021-10-23 Ярослав Романчук [https://www.youtube.com/watch?v=Y-EC6v2AYqg](https://www.youtube.com/watch?v=Y-EC6v2AYqg)
+- 2021-11-06 Артем Шрайбман [https://www.youtube.com/watch?v=RKDwtINhMw4](https://www.youtube.com/watch?v=RKDwtINhMw4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D1%80%D1%86%D1%91%D0%BC_%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D0%B5%D0%B2%D1%96%D1%87_%D0%A8%D1%80%D0%B0%D0%B9%D0%B1%D0%BC%D0%B0%D0%BD)]
+- 2020-11-05 Артем Шрайбман [https://www.youtube.com/watch?v=B895gqXyuzY](https://www.youtube.com/watch?v=B895gqXyuzY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D1%80%D1%86%D1%91%D0%BC_%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D0%B5%D0%B2%D1%96%D1%87_%D0%A8%D1%80%D0%B0%D0%B9%D0%B1%D0%BC%D0%B0%D0%BD)]
+- 2021-10-23 Ярослав Романчук [https://www.youtube.com/watch?v=Y-EC6v2AYqg](https://www.youtube.com/watch?v=Y-EC6v2AYqg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%AF%D1%80%D0%B0%D1%81%D0%BB%D0%B0%D1%9E_%D0%A7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%A0%D0%B0%D0%BC%D0%B0%D0%BD%D1%87%D1%83%D0%BA)]
 - 2021-09-11 Лев Львовский [https://www.youtube.com/watch?v=hfUmagQKDrs](https://www.youtube.com/watch?v=hfUmagQKDrs)
-- 2021-01-14 Сергей Чалый [https://www.youtube.com/watch?v=tLJRgnGI848](https://www.youtube.com/watch?v=tLJRgnGI848)
+- 2021-01-14 Сергей Чалый [https://www.youtube.com/watch?v=tLJRgnGI848](https://www.youtube.com/watch?v=tLJRgnGI848) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D1%8F%D1%87%D0%B0%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%D0%B2%D1%96%D1%87_%D0%A7%D0%B0%D0%BB%D1%8B)]
 ​
 # Ведущие
 

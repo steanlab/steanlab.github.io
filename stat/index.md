@@ -113,23 +113,23 @@ published: true
 
 # Ученые и преподаватели
 
-- 2025-10-25 Владимир Мацкевич [https://www.youtube.com/watch?v=eSd-bHv_cw8](https://www.youtube.com/watch?v=eSd-bHv_cw8)
-- 2025-10-11 Роза Турарбекова [https://www.youtube.com/watch?v=e3ZMMcZiCs0](https://www.youtube.com/watch?v=e3ZMMcZiCs0)
-- 2025-07-26 Татьяна Щитцова [https://www.youtube.com/watch?v=FHMfxRCLqAg](https://www.youtube.com/watch?v=FHMfxRCLqAg)
+- 2025-10-25 Владимир Мацкевич [https://www.youtube.com/watch?v=eSd-bHv_cw8](https://www.youtube.com/watch?v=eSd-bHv_cw8) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80_%D0%A3%D0%BB%D0%B0%D0%B4%D0%B7%D1%96%D0%BC%D1%96%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9C%D0%B0%D1%86%D0%BA%D0%B5%D0%B2%D1%96%D1%87)]
+- 2025-10-11 Роза Турарбекова [https://www.youtube.com/watch?v=e3ZMMcZiCs0](https://www.youtube.com/watch?v=e3ZMMcZiCs0) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B0_%D0%9C%D0%B0%D1%80%D0%B0%D1%82%D0%B0%D1%9E%D0%BD%D0%B0_%D0%A2%D1%83%D1%80%D0%B0%D1%80%D0%B1%D0%B5%D0%BA%D0%B0%D0%B2%D0%B0)]
+- 2025-07-26 Татьяна Щитцова [https://www.youtube.com/watch?v=FHMfxRCLqAg](https://www.youtube.com/watch?v=FHMfxRCLqAg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A2%D0%B0%D1%86%D1%86%D1%8F%D0%BD%D0%B0_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%E2%80%99%D0%B5%D1%9E%D0%BD%D0%B0_%D0%A8%D1%87%D1%8B%D1%82%D1%86%D0%BE%D0%B2%D0%B0)]
 - 2025-07-19 Владислав Иванов [https://www.youtube.com/watch?v=vMrbFaY8V1g](https://www.youtube.com/watch?v=vMrbFaY8V1g)
-- 2025-07-12 Наталья Дулина [https://www.youtube.com/watch?v=xOdJ1F12uiI](https://www.youtube.com/watch?v=xOdJ1F12uiI)
+- 2025-07-12 Наталья Дулина [https://www.youtube.com/watch?v=xOdJ1F12uiI](https://www.youtube.com/watch?v=xOdJ1F12uiI) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%BB%D1%8F_%D0%90%D0%BB%D0%B5%D0%B3%D0%B0%D1%9E%D0%BD%D0%B0_%D0%94%D1%83%D0%BB%D1%96%D0%BD%D0%B0)]
 - 2025-05-17 Виктор Якубов [https://www.youtube.com/watch?v=yZ1cPI-OPpY](https://www.youtube.com/watch?v=yZ1cPI-OPpY)
-- 2025-04-05 Павел Терешкович [https://www.youtube.com/watch?v=PCjL-ZeSJb4](https://www.youtube.com/watch?v=PCjL-ZeSJb4)
-- 2025-03-29 Геннадий Коршунов [https://www.youtube.com/watch?v=DhpxJmtazTY](https://www.youtube.com/watch?v=DhpxJmtazTY)
+- 2025-04-05 Павел Терешкович [https://www.youtube.com/watch?v=PCjL-ZeSJb4](https://www.youtube.com/watch?v=PCjL-ZeSJb4) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%A3%D1%81%D0%B5%D0%B2%D0%B0%D0%BB%D0%B0%D0%B4%D0%B0%D0%B2%D1%96%D1%87_%D0%A6%D0%B5%D1%80%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D1%96%D1%87)]
+- 2025-03-29 Геннадий Коршунов [https://www.youtube.com/watch?v=DhpxJmtazTY](https://www.youtube.com/watch?v=DhpxJmtazTY) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B0%D0%B4%D0%B7%D1%8C_%D0%9F%D1%8F%D1%82%D1%80%D0%BE%D0%B2%D1%96%D1%87_%D0%9A%D0%BE%D1%80%D1%88%D1%83%D0%BD%D0%B0%D1%9E)]
 - 2025-02-15 Иван Сивцов [https://www.youtube.com/watch?v=BuawLlZ6vmY](https://www.youtube.com/watch?v=BuawLlZ6vmY)
 - 2024-11-30 Илья Колмановский [https://www.youtube.com/watch?v=AdjbOjoWovc](https://www.youtube.com/watch?v=AdjbOjoWovc)
 - 2024-06-22 Рустис Камунтавичус [https://www.youtube.com/watch?v=3SIi_w_PobM](https://www.youtube.com/watch?v=3SIi_w_PobM)
 - 2024-05-04 Ольга Шпарага [https://www.youtube.com/watch?v=JaTD8I6NExM](https://www.youtube.com/watch?v=JaTD8I6NExM)
 - 2024-03-09 Ирина Сидорская [https://www.youtube.com/watch?v=rgmQs1xXPaQ](https://www.youtube.com/watch?v=rgmQs1xXPaQ)
-- 2023-09-16 Сергей Бесараб [https://www.youtube.com/watch?v=ffLIJD4RGxs](https://www.youtube.com/watch?v=ffLIJD4RGxs)
+- 2023-09-16 Сергей Бесараб [https://www.youtube.com/watch?v=ffLIJD4RGxs](https://www.youtube.com/watch?v=ffLIJD4RGxs) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)]
 - 2023-03-11 Тимофей Акудович [https://www.youtube.com/watch?v=LXPnI0yLJ_0](https://www.youtube.com/watch?v=LXPnI0yLJ_0)
-- 2022-11-26 Тамара Эйдэльман [https://www.youtube.com/watch?v=lKB2o6AizPw](https://www.youtube.com/watch?v=lKB2o6AizPw)
-- 2022-05-14 Андрей Вардомацкий [https://www.youtube.com/watch?v=Z2lcb7ztAXw](https://www.youtube.com/watch?v=Z2lcb7ztAXw)
+- 2022-11-26 Тамара Эйдэльман [https://www.youtube.com/watch?v=lKB2o6AizPw](https://www.youtube.com/watch?v=lKB2o6AizPw) [[RU:Wikipedia](https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%B4%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD,_%D0%A2%D0%B0%D0%BC%D0%B0%D1%80%D0%B0_%D0%9D%D0%B0%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0)]
+- 2022-05-14 Андрей Вардомацкий [https://www.youtube.com/watch?v=Z2lcb7ztAXw](https://www.youtube.com/watch?v=Z2lcb7ztAXw) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D1%8D%D0%B9_%D0%9F%D1%8F%D1%82%D1%80%D0%BE%D0%B2%D1%96%D1%87_%D0%92%D0%B0%D1%80%D0%B4%D0%B0%D0%BC%D0%B0%D1%86%D0%BA%D1%96)]
 ​
 # Врачи
 

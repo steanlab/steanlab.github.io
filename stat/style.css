@@ -1,21 +1,89 @@
 body {
-    background-color: #1a1a1a; color: #f4f4f4;
-    font-family: 'Georgia', serif; display: flex;
-    justify-content: center; align-items: center; height: 100vh; margin: 0;
+    background-color: #fcfaf5; /* Теплый бумажный оттенок */
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.05'/%3E%3C/svg%3E");
+    color: #2c2c2c;
+    font-family: 'Georgia', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
 }
-.container { text-align: center; max-width: 400px; padding: 20px; }
-.portrait { width: 150px; height: 150px; border-radius: 50%; border: 2px solid #d4af37; filter: grayscale(50%); margin-bottom: 20px; }
-.time-picker { padding: 10px; margin-bottom: 20px; border-radius: 5px; border: none; font-size: 1rem; }
-.btn-main { background: #d4af37; color: black; border: none; padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s; width: 100%; }
-.btn-calendar { display: inline-block; background: transparent; border: 1px solid #d4af37; color: #d4af37; padding: 10px 20px; text-decoration: none; margin-top: 10px; border-radius: 5px; }
-.btn-main:hover { background: #fff; }body {
-    background-color: #1a1a1a; color: #f4f4f4;
-    font-family: 'Georgia', serif; display: flex;
-    justify-content: center; align-items: center; height: 100vh; margin: 0;
+
+.container {
+    text-align: center;
+    max-width: 450px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 15px;
 }
-.container { text-align: center; max-width: 400px; padding: 20px; }
-.portrait { width: 150px; height: 150px; border-radius: 50%; border: 2px solid #d4af37; filter: grayscale(50%); margin-bottom: 20px; }
-.time-picker { padding: 10px; margin-bottom: 20px; border-radius: 5px; border: none; font-size: 1rem; }
-.btn-main { background: #d4af37; color: black; border: none; padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s; width: 100%; }
-.btn-calendar { display: inline-block; background: transparent; border: 1px solid #d4af37; color: #d4af37; padding: 10px 20px; text-decoration: none; margin-top: 10px; border-radius: 5px; }
-.btn-main:hover { background: #fff; }
+
+.portrait {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 1px solid #d4af37;
+    filter: sepia(30%);
+    margin-bottom: 20px;
+}
+
+/* Состояние заблокированной кнопки */
+.btn-main {
+    background: #d4af37;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 100%;
+    opacity: 0.4;
+    pointer-events: none; /* Пока не выбрано время — нажать нельзя */
+}
+
+.btn-main.active {
+    opacity: 1;
+    pointer-events: auto;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+}
+
+.result-card {
+    margin-top: 25px;
+    padding: 20px;
+    border: 1px dashed #d4af37;
+    background: white;
+    animation: fadeIn 0.8s ease-in;
+}
+
+.video-link {
+    color: #1a1a1a;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.calendar-options {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.btn-cal {
+    flex: 1;
+    padding: 10px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    border: 1px solid #d4af37;
+    color: #d4af37;
+    transition: 0.2s;
+}
+
+.btn-cal:hover {
+    background: #d4af37;
+    color: white;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}

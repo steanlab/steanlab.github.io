@@ -27,6 +27,25 @@ body {
     padding-top: 15px;  
 }
 
+.site-footer {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 0.7rem;
+    color: #a0a0a0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+@media (max-height: 700px) {
+    .site-footer {
+        position: relative;
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
 .portrait {
     width: 150px;      
     height: 150px;

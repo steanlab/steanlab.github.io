@@ -1,30 +1,58 @@
-document.getElementById('get-video').addEventListener('click', function() {
-    const timeInput = document.getElementById('meeting-time').value;
+const timeInput = document.getElementById('meeting-time');
+const mainBtn = document.getElementById('get-video');
+
+timeInput.addEventListener('change', () => {
+    if (timeInput.value) {
+        mainBtn.classList.add('active');
+    }
+});
+
+mainBtn.addEventListener('click', function() {
+
+    let viewed = JSON.parse(localStorage.getItem('viewed_videos') || "[]");
     
-    if (!timeInput) {
-        alert("Калі ласка, выберыце зручны час для прагляду");
-        return;
+    let available = videoArchive.filter(v => !viewed.includes(v.url));
+    
+    if (available.length === 0) {
+        alert("Вы паглядзелі ўсе 118 эпізодаў. Цыкл пачынаецца зноў");
+        viewed = [];
+        available = videoArchive;
     }
 
-    // 1. Выбираем случайное видео
-    const randomIndex = Math.floor(Math.random() * videoArchive.length);
-    const video = videoArchive[randomIndex];
+    const video = available[Math.floor(Math.random() * available.length)];
+    viewed.push(video.url);
+    localStorage.setItem('viewed_videos', JSON.stringify(viewed));
 
-    // 2. Обработка даты для Google Calendar
-    const dateSelected = new Date(timeInput);
-    const startDate = dateSelected.toISOString().replace(/-|:|\.\d\d\d/g, "");
+    const [mins, secs] = video.duration.split(':').map(Number);
+    const durationMs = (mins * 60 + secs) * 1000;
     
-    // Конец события (делаем +1 час к началу)
-    const endDateObj = new Date(dateSelected.getTime() + (60 * 60 * 1000));
-    const endDate = endDateObj.toISOString().replace(/-|:|\.\d\d\d/g, "");
+    const startTime = new Date(timeInput.value);
+    const endTime = new Date(startTime.getTime() + durationMs);
 
-    // 3. Формируем URL для Google Календаря
-    const calendarUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(video.title)}&dates=${startDate}/${endDate}&details=Посмотреть видео здесь: ${encodeURIComponent(video.url)}&sf=true&output=xml`;
+    const formatGcal = (d) => d.toISOString().replace(/-|:|\.\d\d\d/g, "");
+    
+    // Ссылка для Google
+    const gUrl = `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(video.title)}&dates=${formatGcal(startTime)}/${formatGcal(endTime)}&details=${encodeURIComponent('Ссылка на урок: ' + video.url)}&sf=true&output=xml`;
 
-    // 4. Предлагаем перейти
-    const resultDiv = document.getElementById('result-link');
-    resultDiv.innerHTML = `
-        <p>Выбраны вам эпізод: <strong>${video.title}</strong></p>
-        <a href="${calendarUrl}" target="_blank" class="btn-calendar">Дадаць у каляндар смартфона →</a>
+    const icsContent = [
+        "BEGIN:VCALENDAR", "VERSION:2.0", "BEGIN:VEVENT",
+        `DTSTART:${formatGcal(startTime)}`,
+        `DTEND:${formatGcal(endTime)}`,
+        `SUMMARY:${video.title}`,
+        `DESCRIPTION:Смотреть: ${video.url}`,
+        "END:VEVENT", "END:VCALENDAR"
+    ].join("\n");
+    const icsBlob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
+    const icsUrl = URL.createObjectURL(icsBlob);
+
+    document.getElementById('result-area').innerHTML = `
+        <div class="result-card">
+            <a href="${video.url}" target="_blank" class="video-link">${video.title}</a>
+            <p style="margin: 10px 0; color: #888;">Працягласць відэа: ${video.duration}</p>
+            <div class="calendar-options">
+                <a href="${gUrl}" target="_blank" class="btn-cal">Дадаць напамін у Google каляндар</a>
+                <a href="${icsUrl}" download="lesson.ics" class="btn-cal">Дадаць напамін у Apple каляндар</a>
+            </div>
+        </div>
     `;
 });

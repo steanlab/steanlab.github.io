@@ -91,10 +91,19 @@ body {
 
 .result-card {
     margin-top: 25px;
-    padding: 20px;
-    border: 1px dashed #d4af37;
+    padding: 25px;
+    border: 1px solid rgba(212, 175, 55, 0.2);
     background: white;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(212, 175, 55, 0.1);
     animation: fadeIn 0.8s ease-in;
+}
+
+.result-card h3, .video-link {
+    line-height: 1.5; 
+    display: block; 
+    margin-bottom: 15px;
+    font-size: 1.1rem; 
 }
 
 .video-link {

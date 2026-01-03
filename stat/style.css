@@ -38,6 +38,18 @@ body {
     text-transform: uppercase;
 }
 
+.footer-link {
+    color: #a0a0a0;
+    text-decoration: none;
+    border-bottom: 1px dotted #ccc;
+    transition: 0.3s;
+}
+
+.footer-link:hover {
+    color: #d4af37;
+    border-bottom: 1px solid #d4af37;
+}
+
 @media (max-height: 700px) {
     .site-footer {
         position: relative;

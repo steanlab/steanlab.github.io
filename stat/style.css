@@ -18,6 +18,15 @@ body {
     border-radius: 15px;
 }
 
+.bookmark-hint {
+    margin-top: 30px;
+    font-size: 0.8rem;
+    color: #8c8c8c;
+    font-style: italic;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 15px;  
+}
+
 .portrait {
     width: 150px;      
     height: 150px;

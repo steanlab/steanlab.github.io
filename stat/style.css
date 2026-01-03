@@ -1,0 +1,21 @@
+body {
+    background-color: #1a1a1a; color: #f4f4f4;
+    font-family: 'Georgia', serif; display: flex;
+    justify-content: center; align-items: center; height: 100vh; margin: 0;
+}
+.container { text-align: center; max-width: 400px; padding: 20px; }
+.portrait { width: 150px; height: 150px; border-radius: 50%; border: 2px solid #d4af37; filter: grayscale(50%); margin-bottom: 20px; }
+.time-picker { padding: 10px; margin-bottom: 20px; border-radius: 5px; border: none; font-size: 1rem; }
+.btn-main { background: #d4af37; color: black; border: none; padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s; width: 100%; }
+.btn-calendar { display: inline-block; background: transparent; border: 1px solid #d4af37; color: #d4af37; padding: 10px 20px; text-decoration: none; margin-top: 10px; border-radius: 5px; }
+.btn-main:hover { background: #fff; }body {
+    background-color: #1a1a1a; color: #f4f4f4;
+    font-family: 'Georgia', serif; display: flex;
+    justify-content: center; align-items: center; height: 100vh; margin: 0;
+}
+.container { text-align: center; max-width: 400px; padding: 20px; }
+.portrait { width: 150px; height: 150px; border-radius: 50%; border: 2px solid #d4af37; filter: grayscale(50%); margin-bottom: 20px; }
+.time-picker { padding: 10px; margin-bottom: 20px; border-radius: 5px; border: none; font-size: 1rem; }
+.btn-main { background: #d4af37; color: black; border: none; padding: 15px 30px; font-weight: bold; cursor: pointer; transition: 0.3s; width: 100%; }
+.btn-calendar { display: inline-block; background: transparent; border: 1px solid #d4af37; color: #d4af37; padding: 10px 20px; text-decoration: none; margin-top: 10px; border-radius: 5px; }
+.btn-main:hover { background: #fff; }

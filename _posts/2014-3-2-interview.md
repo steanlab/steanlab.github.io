@@ -166,6 +166,7 @@ ____
 - [Замест рыбы – сурагат: навуковец раскрытыкаваў новую распрацоўку для школьных сталовак](https://belsat.eu/89945986/zamest-ryby-suragat)-[WEBARCHIVE](https://web.archive.org/web/20251110160952/https://belsat.eu/89945986/zamest-ryby-suragat)
 - [Як на Літву запускаюць метэазонды з цыгарэтамі – і хто гэта робіць. Расследаванні «Бюро» і LRT](https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu) - [WEBARCHIVE](https://web.archive.org/web/20251111222601/https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu)
 - [Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы](https://belsat.eu/90155359/novyya-pagrozy-chalavectvu) - [WEBARCHIVE](https://web.archive.org/web/20251122153854/https://belsat.eu/90155359/novyya-pagrozy-chalavectvu)
+- [«Багатым – біялогія паводле падпіскі, бедным – чат-бот-нутрыцыёлаг». Прагнозы на 2026 год ад беларускага навукоўца](https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca) [RU](https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo)- [WEBARCHIVE BE](https://web.archive.org/web/20260105132813/https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca)-[WEBARCHIVE RU](https://web.archive.org/web/20260105133500/https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo)
 
 # Зеленый портал
 

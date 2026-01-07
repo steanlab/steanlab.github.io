@@ -1,4 +1,5 @@
 const videoArchive = [
+ { title: 'Апошні выпуск Мелказёрава на канале «Загляне сонца». Чаму ў Беларусі два Раства?', url: 'https://www.youtube.com/watch?v=WProi1GNWPI', duration: '19:53' },
  { title: 'Маскавіты спачатку праклялі, а потым спалілі беларускі горад. Сумная старонка гісторыі Магілёва', url: 'https://www.youtube.com/watch?v=N-vEr0nI5NY', duration: '17:31' },
  { title: 'Хто вінаваты ў даўцы на Нямізе, у якой загінула 53 чалавекі. Галоўныя катастрофы сучаснай Беларусі', url: 'https://www.youtube.com/watch?v=Iy_nrt4Phx0', duration: '19:05' },
  { title: 'Як КДБ сачыў за забойцам Кенэдзі ў Мінску, любоў з рускай і Шушкевіч. Лі Харві Освальд', url: 'https://www.youtube.com/watch?v=jq5nfRAPxnY', duration: '26:29' },

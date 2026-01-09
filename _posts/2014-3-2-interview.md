@@ -30,6 +30,7 @@ ____
 # 2digital.news
 
 - [A technooptimist on what will finally burst the AI bubble](https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/) - [WEBARCHIVE](https://web.archive.org/web/20251218115226/https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/) - [ghostarchive](https://ghostarchive.org/archive/wesSx) - [ARCHIVE.IS](https://archive.is/POarz)
+- [“When the AI bubble bursts, we could be facing the first Great Depression of the 21st century” One more grim future forecast](https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast) - [WEBARCHIVE](https://web.archive.org/web/20260109142133/https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast)
 
 # Наша Ніва
 

@@ -22,6 +22,10 @@ published: true
 
 # Журналисты
 
+- 2026-01-10 Александр Лукашук [https://www.youtube.com/watch?v=JVM9weaUArA](https://www.youtube.com/watch?v=JVM9weaUArA) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D1%83%D0%BA)]
+
+☝️ Последнее интервью Никиты, которое доделывала уже после его смерти команда проекта. Общим решением проект было решено закрыть. В тг-канале проекта был опубликован пост «Мікіта, ты сам сабе стварыў помнік. Хай ён застанецца ў тым выглядзе, у якім ты нам яго пакінуў. Працягваць працу канала — гэта будзе падманам і сябе, і гледачоў»
+
 - 2025-12-13 Александр Отрощенков [https://www.youtube.com/watch?v=mUAkDuPy81c](https://www.youtube.com/watch?v=mUAkDuPy81c) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D1%96%D1%87_%D0%90%D1%82%D1%80%D0%BE%D1%88%D1%87%D0%B0%D0%BD%D0%BA%D0%B0%D1%9E)]
 - 2025-09-27 Степан Путило [https://www.youtube.com/watch?v=Fzl_2itAReg](https://www.youtube.com/watch?v=Fzl_2itAReg) [[BE:Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%86%D1%8F%D0%BF%D0%B0%D0%BD_%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%B2%D1%96%D1%87_%D0%9F%D1%83%D1%86%D1%96%D0%BB%D0%B0)]
 - 2025-11-08 Станислав Ивашкевич [https://www.youtube.com/watch?v=YwHl8EQ_R7E](https://www.youtube.com/watch?v=YwHl8EQ_R7E)

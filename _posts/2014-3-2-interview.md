@@ -14,7 +14,7 @@ ____
 
 # Voice of America
 
-- [VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl’s Radioactive Soil](https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html) - [WEBARCHIVE]([https://web.archive.org/web/20220922163157/https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html)
+- [VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl’s Radioactive Soil](https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html) - [WEBARCHIVE](https://web.archive.org/web/20220922163157/https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html)
 - [Photos Indicate Russian Looting of Radioactive Materials from Ukraine’s Chernobyl](https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html) - [WEBARCHIVE](https://web.archive.org/web/20230217140520/https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html)
 
 # Radio France internationale (UA)

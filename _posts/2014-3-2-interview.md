@@ -169,7 +169,7 @@ ____
 - [Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы](https://belsat.eu/90155359/novyya-pagrozy-chalavectvu) - [WEBARCHIVE](https://web.archive.org/web/20251122153854/https://belsat.eu/90155359/novyya-pagrozy-chalavectvu)
 - [«Багатым – біялогія паводле падпіскі, бедным – чат-бот-нутрыцыёлаг». Прагнозы на 2026 год ад беларускага навукоўца](https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca) [RU](https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo)- [WEBARCHIVE BE](https://web.archive.org/web/20260105132813/https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca)-[WEBARCHIVE RU](https://web.archive.org/web/20260105133500/https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo) - [ARCHIVE.IS](https://archive.is/IKikK)
 - [Што напраўду маглі праслухаць «шпіёны-радыёаматары»? Вось што можа злавіць любы ахвочы](https://belsat.eu/91084724/radyjoamatary)-[archive.is](https://archive.is/dsHPN)-[WEBARCHIVE](https://web.archive.org/web/20260116232249/https://belsat.eu/91084724/radyjoamatary)
-- [Ад беспілотнікаў да лекаў ад раку. Над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку](https://belsat.eu/91059606/navuka-2026-2020) - [ARCHIVE.IS](https://archive.is/MsyKa)
+- [Ад беспілотнікаў да лекаў ад раку. Над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку](https://belsat.eu/91059606/navuka-2026-2020) - [ARCHIVE.IS](https://archive.is/MsyKa) - [WEBARCHIVE](https://web.archive.org/web/20260117212415/https://belsat.eu/91059606/navuka-2026-2020)
 
 # Зеленый портал
 

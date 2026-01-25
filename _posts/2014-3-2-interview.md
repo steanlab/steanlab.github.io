@@ -382,6 +382,10 @@ ____
 
 - [How Lukashenko repressed Belarusian scientists who advocated new elections](https://news.house/42353) - [WEBARCHIVE](https://web.archive.org/web/20250613213503/https://news.house/42353)
 
+# ЭХО Новости
+
+- [В Беларуси радиолюбителей обвиняют в том, что они «выкачивали гостайну из эфира»](https://echofm.online/news/v-belarusi-radiolyubitelej-obvinyayut-v-tom-chto-oni-vykachivali-gostajnu-iz-efira) - [WEBARCHIVE](https://web.archive.org/web/20260123140820/https://echofm.online/news/v-belarusi-radiolyubitelej-obvinyayut-v-tom-chto-oni-vykachivali-gostajnu-iz-efira)
+
 # Беларусcкий расследовательский центр
 
 - [Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего](https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine)

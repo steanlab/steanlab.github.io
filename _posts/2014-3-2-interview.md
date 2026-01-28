@@ -34,7 +34,7 @@ ____
 
 # Argument UA
 
-- [Лоботомія нації: чому інтелект став головним ворогом білоруського режиму](https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu)
+- [Лоботомія нації: чому інтелект став головним ворогом білоруського режиму](https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu) - [Archive.is](https://archive.is/TAE3o)
 
 # Наша Ніва
 

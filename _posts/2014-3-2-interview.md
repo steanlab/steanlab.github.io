@@ -293,6 +293,7 @@ ____
 - [Беларускіх кантрабандных цыгарэт стала менш удвая, але цяпер яны спыняюць працу аэрапортаў. Як зьмянілася кантрабанда ў Літву](https://www.svaboda.org/a/33586119.html) - [WEBARCHIVE](https://web.archive.org/web/20251111114750/https://www.svaboda.org/a/33586119.html)
 - [За час працы АЭС у Астраўцы электрычнасьць для людзей падаражэла на 36%. Навошта ўладам Беларусі другая атамная станцыя](https://www.svaboda.org/a/33597163.html) - [ARCHIVE.IS](https://archive.is/flQlq)-[WEBARCHIVE](https://web.archive.org/web/20251120224906/https://www.svaboda.org/a/33597163.html)
 - [«У сілавікоў кепская сувязь, а вінаватыя радыёаматары». Чаму людзей з аматарскімі радыёстанцыямі абвінавацілі ў здрадзе дзяржаве](https://www.svaboda.org/a/33653641.html) - [WEBARCHIVE](https://web.archive.org/web/20260119115207/https://www.svaboda.org/a/33653641.html)
+- [Мазырскі НПЗ атачаюць комплексамі супрацьпаветранай абароны. Спадарожнікавыя здымкі](https://www.svaboda.org/a/33668138.html) - [WEBARCHIVE](https://web.archive.org/web/20260204130148/https://www.svaboda.org/a/33668138.html)
 
 # CityDog
 

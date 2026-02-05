@@ -197,6 +197,7 @@ ____
 - [«Побач з тэхналогіямі павінна заўсёды ісці этыка»](https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka) - [WEBARCHIVE](https://web.archive.org/web/20250612102239/https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka)
 - ["Эй, агроном, приехали!" Как Беларуси спасти сельское хозяйство от климатического кризиса](https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo) - [WEBARCHIVE](https://web.archive.org/web/20250730085041/https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo)
 - [БелАЭС — уникальна. Такого чудовищного количества проблем, как на ней, не было ни у кого](https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni) - [WEBARCHIVE](https://web.archive.org/web/20251121103027/https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni)
+- [Активированный уголь из погребённой древесины: почему это не прорыв, а сомнительная идея](https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv) - [WEBARCHIVE](https://web.archive.org/web/20260205172449/https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv)
 
 # Обычное утро (ОУ)
 
@@ -253,6 +254,8 @@ ____
 - [Ученый Бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов](https://news.zerkalo.io/life/106316.html) - [ARCHIVE.IS](https://archive.is/IENGR) - [WEBARCHIVE](https://web.archive.org/web/20250815151931/https://news.zerkalo.io/life/106316.html)
 - [«Всё прячется». Как и зачем власти возвращают в оборот земли, которые раньше относились к загрязненным радиацией](https://news.zerkalo.io/economics/114538.html)-[ARCHIVE.IS](https://archive.is/Oxh5J)-[SCREENSHOT](http://web.archive.org/screenshot/https://news.zerkalo.io/economics/114538.html)
 - [«Это они называют артезианской». Минчанка возмутилась качеством воды и показала фильтр — спросили химика, есть ли основания переживать](https://news.zerkalo.io/life/118969.html) - [WEBARCHIVE](https://web.archive.org/web/20260127222833/https://news.zerkalo.io/life/118969.html)
+- [«Платите здоровьем за „светлый вечер“, но света вам не дают». Ученый о возможных последствиях идеи Лукашенко с «блэкаутом» для беларусов](https://news.zerkalo.io/life/119640.html) - [WEBARCHIVE](https://web.archive.org/web/20260205173352/https://news.zerkalo.io/life/119640.html)
+
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

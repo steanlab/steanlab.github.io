@@ -122,7 +122,7 @@ ____
 - [Касіць ці не касіць? Навуковец прапануе «зялёную сярэдзіну»](https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/) - [WEBARCHIVE](https://web.archive.org/web/20250806131927/https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/) - [ARCHIVE.IS](https://archive.is/wip/VE7T3)
 - [Смяротна небяспечная цвіль пагражае чалавецтву](https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)-[WEBARCHIVE](https://web.archive.org/web/20251009063326/https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)
 - [Зіма будзе цяплейшая, але больш кантрасная](https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [WEBARCHIVE](https://web.archive.org/web/20251208165416/https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [AUDIO](/_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3)
-- [“Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”](https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja) - [WEBARCHIVE](https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/) - [AUDIO]
+- [“Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”](https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja) - [WEBARCHIVE](https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/) - [AUDIO](/_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3)
 
   # Белсат
 

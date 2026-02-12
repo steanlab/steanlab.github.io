@@ -123,6 +123,7 @@ ____
 - [Смяротна небяспечная цвіль пагражае чалавецтву](https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)-[WEBARCHIVE](https://web.archive.org/web/20251009063326/https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/)
 - [Зіма будзе цяплейшая, але больш кантрасная](https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [WEBARCHIVE](https://web.archive.org/web/20251208165416/https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/) - [AUDIO](/_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3)
 - [“Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”](https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja) - [WEBARCHIVE](https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/) - [AUDIO](/_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3)
+- [Беларуская навука становіцца «сэрвісным цэнтрам» Расеі і Кітая](https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja) - [WEBARCHIVE](https://web.archive.org/web/20260212231126/https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja) - [AUDIO](/_posts/files/___.mp3)
 
   # Белсат
 

@@ -178,6 +178,7 @@ ____
 - [Ад беспілотнікаў да лекаў ад раку. Над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку](https://belsat.eu/91059606/navuka-2026-2020) - [ARCHIVE.IS](https://archive.is/MsyKa) - [WEBARCHIVE](https://web.archive.org/web/20260117212415/https://belsat.eu/91059606/navuka-2026-2020) - [RU](https://ru.belsat.eu/91078412/nauka-2026-2030) - [WEBARCHIVE RU](https://web.archive.org/web/20260122040143/https://ru.belsat.eu/91078412/nauka-2026-2030)
 - [«Амаль уся табліца Мендзялеева»: СТВ расказала пра гаючую ваду з уранам, навуковец з гэтым не пагадзіўся](https://belsat.eu/91330204/yuckaskaya-krynica) - [WEBARCHIVE](https://web.archive.org/web/20260130164021/https://belsat.eu/91330204/yuckaskaya-krynica) - [Archive.is](https://archive.is/E6Y8I)
 - [«Варварскі эксперымент». Чаму стаўся магчымы скандал з вулічным асвятленнем?](https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem) - [WEBARCHIVE](https://web.archive.org/web/20260207013222/https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem)
+- [«Зачыстка поля» і легалізацыя кантролю за супольнасцю. Навошта ўладам новае палажэнне «Аб радыёчастотным спектры»?](https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry) - [ARCHIVE.IS](https://archive.is/jLeHd)
 
 # Зеленый портал
 

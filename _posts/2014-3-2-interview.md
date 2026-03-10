@@ -31,6 +31,7 @@ ____
 
 - [A technooptimist on what will finally burst the AI bubble](https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/) - [WEBARCHIVE](https://web.archive.org/web/20251218115226/https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/) - [ghostarchive](https://ghostarchive.org/archive/wesSx) - [ARCHIVE.IS](https://archive.is/POarz)
 - [“When the AI bubble bursts, we could be facing the first Great Depression of the 21st century” One more grim future forecast](https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast) - [WEBARCHIVE](https://web.archive.org/web/20260109142133/https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast)
+- [“People Have Been Cyborgs for a Long Time — We’re Just Embarrassed to Admit It”: Enhanced Games Could Trigger a Revolution](https://2digital.news/people-have-been-cyborgs-for-a-long-time-were-just-embarrassed-to-admit-it-enhanced-games-could-trigger-a-revolution/) - [WEBARCHIVE](https://web.archive.org/web/20260310131422/https://2digital.news/people-have-been-cyborgs-for-a-long-time-were-just-embarrassed-to-admit-it-enhanced-games-could-trigger-a-revolution/)
 
 # Argument UA
 

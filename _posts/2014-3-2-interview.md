@@ -261,6 +261,8 @@ ____
 - [«Это они называют артезианской». Минчанка возмутилась качеством воды и показала фильтр — спросили химика, есть ли основания переживать](https://news.zerkalo.io/life/118969.html) - [WEBARCHIVE](https://web.archive.org/web/20260127222833/https://news.zerkalo.io/life/118969.html)
 - [«Платите здоровьем за „светлый вечер“, но света вам не дают». Ученый о возможных последствиях идеи Лукашенко с «блэкаутом» для беларусов](https://news.zerkalo.io/life/119640.html) - [WEBARCHIVE](https://web.archive.org/web/20260205173352/https://news.zerkalo.io/life/119640.html)
 - [«Спасибо всевышнему, что уцелел». Известные беларусы рассказали, какими они были в школе, и поделились своими фото тех лет — смотрите](https://news.zerkalo.io/life/119726.html) - [WEBARCHIVE](https://web.archive.org/web/20260207124310/https://news.zerkalo.io/life/119726.html)
+- [«Отравление всех без разбора, и детей, и взрослых». Химик прокомментировал идею Лукашенко удобрять поля солью](https://news.zerkalo.io/economics/122464.html) - [WEBARCHIVE](https://web.archive.org/web/20260312203409/https://news.zerkalo.io/economics/122464.html)
+
 
 
 # DEV.BY

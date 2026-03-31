@@ -26,6 +26,7 @@ ____
 - [Защита диссертаций в РБ: междусобойчик под контролем властей](https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190) - [WEBARCHIVE](https://web.archive.org/web/20230522132153/https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190)
 - ["Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249) - [WEBARCHIVE](https://web.archive.org/web/20240314070855/https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
 - [Лукашенко хочет продавать Европе воздух. Это возможно?](https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576) - [ARCHIVE.IS](https://archive.is/rIW8g)-[WEBARCHIVE](https://web.archive.org/web/20251120231734/https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576)
+- [Где в Беларуси построят ядерный могильник?](https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727) - [WEBARCHIVE](https://web.archive.org/web/20260331171518/https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727)
 
 # 2digital.news
 

@@ -308,6 +308,7 @@ ____
 - [Мазырскі НПЗ атачаюць комплексамі супрацьпаветранай абароны. Спадарожнікавыя здымкі](https://www.svaboda.org/a/33668138.html) - [WEBARCHIVE](https://web.archive.org/web/20260204130148/https://www.svaboda.org/a/33668138.html)
 - [«Электрычнасьць дзяваць няма куды, яе прорва!». Чаму беларускія ўлады вырашылі адключыць ліхтары](https://www.svaboda.org/a/33670436.html) - [WEBARCHIVE](https://web.archive.org/web/20260205132915/https://www.svaboda.org/a/33670436.html)
 - [«Атрымліваецца толькі саламяны макет». Як у Беларусі больш за 40 гадоў ствараюць свой электрамабіль](https://www.svaboda.org/a/33679641.html) - [WEBARCHIVE](https://web.archive.org/web/20260216121908/https://www.svaboda.org/a/33679641.html)
+- [Палесьсе, Мсьціслаў ці Астравец: улады прапанавалі тры пляцоўкі пад адкіды ад БелАЭС. Чым гэта небясьпечна і якая зь іх лепшая](https://www.svaboda.org/a/33723980.html) - [WEBARCHIVE](https://web.archive.org/web/20260403103339/https://www.svaboda.org/a/33723980.html)
 
 # CityDog
 

@@ -181,6 +181,7 @@ ____
 - [«Амаль уся табліца Мендзялеева»: СТВ расказала пра гаючую ваду з уранам, навуковец з гэтым не пагадзіўся](https://belsat.eu/91330204/yuckaskaya-krynica) - [WEBARCHIVE](https://web.archive.org/web/20260130164021/https://belsat.eu/91330204/yuckaskaya-krynica) - [Archive.is](https://archive.is/E6Y8I)
 - [«Варварскі эксперымент». Чаму стаўся магчымы скандал з вулічным асвятленнем?](https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem) - [WEBARCHIVE](https://web.archive.org/web/20260207013222/https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem)
 - [«Зачыстка поля» і легалізацыя кантролю за супольнасцю. Навошта ўладам новае палажэнне «Аб радыёчастотным спектры»?](https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry) - [ARCHIVE.IS](https://archive.is/jLeHd) - [WEBARCHIVE](https://web.archive.org/web/20260309115704/https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry)
+- [«Киберпартизаны» ответили на критику взлома сайта Национальной библиотеки](https://ru.belsat.eu/92424707/kiberpartizany-biblioteka) - [WEBARCHIVE](https://web.archive.org/web/20260403203243/https://ru.belsat.eu/92424707/kiberpartizany-biblioteka)
 
 # Зеленый портал
 

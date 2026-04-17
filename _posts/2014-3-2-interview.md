@@ -266,8 +266,6 @@ ____
 - [«Спасибо всевышнему, что уцелел». Известные беларусы рассказали, какими они были в школе, и поделились своими фото тех лет — смотрите](https://news.zerkalo.io/life/119726.html) - [WEBARCHIVE](https://web.archive.org/web/20260207124310/https://news.zerkalo.io/life/119726.html)
 - [«Отравление всех без разбора, и детей, и взрослых». Химик прокомментировал идею Лукашенко удобрять поля солью](https://news.zerkalo.io/economics/122464.html) - [WEBARCHIVE](https://web.archive.org/web/20260312203409/https://news.zerkalo.io/economics/122464.html)
 
-
-
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)
 - [«Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба](https://devby.io/news/besarab-chto-chitat)
@@ -332,6 +330,10 @@ ____
 - [Гомельшчына, амерыканскія прэрыі і рэпеленты](https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)- [WEBARCHIVE](https://web.archive.org/web/20250804060133/https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)
 - [Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына](https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/) - [WEBARCHIVE](https://web.archive.org/web/20251130113217/https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/)
 - [Чарнобыль: абы не было панікі](https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/) ([падкаст](/_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3)) - [Archive.is](https://archive.is/9t6AH)
+
+# Флагшток
+
+- [«Мы открыли пожарный гидрант и теперь не знаем, куда отвести воду». Известный ученый рассказал о проблемах строительства ядерного могильника в Беларуси](https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html) - [WEBARCHIVE](https://web.archive.org/web/20260417103459/https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html)
 
 # ЕвроРадио
 

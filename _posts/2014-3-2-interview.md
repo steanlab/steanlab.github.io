@@ -182,7 +182,7 @@ ____
 - [«Варварскі эксперымент». Чаму стаўся магчымы скандал з вулічным асвятленнем?](https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem) - [WEBARCHIVE](https://web.archive.org/web/20260207013222/https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem)
 - [«Зачыстка поля» і легалізацыя кантролю за супольнасцю. Навошта ўладам новае палажэнне «Аб радыёчастотным спектры»?](https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry) - [ARCHIVE.IS](https://archive.is/jLeHd) - [WEBARCHIVE](https://web.archive.org/web/20260309115704/https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry)
 - [«Киберпартизаны» ответили на критику взлома сайта Национальной библиотеки](https://ru.belsat.eu/92424707/kiberpartizany-biblioteka) - [WEBARCHIVE](https://web.archive.org/web/20260403203243/https://ru.belsat.eu/92424707/kiberpartizany-biblioteka)
-- [«Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?](https://belsat.eu/92786159/wulica-minska-tedx) - [Archive.is](https://archive.is/C5YoC)
+- [«Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?](https://belsat.eu/92786159/wulica-minska-tedx) - [Archive.is](https://archive.is/C5YoC) - [WEBARCHIVE](https://web.archive.org/web/20260419111127/https://belsat.eu/92786159/wulica-minska-tedx)
 
 # Зеленый портал
 

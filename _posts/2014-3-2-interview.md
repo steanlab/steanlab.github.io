@@ -333,6 +333,7 @@ ____
 - [Гомельшчына, амерыканскія прэрыі і рэпеленты](https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)- [WEBARCHIVE](https://web.archive.org/web/20250804060133/https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/)
 - [Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына](https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/) - [WEBARCHIVE](https://web.archive.org/web/20251130113217/https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/)
 - [Чарнобыль: абы не было панікі](https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/) ([падкаст](/_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3)) - [Archive.is](https://archive.is/9t6AH)
+- [Улады хочуць адкрыць назіральную вышку з выглядам на саркафаг ЧАЭС](https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes) - [WEBARCHIVE](https://web.archive.org/web/20260420190938/https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes/)
 
 # Флагшток
 

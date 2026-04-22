@@ -128,6 +128,7 @@ ____
 - [“Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”](https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja) - [WEBARCHIVE](https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/) - [AUDIO](/_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3)
 - [Беларуская навука становіцца «сэрвісным цэнтрам» Расеі і Кітая](https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja) - [WEBARCHIVE](https://web.archive.org/web/20260212231126/https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja) - [AUDIO](/_posts/files/2026-02-12_volha_siamashka_navuka_biesarab_k.mp3)
 - [У Варшаве адбылася канферэнцыя TEDxUlicaMińska](https://racyja.com/by/kultura/u-varsave-adbylasja-kanferencyja-tedxulicaminska) - [WEBARCHIVE](https://web.archive.org/web/20260420112701/https://racyja.com/by/kultura/u-varsave-adbylasja-kanferencyja-tedxulicaminska/)
+- [Сітуацыя з наступствамі аварыі на ЧАЭС патрабуе дакладнай інфармацыі](https://racyja.com/by/hramadstva/situacyja-z-nastupstvami-avaryi-na-caes-patrabue-dakladnaj-infarmacyi/) - [WEBARCHIVE](https://web.archive.org/web/20260422160333/https://racyja.com/by/hramadstva/situacyja-z-nastupstvami-avaryi-na-caes-patrabue-dakladnaj-infarmacyi/)
 
   # Белсат
 

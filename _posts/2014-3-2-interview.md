@@ -27,7 +27,7 @@ ____
 - ["Список экстремистов" от МВД Беларуси: кого и за что внесли](https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249) - [WEBARCHIVE](https://web.archive.org/web/20240314070855/https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249)
 - [Лукашенко хочет продавать Европе воздух. Это возможно?](https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576) - [ARCHIVE.IS](https://archive.is/rIW8g)-[WEBARCHIVE](https://web.archive.org/web/20251120231734/https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576)
 - [Где в Беларуси построят ядерный могильник?](https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727) - [WEBARCHIVE](https://web.archive.org/web/20260331171518/https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727)
-- ["За границами": что обсуждали белорусы на TEDx в Варшаве](https://www.dw.com/ru/za-granicami-cto-obsuzdali-belorusy-na-tedx-v-varsave/a-76852059) - [ARCHIVE.IS](https://archive.is/O16d3) - [WEBARCHIVE]
+- ["За границами": что обсуждали белорусы на TEDx в Варшаве](https://www.dw.com/ru/za-granicami-cto-obsuzdali-belorusy-na-tedx-v-varsave/a-76852059) - [ARCHIVE.IS](https://archive.is/O16d3) - [WEBARCHIVE](https://web.archive.org/web/20260424075422/https://www.dw.com/ru/belorusskij-tedx-v-varsave-radiacia-mova-poisk-seba/a-76852059)
 
 # 2digital.news
 

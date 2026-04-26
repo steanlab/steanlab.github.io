@@ -401,6 +401,10 @@ ____
 
 - [Химик раскритиковал сюжеты БТ об «отравителе милиционеров» Латыпове](https://reform.by/165661-himik-raskritikoval-sjuzhety-bt-ob-otravitele-milicionerov-latypove)
 
+# Медиазона Беларусь
+
+- [Ядерный «могильник» и тихие обсуждения: куда денут отходы БелАЭС](https://mediazonaby.com/article/2026/04/26/station) - [WEBARCHIVE](https://web.archive.org/web/20260426143131/https://mediazonaby.com/article/2026/04/26/station)
+
 # Onliner
 
 - [Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»](https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen)

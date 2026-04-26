@@ -344,6 +344,7 @@ ____
 # Флагшток
 
 - [«Мы открыли пожарный гидрант и теперь не знаем, куда отвести воду». Известный ученый рассказал о проблемах строительства ядерного могильника в Беларуси](https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html) - [WEBARCHIVE](https://web.archive.org/web/20260417103459/https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html)
+- [Торговля одеждой, агросервис, КГБ. Есть ли профильные специалисты в организации, ответственной за ядерный могильник в Беларуси?](https://flagshtok.info/ru/flagshtok/torgovlja-odezhdoj-agroservis-kgb-est-li-profilnye-specialisty-v-organizacii-otvetstvennoj-za-jadernyj-mogilnik-v-belarusi.html) - [WEBARCHIVE](https://web.archive.org/web/20260426163106/https://flagshtok.info/ru/flagshtok/torgovlja-odezhdoj-agroservis-kgb-est-li-profilnye-specialisty-v-organizacii-otvetstvennoj-za-jadernyj-mogilnik-v-belarusi.html)
 
 # ЕвроРадио
 

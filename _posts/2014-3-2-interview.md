@@ -293,6 +293,10 @@ ____
 
 - [Травы, масла и йодовая сеточка. По статистике, почти половина россиян хотя бы иногда прибегает к нетрадиционной медицине. Объясняем, что с ней не так](https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka) - [WEBARCHIVE](https://web.archive.org/web/20250301095116/https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka)
 
+# ВОТ-ТАК ТВ
+
+- [Катастрофа на Чернобыльской АЭС: как это было и что угрожает человечеству спустя 40 лет](https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya) - [WEBARCHIVE](https://web.archive.org/web/20260426145305/https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya)
+
 # Радыё Свабода
 
 - [Беларускія ўлады расказалі, як змагаюцца з наступствамі Чарнобыльскай аварыі. Эколягі ім запярэчылі](https://www.svaboda.org/a/32922242.html)- [WEBARCHIVE](https://web.archive.org/web/20240426164036/https://www.svaboda.org/a/32922242.html)

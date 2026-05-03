@@ -39,7 +39,7 @@ ____
 
 - [Лоботомія нації: чому інтелект став головним ворогом білоруського режиму](https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu) - [Archive.is](https://archive.is/TAE3o) - [Webarchive](https://web.archive.org/web/20260128184242/https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu)
 - [Ядерний могильник під наглядом КДБ або Чому лояльність у Білорусі стала небезпечнішою за радіацію](https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r) - [WEBARCHIVE](https://web.archive.org/web/20260501075140/https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r)
-
+- [Ядерний могильник Лукашенка: як Білорусь готує небезпечний об’єкт біля кордонів України](https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob'yekt-bilya-kordoniv-ukrayini_n80157) - [WEBARCHIVE](https://web.archive.org/web/20260503175225/https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob%27yekt-bilya-kordoniv-ukrayini_n80157)
 
 # Наша Ніва
 

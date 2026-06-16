@@ -388,7 +388,7 @@ ____
 - [Лекарства от простуды и гриппа в Европе «штырят». Почему?](https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut) - [WEBARCHIVE](https://web.archive.org/web/20250219154532/https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut)
 - [Все про кофеин](https://www.belhalat.news/articles/vse-pro-kofein)-[WEBARCHIVE](https://web.archive.org/web/20250313094243/https://www.belhalat.news/articles/vse-pro-kofein)
 - [Обсудили с врачами и химиком, насколько вредны Cola и Pepsi](https://www.belhalat.news/articles/vred-cola-i-pepsi)-[WEARCHIVE](https://web.archive.org/web/20250427074405/https://www.belhalat.news/articles/vred-cola-i-pepsi)
-- [Все про сахарозаменители](https://www.belhalat.news/articles/vse-pro-saharozameniteli) - [WEBARCHIVE] [ARCHIVE.IS](https://archive.is/VHovv)
+- [Все про сахарозаменители](https://www.belhalat.news/articles/vse-pro-saharozameniteli) - [WEBARCHIVE](https://web.archive.org/web/20260615204115/https://www.belhalat.news/articles/vse-pro-saharozameniteli) - [ARCHIVE.IS](https://archive.is/VHovv)
 
 # Благотворительный фонд "Страна для жизни"
 

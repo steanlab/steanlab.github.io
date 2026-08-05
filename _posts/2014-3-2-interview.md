@@ -41,6 +41,10 @@ ____
 - [Ядерний могильник під наглядом КДБ або Чому лояльність у Білорусі стала небезпечнішою за радіацію](https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r) - [WEBARCHIVE](https://web.archive.org/web/20260501075140/https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r)
 - [Ядерний могильник Лукашенка: як Білорусь готує небезпечний об’єкт біля кордонів України](https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob'yekt-bilya-kordoniv-ukrayini_n80157) - [WEBARCHIVE](https://web.archive.org/web/20260503175225/https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob%27yekt-bilya-kordoniv-ukrayini_n80157)
 
+# Inertia.pl
+
+- [Łukaszenka nie zważa na skażenie. "Musimy odzyskać ziemie czarnobylskie"](https://wydarzenia.interia.pl/zagranica/news-lukaszenka-nie-zwaza-na-skazenie-musimy-odzyskac-ziemie-czar,nId,23422756) - [ARCHIVE.IS](https://archive.is/aikqt)
+
 # Наша Ніва
 
 - [Амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па WiFi замест камер. Аказваецца, беларусы прэзентавалі падобны метад 6 год таму](https://nashaniva.com/310711) ([RU](https://nashaniva.com/ru/310711))- [WEBARCHIVE](https://web.archive.org/web/20230222033251/https://nashaniva.com/310711)

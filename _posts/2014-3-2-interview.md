@@ -196,6 +196,7 @@ ____
 - [«Киберпартизаны» ответили на критику взлома сайта Национальной библиотеки](https://ru.belsat.eu/92424707/kiberpartizany-biblioteka) - [WEBARCHIVE](https://web.archive.org/web/20260403203243/https://ru.belsat.eu/92424707/kiberpartizany-biblioteka)
 - [«Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?](https://belsat.eu/92786159/wulica-minska-tedx) - [Archive.is](https://archive.is/C5YoC) - [WEBARCHIVE](https://web.archive.org/web/20260419111127/https://belsat.eu/92786159/wulica-minska-tedx)
 - [Як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей Чарнобылю](https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi) - [WEBARCHIVE](https://web.archive.org/web/20260805132137/https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi)
+- [Ці спыніцца БелАЭС ад спёкі і засухі?](https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi) - [WEBARCHIVE] - [ARCHIVE.IS](https://archive.is/01OnC)
 
 # Зеленый портал
 

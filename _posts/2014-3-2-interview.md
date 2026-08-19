@@ -439,6 +439,7 @@ ____
 # Petitions.by
 
 - [https://e-petitions.by/articles/4993](https://web.archive.org/web/20240908173716/https://telegra.ph/ZHalkoe-zrelishche-Belarusy-prosyat-ne-otklyuchat-internet-uchenym-v-Akademii-Nauk-09-08)
+- [«Это может стать проблемой для соседних стран». Химик о последствиях сокращения списка населенных пунктов с «чернобыльским» статусом](https://petitions.pro/articles/6587) - [ARCIVE.IS](https://archive.is/MItC7)
 
 # VoiceOfBelarus
 

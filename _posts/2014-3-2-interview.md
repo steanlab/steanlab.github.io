@@ -492,3 +492,7 @@ ____
 # Настоящее Время
 
 - ["Дело радиолюбителей". В Беларуси обвинили в госизмене и шпионаже тех, кто владел радиостанциями и мог слушать эфиры силовиков и военных](https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html) - [WEBARCHIVE](https://web.archive.org/web/20260120231443/https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html)
+
+# EcoHome
+
+- [Эксперты раскритиковали проект ОВОС беларусского пункта захоронения радиоактивных отходов](https://web.archive.org/web/20260902105624/https://ecohome.ngo/nezavisimye-eksperty-raskritikovali-proekt-ovos-belarusskogo-punkta-zahoroneniya-radioaktivnyh-othodov/) - [ARCHIVE.IS](https://archive.is/OvNGR)

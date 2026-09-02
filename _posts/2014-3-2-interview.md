@@ -353,6 +353,7 @@ ____
 - [Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына](https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/) - [WEBARCHIVE](https://web.archive.org/web/20251130113217/https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/)
 - [Чарнобыль: абы не было панікі](https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/) ([падкаст](/_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3)) - [Archive.is](https://archive.is/9t6AH)
 - [Улады хочуць адкрыць назіральную вышку з выглядам на саркафаг ЧАЭС](https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes) - [WEBARCHIVE](https://web.archive.org/web/20260420190938/https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes/)
+- [Могільнік, разлічаны на 300 гадоў, можа не вытрымаць і ста. Пяць галоўных рызык беларускага сховішча радыеактыўных адкідаў](https://homeldays.org/mogilnik-razlichany-na-300-gado-mozha-ne-vytrymac-i-sta-pjac-galo-nyh-ryzyk-belaruskaga-shovishcha-radyeakty-nyh-adkida/) - [ARCHIVE.IS](https://archive.is/E7DJS)
 
 # Флагшток
 

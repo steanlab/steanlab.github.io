@@ -221,6 +221,7 @@ ____
 - [БелАЭС — уникальна. Такого чудовищного количества проблем, как на ней, не было ни у кого](https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni) - [WEBARCHIVE](https://web.archive.org/web/20251121103027/https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni)
 - [Активированный уголь из погребённой древесины: почему это не прорыв, а сомнительная идея](https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv) - [WEBARCHIVE](https://web.archive.org/web/20260205172449/https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv)
 - [Чернобыль не закончился в 1986-м. Как радиация до сих пор влияет на здоровье беларусов](https://greenbelarus.info/articles/09-04-2026/chernobyl-ne-zakonchilsya-v-1986-m-kak-radiaciya-do-sikh-por-vliyaet-na-zdorove) - [WEBARCHIVE](https://web.archive.org/web/20260409164814/https://greenbelarus.info/articles/07-04-2026/deti-vsyo-chasche-boyatsya-prirody-uchyonye-govoryat-o-roste-biofobii)
+- [Беларусский пункт захоронения отходов: почему эксперты бьют тревогу из-за опасных технологий](https://greenbelarus.info/articles/31-08-2026/nezavisimye-eksperty-kommentiruyut-pzro) - [WEBARCHIVE](https://web.archive.org/web/20260903133911/https://greenbelarus.info/articles/31-08-2026/nezavisimye-eksperty-kommentiruyut-pzro)
 
 # Обычное утро (ОУ)
 
@@ -490,6 +491,7 @@ ____
 - [Белорусские ученые требуют немедленной остановки всех военных действий РФ, направленных против Украины](https://charter97.org/ru/news/2022/3/2/457221/) - [WEBARCHIVE](https://web.archive.org/web/20250625165451/https://charter97.org/ru/news/2022/3/2/457221/)
 - [«Эти заявления должны комментировать психотерапевты»](https://charter97.org/ru/news/2025/8/6/651055/) - [WEBARCHIVE](https://web.archive.org/web/20250806152429/https://charter97.org/ru/news/2025/8/6/651055/)
 - [Ученый разнес решение Лукашенко](https://charter97.link/ru/news/2026/8/5/693645/) - [WEBARCHIVE](https://web.archive.org/web/20260805154424/https://charter97.link/ru/news/2026/8/5/693645/)
+- [Radioactive Waste In Belarus Is Planned To Be Stored In Special Hangars For 600–700 Years](https://charter97.org/en/news/2026/9/3/697095/) - [WEBARCHIVE](https://web.archive.org/web/20260903134430/https://charter97.org/en/news/2026/9/3/697095/)
 
 # Настоящее Время
 

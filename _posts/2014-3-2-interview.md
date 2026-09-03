@@ -197,6 +197,7 @@ ____
 - [«Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?](https://belsat.eu/92786159/wulica-minska-tedx) - [Archive.is](https://archive.is/C5YoC) - [WEBARCHIVE](https://web.archive.org/web/20260419111127/https://belsat.eu/92786159/wulica-minska-tedx)
 - [Як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей Чарнобылю](https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi) - [WEBARCHIVE](https://web.archive.org/web/20260805132137/https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi)
 - [Ці спыніцца БелАЭС ад спёкі і засухі?](https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi) - [WEBARCHIVE](https://web.archive.org/web/20260817142325/https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi) - [ARCHIVE.IS](https://archive.is/01OnC)
+- [Эксперты назвали проект беларусского хранилища радиоактивных отходов опасным](https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym) - [ARCHIVE.IS](https://archive.is/ssuip) - [WEBARCHIVE](https://web.archive.org/web/20260903154626/https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym)
 
 # Зеленый портал
 

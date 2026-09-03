@@ -282,6 +282,7 @@ ____
 - [«Отравление всех без разбора, и детей, и взрослых». Химик прокомментировал идею Лукашенко удобрять поля солью](https://news.zerkalo.io/economics/122464.html) - [WEBARCHIVE](https://web.archive.org/web/20260312203409/https://news.zerkalo.io/economics/122464.html)
 - [Нам все время рассказывали, что в жару надо носить белое и нельзя черное. Оказалось, что все не так, — объяснил ученый](https://news.zerkalo.io/life/130736.html) - [WEBARCHIVE](https://web.archive.org/web/20260629145850/https://news.zerkalo.io/life/130736.html) - [Archive.is](https://archive.is/Kovxa)
 - [«Южные и восточные районы рискуют стать непригодными для жизни в ближайшие 10 лет». Ученый — о том, как спасти водоемы от обмеления](https://news.zerkalo.io/life/135205.html) - [WEBARCHIVE](https://web.archive.org/web/20260827124159/https://news.zerkalo.io/life/135205.html)
+- [Радиоактивные отходы в Беларуси планируют хранить в специальных ангарах 600−700 лет](https://news.zerkalo.io/life/135676.html) - [WEBARCHIVE](https://web.archive.org/web/20260903081325/news.zerkalo.io/life/135676.html)
 
 # DEV.BY
 - [«Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах](https://devby.io/news/flies)

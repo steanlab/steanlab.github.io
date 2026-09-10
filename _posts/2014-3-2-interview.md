@@ -335,6 +335,7 @@ ____
 - [Палесьсе, Мсьціслаў ці Астравец: улады прапанавалі тры пляцоўкі пад адкіды ад БелАЭС. Чым гэта небясьпечна і якая зь іх лепшая](https://www.svaboda.org/a/33723980.html) - [WEBARCHIVE](https://web.archive.org/web/20260403103339/https://www.svaboda.org/a/33723980.html)
 - [«Тысячы людзей згубілі доступ». Навуковец Бесараб — пра акцыю кібэрпартызанаў супраць Нацыянальнай бібліятэкі](https://www.svaboda.org/a/33724158.html) - [WEBARCHIVE](https://web.archive.org/web/20260405122556/https://www.svaboda.org/a/33724158.html)
 - [Чарнобыль ня скончыўся: якія радыянукліды засталіся ў Беларусі праз 40 гадоў](https://www.svaboda.org/a/33741521.html) - [WEBARCHIVE](https://web.archive.org/web/20260426064405/https://www.svaboda.org/a/33741521.html)
+- [Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»](https://www.svaboda.org/a/33851719.html) - [WEBARCHIVE](https://web.archive.org/web/20260910134135/https://www.svaboda.org/a/33851719.html)
 
 # CityDog
 

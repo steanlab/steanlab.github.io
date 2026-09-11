@@ -198,6 +198,7 @@ ____
 - [Як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей Чарнобылю](https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi) - [WEBARCHIVE](https://web.archive.org/web/20260805132137/https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi)
 - [Ці спыніцца БелАЭС ад спёкі і засухі?](https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi) - [WEBARCHIVE](https://web.archive.org/web/20260817142325/https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi) - [ARCHIVE.IS](https://archive.is/01OnC)
 - [Эксперты назвали проект беларусского хранилища радиоактивных отходов опасным](https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym) - [ARCHIVE.IS](https://archive.is/ssuip) - [WEBARCHIVE](https://web.archive.org/web/20260903154626/https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym)
+- [«Радыяцыйнае жыццё ўнутры бетоннага блоку не спыняецца». Эксперты – пра небяспеку ядравага могільніку](https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku)-[WEBARCHIVE](https://web.archive.org/web/20260911072239/https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku)
 
 # Зеленый портал
 

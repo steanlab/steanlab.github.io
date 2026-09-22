@@ -139,6 +139,7 @@ ____
 - [“Важна, каб слуханні не сталі фармальнай працэдурай”](https://racyja.com/by/ekanomika/vazna-kab-sluchanni-ne-stali-farmalnaj-praceduraj/) - [WEBARCHIVE](https://web.archive.org/web/20260725133729/https://racyja.com/by/ekanomika/vazna-kab-sluchanni-ne-stali-farmalnaj-praceduraj/) - [ARCHIVE.IS](https://archive.is/KOdON) - [AUDIO](/_posts/files/2026-07-24_volha_siamashka_showiszczy_besarab_ns.mp3)
 - [“Ключы ад БелАЭС знаходзяцца ў руках Масквы”](https://racyja.com/by/hramadstva/zaleznasc-ad-rasei-u-jadzernaj-sfery-stavic-pad-pytanne-suverenitet-belarusi/) - [WEBARCHIVE](https://web.archive.org/web/20260727211246/https://racyja.com/by/hramadstva/zaleznasc-ad-rasei-u-jadzernaj-sfery-stavic-pad-pytanne-suverenitet-belarusi/) - [ARCHIVE.IS](https://archive.is/8g28C) - [AUDIO](/_posts/files/2026-07-27_volha_siamashka_nuclear_besarab_k.mp3)
 - [«Ніводная не адпавядае правілам»](https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/) - [WEBARCHIVE](https://web.archive.org/web/20260911125238/https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/) - [AUDIO](/_posts/files/2026-09-11_smotkina_besarab.mp3)
+- [“Беларусь сябе цалкам забяспечвала. АЭС была непатрэбна”](https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/) - [WEBARCHIVE](https://web.archive.org/web/20260922093047/https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/)
 
   # Белсат
 

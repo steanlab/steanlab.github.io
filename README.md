@@ -33,7 +33,7 @@ This website brings together his professional work and public contributions, pro
 
 Alongside scientific and media work, Siarhei develops open-source tools and documents hardware and software projects.
 
-Explore the repositories at [github.com/steanlab](https://github.com/steanlab).
+Explore the repositories at [github.com/steanlab](https://steanlab.github.io/about/).
 
 ## Contact & Collaboration
 

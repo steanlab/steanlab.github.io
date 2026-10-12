@@ -37,7 +37,7 @@ Explore the repositories at [github.com/steanlab](https://steanlab.github.io/abo
 
 ## Contact & Collaboration
 
-For media inquiries, expert commentary, interviews, or potential collaborations on science, technology, and nuclear safety, please use the contact information provided on the [website](https://steanlab.github.io).
+For media inquiries, expert commentary, interviews, or potential collaborations on science, technology, and nuclear safety, please use the contact information provided on the [website](https://steanlab.github.io/about/).
 
 ---
 

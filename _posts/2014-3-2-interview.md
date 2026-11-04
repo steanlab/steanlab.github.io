@@ -439,6 +439,7 @@ ____
 - [Бесараб: «Остается только посочувствовать детям, которых отправили на отдых в Туапсе. Нет ничего страшнее малограмотных родителей»](https://gazetaby.com/post/besarab-ostaetsya-tolko-posochuvstvovat-detyam-kotoryx-otpravili-na-ot/214498/) - [WEBARCHIVE](https://web.archive.org/web/20260604175828/https://gazetaby.com/post/besarab-ostaetsya-tolko-posochuvstvovat-detyam-kotoryx-otpravili-na-ot/214498/) - [Archive.is](https://archive.is/FORxL)
 - [Бесараб: Решение властей остановить радиацию «на бумаге» может привести к долгосрочной национальной катастрофе](https://gazetaby.com/post/besarab-reshenie-vlastej-ostanovit-radiaciyu-na-bumage-mozhet-privesti/215633/) - [WEBARCHIVE] - [ARCHIVE.IS](https://archive.is/C1RkY)
 - [«Нет школы, нет опыта и компетенций. Только надежда на россиян»](https://gazetaby.com/post/net-shkoly-net-opyta-i-kompetencij-est-tolko-nadezhda-na-rossiyan/216313/) - [ARCHIVE.IS](https://archive.is/Wri07)
+- [«Более 1300 гектаров вокруг Солигорска заняты соляными отвалами. Представьте, какое давление на экологию оказывается»](https://gazetaby.com/post/bolee-1300-gektarov-vokrug-soligorska-zanyaty-solyanymi-otvalami-preds/217322/) - [ARCHIVE.IS](https://archive.is/ecpCk)
 
 # REFORM.BY
 

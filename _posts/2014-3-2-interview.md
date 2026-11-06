@@ -145,7 +145,7 @@ ____
 - [«Ніводная не адпавядае правілам»](https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/) - [WEBARCHIVE](https://web.archive.org/web/20260911125238/https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/) - [AUDIO](/_posts/files/2026-09-11_smotkina_besarab.mp3)
 - [“Беларусь сябе цалкам забяспечвала. АЭС была непатрэбна”](https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/) - [WEBARCHIVE](https://web.archive.org/web/20260922093047/https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/)
 - [“Дэградацыя сістэмы біябяспекі ў Расеі стварае глабальныя рызыкі”](https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/) - [WEBARCHIVE](https://web.archive.org/web/20261007220953/https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/)- [AUDIO](/_posts/files/2026-10-07_volha_siamashka_czuma_besarab_ns.mp3)
-- [Сяргей Бесараб пра 27 тон радыеактыўнага грузу на мяжы з ЕЗ](https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/) - [WEBARCHIVE](https://web.archive.org/web/20261106192859/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/) - [AUDIO]
+- [Сяргей Бесараб пра 27 тон радыеактыўнага грузу на мяжы з ЕЗ](https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/) - [WEBARCHIVE](https://web.archive.org/web/20261106192859/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/) - [AUDIO](/_posts/files/2026-11-06_volha_siamashka_radiogruz_besarab.mp3)
 
   # Белсат
 

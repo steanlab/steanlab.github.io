@@ -321,6 +321,7 @@ ____
 # ВОТ-ТАК ТВ
 
 - [Катастрофа на Чернобыльской АЭС: как это было и что угрожает человечеству спустя 40 лет](https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya) - [WEBARCHIVE](https://web.archive.org/web/20260426145305/https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya)
+- [«Вознаграждение за атаки против Украины». Заместителем главы МАГАТЭ может стать россиянин, которого обвиняют в поддержке захвата Запорожской АЭС](https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate) - [WEBARCHIVE](https://web.archive.org/web/20261120173153/https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate)
 
 # Радыё Свабода
 

@@ -1,11 +1,5 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
-- date: '2026-11-21'
-  approx: false
-  kind: media
-  section: Белсат
-  title: Интервью тест
-  url: https://example.org/test-bot-2026
 - date: '2026-11-06'
   approx: true
   kind: media
@@ -48,3 +42,9 @@
   section: Радыё Свабода
   title: 'Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»'
   url: https://www.svaboda.org/a/33851719.html
+- date: '2026-09-03'
+  approx: true
+  kind: media
+  section: charter97
+  title: Radioactive Waste In Belarus Is Planned To Be Stored In Special Hangars For 600–700 Years
+  url: https://charter97.org/en/news/2026/9/3/697095/

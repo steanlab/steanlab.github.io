@@ -10,7 +10,9 @@
     при выборе «Да» сохраняет адрес в Wayback Machine и добавляет ссылку WEBARCHIVE (если не вышло — запись
     всё равно добавляется, а в комментарии сказано, что архив не сохранился);
   * issue_comment.created с адресом archive.today (archive.is/.ph/.today…) → добавляет ссылку ARCHIVE.IS к записи
-    из этой задачи.
+    из этой задачи и закрывает задачу;
+  * issue_comment.created с адресом https://odysee.com/… → добавляет ссылку ODYSEE (резервная копия видео) к записи
+    из этой задачи; задача остаётся открытой. Тот же адрес можно указать сразу в поле формы «Резервная копия на Odysee».
 Принимаются только события от владельца репозитория (REPO_OWNER). Текст задачи считается недоверенными данными:
 он разбирается этим скриптом и проверяется, в командную строку не подставляется.
 """
@@ -43,6 +45,7 @@ F_URL = "Адрес материала (URL)"
 F_MARK = "Метка (как в текущем списке)"
 F_LINKS = "Дополнительные ссылки"
 F_ARCHIVE = "Сохранить в Wayback Machine"
+F_ODYSEE = "Резервная копия на Odysee (URL)"
 YES, NO = "Да", "Нет"
 NO_MARK = "без метки"
 MARK_SEP = " — "
@@ -51,6 +54,8 @@ FORMS = {
     "media": ("new-interview.yml", "Новое интервью или комментарий в СМИ", "[Интервью] ", "new-interview"),
     "publications": ("new-publication.yml", "Новая публикация", "[Публикация] ", "new-publication"),
 }
+ODYSEE_URL = re.compile(r"https://odysee\.com/[^\s<>\"'\[\]{}|\\^`)]+")
+ODYSEE_FIELD_OK = re.compile(r"^https://odysee\.com/[^\s<>\"'\[\]{}|\\^`]+$")
 ARCHIVE_URL = re.compile(r"https?://(?:www\.)?archive\.(?:is|ph|today|md|fo|li|vn)/[A-Za-z0-9]{3,12}\b")
 URL_OK = re.compile(r"^https?://[^\s<>\"'\[\]{}|\\^`]+$")
 LINK_URL_OK = re.compile(r"^(https?://[^\s<>\"'\[\]{}|\\^`]+|/_posts/files/[^\s<>\"'\[\]{}|\\^`]+)$")
@@ -95,6 +100,10 @@ def build_form(key, titles, marks):
         body.append({"type": "dropdown", "id": "mark", "attributes": {
             "label": F_MARK, "description": "Где опубликован текст; на странице метка стоит перед названием.",
             "options": mark_options(marks), "default": 0}})
+    if key == "media":
+        body.append({"type": "input", "id": "odysee", "attributes": {
+            "label": F_ODYSEE, "description": "Свой ролик на Odysee как резервная ссылка, если видео пропадёт с YouTube (необязательно).",
+            "placeholder": "https://odysee.com/…"}})
     body += [
         {"type": "textarea", "id": "links", "attributes": {
             "label": F_LINKS, "description": "По одной на строку: ПОДПИСЬ=АДРЕС, например RU=https://… (необязательно)"}},
@@ -193,6 +202,11 @@ def validate(f):
         if not LABEL_OK.match(label) or not LINK_URL_OK.match(lurl) or not balanced(lurl, "(", ")"):
             raise ValueError("дополнительная ссылка не разобрана: «%s» (нужно ПОДПИСЬ=АДРЕС)" % line[:80])
         links.append("%s=%s" % (label, lurl))
+    odysee = f.get(F_ODYSEE, "").strip()
+    if odysee:
+        if not ODYSEE_FIELD_OK.match(odysee) or len(odysee) > 2000 or not balanced(odysee, "(", ")"):
+            raise ValueError("ссылка на Odysee должна начинаться с https://odysee.com/ и не содержать пробелов")
+        links.append("ODYSEE=" + odysee)
     return title, url, links
 
 
@@ -261,6 +275,8 @@ def handle_issue(ev, root, wayback):
         "archive.today (официального API нет, нужен один клик): [сохранить страницу](%s)." % T.archive_today_link(url),
         "Когда снимок будет готов, ответьте в этой задаче комментарием с коротким адресом (например `https://archive.is/AbCdE`) — "
         "ссылка ARCHIVE.IS добавится к записи.",
+        "Резервную копию на Odysee можно добавить позже: ответьте комментарием с адресом `https://odysee.com/…` — "
+        "добавится ссылка ODYSEE.",
     ]).strip()
     return r
 
@@ -271,22 +287,30 @@ def handle_comment(ev, root):
     f = parse_body(issue.get("body"))
     if F_SECTION not in f or F_URL not in f:
         return r
-    m = ARCHIVE_URL.search(comment.get("body", ""))
-    if not m:
+    text = comment.get("body", "")
+    m = ARCHIVE_URL.search(text)
+    od = None if m else ODYSEE_URL.search(text)
+    if not m and not od:
         return r
     labels = [l["name"] for l in issue.get("labels", [])]
     try:
         key = find_kind(root, f, labels, issue.get("title", ""))
         _, url, _ = validate(f)
-        a = types.SimpleNamespace(data=key, root=root, url=url, link=["ARCHIVE.IS=" + m.group(0)], dry_run=False)
+        new_link = "ARCHIVE.IS=" + m.group(0) if m else "ODYSEE=" + od.group(0)
+        a = types.SimpleNamespace(data=key, root=root, url=url, link=[new_link], dry_run=False)
         with redirect_stdout(io.StringIO()):
             T.cmd_attach(a)
     except (ValueError, SystemExit) as e:
-        r.comment = "Ссылка archive.today не добавлена: %s" % str(e).split("\n")[0]
+        r.comment = "Ссылка не добавлена: %s" % str(e).split("\n")[0]
         return r
-    r.changed, r.close = True, True
-    r.commit = "Добавлена ссылка ARCHIVE.IS (%s)" % T.DATA[key]
-    r.comment = "Ссылка ARCHIVE.IS добавлена к записи. Задача закрыта."
+    if m:
+        r.changed, r.close = True, True
+        r.commit = "Добавлена ссылка ARCHIVE.IS (%s)" % T.DATA[key]
+        r.comment = "Ссылка ARCHIVE.IS добавлена к записи. Задача закрыта."
+    else:
+        r.changed, r.close = True, False       # задачу не закрываем: ещё может понадобиться ARCHIVE.IS
+        r.commit = "Добавлена ссылка ODYSEE (%s)" % T.DATA[key]
+        r.comment = "Ссылка ODYSEE добавлена к записи."
     return r
 
 

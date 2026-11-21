@@ -97,6 +97,9 @@ layout: default
     });
   });
   reset.addEventListener("click", function () { cur = ""; apply(); });
+  // ссылка вида /interview/#outlet=Название выбирает издание сразу при открытии (используется на странице «Проекты»)
+  var hm = /^#outlet=(.+)$/.exec(location.hash);
+  if (hm) { try { var want = decodeURIComponent(hm[1]); outlets.forEach(function (b) { if (b.getAttribute("data-outlet") === want) cur = want; }); } catch (e) {} }
   apply();
 })();
 </script>

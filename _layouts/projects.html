@@ -11,7 +11,7 @@ layout: default
   <ul class="project-list">
     {%- for p in site.data.projects %}
     <li class="project">
-      <h3><a href="{{ site.baseurl }}{{ p.url }}">{{ t[p.title_key] }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{% if p.local %}{{ home }}{% endif %}{{ p.url }}">{{ t[p.title_key] }}</a></h3>
       {%- if p.text_key %}<p>{{ t[p.text_key] }}</p>{% endif %}
     </li>
     {%- endfor %}

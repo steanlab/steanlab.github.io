@@ -304,7 +304,7 @@ def check_static(root, i18n):
     for d in ("_layouts", "_includes"):
         for f in sorted(os.listdir(os.path.join(root, d))):
             files.append(os.path.join(d, f))
-    for f in ("about.md", "projects.md", "bibliography.md", "interview.md"):
+    for f in ("about.md", "projects.md", "bibliography.md", "interview.md", "press.md"):
         files.append(f)
     for lang in ("ru", "be"):
         for f in sorted(os.listdir(os.path.join(root, lang))):

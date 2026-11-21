@@ -56,6 +56,7 @@ en:
   press_text: Everything a journalist needs in one place. Replies in English, Russian and Belarusian.
   write: Write to me
   press_bio: Biography
+  press_page: "How to credit, short bios"
   press_media: Media archive
   press_pgp: Public PGP key
   press_photo: Portrait photo
@@ -80,6 +81,8 @@ en:
   proj_malina_text: A catalogue of all videos by Mikita Melkazyorau, made in his memory, with a guide to guests by profession.
   proj_zs_title: «Загляне сонца», a viewing guide
   proj_zs_text: A catalogue of the lesser-known educational channel «Загляне сонца» by Mikita Melkazyorau, with a button that picks a random episode.
+  proj_rubric_title: "«Topology of the Singularity», a column"
+  proj_rubric_text: "An author’s column on science, technology and the future in the programme «Раніца з Белсатам» on Belsat (on air it is called «Рубрыка Бесараба»). All episodes, on YouTube and Odysee, are in the media archive."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -134,6 +137,7 @@ ru:
   press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском и беларусском.
   write: Написать
   press_bio: Биография
+  press_page: "Как подписывать, краткие биографии"
   press_media: Архив СМИ
   press_pgp: Публичный PGP-ключ
   press_photo: Портрет
@@ -158,6 +162,8 @@ ru:
   proj_malina_text: Каталог всех видео Никиты Мелкозерова, созданный в его память, с путеводителем по гостям и их профессиям.
   proj_zs_title: «Загляне сонца», путеводитель
   proj_zs_text: Каталог малоизвестного просветительского канала «Загляне сонца» Никиты Мелкозерова с кнопкой, которая выбирает случайную серию.
+  proj_rubric_title: "«Топология сингулярности», авторская рубрика"
+  proj_rubric_text: "Авторская рубрика о науке, технологиях и будущем в программе «Раніца з Белсатам» на Белсате (в эфире называется «Рубрыка Бесараба»). Все выпуски, на YouTube и Odysee, — в архиве СМИ."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -212,6 +218,7 @@ be:
   press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску і па-беларуску.
   write: Напісаць
   press_bio: Біяграфія
+  press_page: "Як падпісваць, кароткія біяграфіі"
   press_media: Архіў СМІ
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт
@@ -236,3 +243,5 @@ be:
   proj_malina_text: Каталог усіх відэа Мікіты Мелказёрава, створаны ў яго памяць, з даведнікам па гасцях і іх прафесіях.
   proj_zs_title: «Загляне сонца», даведнік
   proj_zs_text: Каталог малавядомага асветніцкага канала «Загляне сонца» Мікіты Мелказёрава з кнопкай, якая выбірае выпадковую серыю.
+  proj_rubric_title: "«Тапалогія сінгулярнасці», аўтарская рубрыка"
+  proj_rubric_text: "Аўтарская рубрыка пра навуку, тэхналогіі і будучыню ў праграме «Раніца з Белсатам» на Белсаце (у эфіры называецца «Рубрыка Бесараба»). Усе выпускі, на YouTube і Odysee, — у архіве СМІ."

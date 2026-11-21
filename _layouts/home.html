@@ -102,6 +102,7 @@ layout: default
     <a class="btn btn-light" href="mailto:{{ site.footer-links.email }}">{{ t.write }}</a>
   </div>
   <ul class="press-list">
+    <li><a href="{{ site.baseurl }}{{ home }}press/">{{ t.press_page }}</a></li>
     <li><a href="{{ site.baseurl }}{{ home }}about/">{{ t.press_bio }}</a></li>
     <li><a href="{{ site.baseurl }}{{ home }}interview/">{{ t.press_media }}</a></li>
     {%- if site.data.facts.pgp_url and site.data.facts.pgp_url != "" %}

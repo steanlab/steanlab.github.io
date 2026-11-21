@@ -56,6 +56,7 @@ sections:
     url: https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260331171518/https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727'}
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/radioactive-waste-repository-Ostrovets-NPP-Deutch-Welle-interviews-siarhei-besarab:b92e02d1735a73034d57b39e4cd3e17b9bea871c'}
   - title: '"За границами": что обсуждали белорусы на TEDx в Варшаве'
     url: https://www.dw.com/ru/za-granicami-cto-obsuzdali-belorusy-na-tedx-v-varsave/a-76852059
     links:
@@ -859,6 +860,127 @@ sections:
     url: https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260911072239/https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku'}
+  - title: Як беларусы адкрылі шлях у космас Праграмма Бязвіз 01.04.2024
+    url: https://www.youtube.com/watch?v=x3s1YBcUKh0
+  - title: В РБ заговорили о необходимости перерабатывать мусор. Что скажет химик Праграмма Студыя БЕЛСАТ 25.05.2025
+    url: https://www.youtube.com/watch?v=voKm6y69oL4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarus-waste-recycling-push-belsat-studio-interviews-siarhei-besarab:5b81d9b0ac0b65e3921c56d240dbb063a7d1fcb0'}
+  - title: Спіс забруджаных земляў на Гомельшчыне скарацілі. Госць Сяргей Бесараб Праграмма Студыя БЕЛСАТ 25.11.2025
+    url: https://www.youtube.com/watch?v=FhN5mNFmjOA
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/gomel-radiation-list-cut-belsat-studio-interviews-siarhei-besarab:69e861dd5e5767534d1122811c87dd598787fe31'}
+  - title: Месцы для сховішча адкідаў БелАЭС. Госць Сяргей Бесараб Праграмма Студыя БЕЛСАТ 29.03.2026
+    url: https://www.youtube.com/watch?v=RKwxSCaCY68
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/radioactive-waste-repository-Ostrovets-NPP-belsat-studio-interviews-siarhei-besarab:192b3215f5643391541bf8c8bce6930e57770dec'}
+  - title: Сяргей Бесараб – пра загад Лукашэнкі вярнуць чарнобыльскія землі Праграмма Студыя БЕЛСАТ 27.04.2026
+    url: https://www.youtube.com/watch?v=5-xiZFfUm_8
+  - title: Сяргей Бесараб – пра небяспеку хантавіруса Анды Праграмма Студыя БЕЛСАТ 11.05.2026
+    url: https://www.youtube.com/watch?v=rCDSt5QDycc
+  - title: Сяргей Бесараб – пра новую кліматычную рэальнасць Беларусі Праграмма Студыя БЕЛСАТ 29.06.2026
+    url: https://www.youtube.com/watch?v=fsfG3nN5owc
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/weather-volatility-global-climate-change-belsat-studio-interviews-siarhei-besarab:ba35eec224ba8359ba2567be5c6e892ed9c94da8'}
+  - title: Наступствы чалавечай дзейнасці для беларускага клімату. Сяргей Бесараб Праграмма Студыя БЕЛСАТ 23.08.2026
+    url: https://www.youtube.com/watch?v=HBi6Bh7DNSI
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/water-crisis-global-climate-change-belsat-studio-interviews-siarhei-besarab:d2954d35f5931cbe639809cbdf33fdcd74d6a0db'}
+  - title: Оземпик — лекарство или угроза? Химик Сергей Бесараб объясняет Праграмма Раніца з Белсатам 16.03.2025
+    url: https://www.youtube.com/watch?v=-sTjp01FeB4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/ozempic-drug-or-danger-health-risks-siarhei-besarab-belsat-morning-show:e2e193b1c6342c759226cd7b2c9b8cb520af54c4'}
+  - title: Навуковы журналіст Сяргей Бесараб пра новыя мутацыі ў Чарнобылі Праграмма Раніца з Белсатам 26.04.2025
+    url: https://www.youtube.com/watch?v=KoTlPvURZSA
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/chernobyl-new-mutations-health-risks-siarhei-besarab-belsat-morning-show:35b10214e261ec806584ff82d1eb42f3508afd96'}
+  - title: Коты, Rare и Medium-Rare стейки, сверчковое мясо и токсоплазма Праграмма Раніца з Белсатам 29.06.2025
+    url: https://www.youtube.com/watch?v=h6QXZEsmFVY
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/toxoplasmosis-risks-cats-undercooked-meat-health-risks-siarhei-besarab-belsat-morning-show:8f7f1dfc899ebf352612c78279fca821ee607158'}
+  - title: Якія рызыкі нясе апраменьванне ад электрамабіляў і гібрыдаў Праграмма Раніца з Белсатам 16.08.2025
+    url: https://www.youtube.com/watch?v=hPESqdd29WY
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/emf-dangers-electric-vehicles-hybrid-health-risks-siarhei-besarab-belsat-morning-show:caef723dba02569ccddf506216b5f8119335e642'}
+  - title: Сяргей Бесараб – пра мікрапластык, які мы спажываем разам з ежай Праграмма Раніца з Белсатам 05.10.2025
+    url: https://www.youtube.com/watch?v=V4C87SoZS74
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/microplastics-in-everyday-food-health-risks-siarhei-besarab-belsat-morning-show:5a24bed99bbb67648506118c4351d701e5b538b9'}
+  - title: 'Усё пра каву: як выбраць, як правільна гатаваць, як змяняюцца кошты Праграмма Раніца з Белсатам 29.11.2025'
+    url: https://www.youtube.com/watch?v=Zql25GqZI-4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/coffee-essentials-choosing-making-price-shifts-siarhei-besarab-belsat-morning-show:3668abaaffa3be97f78ec40c53e549699cc77977'}
+  - title: Навуковыя адкрыцці 2025 года і спадчына Мелказёрава Праграмма Раніца з Белсатам 27.12.2025
+    url: https://www.youtube.com/watch?v=qUSNobrPMw8
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/top-2025-science-breakthroughs-melkazerau-heritage-siarhei-besarab-belsat-morning-show:a1ea0a974aabe10b86b98b0b3216b1645961ed07'}
+  - title: Хімія кахання! Праграмма Раніца з Белсатам 14.02.2026
+    url: https://www.youtube.com/watch?v=MLuCc137fgI
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/biochemistry-of-love-siarhei-besarab-belsat-morning-show:1d8ed1f8d4619a12c91a3e023c58a2f022c2b805'}
+  - title: '«Гэта толькі пачатак»: шакавальны кліматычны прагноз для Беларусі Праграмма Белсат - Zoom 16.07.2024'
+    url: https://www.youtube.com/watch?v=8LqQDSUGKzQ
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/shocking-climate-forecast-for-belarus-siarhei-besarab-belsat-zoom:e7706e6659aa5f9bd3a76c51dc5a8321441465df'}
+- title: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
+  level: 1
+  entries:
+  - title: 'Рубрыка Бесараба: Assisted Reproductive Technology Праграмма Раніца з Белсатам 07.03.2026'
+    url: https://www.youtube.com/watch?v=PMytDt42heM
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-futurism-column-belsat-morning-show-reproductive-technology:0a4079f45dac5fd1104d542253192be4936d5e2e'}
+  - title: 'Рубрыка Бесараба: Першы ў гісторыі наземны трансфер антыматэрыі Праграмма Раніца з Белсатам 28.03.2026'
+    url: https://www.youtube.com/watch?v=7612Ixn7rCw
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-antimatter-transfer-cern:c0ad5319ed6c2a785e69c4838e503bd9818c93a7'}
+  - title: 'Рубрыка Бесараба: Місія Artemis II. Што гэта значыць для Чалавецтва Праграмма Раніца з Белсатам 04.04.2026'
+    url: https://www.youtube.com/watch?v=SDSyMQh1T5Y
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-artemis-II-moon-mission:cada5cb71687767ee09fafd1f881905bbfb1c96b'}
+  - title: 'Рубрыка Бесараба. Чарнобыль: ад катастрофы да навуч-тэх актыву Праграмма Раніца з Белсатам 25.04.2026'
+    url: https://www.youtube.com/watch?v=o0dnD1SjUME
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-scientific-technological-asset:88ba64a34e50095e66d240fa6d3a780eba300f6d'}
+  - title: Рубрыка Бесараба. Хронікі Пандэміцэну. Хантавірус Праграмма Раніца з Белсатам 09.05.2026
+    url: https://www.youtube.com/watch?v=D6TmBcH_m0M
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-andes-MV-Hondius-Andes-hantavirus-ANDV-pandemicene:1ceb57f76e0266c84b2eef20d904fc2cd2112334'}
+  - title: Рубрыка Бесараба. Enhanced Games ці Гульні палепшаных Праграмма Раніца з Белсатам 23.05.2026
+    url: https://www.youtube.com/watch?v=33OUD4-rpa4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-Enhanced-Games-Piter-Thiel:e3fcf1d90a214bb39585680837906a9b785f3503'}
+  - title: Рубрыка Бесараба. Engramme і паляпшэнне памяци Праграмма Раніца з Белсатам 14.06.2026
+    url: https://www.youtube.com/watch?v=5byrNpyoJxI
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-engramme-Gabriel-Kreiman-cognitive-modification:c18a6b7007812fb3b4fe1e9398be8d3388a18801'}
+  - title: Рубрыка Бесараба. Palantir і Цемнае Асветніцтва Праграмма Раніца з Белсатам 28.06.2026
+    url: https://www.youtube.com/watch?v=Te22AmcE7OE
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-dark-enlightenment-palantir-peter-thiel-antichrist:fdb5b41ae38844e608178af7bae86e6d08f18ff8'}
+  - title: Рубрыка Бесараба. Геаінжынерыя Праграмма Раніца з Белсатам 18.07.2026
+    url: https://www.youtube.com/watch?v=5c8r2lAHD9s
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-solar-geoengineering-atmospheric-modification:fa448369789a3aa5f947b6ab3fb1f1aa5cb25eba'}
+  - title: Рубрыка Бесараба. Лічбавае Сярэднявечча Праграмма Раніца з Белсатам 08.08.2026
+    url: https://www.youtube.com/watch?v=sr1-JCbGiik
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-digital-dark-age:10ea750a07e4a06a894a76dd38b1efb1ba54c07e'}
+  - title: Рубрыка Бесараба. Эпоха пост-атлусцення Праграмма Раніца з Белсатам 29.08.2026
+    url: https://www.youtube.com/watch?v=xZsmo7EnRK4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-dark-economics-of-ozempic-glp-mimetics:3b0785994bb5f22de9b2f34fc0f998490fa1f044'}
+  - title: Рубрыка Бесараба. Мэтанакіраваная інкубацыя сноў Праграмма Раніца з Белсатам 12.09.2026
+    url: https://www.youtube.com/watch?v=UJpc2KCGaJI
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-dream-hacking-targeted-dream-incubation:856b88fe84b4b3a38a7f2675df96956788c03dc3'}
+  - title: Рубрыка Бесараба. Геапалітыка чалавечага мікрабіёма Праграмма Раніца з Белсатам 26.09.2026
+    url: https://www.youtube.com/watch?v=XqOP-TZhFWo
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-psychobiotics-fаecal-microbiota-transplant-biocolonialism:12ce5f6605293bbf465af2f190f02f7035a383b5'}
+  - title: Рубрыка Бесараба. Сіндром Кеслера і Геапалітыка Арбіты Праграмма Раніца з Белсатам 24.10.2026
+    url: https://www.youtube.com/watch?v=E3LfyONOxmg
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-:9569ff8815e0849d8e7f2b4133ab6db17f86311a'}
 - title: Зеленый портал
   level: 1
   entries:
@@ -935,32 +1057,76 @@ sections:
   entries:
   - title: 'Беседа с ученым-химиком Сергеем Бесарабом: "Ядерной войны не будет, возможен только микроудар"'
     url: https://www.youtube.com/watch?v=rmHCrB-pADM&t=2170s
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/no-nuclear-war-coming-only-limited-strike-possible-siarhei-besarab-ordinary-morning:213c153efbe5d36a5b7895ab8570a9bcd9f4c646'}
   - title: Сергей Бесараб о беларусской военной аптечке
     url: https://www.youtube.com/watch?v=v2nJjM7l1mE
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarusian-military-first-aid-kit-medkit-review-siarhei-besarab-ordinary-morning:10ff0df6e43bce7eb69cf55cd0fc197f4b84b9a7'}
   - title: 'Сергей Бесараб о прорыве в энергетике: «Прорыва нет. Это популизм!»'
     url: https://www.youtube.com/watch?v=KNclwxelxe8&t=4555s
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/fusion-energy-breakthrough-siarhei-besarab-ordinary-morning:b454f12aca874749e568b43bab3932c0405927e4'}
   - title: Что делают УЧЕНЫЕ из Беларуси? Беспилотники и электрокары – от тоски и без финансирования
     url: https://www.youtube.com/watch?v=Elxed2qxbdg
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarusian-science-today-siarhei-besarab-ordinary-morning:2880a9f0f0168355ba99e095ad3d332db23b8f90'}
   - title: КАК ВЫЖИТЬ В ЯДЕРНОЙ ВОЙНЕ. Ученый – про виды бомб, оружие в России, Беларусь и где искать убежище
     url: https://www.youtube.com/watch?v=7gWKE71Ge-s
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/nuclear-bomb-types-russian-belarus-weapons-fallout-shelters-siarhei-besarab-ordinary-morning:7e5bca9e4ea9fc919d39a7dadb02e9bfc43c546c'}
   - title: КАК ЗЕМЛЯ ТРЕЩИТ ПО ШВАМ? Землетрясения в Турции, наводнения и смерчи в Беларуси
     url: https://www.youtube.com/watch?v=qB2bGUhKWC0
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/natural-disasters-turkey-earthquakes-belarus-floods-siarhei-besarab-ordinary-morning:347c0c3b9160cc5f6a3a450bd4a6a789be424614'}
   - title: Этот фоторедактор ВЗОРВАЛ СОЦСЕТИ! Могут ли ваши данные попасть в ЦРУ или КГБ через Lensa?
     url: https://www.youtube.com/watch?v=EMcde95BpBU
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/digital-security-tips-lensa-app-analysis-siarhei-besarab-ordinary-morning:a06a45fe32964a57704dc319d479334e074004a6'}
   - title: ПРИВОДИТ К РАКУ?! Зачем облучают продукты и какие дозы смертельно опасны для человека
     url: https://www.youtube.com/watch?v=zX7xBi3YQ6s
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/food-irradiation-explained-lethal-human-radiation-doses-siarhei-besarab-ordinary-morning:4a1905154ad31dcee0b4cfbd5850d3dffc78e347'}
   - title: Лукашенко НЕ ОЖИДАЛ! Вот что будет, если ударят тактическим ядерным оружием по Дроздам
     url: https://www.youtube.com/watch?v=49sYqq6nvfE
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/tactical-nuke-impact-analysis-siarhei-besarab-ordinary-morning:dc2801f5196c595e7d90d1d1f9b4a76e6dd77e23'}
   - title: Как вытащить КЛЕЩА, чем опасен укус энцефалитного клеща и другие важные вопросы
     url: https://www.youtube.com/watch?v=zIYUrt0y-AQ
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/tick-removal-guide-and-tick-borne-encephalitis-risks-siarhei-besarab-ordinary-morning:06648cba721503b2e7c8a44be320ec0f68ba65ea'}
   - title: 'Они хотят УДАРИТЬ ЯДЕРКОЙ по ПУТИНУ: есть ли у России ядерное оружие и стоит ли бояться?'
     url: https://www.youtube.com/watch?v=C1vAkg6HtkQ
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/russia-s-nuclear-arsenal-real-threat-or-bluff-siarhei-besarab-ordinary-morning:0e094d4ea0bd14991f7ff7b120047c1e50744692'}
   - title: Опасная МОЛОЧКА в Беларуси! Сколько радиации у нас в еде и есть ли ядерное оружие в Лиде
     url: https://www.youtube.com/watch?v=4EqgNybe3RM
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/food-radiation-levels-nuclear-weapons-in-lida-siarhei-besarab-ordinary-morning:f4403cc8d22641676e68ae85f2b0134facc5c98d'}
   - title: В Беларуси будет МОГИЛЬНИК для ядерных отходов, но где? Шокирующие подробности про БелАЭС
     url: https://www.youtube.com/watch?v=GPFAcyd_FWE
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarus-npp-secrets-nuclear-horror-belaes-waste-dump-siarhei-besarab-ordinary-morning:ceff76dd74dc47c857b76d13a1d18ea1ca58f866'}
   - title: 'Защита от СОЛНЦА: как выбрать SPF, какой крем советует Рианна и что делают в Беларуси'
     url: https://www.youtube.com/watch?v=IPVYkVGjd0M
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/sunscreen-composition-analysis-siarhei-besarab-ordinary-morning:7c169e55d6951e3b988f0970ff8548bf5fa784cf'}
+  - title: 'Беларусь: нефтедобыча, редкоземельные элементы и захоронения пестицидов'
+    url: https://www.youtube.com/watch?v=GhSwwoe5Irg
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarus-oil-rare-earths-and-toxic-waste-siarhei-besarab-ordinary-morning:63c3cef9c38fd52f137026d712f875e3e6411101'}
+  - title: Как ученым в Беларуси поднять свой статус?
+    url: https://www.youtube.com/watch?v=2IVD3BmtuBg
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/how-belarus-scientists-raise-status-siarhei-besarab-ordinary-morning:0b5cd324e8477a63fd69554ae6ebaa3eb7933bb7'}
+  - title: О лунной миссии Atremis II поведал ученый-химик Сергей Бесараб
+    url: https://www.youtube.com/watch?v=bs0Vspl2fbY
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/artemis-II-moon-orion-sls-siarhei-besarab-ordinary-morning:e5f5870776a10d32b115bd0ea4e2e26594bec150'}
+  - title: Утечка чумы в Иркутске. Биооружие СССР и страхи США
+    url: https://www.youtube.com/watch?v=BV4jIsAtL_4
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/russia-plague-leaks-bioweapons-risks-siarhei-besarab-ordinary-morning:0c78b6c092bd602db98f8a7cef874c78d1fd7eaa'}
 - title: Zerkalo.io (ex TUT.BY)
   level: 1
   entries:
@@ -1271,6 +1437,20 @@ sections:
     url: https://www.svaboda.org/a/33851719.html
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260910134135/https://www.svaboda.org/a/33851719.html'}
+  - title: 'Чарнобыль: катастрофа, якую спрабуюць схаваць'
+    url: https://www.youtube.com/watch?v=XNXtjazn680
+  - title: 'Ядзерны магільнік у Беларусі: Сяргей Бесараб пра рэальную небяспеку'
+    url: https://www.youtube.com/watch?v=lLyEE_F3hEk
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/radioactive-waste-repository-radionuclides-risks-radio-liberty-free-europe-interviews-siarhei-besarab:81fc85d6b110f056b503fea804a964d3e775b898'}
+  - title: Должны ли были киберпартизаны взламывать сайт Национальной библиотеки? Радио Свобода 03.04.2026
+    url: https://www.youtube.com/watch?v=uKGV8eto0Yk
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/hacktivists-knock-out-Belarus-library-readers-cry-foul-over-lost-access-radio-liberty-free-europe-interviews-siarhei-besarab:dd4add3e78134cc4fb1463da21feb2ec19321ff8'}
+  - title: Якія радыёнукліды засталіся ў Беларусі ад ЧАЭС. Каментуе Сяргей Бесараб Радыё Свабода 24.04.2026
+    url: https://www.youtube.com/watch?v=6Fp1L3cn5CY
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/Chernobyl-radionuclides-risks-protection-radio-liberty-free-europe-interviews-siarhei-besarab:a64473d7d00035644d426d3e6708505548d0d49c'}
 - title: CityDog
   level: 1
   entries:
@@ -1421,6 +1601,7 @@ sections:
     url: https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240620084920/https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya'}
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/interview-chemist-siarhei-besarab-euroradio-lukaschuk-national-idea:105f4ea5e37d676c8b8edf7426ffe3d50f115467'}
   - title: 'Garnier vs Bielita: химик проанализировал состав наших (и ваших) кремов для лица'
     url: https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica
     links:
@@ -1507,6 +1688,8 @@ sections:
   entries:
   - title: 'Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ'
     url: https://www.youtube.com/watch?v=ffLIJD4RGxs
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarusian-chemist-siarhei-besarab-podcast-mikita-melkazerau:e64839a593d4cbfb37050db98f3ba5d0ead11c65'}
 - title: Белые Халаты (belhalat.news)
   level: 1
   entries:
@@ -1554,6 +1737,12 @@ sections:
     url: https://honestby.substack.com/p/25e
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250321002340/https://honestby.substack.com/p/25e'}
+  - title: 'Искусственный интеллект в Беларуси: между глобальным прогрессом и цифровой диктатурой'
+    url: https://www.youtube.com/watch?v=PJTSk8HM1dM
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/artificial-intelligence-in-belarus-besarab-khomenok-liber-frey-bostrom-honest-people:df4115ea5cae41ec2a0c447636af1d03c35b5c7a'}
+  - title: '400 000 «тунеядцев»: что Беларусь сделает с безработными в будущем'
+    url: https://www.youtube.com/watch?v=lY-AwFK18Pk
 - title: Газета Салідарнасць
   level: 1
   entries:
@@ -1703,6 +1892,10 @@ sections:
     url: https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240819103105/https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2'}
+  - title: Дыскусія пра будучыню беларускай навукі Наша Візія
+    url: https://www.youtube.com/watch?v=dyq6qrTN-70
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarus-science-future-debate-besarab-akudovich-sverdlov-kazakevich-nasha-viziya:da2e472c2d913a62ed9558a1ff42e77d9cca06a3'}
 - title: БАЖ
   level: 1
   entries:
@@ -1722,6 +1915,12 @@ sections:
     url: https://web.archive.org/web/20201007084712/http://www.ctv.by/v-belarusi-s-pomoshchyu-smartfona-mozhno-budet-izmerit-davlenie-i-opredelit-kachestvo-produktov
   - title: В Парке высоких технологий прошел первый научный хакатон в Беларуси
     url: https://www.tvr.by/videogallery/informatsionno-analiticheskie/panorama/panorama-01-06-2017/
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/first-science-hackathon-siarhei-besarab-bt1:1e66b1ef5a15f0bc834c6b4074f3064ffe241bf5'}
+  - title: 'Научный хакатон Столичное телевидение: Новости Беларуси 02.06.2017'
+    url: https://www.youtube.com/watch?v=vKhX39d8Pmo
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/first-science-hackathon-siarhei-besarab-stv:be0203491f9c6f0d817b04cdac4d7723ce9e1e3d'}
 - title: charter97
   level: 1
   entries:
@@ -1752,6 +1951,8 @@ sections:
     url: https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260120231443/https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html'}
+  - title: Что будет с погодой в Беларуси до конца лета и ближайшие годы
+    url: https://www.youtube.com/watch?v=T_FhQ8n1NCc
 - title: EcoHome
   level: 1
   entries:
@@ -1759,3 +1960,68 @@ sections:
     url: https://web.archive.org/web/20260902105624/https://ecohome.ngo/nezavisimye-eksperty-raskritikovali-proekt-ovos-belarusskogo-punkta-zahoroneniya-radioaktivnyh-othodov/
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/OvNGR'}
+- title: Malanka Media
+  level: 1
+  entries:
+  - title: Конкурентна ли беларусская наука?
+    url: https://www.youtube.com/watch?v=orxYrMBJS1k
+  - title: Зачем переходить на зимнее время?
+    url: https://www.youtube.com/watch?v=vzQ1G_HZJUg
+  - title: Чернобыльская АЭС как инструмент провокаций Кремля
+    url: https://www.youtube.com/watch?v=B7TiK-86ens
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/chernobyl-russia-provocation-weapon-hybrid-warfare-malanka-media-siarhei-besarab:a130d55495b1f881dd59222203c576125c8fbdb6'}
+  - title: Беларусь станет полигоном для ядерных отходов?
+    url: https://www.youtube.com/watch?v=4Tqhi-IncTg
+  - title: Какие сюрпризы принесёт погода в 2025 в Беларуси?
+    url: https://www.youtube.com/watch?v=VMyZwOvcPyI
+  - title: Авария неизбежна? Что происходит на ЗАЭС
+    url: https://www.youtube.com/watch?v=Ap93YoGrdfI
+  - title: РФ ударила по ЧАЭС! Есть риск новой катастрофы?
+    url: https://www.youtube.com/watch?v=Gxo3zaLBI9Y
+  - title: Атомный шантаж! Чернобыль не выдержит этого удара
+    url: https://www.youtube.com/watch?v=aqS56v1EJK0
+  - title: Безопасность хранилища радиоактивных отходов в Беларуси
+    url: https://www.youtube.com/watch?v=hTzNqbBMKfc
+  - title: В Беларуси из ЧЗО исключены 177 населенных пунктов
+    url: https://www.youtube.com/watch?v=_tfh9EmJ3zk
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/chernobyl-radioactive-fallout-zones-contamination-malanka-media-siarhei-besarab:8cb2e5188e8359984bf2adf9e8ac14378a752096'}
+  - title: Эксперты против хранилища радиоактивных отходов в РБ
+    url: https://www.youtube.com/watch?v=cqZrczkwrT0
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/radioactive-waste-repository-radionuclides-risks-malanka-media-siarhei-besarab:22d122b5d71ce73539ed3f40a1b040abe2f8c435'}
+  - title: В Беларуси меняют правила работы академии наук
+    url: https://www.youtube.com/watch?v=92Z65mebpoI
+  - title: Lukashenko Puts Belarusian Science Under Security Service Control! What’s Next for Scientists?
+    url: https://www.youtube.com/watch?v=BY3Dmm8He50
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarusian-science-academic-authoritarianism-freedom-malanka-media-siarhei-besarab:7688c32033cfae5b050be70f55a2ab7db34af058'}
+- title: Телеканал Дождь
+  level: 1
+  entries:
+  - title: В Беларуси задержаны семь радиолюбителей по делу о шпионаже
+    url: https://www.youtube.com/watch?v=LduAfFSnkPk
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarus-radio-amateurs-detained-for-epionage-tvrain-siarhei-besarab:c4b109a249cdac47d99f3275266c5a8875e9e20d'}
+  - title: Последствия ударов ВСУ по нефтяным объектам Туапсе
+    url: https://www.youtube.com/watch?v=1vuwuMk0g68
+- title: Ходорковский LIVE
+  level: 1
+  entries:
+  - title: Катастрофа в Туапсе. Комментарий коллоидного химика
+    url: https://www.youtube.com/watch?v=Oow4Nnu-XQU
+- title: Авторский проект Николая Халезина «Перетрем с Халезиным»
+  level: 1
+  entries:
+  - title: 'Радиация, ГМО и 5G: чего мы боимся зря? Разговор с химиком Сергеем Бесарабом'
+    url: https://www.youtube.com/watch?v=_LWtUZAOuFk
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/belarusian-radiation-chemist-futurist-siarhei-besarab-mikalai-khalezin-freekuhar:e482ba188375d77bd610c621f61c098a410a8d11'}
+- title: Авторский проект Александра Ивулина «ЧестнОК-LIVE»
+  level: 1
+  entries:
+  - title: 'Ученые для Лукашенко мусор: здоровья нет, Караник абы кто, русские ржут с АЭС!'
+    url: https://www.youtube.com/watch?v=OWHWzmSAe0E
+    links:
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/interview-siarhei-besarab-belarusian-chemist-iwulin:ee9096545804dcac2e089f164d4f3ff288d11e70'}

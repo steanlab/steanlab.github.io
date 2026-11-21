@@ -1,0 +1,15 @@
+{%- assign bl = page.lang | default: "en" -%}
+{%- assign bt = site.data.i18n[bl] -%}
+<section class="best-coverage">
+  <h2>{{ bt.best_heading }}</h2>
+  <p class="note">{{ bt.best_note }}</p>
+  <ol class="best-list">
+    {%- for b in site.data.best_coverage %}
+    <li>
+      <span class="label">{{ b.outlet }} <span class="lang">{{ b.lang }}</span></span>
+      <a href="{{ b.url }}">{{ b.title }}</a>
+      <span class="best-note">{{ b.note }}</span>
+    </li>
+    {%- endfor %}
+  </ol>
+</section>

@@ -210,6 +210,9 @@ def render_body(path, ctx):
     """Исполняет весь файл шаблона (без front matter) и возвращает текст; для проверки главной."""
     src = open(path, encoding="utf-8").read()
     src = re.sub(r"\A---\n.*?\n---\n", "", src, flags=re.S)
+    inc_dir = os.path.join(os.path.dirname(os.path.dirname(path)), "_includes")
+    src = re.sub(r"\{%-?\s*include\s+([\w./-]+)\s*-?%\}",
+                 lambda m: open(os.path.join(inc_dir, m.group(1)), encoding="utf-8").read(), src)
     return run(parse(tokenize(src)), dict(ctx))
 
 

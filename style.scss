@@ -142,10 +142,14 @@ h3 { font-size: 1.15rem; }
 .project.has-logo p { margin-bottom: 20px; }
 @media (max-width: 640px) {
   .project.has-logo { grid-template-columns: 1fr; }
-  .project-logo { grid-column: 1; grid-row: auto; width: 100%; height: 140px; min-height: 0; }
+  .project-logo { grid-column: 1; grid-row: auto; width: 100%; height: 110px; min-height: 0; padding: 14px 22px 0; object-position: left top; }
+  .project.has-logo h3 { margin-top: 12px; }
   .project.has-logo h3, .project.has-logo p { grid-column: 1; margin-left: 22px; }
 }
 .project p { margin: 0; color: $muted; font-size: 0.95rem; }
+.project-group { margin: 2.4rem 0 1rem; }
+.callout { background: $card; border: 1px solid $line; border-left: 4px solid $warm; padding: 16px 20px; margin: 0 0 1.8rem; }
+.callout p { margin: 0; color: $ink; font-size: 0.98rem; }
 
 // ---------- мобильные ----------
 @media (max-width: 800px) {
@@ -213,3 +217,14 @@ h3 { font-size: 1.15rem; }
 .pub-text blockquote { margin: 0; padding: 4px 14px; border-left: 3px solid $line; color: $muted; }
 .pub-bullet { margin: 2px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.82rem; word-break: break-all; }
 .pub-bullet p { margin: 0; }
+
+/* Блок «Best coverage» */
+.best-coverage { margin: 0 0 2.4rem; }
+.best-list { list-style: decimal; padding-left: 1.6rem; margin: 0.6rem 0 0; }
+.best-list li { padding: 10px 0 10px 4px; border-top: 1px solid $line; }
+.best-list li:first-child { border-top: 0; }
+.best-list .label { display: block; font-size: 0.85rem; color: $muted; }
+.best-list .lang { font-size: 0.72rem; border: 1px solid $line; border-radius: 3px; padding: 0 5px; margin-left: 4px; }
+.best-list a { color: $ink; font-weight: 600; text-decoration-color: $line; }
+.best-list a:hover { text-decoration-color: $ink-soft; }
+.best-list .best-note { display: block; font-size: 0.93rem; color: $ink-soft; margin-top: 2px; }

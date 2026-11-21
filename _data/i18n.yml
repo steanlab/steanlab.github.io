@@ -24,7 +24,8 @@ en:
   stat_patents: patents as author or co-author
   stat_texts: popular science texts
   titles_note: Titles of articles and interviews are given in their original language.
-  translation_note: ""
+  best_heading: Best coverage
+  best_note: Nine selected items. The one-line summaries are in English, the titles are in the original language (EN, RU, UK, BE).
   nav_expertise: Expertise
   nav_projects: Projects
   nav_contacts: Contacts
@@ -38,7 +39,7 @@ en:
   card1_title: Nuclear, radiation & chemical safety
   card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive waste repositories and disposal sites, radioactive and hazardous materials, protective equipment, risk assessment.
   card2_title: Futures studies & global risks
-  card2_text: Technology foresight, techno-ethics, human–technology convergence, existential and dual-use risks.
+  card2_text: Technology foresight, techno-ethics, human-technology convergence, existential and dual-use risks.
   card3_title: Technology analysis
   card3_text: "AI and data science, biosensors and wearables, FoodTech: what new technologies really offer and what they risk."
   card4_title: Colloid & surface chemistry
@@ -87,9 +88,20 @@ en:
   proj_lab66_title: "LAB-66"
   proj_lab66_text: "An author’s science communication project on chemistry, radiation, chemical and biological safety and citizen science, founded in 2019 and named after laboratory No. 66 of the Institute of General and Inorganic Chemistry of the National Academy of Sciences of Belarus."
   proj_scihack_title: "Belarusian Science Hackathon (SciHackathon)"
-  proj_scihack_text: "A pilot hackathon held on 2–3 June 2017 at the High-Tech Park in Minsk, which brought scientists and IT specialists together to solve scientific and technical problems. More than 300 participants took part; I was one of the organizers and its scientific curator."
+  proj_scihack_text: "A pilot hackathon held on 2–3 June 2017 at the High-Tech Park in Minsk, which brought scientists and IT specialists together to solve scientific and technical problems. More than 300 participants took part. I was one of the organizers and its scientific curator."
   proj_notes_title: "Нататкі фітахіміка (Phytochemist’s Notes)"
-  proj_notes_text: "Audio sketches recorded with Юстына Саўка, broadcast for the children’s programme «Дасціпныя. Нястомныя. Кемлівыя» on the «Культура» radio channel. Recordings of the episodes are on Wikisource."
+  proj_notes_text: "Audio sketches recorded with <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстына Саўка</a>, broadcast for the children’s programme «Дасціпныя. Нястомныя. Кемлівыя» on the «Культура» radio channel. Recordings of the episodes are on Wikisource."
+  proj_hw_heading: "Hardware and open source"
+  proj_hame_title: "Hame A15 clone mini-router"
+  proj_hame_text: "A guide to bringing a clone of the popular Chinese Hame A15 mini-router up to a working state, published on Habr in 2018 and presented at Chaos Constructions 2019."
+  proj_bthome_title: "BTHome Logger"
+  proj_bthome_text: "An open source Android app for logging data from Bluetooth Low Energy sensors that use the BTHome format. Accepted by F-Droid, publication pending."
+  proj_elements_title: "Periodic table for Flipper Zero"
+  proj_elements_text: "A Flipper Zero app: a compact reference to 119 elements with physical, quantum, geochemical and biological data. MIT license."
+  proj_beacon_title: "BLE Beacon for Flipper Zero"
+  proj_beacon_text: "A Flipper Zero app that turns the device into a configurable Bluetooth Low Energy beacon with unencrypted advertisements, for testing scanners and smart-home integrations. MIT license."
+  proj_b154_title: "badge154"
+  proj_b154_text: "A web tool for uploading slideshows over Bluetooth to Hanshow Nebular 154 e-paper price tags."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -112,7 +124,8 @@ ru:
   stat_patents: патентов как автор или соавтор
   stat_texts: научно-популярных текстов
   titles_note: Названия статей и интервью приведены на языке оригинала.
-  translation_note: Раздел «Об авторе» пока доступен только на английском языке.
+  best_heading: Избранные материалы
+  best_note: Девять избранных материалов. Краткие описания на английском, названия на языке оригинала (EN, RU, UK, BE).
   nav_expertise: Экспертиза
   nav_projects: Проекты
   nav_contacts: Контакты
@@ -171,13 +184,24 @@ ru:
   proj_zs_title: «Загляне сонца», путеводитель
   proj_zs_text: Каталог малоизвестного просветительского канала «Загляне сонца» Никиты Мелкозерова с кнопкой, которая выбирает случайную серию.
   proj_rubric_title: "«Топология сингулярности», авторская рубрика"
-  proj_rubric_text: "Авторская рубрика о науке, технологиях и будущем в программе «Раніца з Белсатам» на Белсате (в эфире называется «Рубрыка Бесараба»). Все выпуски, на YouTube и Odysee, — в архиве СМИ."
+  proj_rubric_text: "Авторская рубрика о науке, технологиях и будущем в программе «Раніца з Белсатам» на Белсате (в эфире называется «Рубрыка Бесараба»). Все выпуски на YouTube и Odysee находятся в архиве СМИ."
   proj_lab66_title: "LAB-66"
   proj_lab66_text: "Авторский проект научной коммуникации по химии, радиационной, химической и биологической безопасности и гражданской науке, основан в 2019 году и назван в честь лаборатории № 66 Института общей и неорганической химии НАН Беларуси."
   proj_scihack_title: "Белорусский научный хакатон (SciHackathon)"
-  proj_scihack_text: "Пилотный хакатон, прошедший 2–3 июня 2017 года в Парке высоких технологий в Минске: учёные и IT-специалисты вместе решали научно-технические задачи. Участвовало более 300 человек; я был одним из организаторов и научным куратором."
+  proj_scihack_text: "Пилотный хакатон, прошедший 2–3 июня 2017 года в Парке высоких технологий в Минске: учёные и IT-специалисты вместе решали научно-технические задачи. Участвовало более 300 человек. Я был одним из организаторов и научным куратором."
   proj_notes_title: "«Нататкі фітахіміка»"
-  proj_notes_text: "Аудионаброски, записанные вместе с Юстыной Саўкой, выходившие для детской программы «Дасціпныя. Нястомныя. Кемлівыя» на канале радио «Культура». Записи выпусков — в Викитеке."
+  proj_notes_text: "Аудионаброски, записанные вместе с <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстыной Саўкай</a>, выходившие для детской программы «Дасціпныя. Нястомныя. Кемлівыя» на канале радио «Культура». Записи выпусков есть в Викитеке."
+  proj_hw_heading: "Электроника и открытый код"
+  proj_hame_title: "Мини-роутер Hame A15 (клон)"
+  proj_hame_text: "Руководство по доведению клона популярного китайского мини-роутера Hame A15 до рабочего состояния. Опубликовано на Habr в 2018 году, представлено на Chaos Constructions 2019."
+  proj_bthome_title: "BTHome Logger"
+  proj_bthome_text: "Приложение для Android с открытым кодом: записывает данные Bluetooth-датчиков в формате BTHome. Принято в F-Droid, публикация ожидается."
+  proj_elements_title: "Таблица Менделеева для Flipper Zero"
+  proj_elements_text: "Приложение для Flipper Zero: компактный справочник по 119 элементам с физическими, квантовыми, геохимическими и биологическими данными. Лицензия MIT."
+  proj_beacon_title: "BLE-маяк для Flipper Zero"
+  proj_beacon_text: "Приложение для Flipper Zero: превращает устройство в настраиваемый маяк Bluetooth Low Energy с незашифрованными рекламными пакетами для проверки сканеров и интеграций умного дома. Лицензия MIT."
+  proj_b154_title: "badge154"
+  proj_b154_text: "Веб-инструмент для загрузки слайдшоу по Bluetooth на электронные ценники Hanshow Nebular 154 (e-paper)."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -200,7 +224,8 @@ be:
   stat_patents: патэнтаў як аўтар або сааўтар
   stat_texts: навукова-папулярных тэкстаў
   titles_note: Назвы артыкулаў і інтэрв’ю прыведзены на мове арыгінала.
-  translation_note: Раздзел «Пра аўтара» пакуль даступны толькі па-англійску.
+  best_heading: Выбраныя матэрыялы
+  best_note: Дзевяць выбраных матэрыялаў. Кароткія апісанні па-англійску, назвы на мове арыгінала (EN, RU, UK, BE).
   nav_expertise: Экспертыза
   nav_projects: Праекты
   nav_contacts: Кантакты
@@ -259,10 +284,21 @@ be:
   proj_zs_title: «Загляне сонца», даведнік
   proj_zs_text: Каталог малавядомага асветніцкага канала «Загляне сонца» Мікіты Мелказёрава з кнопкай, якая выбірае выпадковую серыю.
   proj_rubric_title: "«Тапалогія сінгулярнасці», аўтарская рубрыка"
-  proj_rubric_text: "Аўтарская рубрыка пра навуку, тэхналогіі і будучыню ў праграме «Раніца з Белсатам» на Белсаце (у эфіры называецца «Рубрыка Бесараба»). Усе выпускі, на YouTube і Odysee, — у архіве СМІ."
+  proj_rubric_text: "Аўтарская рубрыка пра навуку, тэхналогіі і будучыню ў праграме «Раніца з Белсатам» на Белсаце (у эфіры называецца «Рубрыка Бесараба»). Усе выпускі на YouTube і Odysee знаходзяцца ў архіве СМІ."
   proj_lab66_title: "LAB-66"
   proj_lab66_text: "Аўтарскі праект навуковай камунікацыі па хіміі, радыяцыйнай, хімічнай і біялагічнай бяспецы і грамадзянскай навуцы, заснаваны ў 2019 годзе і названы ў гонар лабараторыі № 66 Інстытута агульнай і неарганічнай хіміі НАН Беларусі."
   proj_scihack_title: "Беларускі навуковы хакатон (SciHackathon)"
-  proj_scihack_text: "Пілотны хакатон, які прайшоў 2–3 чэрвеня 2017 года ў Парку высокіх тэхналогій у Мінску: навукоўцы і IT-спецыялісты разам вырашалі навукова-тэхнічныя задачы. Удзельнічала больш за 300 чалавек; я быў адным з арганізатараў і навуковым куратарам."
+  proj_scihack_text: "Пілотны хакатон, які прайшоў 2–3 чэрвеня 2017 года ў Парку высокіх тэхналогій у Мінску: навукоўцы і IT-спецыялісты разам вырашалі навукова-тэхнічныя задачы. Удзельнічала больш за 300 чалавек. Я быў адным з арганізатараў і навуковым куратарам."
   proj_notes_title: "«Нататкі фітахіміка»"
-  proj_notes_text: "Аўдыёнарысы, запісаныя разам з Юстынай Саўкай, якія выходзілі для дзіцячай праграмы «Дасціпныя. Нястомныя. Кемлівыя» на канале радыё «Культура». Запісы выпускаў — у Вікікрыніцах."
+  proj_notes_text: "Аўдыёнарысы, запісаныя разам з <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстынай Саўкай</a>, якія выходзілі для дзіцячай праграмы «Дасціпныя. Нястомныя. Кемлівыя» на канале радыё «Культура». Запісы выпускаў ёсць у Вікікрыніцах."
+  proj_hw_heading: "Электроніка і адкрыты код"
+  proj_hame_title: "Міні-роўтар Hame A15 (клон)"
+  proj_hame_text: "Кіраўніцтва па даводцы да працоўнага стану клона папулярнага кітайскага міні-роўтара Hame A15. Апублікавана на Habr у 2018 годзе, прадстаўлена на Chaos Constructions 2019."
+  proj_bthome_title: "BTHome Logger"
+  proj_bthome_text: "Праграма для Android з адкрытым кодам: запісвае даныя Bluetooth-датчыкаў у фармаце BTHome. Прынята ў F-Droid, публікацыя чакаецца."
+  proj_elements_title: "Табліца Мендзялеева для Flipper Zero"
+  proj_elements_text: "Праграма для Flipper Zero: кампактны даведнік па 119 элементах з фізічнымі, квантавымі, геахімічнымі і біялагічнымі данымі. Ліцэнзія MIT."
+  proj_beacon_title: "BLE-маяк для Flipper Zero"
+  proj_beacon_text: "Праграма для Flipper Zero: ператварае прыладу ў наладжвальны маяк Bluetooth Low Energy з незашыфраванымі рэкламнымі пакетамі для праверкі сканераў і інтэграцый разумнага дома. Ліцэнзія MIT."
+  proj_b154_title: "badge154"
+  proj_b154_text: "Вэб-інструмент для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Hanshow Nebular 154 (e-paper)."

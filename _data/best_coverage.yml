@@ -1,0 +1,47 @@
+# Избранные материалы для блока «Best coverage» (страница СМИ и пресс-кит).
+# note: одна строка по-английски, одинаковая на всех языках сайта. lang: язык материала.
+- outlet: RFE/RL
+  lang: EN
+  title: "Too Soon? Swaths Of Chernobyl-Affected Land In Belarus To Lose 'Contaminated' Status"
+  url: https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html
+  note: On Belarus removing "contaminated" status from part of the Chernobyl-affected land.
+- outlet: Voice of America
+  lang: EN
+  title: "VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl's Radioactive Soil"
+  url: https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html
+  note: Expert comment on Russian military digging in the radioactive soil of the Chernobyl zone.
+- outlet: Belsat
+  lang: EN
+  title: "Lukashenka aims to recover and develop Chernobyl disaster-contaminated fields and forests. Is it safe and necessary?"
+  url: https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary
+  note: Whether returning contaminated fields and forests to use is safe.
+- outlet: 2digital.news
+  lang: EN
+  title: "A technooptimist on what will finally burst the AI bubble"
+  url: https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/
+  note: Interview on technology trends and the limits of the AI boom.
+- outlet: Deutsche Welle
+  lang: RU
+  title: "Где в Беларуси построят ядерный могильник?"
+  url: https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727
+  note: Where in Belarus a nuclear waste repository may be built.
+- outlet: RFI
+  lang: UK
+  title: "Білоруський радіаційний хімік: Білорусь із ядерною зброєю - це мавпа з гранатою"
+  url: https://www.rfi.fr/uk/%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/20230329-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%85%D1%96%D0%BC%D1%96%D0%BA-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C-%D1%96%D0%B7-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D1%8E-%D0%B7%D0%B1%D1%80%D0%BE%D1%94%D1%8E-%D1%86%D0%B5-%D0%BC%D0%B0%D0%B2%D0%BF%D0%B0-%D0%B7-%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%8E
+  note: A radiation chemist on nuclear weapons in Belarus.
+- outlet: Radio Svaboda
+  lang: BE
+  title: "Чарнобыль ня скончыўся: якія радыянукліды засталіся ў Беларусі праз 40 гадоў"
+  url: https://www.svaboda.org/a/33741521.html
+  note: Forty years after Chernobyl, which radionuclides remain in Belarus.
+- outlet: Belsat TV
+  lang: BE
+  title: "Месцы для сховішча адкідаў БелАЭС. Госць Сяргей Бесараб. Студыя БЕЛСАТ, 29.03.2026"
+  url: https://www.youtube.com/watch?v=RKwxSCaCY68
+  note: Studio interview on possible sites for the BelNPP radioactive waste repository.
+- outlet: Nasha Niva
+  lang: BE
+  title: "«Каб я ведаў, што гэта дзяржтаямніца, то можа і не пісаў бы так хвацка». Хімік Сяргей Бесараб расказаў, як сумяшчае навуку і грамадзянскую пазіцыю"
+  url: https://nashaniva.com/337123
+  note: Profile interview on combining science with a civic position.

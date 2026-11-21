@@ -8,13 +8,15 @@ published: true
 description: "Press kit: how to credit Siarhei Besarab, short and medium biographies, availability and a featured TEDx talk."
 ---
 
+<div class="callout"><p><strong>Working in exile.</strong> Besarab works in exile. His Telegram channel and several outlets he appears in are designated "extremist" or blocked in Belarus. That is why many of his appearances are preserved in the <a href="{{ site.baseurl }}/interview/">media archive</a> together with web-archive copies.</p></div>
+
 ## How to credit
 
 - English: **Siarhei Besarab**
 - Russian: **Сергей Бесараб**
 - Belarusian: **Сяргей Бесараб**
 - The surname is written with a single «s»: Besarab, not Bessarab (Бесараб, not Бессараб).
-- Suggested caption: *Siarhei Besarab, independent scientist and research chemist (colloid and surface chemistry)*.
+- Suggested caption: *Siarhei Besarab, independent scientist and research chemist (colloid and surface chemistry), or radiation chemist*.
 
 ## Biography
 
@@ -30,6 +32,12 @@ The [full biography]({{ site.baseurl }}/about/) has education, awards and public
 - Languages: English, Russian, Belarusian.
 - Contact: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}).
 
+{% include best-coverage.html %}
+
 ## Featured talk
 
 TEDxUlicaMińska, 2026, talk «Вы радиоактивны. И это отличная новость»: [video on YouTube](https://www.youtube.com/watch?v=jXHqw--DG_A).
+
+## Quotes
+
+Quotes are collected on Wikiquote: [English](https://en.wikiquote.org/wiki/Siarhei_Besarab), [Belarusian](https://be.wikiquote.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1).

@@ -59,6 +59,7 @@ en:
   press_media: Media archive
   press_pgp: Public PGP key
   press_photo: Portrait photo
+  press_photos_more: "Other photos (Wikimedia Commons)"
   principle: "Nothing is removed: every record keeps its source link, web-archive copy and audio file."
   search_label: Search
   search_ph: Title or outlet
@@ -136,6 +137,7 @@ ru:
   press_media: Архив СМИ
   press_pgp: Публичный PGP-ключ
   press_photo: Портрет
+  press_photos_more: "Другие фото (Wikimedia Commons)"
   principle: "Ничего не удаляется: у каждой записи сохранены ссылка на источник, копия в веб-архиве и аудиофайл."
   search_label: Поиск
   search_ph: Название или издание
@@ -213,6 +215,7 @@ be:
   press_media: Архіў СМІ
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт
+  press_photos_more: "Іншыя фота (Вікісховішча)"
   principle: "Нічога не выдаляецца: у кожным запісе захоўваюцца спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."
   search_label: Пошук
   search_ph: Назва або выданне

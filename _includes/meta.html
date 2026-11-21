@@ -3,13 +3,13 @@
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-<!-- Используем title страницы, если есть, или title сайта, если нет -->
 {% assign meta_lang = page.lang | default: "en" %}
 {% assign meta_t = site.data.i18n[meta_lang] %}
-<title>{% if page.title and page.title != "" %}{{ page.title }}{% else %}{{ meta_t.name }}{% endif %} | {{ meta_t.description }}</title>
+{%- comment -%} <title> выводит _layouts/default.html (раньше он дублировался здесь) {%- endcomment -%}
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Описание для SEO и соцсетей -->
-{% assign meta_description = page.excerpt | default: meta_t.description | strip_html | strip_newlines | truncate: 160 %}
+{% assign meta_description = page.description | default: page.excerpt | default: meta_t.description | strip_html | strip_newlines | truncate: 200 %}
 <meta name="description" content="{{ meta_description }}">
 <meta name="author" content="{{ meta_t.name }}">
 
@@ -46,4 +46,35 @@
 {% if site.twitter_username %}
   <meta name="twitter:site" content="@{{ site.twitter_username }}">
   <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+{% endif %}
+
+{%- comment -%} Структурированные данные «Person» для главных страниц и «Об авторе» (помогают поисковикам связать сайт с автором). {%- endcomment -%}
+{% if page.ref == "home" or page.ref == "about" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ meta_t.name | jsonify }},
+  "alternateName": ["Siarhei Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
+  "url": {{ "/" | absolute_url | jsonify }},
+  "image": {{ "/images/portrait.jpg" | absolute_url | jsonify }},
+  "description": {{ meta_t.hero_lead | jsonify }},
+  "knowsLanguage": ["en", "ru", "be"],
+  "knowsAbout": ["Nuclear and radiation safety", "Colloid and surface chemistry", "Global catastrophic risks", "Technology analysis", "Climate and environment", "Science communication"],
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q114079054",
+    "https://en.wikipedia.org/wiki/Siarhei_Besarab",
+    "https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1",
+    "https://commons.wikimedia.org/wiki/Category:Siarhei_Besarab",
+    "https://scholar.google.com/citations?user=1jNpf9QAAAAJ",
+    "https://github.com/steanlab",
+    "https://mastodon.social/@lab66",
+    "https://www.reddit.com/user/SiarheiBesarab/",
+    "https://habr.com/ru/users/steanlab/",
+    "https://lab66.substack.com",
+    "https://medium.com/@steanlab",
+    "https://keybase.io/steanlab"
+  ]
+}
+</script>
 {% endif %}

@@ -5,6 +5,7 @@ ref: press
 permalink: /press/
 title: "Press kit"
 published: true
+description: "Press kit: how to credit Siarhei Besarab, short and medium biographies, availability and a featured TEDx talk."
 ---
 
 ## How to credit

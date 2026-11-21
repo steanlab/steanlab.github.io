@@ -19,6 +19,7 @@ import argparse
 import os
 import re
 import sys
+import urllib.parse
 
 import yaml
 
@@ -79,6 +80,19 @@ def compute(root):
 
 # --- карточки страницы СМИ -------------------------------------------------------------------------------
 
+# Jekyll не публикует файлы из папок на «_» (в том числе _posts/files), поэтому аудио на странице СМИ
+# отдаётся напрямую из репозитория. Когда файлы будут перенесены в обычную папку (например /audio/),
+# достаточно заменить AUDIO_SRC и AUDIO_DST.
+AUDIO_SRC = "/_posts/files/"
+AUDIO_DST = "https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/"
+
+
+def audio_url(url):
+    if url.startswith(AUDIO_SRC):
+        return AUDIO_DST + urllib.parse.quote(url[len(AUDIO_SRC):])
+    return url
+
+
 SUFFIX = re.compile(r"^web\s*archive\s*(.*)$", re.I)
 
 
@@ -99,7 +113,7 @@ def card_links(entry):
             label = "" if label.upper() == "AUDIO" else label
         elif kind == "language_version":
             label = label.strip("() ")
-        out.append({"kind": kind, "label": label, "url": l["url"]})
+        out.append({"kind": kind, "label": label, "url": audio_url(l["url"]) if kind == "audio" else l["url"]})
     return out
 
 

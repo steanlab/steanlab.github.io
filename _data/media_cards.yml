@@ -106,7 +106,7 @@ cards:
     url: https://web.archive.org/web/20261106192859/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/
   - kind: audio
     label: ''
-    url: /_posts/files/2026-11-06_volha_siamashka_radiogruz_besarab.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-11-06_volha_siamashka_radiogruz_besarab.mp3
 - date: '2026-10-12'
   approx: true
   outlet: RFE/RL
@@ -131,7 +131,7 @@ cards:
     url: https://web.archive.org/web/20261007220953/https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/
   - kind: audio
     label: ''
-    url: /_posts/files/2026-10-07_volha_siamashka_czuma_besarab_ns.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-10-07_volha_siamashka_czuma_besarab_ns.mp3
 - date: '2026-09-22'
   approx: true
   outlet: Беларускае радыё Рацыя
@@ -167,7 +167,7 @@ cards:
     url: https://web.archive.org/web/20260911125238/https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/
   - kind: audio
     label: ''
-    url: /_posts/files/2026-09-11_smotkina_besarab.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-09-11_smotkina_besarab.mp3
 - date: '2026-09-10'
   approx: true
   outlet: Радыё Свабода
@@ -328,7 +328,7 @@ cards:
     url: https://archive.is/8g28C
   - kind: audio
     label: ''
-    url: /_posts/files/2026-07-27_volha_siamashka_nuclear_besarab_k.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-07-27_volha_siamashka_nuclear_besarab_k.mp3
 - date: '2026-07-25'
   approx: true
   outlet: Беларускае радыё Рацыя
@@ -345,7 +345,7 @@ cards:
     url: https://archive.is/KOdON
   - kind: audio
     label: ''
-    url: /_posts/files/2026-07-24_volha_siamashka_showiszczy_besarab_ns.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-07-24_volha_siamashka_showiszczy_besarab_ns.mp3
 - date: '2026-07-21'
   approx: true
   outlet: Флагшток
@@ -449,7 +449,7 @@ cards:
     url: https://web.archive.org/web/20260514220042/https://racyja.com/by/sumezza/stam-chantavirusa-andes-na-padljassy-malaverahodny/
   - kind: audio
     label: ''
-    url: /_posts/files/2026-05-14_volha_siamashka_hantawirus_biesarab_ss.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-05-14_volha_siamashka_hantawirus_biesarab_ss.mp3
 - date: '2026-05-13'
   approx: true
   outlet: Флагшток
@@ -768,7 +768,7 @@ cards:
     url: https://web.archive.org/web/20260212231126/https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja
   - kind: audio
     label: ''
-    url: /_posts/files/2026-02-12_volha_siamashka_navuka_biesarab_k.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-02-12_volha_siamashka_navuka_biesarab_k.mp3
 - date: '2026-02-09'
   approx: true
   outlet: Беларускае радыё Рацыя
@@ -782,7 +782,7 @@ cards:
     url: https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/
   - kind: audio
     label: ''
-    url: /_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3
 - date: '2026-02-07'
   approx: true
   outlet: Zerkalo.io (ex TUT.BY)
@@ -1082,7 +1082,7 @@ cards:
     url: https://web.archive.org/web/20251208165416/https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/
   - kind: audio
     label: ''
-    url: /_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3
 - date: '2025-11-30'
   approx: true
   outlet: Штодзень
@@ -4276,7 +4276,7 @@ cards:
   links:
   - kind: audio
     label: падкаст
-    url: /_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3
+    url: https://raw.githubusercontent.com/steanlab/steanlab.github.io/main/_posts/files/%D0%A7%D0%B0%D1%80%D0%BD%D0%BE%D0%B1%D1%8B%D0%BB%D1%8C-%D0%B0%D0%B1%D1%8B-%D0%BD%D0%B5-%D0%B1%D1%8B%D0%BB%D0%BE-%D0%BF%D0%B0%D0%BD%D1%96%D0%BA%D1%96-604617598.mp3
   - kind: archive_is
     label: ''
     url: https://archive.is/9t6AH

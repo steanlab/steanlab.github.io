@@ -1,0 +1,96 @@
+---
+layout: default
+---
+{%- comment -%}
+  Страница СМИ: карточки из _data/media_cards.yml (его собирает tools/make_latest.py из _data/media.yml).
+  Поиск и фильтр по изданию работают на странице без перезагрузки; без JavaScript виден весь список.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cur = site.languages | where: "code", lang | first -%}
+{%- assign home = cur.home | default: "/" -%}
+{%- assign cards = site.data.media_cards -%}
+<article class="media-page">
+  <h1>{{ page.title }}</h1>
+  <p class="lead">{{ t.media_intro }}</p>
+  <p class="note">{{ t.titles_note }}</p>
+
+  <div class="media-grid">
+    <aside class="media-side">
+      <label for="q" class="side-h">{{ t.search_label }}</label>
+      <input id="q" type="search" class="search" placeholder="{{ t.search_ph }}" autocomplete="off">
+      <div class="side-h outlets-h">{{ t.outlets_h }}</div>
+      <ul class="outlets" id="outlets">
+        {%- for o in cards.outlets %}
+        <li><button type="button" class="outlet" data-outlet="{{ o.name | escape }}">{{ o.name }} <span class="n">{{ o.count }}</span></button></li>
+        {%- endfor %}
+      </ul>
+      <button type="button" class="reset" id="reset" hidden>{{ t.reset_filter }}</button>
+    </aside>
+
+    <section class="media-list" aria-live="polite">
+      <div class="list-head">
+        <div class="count" id="count" data-tpl="{{ t.count_tpl }}" data-total="{{ cards.total }}">{{ cards.total }}</div>
+        <div class="legend">{{ t.legend_date }}</div>
+      </div>
+      <div class="empty" id="empty" hidden>{{ t.empty }}</div>
+      <div id="rows">
+        {%- for r in cards.cards %}
+        <article class="row" data-outlet="{{ r.outlet | escape }}" data-search="{{ r.search | escape }}">
+          <div class="row-date">{% if r.date != "" %}{% if r.approx %}≈ {% endif %}{{ r.date }}{% endif %}</div>
+          <div class="row-body">
+            <div class="label">{{ r.outlet }}</div>
+            <h2><a href="{{ r.url }}">{{ r.title }}</a></h2>
+            {%- if r.audio %}
+            <div class="chips"><span class="chip">{{ t.badge_audio }}</span></div>
+            {%- endif %}
+            <div class="links">
+              <a href="{{ r.url }}">{{ t.l_src }}</a>
+              {%- for l in r.links %}
+              <a href="{{ l.url }}">
+                {%- if l.kind == "web_archive" -%}{{ t.l_web }}{%- if l.label != "" %} {{ l.label }}{% endif -%}
+                {%- elsif l.kind == "archive_is" -%}{{ t.l_ais }}
+                {%- elsif l.kind == "audio" -%}{{ t.l_audio }}{%- if l.label != "" %} {{ l.label }}{% endif -%}
+                {%- elsif l.kind == "language_version" -%}{{ t.l_lang }} {{ l.label }}
+                {%- elsif l.kind == "mirror" -%}{{ l.label }}
+                {%- else -%}{{ t.l_other }} {{ l.label }}
+                {%- endif -%}
+              </a>
+              {%- endfor %}
+            </div>
+          </div>
+        </article>
+        {%- endfor %}
+      </div>
+    </section>
+  </div>
+</article>
+<script>
+(function () {
+  var q = document.getElementById("q"), rows = [].slice.call(document.querySelectorAll("#rows .row")),
+      outlets = [].slice.call(document.querySelectorAll("#outlets .outlet")), count = document.getElementById("count"),
+      empty = document.getElementById("empty"), reset = document.getElementById("reset"), cur = "";
+  function apply() {
+    var s = q.value.trim().toLowerCase(), n = 0;
+    rows.forEach(function (r) {
+      var ok = (!cur || r.getAttribute("data-outlet") === cur) && (!s || r.getAttribute("data-search").indexOf(s) !== -1);
+      r.hidden = !ok;
+      if (ok) n++;
+    });
+    count.textContent = count.getAttribute("data-tpl").replace("{n}", n).replace("{total}", count.getAttribute("data-total"));
+    empty.hidden = n !== 0;
+    reset.hidden = !cur;
+    outlets.forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-outlet") === cur ? "true" : "false"); });
+  }
+  q.addEventListener("input", apply);
+  outlets.forEach(function (b) {
+    b.addEventListener("click", function () {
+      var o = b.getAttribute("data-outlet");
+      cur = cur === o ? "" : o;
+      apply();
+    });
+  });
+  reset.addEventListener("click", function () { cur = ""; apply(); });
+  apply();
+})();
+</script>

@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
-"""Собирает _data/latest.yml: последние добавленные записи из _data/media.yml и _data/publications.yml
-(для блока «Последнее добавленное» на главной).
+"""Собирает по данным архива два служебных файла (руками не править):
+  _data/latest.yml       последние добавленные записи для блока «Последнее добавленное» на главной;
+  _data/media_cards.yml  все записи СМИ одним списком по убыванию даты, плюс список изданий со счётчиками
+                         (для страницы СМИ: карточки, поиск, фильтр по изданию).
+Исходные данные: _data/media.yml и _data/publications.yml.
 
 Дата записи:
   1) если адрес материала есть в _data/added.yml, то дата из него (записи, добавленные через форму);
@@ -9,8 +12,8 @@
   3) записи без даты в список не попадают.
 Порядок: дата по убыванию; при равной дате позже стоящая в файле запись выше. В файл попадают LIMIT записей.
 
-  python3 tools/make_latest.py           пересобрать _data/latest.yml
-  python3 tools/make_latest.py --check   только проверить, что файл актуален (код выхода 1, если нет)
+  python3 tools/make_latest.py           пересобрать оба файла
+  python3 tools/make_latest.py --check   только проверить, что файлы актуальны (код выхода 1, если нет)
 """
 import argparse
 import os
@@ -65,33 +68,104 @@ def load(root, rel):
         return yaml.safe_load(f)
 
 
-def compute(root):
-    media = load(root, "_data/media.yml")
-    pubs = load(root, "_data/publications.yml")
+def read_added(root):
     p = os.path.join(root, "_data/added.yml")
-    added = (load(root, "_data/added.yml") if os.path.exists(p) else None) or {}
-    return build(media, pubs, added)
+    return (load(root, "_data/added.yml") if os.path.exists(p) else None) or {}
 
 
-def render(items):
-    return HEADER + yaml.dump(items, Dumper=yaml.SafeDumper, allow_unicode=True, sort_keys=False,
+def compute(root):
+    return build(load(root, "_data/media.yml"), load(root, "_data/publications.yml"), read_added(root))
+
+
+# --- карточки страницы СМИ -------------------------------------------------------------------------------
+
+SUFFIX = re.compile(r"^web\s*archive\s*(.*)$", re.I)
+
+
+def card_links(entry):
+    """Ссылки карточки: kind (тип), label (дополнительная подпись или пусто), url. Кусочки текста без адреса пропускаются."""
+    out = []
+    for l in entry.get("links", []):
+        if "url" not in l:
+            continue
+        kind = l.get("type", "other")
+        label = str(l.get("label", ""))
+        if kind == "web_archive":
+            m = SUFFIX.match(label.strip())
+            label = (m.group(1) if m else "").strip()
+        elif kind == "archive_is":
+            label = ""
+        elif kind == "audio":
+            label = "" if label.upper() == "AUDIO" else label
+        elif kind == "language_version":
+            label = label.strip("() ")
+        out.append({"kind": kind, "label": label, "url": l["url"]})
+    return out
+
+
+def build_cards(media, added):
+    rows = []
+    counts = {}
+    for order, (sec, e) in enumerate((s, e) for s in media["sections"] for e in s["entries"]):
+        if "url" not in e or "title" not in e:
+            continue
+        got = entry_date(e, added)
+        day, approx = got if got else ("", False)
+        links = card_links(e)
+        counts[sec["title"]] = counts.get(sec["title"], 0) + 1
+        card = {"date": day, "approx": approx, "outlet": sec["title"], "title": e["title"], "url": e["url"],
+                "audio": any(l["kind"] == "audio" for l in links),
+                "search": (e["title"] + " " + sec["title"]).lower(), "links": links}
+        rows.append((day, order, card))
+    dated = sorted((r for r in rows if r[0]), key=lambda r: (r[0], r[1]), reverse=True)
+    undated = [r for r in rows if not r[0]]
+    cards = [r[2] for r in dated + undated]
+    outlets = [{"name": n, "count": c} for n, c in sorted(counts.items(), key=lambda x: (-x[1], x[0].lower()))]
+    return {"total": len(cards), "outlets": outlets, "cards": cards}
+
+
+def dump(obj, header):
+    return header + yaml.dump(obj, Dumper=yaml.SafeDumper, allow_unicode=True, sort_keys=False,
                               width=10 ** 9, default_flow_style=False)
 
 
+CARDS_HEADER = ("# Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).\n"
+                "# Руками не править.\n")
+
+
+def outputs(root):
+    """{путь: текст} для всех генерируемых файлов."""
+    return {
+        "_data/latest.yml": dump(compute(root), HEADER),
+        "_data/media_cards.yml": dump(build_cards(load(root, "_data/media.yml"), read_added(root)), CARDS_HEADER),
+    }
+
+
 def regenerate(root):
-    text = render(compute(root))
-    path = os.path.join(root, "_data", "latest.yml")
-    with open(path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(text)
-    return path
+    paths = []
+    for rel, text in outputs(root).items():
+        path = os.path.join(root, rel)
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+        paths.append(path)
+    return paths
+
+
+def stale(root):
+    bad = []
+    for rel, text in outputs(root).items():
+        path = os.path.join(root, rel)
+        if not os.path.exists(path):
+            bad.append(rel)
+            continue
+        with open(path, encoding="utf-8", newline="") as f:
+            if f.read() != text:
+                bad.append(rel)
+    return bad
 
 
 def is_current(root):
-    path = os.path.join(root, "_data", "latest.yml")
-    if not os.path.exists(path):
-        return False
-    with open(path, encoding="utf-8", newline="") as f:
-        return f.read() == render(compute(root))
+    return not stale(root)
 
 
 def main(argv=None):
@@ -100,10 +174,11 @@ def main(argv=None):
     ap.add_argument("--check", action="store_true")
     a = ap.parse_args(argv)
     if a.check:
-        ok = is_current(a.root)
-        print("_data/latest.yml " + ("актуален" if ok else "УСТАРЕЛ: выполните python3 tools/make_latest.py"))
-        return 0 if ok else 1
-    print("записано:", regenerate(a.root))
+        bad = stale(a.root)
+        print("служебные файлы " + ("актуальны" if not bad else "УСТАРЕЛИ: %s; выполните python3 tools/make_latest.py" % ", ".join(bad)))
+        return 0 if not bad else 1
+    for p in regenerate(a.root):
+        print("записано:", p)
     return 0
 
 

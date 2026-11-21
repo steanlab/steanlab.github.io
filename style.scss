@@ -142,3 +142,39 @@ h3 { font-size: 1.15rem; }
   .latest-item { grid-template-columns: 1fr; gap: 4px; }
   .entry #markdown-toc { columns: 1; }
 }
+
+// ---------- страница СМИ ----------
+[hidden] { display: none !important; }
+.media-page { padding-top: 48px; }
+.media-page .lead { margin-bottom: 8px; }
+.media-page .note { color: $muted; font-size: 0.9rem; margin: 0 0 32px; }
+.media-grid { display: grid; grid-template-columns: 260px 1fr; gap: 48px; align-items: start; }
+.media-side { position: sticky; top: 16px; }
+.side-h { display: block; font: 600 0.85rem/1.3 $sans; margin-bottom: 8px; }
+.outlets-h { margin-top: 28px; }
+.search { width: 100%; min-height: 44px; padding: 0 14px; border: 1px solid #b4bbb6; border-radius: 10px; background: $card; font: 400 1rem $sans; color: $ink; }
+.search:focus { outline: 2px solid $ink-soft; outline-offset: 1px; }
+.outlets { list-style: none; margin: 0; padding: 0; max-height: 60vh; overflow: auto; }
+.outlet { display: flex; justify-content: space-between; gap: 10px; width: 100%; text-align: left; padding: 6px 8px; margin: 0; border: 0; border-radius: 6px; background: transparent; font: 400 0.92rem/1.35 $sans; color: $ink; cursor: pointer; }
+.outlet:hover { background: #eceee9; }
+.outlet[aria-pressed="true"] { background: $ink-soft; color: #fff; }
+.outlet .n { color: $muted; font-variant-numeric: tabular-nums; }
+.outlet[aria-pressed="true"] .n { color: #d6ddd8; }
+.reset { margin-top: 12px; padding: 0; border: 0; background: none; color: $ink-soft; font: 400 0.9rem $sans; text-decoration: underline; cursor: pointer; }
+.list-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; padding-bottom: 12px; }
+.count { font-weight: 600; font-size: 0.95rem; }
+.legend { font-size: 0.82rem; color: $muted; }
+.empty { padding: 32px 0; border-top: 1px solid $line; color: $muted; }
+.row { display: grid; grid-template-columns: 112px 1fr; gap: 6px 20px; padding: 20px 0; border-top: 1px solid $line; }
+.row-date { font-size: 0.85rem; color: $muted; font-variant-numeric: tabular-nums; padding-top: 3px; }
+.row-body h2 { font-size: 1.15rem; line-height: 1.35; margin: 4px 0 8px; }
+.row-body h2 a { color: $ink; text-decoration-color: $line; }
+.row-body h2 a:hover { text-decoration-color: $ink-soft; }
+.links { display: flex; flex-wrap: wrap; gap: 2px 18px; font-size: 0.9rem; margin-top: 4px; }
+.links a { padding: 4px 0; }
+@media (max-width: 800px) {
+  .media-grid { grid-template-columns: 1fr; gap: 24px; }
+  .media-side { position: static; }
+  .outlets { max-height: 220px; }
+  .row { grid-template-columns: 1fr; }
+}

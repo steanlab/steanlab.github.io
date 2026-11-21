@@ -54,6 +54,20 @@ en:
   press_pgp: Public PGP key
   press_photo: Portrait photo
   principle: "Nothing is removed: every record keeps its source link, web-archive copy and audio file."
+  search_label: Search
+  search_ph: Title or outlet
+  outlets_h: Outlets
+  count_tpl: "Showing {n} of {total}"
+  legend_date: "≈ date of the earliest web-archive copy"
+  empty: Nothing found. Try a different query.
+  reset_filter: Show all outlets
+  l_src: Source
+  l_web: Web archive
+  l_ais: archive.today
+  l_audio: Audio
+  l_lang: Version
+  l_other: Copy
+  badge_audio: Audio
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -106,6 +120,20 @@ ru:
   press_pgp: Публичный PGP-ключ
   press_photo: Портрет
   principle: "Ничего не удаляется: у каждой записи сохранены ссылка на источник, копия в веб-архиве и аудиофайл."
+  search_label: Поиск
+  search_ph: Название или издание
+  outlets_h: Издания
+  count_tpl: "Показано {n} из {total}"
+  legend_date: "≈ дата самой ранней копии в веб-архиве"
+  empty: Ничего не найдено. Попробуйте другой запрос.
+  reset_filter: Показать все издания
+  l_src: Источник
+  l_web: Веб-архив
+  l_ais: archive.today
+  l_audio: Аудио
+  l_lang: Версия
+  l_other: Копия
+  badge_audio: Аудио
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны вучоны · Хімік-даследчык · Аўтар
@@ -158,3 +186,17 @@ be:
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт
   principle: "Нічога не выдаляецца: у кожным запісе захаваны спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."
+  search_label: Пошук
+  search_ph: Назва або выданне
+  outlets_h: Выданні
+  count_tpl: "Паказана {n} з {total}"
+  legend_date: "≈ дата самай ранняй копіі ў вэб-архіве"
+  empty: Нічога не знойдзена. Паспрабуйце іншы запыт.
+  reset_filter: Паказаць усе выданні
+  l_src: Крыніца
+  l_web: Вэб-архіў
+  l_ais: archive.today
+  l_audio: Аўдыё
+  l_lang: Версія
+  l_other: Копія
+  badge_audio: Аўдыё

@@ -236,6 +236,34 @@ def check_home(root, i18n):
     return ok
 
 
+def check_media(root, i18n):
+    """Страница СМИ: карточки в порядке _data/media_cards.yml, все адреса и ссылки на месте, подписи на языке страницы."""
+    cards = yaml.safe_load(open(os.path.join(root, "_data", "media_cards.yml"), encoding="utf-8"))
+    media = yaml.safe_load(open(os.path.join(root, "_data", "media.yml"), encoding="utf-8"))
+    src_urls = sorted(e["url"] for s in media["sections"] for e in s["entries"] if "url" in e)
+    ok = sorted(c["url"] for c in cards["cards"]) == src_urls and cards["total"] == len(src_urls)
+    print("media_cards   все %d адресов из media.yml на месте: %s" % (len(src_urls), "да" if ok else "НЕТ"))
+    for lang in ("en", "ru", "be"):
+        ctx = {"site": {"data": {"media_cards": cards, "i18n": i18n}}, "page": {"lang": lang, "title": "T"}}
+        out = render_body(os.path.join(root, "_layouts", "media.html"), ctx)
+        body = out.split("<script>", 1)[0]
+        rows = re.findall(r'<article class="row" ', body)
+        urls = re.findall(r'<h2><a href="(.*?)">', body)
+        t = i18n[lang]
+        chips_audio = body.count('<span class="chip">%s</span>' % t["badge_audio"])
+        src_labels = body.count(">%s</a>" % t["l_src"])
+        same = (len(rows) == cards["total"] and urls == [c["url"] for c in cards["cards"]]
+                and chips_audio == sum(c["audio"] for c in cards["cards"]) and src_labels == cards["total"]
+                and "{{" not in body and "{%" not in body)
+        n_links = len(re.findall(r'<div class="links">.*?</div>', body, re.S))
+        total_links = sum(len(re.findall(r"<a ", m)) for m in re.findall(r'<div class="links">.*?</div>', body, re.S))
+        want_links = sum(1 + len(c["links"]) for c in cards["cards"])
+        same &= total_links == want_links and n_links == cards["total"]
+        print("media         %-3s %s  (%d карточек, %d ссылок)" % (lang, "совпало" if same else "РАСХОЖДЕНИЕ", len(rows), total_links))
+        ok &= same
+    return ok
+
+
 def check_static(root, i18n):
     """Статические проверки шаблонов: опечатки `%%`, переменные во внутренних слоях, ключи i18n, latest.yml."""
     ok = True
@@ -293,7 +321,8 @@ def main():
     print("метки: _data/marks.yml и MARK_CODES %s" % ("совпадают" if same_marks else "РАСХОДЯТСЯ"))
     ok &= same_marks
     ok &= check_home(root, i18n)
-    for data_name, intro_key in (("media", "media_intro"), ("publications", "publications_intro")):
+    ok &= check_media(root, i18n)
+    for data_name, intro_key in (("publications", "publications_intro"),):
         data = yaml.safe_load(open(os.path.join(root, "_data", data_name + ".yml"), encoding="utf-8"))
         want_all = A.render(data)
         body = want_all.split("\n---\n", 1)[1].lstrip("\n")

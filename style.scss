@@ -121,8 +121,8 @@ h3 { font-size: 1.15rem; }
 .entry li { margin: 0.35em 0; }
 .entry blockquote { margin: 0 0 1em; padding: 8px 16px; border-left: 3px solid $line; color: $muted; }
 .entry hr { border: 0; border-top: 1px solid $line; margin: 2em 0; }
-.entry #markdown-toc { margin: 0 0 1em 1.3em; columns: 2; column-gap: 32px; font-size: 0.92rem; }
-.entry #markdown-toc li { break-inside: avoid; }
+.entry #markdown-toc { margin: 0 0 1em 1.3em; font-size: 0.95rem; }
+.entry #markdown-toc ul { margin: 0.2em 0 0.2em 1.2em; }
 .marks-legend { font-size: 0.85rem; color: $muted; margin: -8px 0 18px; }
 .date { margin-top: 32px; font-size: 0.85rem; color: $muted; }
 
@@ -140,7 +140,6 @@ h3 { font-size: 1.15rem; }
   .cards { grid-template-columns: 1fr; }
   .press { grid-template-columns: 1fr; padding: 24px; }
   .latest-item { grid-template-columns: 1fr; gap: 4px; }
-  .entry #markdown-toc { columns: 1; }
 }
 
 // ---------- страница СМИ ----------

@@ -8,7 +8,7 @@ published: true
 description: "Press kit: how to credit Siarhei Besarab, short and medium biographies, availability and a featured TEDx talk."
 ---
 
-<div class="callout"><p><strong>Working in exile.</strong> Besarab works in exile. His Telegram channel and several outlets he appears in are designated "extremist" or blocked in Belarus. That is why many of his appearances are preserved in the <a href="{{ site.baseurl }}/interview/">media archive</a> together with web-archive copies.</p></div>
+<div class="callout"><p><strong>Siarhei Besarab works in exile.</strong> His Telegram channel and several outlets he appears in are designated <a href="https://en.wikipedia.org/wiki/Classification_of_extremist_materials_in_Belarus">"extremist"</a> or blocked in Belarus. That is why many of his appearances are preserved in the <a href="{{ site.baseurl }}/interview/">media archive</a> together with web-archive copies.</p></div>
 
 ## How to credit
 

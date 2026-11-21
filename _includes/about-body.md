@@ -1,23 +1,26 @@
 ![Siarhei Besarab working at a computer]({{site.baseurl}}/images/footer.png)
 
+<div class="keyfacts"><h2>Key facts</h2><ul><li>Independent scientist and research chemist in colloid and surface chemistry</li><li>Author or co-author of 12 patents and a scientific monograph, more than 50 scientific and over 200 popular science publications</li><li>Regular expert for Belsat, RFE/RL and Deutsche Welle on nuclear safety, global catastrophic risks and technology analysis</li><li>Two master's degrees (environmental and pharmaceutical chemistry), completed doctoral studies, defense not held</li><li>Researcher at the Institute of General and Inorganic Chemistry of the NAS of Belarus from 2010 to 2020</li><li>Languages: English, Russian, Belarusian. Based in the European Union</li></ul></div>
+<nav class="toc" aria-label="On this page"><span>On this page:</span> <a href="#education">Education</a> · <a href="#awards">Awards</a> · <a href="#publications">Publications and patents</a> · <a href="#interests">Research interests</a> · <a href="#keywords">Keywords</a> · <a href="#community">Community</a></nav>
+
 Siarhei Besarab is an independent scientist and research chemist in colloid and surface chemistry. He holds two master's degrees, in environmental chemistry (University of the National Academy of Sciences of Belarus) and in pharmaceutical chemistry (Belarusian State University), completed postgraduate studies in colloid chemistry at the Institute of General and Inorganic Chemistry of the NAS of Belarus and worked there as a researcher in 2010–2020. He is the author of a scientific monograph, more than 50 scientific and over 200 popular-science publications, and a co-author of 12 patents on adsorbents, filtration and catalytic materials. He is a regular expert for Belsat, Radio Free Europe/Radio Liberty, Deutsche Welle, Voice of America, Zerkalo.io and other outlets on nuclear and radiation safety, the environment, climate and biosafety, and hosts the weekly rubric «Топология сингулярности» on technology and science in Belsat's «Раніца з Белсатам». He founded the science-communication project LAB66, has been a guest researcher at the Global Catastrophic Risk Institute since 2025, spoke at TEDxUlicaMińska in 2026 and received the Green Award Prize 2025. He lives in the European Union.
 
-He is also a [certified researcher]({{site.baseurl}}/images/res.jpg), a certified radio amateur (callsign EU1AEY) and writes for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts), [Substack](https://lab66.substack.com) and [Medium](https://medium.com/@steanlab). Research profile: [Google Scholar](https://scholar.google.com/citations?user=1jNpf9QAAAAJ). Also on [GitHub](https://github.com/steanlab), <a href="https://mastodon.social/@lab66" rel="me">Mastodon</a> and [Reddit](https://www.reddit.com/user/SiarheiBesarab/). This website serves as a professional, academically grounded alternative to conventional social media profiles.
+He is also a [certified researcher]({{site.baseurl}}/images/res.jpg), a certified radio amateur (callsign EU1AEY) and writes for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts), [Substack](https://lab66.substack.com) and [Medium](https://medium.com/@steanlab). Also on [GitHub](https://github.com/steanlab), <a href="https://mastodon.social/@lab66" rel="me">Mastodon</a> and [Reddit](https://www.reddit.com/user/SiarheiBesarab/). This website serves as a professional, academically grounded alternative to conventional social media profiles.
 
-### Education
+### Education {#education}
 
 - Completed doctoral studies (aspirantura) in Colloid Chemistry, IGIC of the NAS of Belarus. Dissertation draft prepared and submitted, defense not held ([view official document]({{site.baseurl}}/images/res.jpg))
 - MSc in Environmental Chemistry, University of the NAS of Belarus ([view official diploma]({{site.baseurl}}/images/msc.jpg))
 - MSc in Pharmaceutical Chemistry, Belarusian State University ([view official diploma]({{site.baseurl}}/images/bsu.jpg))
 
-### Awards & Honors
+### Awards & Honors {#awards}
 
 - Presidential Scholarship for Talented Young Scientists, Belarus (2015)
 - 1st place at the Belarusian stage of StartupTour 2016, semifinalist
 - Two-time winner of the «Technotext» technology authors' contest (Habr, 2021 and 2025)
 - [Green Award Prize 2025](https://greenbelarus.info/articles/06-06-2025/zyalyonaya-setka-vyznachyla-lepshy-kantent-pra-ekalogiyu-belarusi) for climate analysis, eco-content, and science podcasting
 
-### Publications & Patents
+### Publications & Patents {#publications}
 
 - Author of a [scientific monograph](https://be.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%B0%D1%80%D0%B1%D0%B5%D0%BD%D1%82%D1%8B_%D1%96_%D0%BD%D0%BE%D1%81%D1%8C%D0%B1%D1%96%D1%82%D1%8B_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%82%D0%B0%D1%80%D0%B0%D1%9E._%D0%9D%D0%B0%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F_%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D1%8D%D0%B3%D1%83%D0%BB%D1%8F%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BF%D0%BE%D1%80%D1%8B%D1%81%D1%82%D0%B0%D0%B9_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B), 50+ scientific and 200+ popular science publications
 - Scientific publications: [Google Scholar](https://scholar.google.com/citations?user=1jNpf9QAAAAJ), [eLibrary](https://elibrary.ru/author_profile.asp?authorid=654223)
@@ -37,7 +40,7 @@ He is also a [certified researcher]({{site.baseurl}}/images/res.jpg), a certifie
   - System for air purification from mercury vapors. Patent BY 9629, 2013
 - Regular science and technology expert for Zerkalo.io, dev.by, BELSAT, Radio Free Europe/Radio Liberty, Deutsche Welle, Voice of America, and others
 
-### Research Interests
+### Research Interests {#interests}
 
 - **Colloid and surface science**: Synthesis, modification, and functionalization of nanomaterials, porous and fibrous filtration media, catalysts, and hybrid composites for environmental, biomedical, and industrial applications. Research on interfacial phenomena, adsorption mechanisms, and surface engineering for advanced materials and separation technologies
 - **Environmental Chemistry & Industrial Toxicology**: Remediation of heavy metals and legacy pollutants, degradation of plastics and persistent contaminants, environmental monitoring, and development of sustainable solutions for air and water purification, waste valorization, and circular economy
@@ -50,11 +53,11 @@ He is also a [certified researcher]({{site.baseurl}}/images/res.jpg), a certifie
 - **Climate Change Science, Adaptation, and Extreme Weather Response**: science communication on climate change, adaptation to climate change & extreme weather events, environmental monitoring and analysis of climate trends, climate risk assessment, adaptation and mitigation strategies, enhance preparedness for extreme weather phenomena
 - **Future Studies & Techno-Ethics**: Technological forecasting methodologies, risk innovation, transhumanist paradigms (human enhancement, longevity, AI integration), ethical frameworks for emerging technologies, societal impacts of NBIC-convergence (nano-bio-info-cogno), governance models for responsible innovation, and science communication in futurological contexts, regulatory frameworks for human-technology symbiosis, posthuman scenarios, existential risk mitigation, dual-use research
 
-### Keywords & Professional Highlights
+### Keywords & Professional Highlights {#keywords}
 
 Siarhei Besarab comments on: Belarusian nuclear power plant (BelNPP), Chernobyl and the Chernobyl exclusion zone, radioactive waste repositories, radiation, biological and chemical safety, global catastrophic risks, techno-ethics and futurology, technology analysis, colloid chemistry, adsorption and filtration, climate, extreme weather, climate adaptation.
 
-### Volunteer & Community Engagement
+### Volunteer & Community Engagement {#community}
 
 - Science advocacy, academic freedom, and human rights
 - Public lectures, STEM education, Wikimedian (editor of the Belarusian Wikipedia, Wikimedia Commons contributor), science festivals, hackathons, citizen and public science initiatives
@@ -64,4 +67,4 @@ Siarhei Besarab comments on: Belarusian nuclear power plant (BelNPP), Chernobyl 
 - ENG: **Siarhei Besarab** ([Wikipedia](https://en.wikipedia.org/wiki/Siarhei_Besarab))
 - BEL: **Сяргей Бесараб** ([Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)) 
 
-<noscript><a href="https://liberapay.com/steanlab/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<p class="quiet"><a href="{{ site.baseurl }}/support/">Support the author</a></p>

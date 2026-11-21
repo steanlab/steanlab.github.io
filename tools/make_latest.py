@@ -117,6 +117,38 @@ def card_links(entry):
     return out
 
 
+UA_OUTLETS = ("Argument UA", "Radio France internationale (UA)")   # издания на украинском: смешанные і и и там означают uk
+
+
+def detect_lang(title, outlet=""):
+    """Язык заголовка по буквам: en, ru, uk, be или pl. Различаем по буквам, которых нет в соседних языках:
+    ў и і без и дают be, ї є ґ дают uk, ъ дают ru, польские диакритики дают pl. Смешанные і и и: uk в украинских изданиях (UA_OUTLETS), иначе be.
+    Если различающих букв нет, язык считается ru (самый частый случай); такие записи можно уточнить вручную."""
+    t = title.lower()
+    # хвост «Праграмма Раніца з Белсатам …» стоит в заголовках разных языков и язык текста не показывает
+    for tail in ("праграмма", "программа"):
+        if tail in t:
+            t = t.split(tail, 1)[0]
+    cyr = sum(1 for ch in t if "а" <= ch <= "я" or ch in "ёіїєґў")
+    lat = sum(1 for ch in t if "a" <= ch <= "z")
+    if cyr == 0 and lat == 0:
+        return "en"
+    if lat > cyr:
+        return "pl" if any(ch in t for ch in "ąćęłńóśźż") else "en"
+    if "ў" in t:
+        return "be"
+    if any(ch in t for ch in "їєґ"):
+        return "uk"
+    has_i, has_and = "і" in t, "и" in t
+    if "ъ" in t:
+        return "ru"
+    if has_i and has_and:
+        return "uk" if outlet in UA_OUTLETS else "be"
+    if has_i:
+        return "be"
+    return "ru"
+
+
 def build_cards(media, added):
     rows = []
     counts = {}
@@ -128,6 +160,7 @@ def build_cards(media, added):
         links = card_links(e)
         counts[sec["title"]] = counts.get(sec["title"], 0) + 1
         card = {"date": day, "approx": approx, "outlet": sec["title"], "title": e["title"], "url": e["url"],
+                "lang": detect_lang(e["title"], sec["title"]),
                 "audio": any(l["kind"] == "audio" for l in links),
                 "search": (e["title"] + " " + sec["title"]).lower(), "links": links}
         rows.append((day, order, card))
@@ -135,7 +168,11 @@ def build_cards(media, added):
     undated = [r for r in rows if not r[0]]
     cards = [r[2] for r in dated + undated]
     outlets = [{"name": n, "count": c} for n, c in sorted(counts.items(), key=lambda x: (-x[1], x[0].lower()))]
-    return {"total": len(cards), "outlets": outlets, "cards": cards}
+    lc = {}
+    for c in cards:
+        lc[c["lang"]] = lc.get(c["lang"], 0) + 1
+    langs = [{"code": k, "count": v} for k, v in sorted(lc.items(), key=lambda x: (-x[1], x[0]))]
+    return {"total": len(cards), "langs": langs, "outlets": outlets, "cards": cards}
 
 
 def dump(obj, header):

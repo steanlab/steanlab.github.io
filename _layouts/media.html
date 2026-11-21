@@ -21,6 +21,12 @@ layout: default
     <aside class="media-side">
       <label for="q" class="side-h">{{ t.search_label }}</label>
       <input id="q" type="search" class="search" placeholder="{{ t.search_ph }}" autocomplete="off">
+      <div class="side-h">{{ t.lang_h }}</div>
+      <div class="langs" id="langs">
+        {%- for l in cards.langs %}
+        <button type="button" class="lang-btn" data-lang="{{ l.code }}" aria-pressed="false">{{ l.code | upcase }} <span class="n">{{ l.count }}</span></button>
+        {%- endfor %}
+      </div>
       <div class="side-h outlets-h">{{ t.outlets_h }}</div>
       <ul class="outlets" id="outlets">
         {%- for o in cards.outlets %}
@@ -38,14 +44,12 @@ layout: default
       <div class="empty" id="empty" hidden>{{ t.empty }}</div>
       <div id="rows">
         {%- for r in cards.cards %}
-        <article class="row" data-outlet="{{ r.outlet | escape }}" data-search="{{ r.search | escape }}">
+        <article class="row" data-outlet="{{ r.outlet | escape }}" data-lang="{{ r.lang }}" data-search="{{ r.search | escape }}">
           <div class="row-date">{% if r.date != "" %}{% if r.approx %}≈ {% endif %}{{ r.date }}{% endif %}</div>
           <div class="row-body">
             <div class="label">{% if r.outlet == site.data.facts.rubric_outlet %}{{ t.outlet_rubric }}{% else %}{{ r.outlet }}{% endif %}</div>
             <h2><a href="{{ r.url }}">{{ r.title }}</a></h2>
-            {%- if r.audio %}
-            <div class="chips"><span class="chip">{{ t.badge_audio }}</span></div>
-            {%- endif %}
+            <div class="chips"><span class="chip">{{ r.lang | upcase }}</span>{% if r.audio %}<span class="chip">{{ t.badge_audio }}</span>{% endif %}</div>
             <div class="links">
               <a href="{{ r.url }}">{{ t.l_src }}</a>
               {%- for l in r.links %}
@@ -77,17 +81,19 @@ layout: default
 (function () {
   var q = document.getElementById("q"), rows = [].slice.call(document.querySelectorAll("#rows .row")),
       outlets = [].slice.call(document.querySelectorAll("#outlets .outlet")), count = document.getElementById("count"),
-      empty = document.getElementById("empty"), reset = document.getElementById("reset"), cur = "";
+      empty = document.getElementById("empty"), reset = document.getElementById("reset"), cur = "", curL = "",
+      langBtns = [].slice.call(document.querySelectorAll("#langs .lang-btn"));
   function apply() {
     var s = q.value.trim().toLowerCase(), n = 0;
     rows.forEach(function (r) {
-      var ok = (!cur || r.getAttribute("data-outlet") === cur) && (!s || r.getAttribute("data-search").indexOf(s) !== -1);
+      var ok = (!cur || r.getAttribute("data-outlet") === cur) && (!curL || r.getAttribute("data-lang") === curL) && (!s || r.getAttribute("data-search").indexOf(s) !== -1);
       r.hidden = !ok;
       if (ok) n++;
     });
     count.textContent = count.getAttribute("data-tpl").replace("{n}", n).replace("{total}", count.getAttribute("data-total"));
     empty.hidden = n !== 0;
-    reset.hidden = !cur;
+    reset.hidden = !cur && !curL;
+    langBtns.forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-lang") === curL ? "true" : "false"); });
     outlets.forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-outlet") === cur ? "true" : "false"); });
   }
   q.addEventListener("input", apply);
@@ -98,7 +104,14 @@ layout: default
       apply();
     });
   });
-  reset.addEventListener("click", function () { cur = ""; apply(); });
+  langBtns.forEach(function (b) {
+    b.addEventListener("click", function () {
+      var l = b.getAttribute("data-lang");
+      curL = curL === l ? "" : l;
+      apply();
+    });
+  });
+  reset.addEventListener("click", function () { cur = ""; curL = ""; apply(); });
   // ссылка вида /interview/#outlet=Название выбирает издание сразу при открытии (используется на странице «Проекты»)
   var hm = /^#outlet=(.+)$/.exec(location.hash);
   if (hm) { try { var want = decodeURIComponent(hm[1]); outlets.forEach(function (b) { if (b.getAttribute("data-outlet") === want) cur = want; }); } catch (e) {} }

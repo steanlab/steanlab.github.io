@@ -1,6 +1,17 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
 total: 438
+langs:
+- code: be
+  count: 234
+- code: ru
+  count: 184
+- code: en
+  count: 15
+- code: uk
+  count: 4
+- code: pl
+  count: 1
 outlets:
 - name: Белсат
   count: 75
@@ -110,6 +121,7 @@ cards:
   outlet: ВОТ-ТАК ТВ
   title: «Вознаграждение за атаки против Украины». Заместителем главы МАГАТЭ может стать россиянин, которого обвиняют в поддержке захвата Запорожской АЭС
   url: https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate
+  lang: ru
   audio: false
   search: «вознаграждение за атаки против украины». заместителем главы магатэ может стать россиянин, которого обвиняют в поддержке захвата запорожской аэс вот-так тв
   links:
@@ -121,6 +133,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Сяргей Бесараб пра 27 тон радыеактыўнага грузу на мяжы з ЕЗ
   url: https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/
+  lang: be
   audio: true
   search: сяргей бесараб пра 27 тон радыеактыўнага грузу на мяжы з ез беларускае радыё рацыя
   links:
@@ -135,6 +148,7 @@ cards:
   outlet: RFE/RL
   title: Too Soon? Swaths Of Chernobyl-Affected Land In Belarus To Lose 'Contaminated' Status
   url: https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html
+  lang: en
   audio: false
   search: too soon? swaths of chernobyl-affected land in belarus to lose 'contaminated' status rfe/rl
   links:
@@ -146,6 +160,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Дэградацыя сістэмы біябяспекі ў Расеі стварае глабальныя рызыкі”
   url: https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/
+  lang: be
   audio: true
   search: “дэградацыя сістэмы біябяспекі ў расеі стварае глабальныя рызыкі” беларускае радыё рацыя
   links:
@@ -160,6 +175,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Беларусь сябе цалкам забяспечвала. АЭС была непатрэбна”
   url: https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/
+  lang: ru
   audio: false
   search: “беларусь сябе цалкам забяспечвала. аэс была непатрэбна” беларускае радыё рацыя
   links:
@@ -171,6 +187,7 @@ cards:
   outlet: Белсат
   title: «Радыяцыйнае жыццё ўнутры бетоннага блоку не спыняецца». Эксперты – пра небяспеку ядравага могільніку
   url: https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku
+  lang: be
   audio: false
   search: «радыяцыйнае жыццё ўнутры бетоннага блоку не спыняецца». эксперты – пра небяспеку ядравага могільніку белсат
   links:
@@ -182,6 +199,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: «Ніводная не адпавядае правілам»
   url: https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/
+  lang: be
   audio: true
   search: «ніводная не адпавядае правілам» беларускае радыё рацыя
   links:
@@ -196,6 +214,7 @@ cards:
   outlet: Радыё Свабода
   title: 'Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»'
   url: https://www.svaboda.org/a/33851719.html
+  lang: be
   audio: false
   search: 'экспэрты аб праекце сховішча радыяцыйных адкідаў белаэс: «сьлепа пераймаюць небясьпечны расейкі досьвед» радыё свабода'
   links:
@@ -207,6 +226,7 @@ cards:
   outlet: charter97
   title: Radioactive Waste In Belarus Is Planned To Be Stored In Special Hangars For 600–700 Years
   url: https://charter97.org/en/news/2026/9/3/697095/
+  lang: en
   audio: false
   search: radioactive waste in belarus is planned to be stored in special hangars for 600–700 years charter97
   links:
@@ -218,6 +238,7 @@ cards:
   outlet: Hrodna Life
   title: «Может протечь уже в первые 100 лет». Эксперты раскритиковали проект хранилища ядерных отходов БелАЭС
   url: https://ru.hrodna.life/2026/09/03/shovishcha-adkhodau/
+  lang: ru
   audio: false
   search: «может протечь уже в первые 100 лет». эксперты раскритиковали проект хранилища ядерных отходов белаэс hrodna life
   links:
@@ -229,6 +250,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Радиоактивные отходы в Беларуси планируют хранить в специальных ангарах 600−700 лет
   url: https://news.zerkalo.io/life/135676.html
+  lang: ru
   audio: false
   search: радиоактивные отходы в беларуси планируют хранить в специальных ангарах 600−700 лет zerkalo.io (ex tut.by)
   links:
@@ -240,6 +262,7 @@ cards:
   outlet: Зеленый портал
   title: 'Беларусский пункт захоронения отходов: почему эксперты бьют тревогу из-за опасных технологий'
   url: https://greenbelarus.info/articles/31-08-2026/nezavisimye-eksperty-kommentiruyut-pzro
+  lang: ru
   audio: false
   search: 'беларусский пункт захоронения отходов: почему эксперты бьют тревогу из-за опасных технологий зеленый портал'
   links:
@@ -251,6 +274,7 @@ cards:
   outlet: Белсат
   title: Эксперты назвали проект беларусского хранилища радиоактивных отходов опасным
   url: https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym
+  lang: ru
   audio: false
   search: эксперты назвали проект беларусского хранилища радиоактивных отходов опасным белсат
   links:
@@ -265,6 +289,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Южные и восточные районы рискуют стать непригодными для жизни в ближайшие 10 лет». Ученый — о том, как спасти водоемы от обмеления
   url: https://news.zerkalo.io/life/135205.html
+  lang: ru
   audio: false
   search: «южные и восточные районы рискуют стать непригодными для жизни в ближайшие 10 лет». ученый — о том, как спасти водоемы от обмеления zerkalo.io (ex tut.by)
   links:
@@ -276,6 +301,7 @@ cards:
   outlet: Флагшток
   title: Беларуси грозит радиологическая катастрофа. Эксперт подтвердил, что ядерный могильник начали строить втихую, не дожидаясь общественных обсуждений
   url: https://flagshtok.info/ru/naviny/belarusi-grozit-radiologicheskaja-katastrofa-ekspert-podtverdil-chto-jadernyj-mogilnik-nachali-stroit-vtihuju-ne-dozhidajas-obscestvennyh-obsuzhdenij.html
+  lang: ru
   audio: false
   search: беларуси грозит радиологическая катастрофа. эксперт подтвердил, что ядерный могильник начали строить втихую, не дожидаясь общественных обсуждений флагшток
   links:
@@ -290,6 +316,7 @@ cards:
   outlet: Белсат
   title: Ці спыніцца БелАЭС ад спёкі і засухі?
   url: https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi
+  lang: be
   audio: false
   search: ці спыніцца белаэс ад спёкі і засухі? белсат
   links:
@@ -304,6 +331,7 @@ cards:
   outlet: charter97
   title: Ученый разнес решение Лукашенко
   url: https://charter97.link/ru/news/2026/8/5/693645/
+  lang: ru
   audio: false
   search: ученый разнес решение лукашенко charter97
   links:
@@ -315,6 +343,7 @@ cards:
   outlet: Белсат
   title: Як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей Чарнобылю
   url: https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi
+  lang: be
   audio: false
   search: як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей чарнобылю белсат
   links:
@@ -326,6 +355,7 @@ cards:
   outlet: Флагшток
   title: «Попытка устранить репутационный ущерб». В преддверии общественных обсуждений ядерного могильника БелРАО сменил информационную политику
   url: https://flagshtok.info/ru/naviny/v-preddverii-obscestvennyh-obsuzhdenij-jadernogo-mogilnika-belrao-smenil-informacionnuju-politiku.html
+  lang: ru
   audio: false
   search: «попытка устранить репутационный ущерб». в преддверии общественных обсуждений ядерного могильника белрао сменил информационную политику флагшток
   links:
@@ -340,6 +370,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Ключы ад БелАЭС знаходзяцца ў руках Масквы”
   url: https://racyja.com/by/hramadstva/zaleznasc-ad-rasei-u-jadzernaj-sfery-stavic-pad-pytanne-suverenitet-belarusi/
+  lang: be
   audio: true
   search: “ключы ад белаэс знаходзяцца ў руках масквы” беларускае радыё рацыя
   links:
@@ -357,6 +388,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Важна, каб слуханні не сталі фармальнай працэдурай”
   url: https://racyja.com/by/ekanomika/vazna-kab-sluchanni-ne-stali-farmalnaj-praceduraj/
+  lang: be
   audio: true
   search: “важна, каб слуханні не сталі фармальнай працэдурай” беларускае радыё рацыя
   links:
@@ -374,6 +406,7 @@ cards:
   outlet: Флагшток
   title: В Беларуси хотят вывести из-под надзора ядерные могильники времен Чернобыля. О чем это говорит, объяснил эксперт
   url: https://flagshtok.info/ru/naviny/v-belarusi-hotjat-vyvesti-iz-pod-nadzora-jadernye-mogilniki-vremen-chernobylja-o-chem-eto-govorit-objasnil-ekspert.html
+  lang: ru
   audio: false
   search: в беларуси хотят вывести из-под надзора ядерные могильники времен чернобыля. о чем это говорит, объяснил эксперт флагшток
   links:
@@ -388,6 +421,7 @@ cards:
   outlet: ЕвроРадио
   title: Вучоны ўказаў на недахопы справаздачы аб сховішчы радыёактыўных адходаў у Беларусі
   url: https://euroradio.fm/vuchony-ukazau-na-nedakhopy-spravazdachy-ab-skhovishchy-radyyoaktyunykh-adkhodau-u-belarusi
+  lang: be
   audio: false
   search: вучоны ўказаў на недахопы справаздачы аб сховішчы радыёактыўных адходаў у беларусі еврорадио
   links:
@@ -408,6 +442,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Нам все время рассказывали, что в жару надо носить белое и нельзя черное. Оказалось, что все не так, — объяснил ученый
   url: https://news.zerkalo.io/life/130736.html
+  lang: ru
   audio: false
   search: нам все время рассказывали, что в жару надо носить белое и нельзя черное. оказалось, что все не так, — объяснил ученый zerkalo.io (ex tut.by)
   links:
@@ -422,6 +457,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Все про сахарозаменители
   url: https://www.belhalat.news/articles/vse-pro-saharozameniteli
+  lang: ru
   audio: false
   search: все про сахарозаменители белые халаты (belhalat.news)
   links:
@@ -436,6 +472,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Бесараб: «Остается только посочувствовать детям, которых отправили на отдых в Туапсе. Нет ничего страшнее малограмотных родителей»'
   url: https://gazetaby.com/post/besarab-ostaetsya-tolko-posochuvstvovat-detyam-kotoryx-otpravili-na-ot/214498/
+  lang: ru
   audio: false
   search: 'бесараб: «остается только посочувствовать детям, которых отправили на отдых в туапсе. нет ничего страшнее малограмотных родителей» газета салідарнасць'
   links:
@@ -450,6 +487,7 @@ cards:
   outlet: Флагшток
   title: «Беларусь выбирает самый дешевый тип». Какую опасность будет нести ядерный могильник, который может появиться на Гомельщине, объяснил эксперт
   url: https://flagshtok.info/ru/naviny/belarus-vybiraet-samyj-deshevyj-tip-kakuju-opasnost-budet-nesti-jadernyj-mogilnik-kotoryj-mozhet-pojavitsja-na-gomelscine-objasnil-ekspert.html
+  lang: ru
   audio: false
   search: «беларусь выбирает самый дешевый тип». какую опасность будет нести ядерный могильник, который может появиться на гомельщине, объяснил эксперт флагшток
   links:
@@ -464,6 +502,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Штам хантавіруса Andes на Падляшшы малаверагодны”
   url: https://racyja.com/by/sumezza/stam-chantavirusa-andes-na-padljassy-malaverahodny/
+  lang: be
   audio: true
   search: “штам хантавіруса andes на падляшшы малаверагодны” беларускае радыё рацыя
   links:
@@ -478,6 +517,7 @@ cards:
   outlet: Флагшток
   title: «Вдыхали радиоактивный аэрозоль». На госТВ заявили, что радиационный фон в норме, говоря о пожаре в Чернобыльской зоне, но умолчали о главном
   url: https://flagshtok.info/ru/naviny/radiacionnyj-fon-v-norme-zajavili-na-gostv-kommentiruja-pozhar-v-chernobylskoj-zone-chto-ne-tak-objasnil-ekspert.html
+  lang: ru
   audio: false
   search: «вдыхали радиоактивный аэрозоль». на гоств заявили, что радиационный фон в норме, говоря о пожаре в чернобыльской зоне, но умолчали о главном флагшток
   links:
@@ -492,6 +532,7 @@ cards:
   outlet: ЕвроРадио
   title: 'Раскрытыя даныя пра НЛА: што мы даведаліся і якое гэта мае значэнне. Меркаванне'
   url: https://euroradio.fm/raskrytyya-danyya-pra-nla-shto-my-davedalisya-i-yakoe-geta-mae-znachenne-merkavanne
+  lang: be
   audio: false
   search: 'раскрытыя даныя пра нла: што мы даведаліся і якое гэта мае значэнне. меркаванне еврорадио'
   links:
@@ -509,6 +550,7 @@ cards:
   outlet: Argument UA
   title: 'Ядерний могильник Лукашенка: як Білорусь готує небезпечний об’єкт біля кордонів України'
   url: https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob'yekt-bilya-kordoniv-ukrayini_n80157
+  lang: uk
   audio: false
   search: 'ядерний могильник лукашенка: як білорусь готує небезпечний об’єкт біля кордонів україни argument ua'
   links:
@@ -520,6 +562,7 @@ cards:
   outlet: Argument UA
   title: Ядерний могильник під наглядом КДБ або Чому лояльність у Білорусі стала небезпечнішою за радіацію
   url: https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r
+  lang: uk
   audio: false
   search: ядерний могильник під наглядом кдб або чому лояльність у білорусі стала небезпечнішою за радіацію argument ua
   links:
@@ -531,6 +574,7 @@ cards:
   outlet: Медиазона Беларусь
   title: 'Ядерный «могильник» и тихие обсуждения: куда денут отходы БелАЭС'
   url: https://mediazonaby.com/article/2026/04/26/station
+  lang: ru
   audio: false
   search: 'ядерный «могильник» и тихие обсуждения: куда денут отходы белаэс медиазона беларусь'
   links:
@@ -542,6 +586,7 @@ cards:
   outlet: Флагшток
   title: Торговля одеждой, агросервис, КГБ. Есть ли профильные специалисты в организации, ответственной за ядерный могильник в Беларуси?
   url: https://flagshtok.info/ru/flagshtok/torgovlja-odezhdoj-agroservis-kgb-est-li-profilnye-specialisty-v-organizacii-otvetstvennoj-za-jadernyj-mogilnik-v-belarusi.html
+  lang: ru
   audio: false
   search: торговля одеждой, агросервис, кгб. есть ли профильные специалисты в организации, ответственной за ядерный могильник в беларуси? флагшток
   links:
@@ -553,6 +598,7 @@ cards:
   outlet: Радыё Свабода
   title: 'Чарнобыль ня скончыўся: якія радыянукліды засталіся ў Беларусі праз 40 гадоў'
   url: https://www.svaboda.org/a/33741521.html
+  lang: be
   audio: false
   search: 'чарнобыль ня скончыўся: якія радыянукліды засталіся ў беларусі праз 40 гадоў радыё свабода'
   links:
@@ -564,6 +610,7 @@ cards:
   outlet: ВОТ-ТАК ТВ
   title: 'Катастрофа на Чернобыльской АЭС: как это было и что угрожает человечеству спустя 40 лет'
   url: https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya
+  lang: ru
   audio: false
   search: 'катастрофа на чернобыльской аэс: как это было и что угрожает человечеству спустя 40 лет вот-так тв'
   links:
@@ -575,6 +622,7 @@ cards:
   outlet: ЕвроРадио
   title: Учёный, чиновники и обычные люди о запрете искусственных цветов в Беларуси
   url: https://euroradio.fm/ru/uchyonyy-chinovniki-i-obychnye-lyudi-o-zaprete-iskusstvennykh-cvetov-v-belarusi
+  lang: ru
   audio: false
   search: учёный, чиновники и обычные люди о запрете искусственных цветов в беларуси еврорадио
   links:
@@ -589,6 +637,7 @@ cards:
   outlet: Deutsche Welle
   title: '"За границами": что обсуждали белорусы на TEDx в Варшаве'
   url: https://www.dw.com/ru/za-granicami-cto-obsuzdali-belorusy-na-tedx-v-varsave/a-76852059
+  lang: ru
   audio: false
   search: '"за границами": что обсуждали белорусы на tedx в варшаве deutsche welle'
   links:
@@ -603,6 +652,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Сітуацыя з наступствамі аварыі на ЧАЭС патрабуе дакладнай інфармацыі
   url: https://racyja.com/by/hramadstva/situacyja-z-nastupstvami-avaryi-na-caes-patrabue-dakladnaj-infarmacyi/
+  lang: be
   audio: false
   search: сітуацыя з наступствамі аварыі на чаэс патрабуе дакладнай інфармацыі беларускае радыё рацыя
   links:
@@ -614,6 +664,7 @@ cards:
   outlet: Штодзень
   title: Улады хочуць адкрыць назіральную вышку з выглядам на саркафаг ЧАЭС
   url: https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes
+  lang: be
   audio: false
   search: улады хочуць адкрыць назіральную вышку з выглядам на саркафаг чаэс штодзень
   links:
@@ -625,6 +676,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: У Варшаве адбылася канферэнцыя TEDxUlicaMińska
   url: https://racyja.com/by/kultura/u-varsave-adbylasja-kanferencyja-tedxulicaminska
+  lang: ru
   audio: false
   search: у варшаве адбылася канферэнцыя tedxulicamińska беларускае радыё рацыя
   links:
@@ -636,6 +688,7 @@ cards:
   outlet: Белсат
   title: «Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?
   url: https://belsat.eu/92786159/wulica-minska-tedx
+  lang: be
   audio: false
   search: «вы радыеактыўныя – і гэта цудоўная навіна». пра што казалі на tedx ulica mińska? белсат
   links:
@@ -650,6 +703,7 @@ cards:
   outlet: Флагшток
   title: «Мы открыли пожарный гидрант и теперь не знаем, куда отвести воду». Известный ученый рассказал о проблемах строительства ядерного могильника в Беларуси
   url: https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html
+  lang: ru
   audio: false
   search: «мы открыли пожарный гидрант и теперь не знаем, куда отвести воду». известный ученый рассказал о проблемах строительства ядерного могильника в беларуси флагшток
   links:
@@ -661,6 +715,7 @@ cards:
   outlet: Зеленый портал
   title: Чернобыль не закончился в 1986-м. Как радиация до сих пор влияет на здоровье беларусов
   url: https://greenbelarus.info/articles/09-04-2026/chernobyl-ne-zakonchilsya-v-1986-m-kak-radiaciya-do-sikh-por-vliyaet-na-zdorove
+  lang: ru
   audio: false
   search: чернобыль не закончился в 1986-м. как радиация до сих пор влияет на здоровье беларусов зеленый портал
   links:
@@ -672,6 +727,7 @@ cards:
   outlet: Радыё Свабода
   title: «Тысячы людзей згубілі доступ». Навуковец Бесараб — пра акцыю кібэрпартызанаў супраць Нацыянальнай бібліятэкі
   url: https://www.svaboda.org/a/33724158.html
+  lang: be
   audio: false
   search: «тысячы людзей згубілі доступ». навуковец бесараб — пра акцыю кібэрпартызанаў супраць нацыянальнай бібліятэкі радыё свабода
   links:
@@ -683,6 +739,7 @@ cards:
   outlet: Радыё Свабода
   title: 'Палесьсе, Мсьціслаў ці Астравец: улады прапанавалі тры пляцоўкі пад адкіды ад БелАЭС. Чым гэта небясьпечна і якая зь іх лепшая'
   url: https://www.svaboda.org/a/33723980.html
+  lang: be
   audio: false
   search: 'палесьсе, мсьціслаў ці астравец: улады прапанавалі тры пляцоўкі пад адкіды ад белаэс. чым гэта небясьпечна і якая зь іх лепшая радыё свабода'
   links:
@@ -694,6 +751,7 @@ cards:
   outlet: Белсат
   title: «Киберпартизаны» ответили на критику взлома сайта Национальной библиотеки
   url: https://ru.belsat.eu/92424707/kiberpartizany-biblioteka
+  lang: ru
   audio: false
   search: «киберпартизаны» ответили на критику взлома сайта национальной библиотеки белсат
   links:
@@ -705,6 +763,7 @@ cards:
   outlet: Deutsche Welle
   title: Где в Беларуси построят ядерный могильник?
   url: https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727
+  lang: ru
   audio: false
   search: где в беларуси построят ядерный могильник? deutsche welle
   links:
@@ -719,6 +778,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Отравление всех без разбора, и детей, и взрослых». Химик прокомментировал идею Лукашенко удобрять поля солью
   url: https://news.zerkalo.io/economics/122464.html
+  lang: ru
   audio: false
   search: «отравление всех без разбора, и детей, и взрослых». химик прокомментировал идею лукашенко удобрять поля солью zerkalo.io (ex tut.by)
   links:
@@ -730,6 +790,7 @@ cards:
   outlet: 2digital.news
   title: '“People Have Been Cyborgs for a Long Time — We’re Just Embarrassed to Admit It”: Enhanced Games Could Trigger a Revolution'
   url: https://2digital.news/people-have-been-cyborgs-for-a-long-time-were-just-embarrassed-to-admit-it-enhanced-games-could-trigger-a-revolution/
+  lang: en
   audio: false
   search: '“people have been cyborgs for a long time — we’re just embarrassed to admit it”: enhanced games could trigger a revolution 2digital.news'
   links:
@@ -741,6 +802,7 @@ cards:
   outlet: Белсат
   title: «Зачыстка поля» і легалізацыя кантролю за супольнасцю. Навошта ўладам новае палажэнне «Аб радыёчастотным спектры»?
   url: https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry
+  lang: be
   audio: false
   search: «зачыстка поля» і легалізацыя кантролю за супольнасцю. навошта ўладам новае палажэнне «аб радыёчастотным спектры»? белсат
   links:
@@ -755,6 +817,7 @@ cards:
   outlet: ЕвроРадио
   title: “Сонца як каструля з аўсянкай”. Урач і навуковец пра “небяспеку” магнітных бур
   url: https://euroradio.fm/sonca-yak-kastrulya-z-ausyankay-urach-i-navukovec-pra-nebyaspeku-magnitnykh-bur
+  lang: be
   audio: false
   search: “сонца як каструля з аўсянкай”. урач і навуковец пра “небяспеку” магнітных бур еврорадио
   links:
@@ -775,6 +838,7 @@ cards:
   outlet: Радыё Свабода
   title: «Атрымліваецца толькі саламяны макет». Як у Беларусі больш за 40 гадоў ствараюць свой электрамабіль
   url: https://www.svaboda.org/a/33679641.html
+  lang: be
   audio: false
   search: «атрымліваецца толькі саламяны макет». як у беларусі больш за 40 гадоў ствараюць свой электрамабіль радыё свабода
   links:
@@ -786,6 +850,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Беларуская навука становіцца «сэрвісным цэнтрам» Расеі і Кітая
   url: https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja
+  lang: be
   audio: true
   search: беларуская навука становіцца «сэрвісным цэнтрам» расеі і кітая беларускае радыё рацыя
   links:
@@ -800,6 +865,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: “Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”
   url: https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja
+  lang: be
   audio: true
   search: “суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення” беларускае радыё рацыя
   links:
@@ -814,6 +880,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Спасибо всевышнему, что уцелел». Известные беларусы рассказали, какими они были в школе, и поделились своими фото тех лет — смотрите
   url: https://news.zerkalo.io/life/119726.html
+  lang: ru
   audio: false
   search: «спасибо всевышнему, что уцелел». известные беларусы рассказали, какими они были в школе, и поделились своими фото тех лет — смотрите zerkalo.io (ex tut.by)
   links:
@@ -825,6 +892,7 @@ cards:
   outlet: Белсат
   title: «Варварскі эксперымент». Чаму стаўся магчымы скандал з вулічным асвятленнем?
   url: https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem
+  lang: be
   audio: false
   search: «варварскі эксперымент». чаму стаўся магчымы скандал з вулічным асвятленнем? белсат
   links:
@@ -836,6 +904,7 @@ cards:
   outlet: Радыё Свабода
   title: «Электрычнасьць дзяваць няма куды, яе прорва!». Чаму беларускія ўлады вырашылі адключыць ліхтары
   url: https://www.svaboda.org/a/33670436.html
+  lang: be
   audio: false
   search: «электрычнасьць дзяваць няма куды, яе прорва!». чаму беларускія ўлады вырашылі адключыць ліхтары радыё свабода
   links:
@@ -847,6 +916,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Платите здоровьем за „светлый вечер“, но света вам не дают». Ученый о возможных последствиях идеи Лукашенко с «блэкаутом» для беларусов
   url: https://news.zerkalo.io/life/119640.html
+  lang: ru
   audio: false
   search: «платите здоровьем за „светлый вечер“, но света вам не дают». ученый о возможных последствиях идеи лукашенко с «блэкаутом» для беларусов zerkalo.io (ex tut.by)
   links:
@@ -858,6 +928,7 @@ cards:
   outlet: Зеленый портал
   title: 'Активированный уголь из погребённой древесины: почему это не прорыв, а сомнительная идея'
   url: https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv
+  lang: ru
   audio: false
   search: 'активированный уголь из погребённой древесины: почему это не прорыв, а сомнительная идея зеленый портал'
   links:
@@ -869,6 +940,7 @@ cards:
   outlet: Радыё Свабода
   title: Мазырскі НПЗ атачаюць комплексамі супрацьпаветранай абароны. Спадарожнікавыя здымкі
   url: https://www.svaboda.org/a/33668138.html
+  lang: be
   audio: false
   search: мазырскі нпз атачаюць комплексамі супрацьпаветранай абароны. спадарожнікавыя здымкі радыё свабода
   links:
@@ -880,6 +952,7 @@ cards:
   outlet: Белсат
   title: '«Амаль уся табліца Мендзялеева»: СТВ расказала пра гаючую ваду з уранам, навуковец з гэтым не пагадзіўся'
   url: https://belsat.eu/91330204/yuckaskaya-krynica
+  lang: be
   audio: false
   search: '«амаль уся табліца мендзялеева»: ств расказала пра гаючую ваду з уранам, навуковец з гэтым не пагадзіўся белсат'
   links:
@@ -894,6 +967,7 @@ cards:
   outlet: Argument UA
   title: 'Лоботомія нації: чому інтелект став головним ворогом білоруського режиму'
   url: https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu
+  lang: uk
   audio: false
   search: 'лоботомія нації: чому інтелект став головним ворогом білоруського режиму argument ua'
   links:
@@ -908,6 +982,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Это они называют артезианской». Минчанка возмутилась качеством воды и показала фильтр — спросили химика, есть ли основания переживать
   url: https://news.zerkalo.io/life/118969.html
+  lang: ru
   audio: false
   search: «это они называют артезианской». минчанка возмутилась качеством воды и показала фильтр — спросили химика, есть ли основания переживать zerkalo.io (ex tut.by)
   links:
@@ -919,6 +994,7 @@ cards:
   outlet: ЭХО Новости
   title: В Беларуси радиолюбителей обвиняют в том, что они «выкачивали гостайну из эфира»
   url: https://echofm.online/news/v-belarusi-radiolyubitelej-obvinyayut-v-tom-chto-oni-vykachivali-gostajnu-iz-efira
+  lang: ru
   audio: false
   search: в беларуси радиолюбителей обвиняют в том, что они «выкачивали гостайну из эфира» эхо новости
   links:
@@ -930,6 +1006,7 @@ cards:
   outlet: Настоящее Время
   title: '"Дело радиолюбителей". В Беларуси обвинили в госизмене и шпионаже тех, кто владел радиостанциями и мог слушать эфиры силовиков и военных'
   url: https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html
+  lang: ru
   audio: false
   search: '"дело радиолюбителей". в беларуси обвинили в госизмене и шпионаже тех, кто владел радиостанциями и мог слушать эфиры силовиков и военных настоящее время'
   links:
@@ -941,6 +1018,7 @@ cards:
   outlet: Радыё Свабода
   title: «У сілавікоў кепская сувязь, а вінаватыя радыёаматары». Чаму людзей з аматарскімі радыёстанцыямі абвінавацілі ў здрадзе дзяржаве
   url: https://www.svaboda.org/a/33653641.html
+  lang: be
   audio: false
   search: «у сілавікоў кепская сувязь, а вінаватыя радыёаматары». чаму людзей з аматарскімі радыёстанцыямі абвінавацілі ў здрадзе дзяржаве радыё свабода
   links:
@@ -952,6 +1030,7 @@ cards:
   outlet: Белсат
   title: Ад беспілотнікаў да лекаў ад раку. Над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку
   url: https://belsat.eu/91059606/navuka-2026-2020
+  lang: be
   audio: false
   search: ад беспілотнікаў да лекаў ад раку. над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку белсат
   links:
@@ -972,6 +1051,7 @@ cards:
   outlet: Белсат
   title: Што напраўду маглі праслухаць «шпіёны-радыёаматары»? Вось што можа злавіць любы ахвочы
   url: https://belsat.eu/91084724/radyjoamatary
+  lang: be
   audio: false
   search: што напраўду маглі праслухаць «шпіёны-радыёаматары»? вось што можа злавіць любы ахвочы белсат
   links:
@@ -992,6 +1072,7 @@ cards:
   outlet: 2digital.news
   title: “When the AI bubble bursts, we could be facing the first Great Depression of the 21st century” One more grim future forecast
   url: https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast
+  lang: en
   audio: false
   search: “when the ai bubble bursts, we could be facing the first great depression of the 21st century” one more grim future forecast 2digital.news
   links:
@@ -1003,6 +1084,7 @@ cards:
   outlet: Белсат
   title: «Багатым – біялогія паводле падпіскі, бедным – чат-бот-нутрыцыёлаг». Прагнозы на 2026 год ад беларускага навукоўца
   url: https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca
+  lang: be
   audio: false
   search: «багатым – біялогія паводле падпіскі, бедным – чат-бот-нутрыцыёлаг». прагнозы на 2026 год ад беларускага навукоўца белсат
   links:
@@ -1023,6 +1105,7 @@ cards:
   outlet: Беларусский расследовательский центр
   title: Ніць падману. Як «Гродна Азот» забяспечвае расейскі ВПК сыравінай
   url: https://investigatebel.org/by/investigations/grodno-azot-polyamide-russia-sanctions-eu
+  lang: be
   audio: false
   search: ніць падману. як «гродна азот» забяспечвае расейскі впк сыравінай беларусский расследовательский центр
   links:
@@ -1043,6 +1126,7 @@ cards:
   outlet: 2digital.news
   title: A technooptimist on what will finally burst the AI bubble
   url: https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/
+  lang: en
   audio: false
   search: a technooptimist on what will finally burst the ai bubble 2digital.news
   links:
@@ -1060,6 +1144,7 @@ cards:
   outlet: Беларусский расследовательский центр
   title: Грошы з пырскаў. Як два «гаманцы» Лукашэнкі зладзілі паборы на мяжы
   url: https://investigatebel.org/by/investigations/lukashenko-wallets-border-disinfection
+  lang: be
   audio: false
   search: грошы з пырскаў. як два «гаманцы» лукашэнкі зладзілі паборы на мяжы беларусский расследовательский центр
   links:
@@ -1083,6 +1168,7 @@ cards:
   outlet: Беларусский расследовательский центр
   title: Соль в мешке. Продукцию «Беларуськалия» переименовали и продают ЕС в обход санкций
   url: https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii
+  lang: ru
   audio: false
   search: соль в мешке. продукцию «беларуськалия» переименовали и продают ес в обход санкций беларусский расследовательский центр
   links:
@@ -1100,6 +1186,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Зіма будзе цяплейшая, але больш кантрасная
   url: https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/
+  lang: be
   audio: true
   search: зіма будзе цяплейшая, але больш кантрасная беларускае радыё рацыя
   links:
@@ -1114,6 +1201,7 @@ cards:
   outlet: Штодзень
   title: Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына
   url: https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/
+  lang: be
   audio: false
   search: дзе пабудуюць другую аэс у беларусі. чаму пад пагрозай гомельшчына штодзень
   links:
@@ -1125,6 +1213,7 @@ cards:
   outlet: Белсат
   title: 'Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы'
   url: https://belsat.eu/90155359/novyya-pagrozy-chalavectvu
+  lang: be
   audio: false
   search: 'новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы белсат'
   links:
@@ -1136,6 +1225,7 @@ cards:
   outlet: Зеленый портал
   title: БелАЭС — уникальна. Такого чудовищного количества проблем, как на ней, не было ни у кого
   url: https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni
+  lang: ru
   audio: false
   search: белаэс — уникальна. такого чудовищного количества проблем, как на ней, не было ни у кого зеленый портал
   links:
@@ -1147,6 +1237,7 @@ cards:
   outlet: Радыё Свабода
   title: За час працы АЭС у Астраўцы электрычнасьць для людзей падаражэла на 36%. Навошта ўладам Беларусі другая атамная станцыя
   url: https://www.svaboda.org/a/33597163.html
+  lang: be
   audio: false
   search: за час працы аэс у астраўцы электрычнасьць для людзей падаражэла на 36%. навошта ўладам беларусі другая атамная станцыя радыё свабода
   links:
@@ -1161,6 +1252,7 @@ cards:
   outlet: Deutsche Welle
   title: Лукашенко хочет продавать Европе воздух. Это возможно?
   url: https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576
+  lang: ru
   audio: false
   search: лукашенко хочет продавать европе воздух. это возможно? deutsche welle
   links:
@@ -1175,6 +1267,7 @@ cards:
   outlet: Радыё Свабода
   title: Беларускіх кантрабандных цыгарэт стала менш удвая, але цяпер яны спыняюць працу аэрапортаў. Як зьмянілася кантрабанда ў Літву
   url: https://www.svaboda.org/a/33586119.html
+  lang: be
   audio: false
   search: беларускіх кантрабандных цыгарэт стала менш удвая, але цяпер яны спыняюць працу аэрапортаў. як зьмянілася кантрабанда ў літву радыё свабода
   links:
@@ -1186,6 +1279,7 @@ cards:
   outlet: Белсат
   title: Як на Літву запускаюць метэазонды з цыгарэтамі – і хто гэта робіць. Расследаванні «Бюро» і LRT
   url: https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu
+  lang: be
   audio: false
   search: як на літву запускаюць метэазонды з цыгарэтамі – і хто гэта робіць. расследаванні «бюро» і lrt белсат
   links:
@@ -1197,6 +1291,7 @@ cards:
   outlet: Белсат
   title: 'Замест рыбы – сурагат: навуковец раскрытыкаваў новую распрацоўку для школьных сталовак'
   url: https://belsat.eu/89945986/zamest-ryby-suragat
+  lang: be
   audio: false
   search: 'замест рыбы – сурагат: навуковец раскрытыкаваў новую распрацоўку для школьных сталовак белсат'
   links:
@@ -1208,6 +1303,7 @@ cards:
   outlet: Наша Ніва
   title: Што сабой уяўляюць тыя метэазонды, якія прылятаюць з Беларусі ў Літву? Расказвае Бесараб
   url: https://nashaniva.com/380089
+  lang: be
   audio: false
   search: што сабой уяўляюць тыя метэазонды, якія прылятаюць з беларусі ў літву? расказвае бесараб наша ніва
   links:
@@ -1219,6 +1315,7 @@ cards:
   outlet: Белсат
   title: Метэазонды на Літву – гэта наўрад ці кантрабандысты. Навуковец падлічыў, наколькі гэта выгадна
   url: https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty
+  lang: be
   audio: false
   search: метэазонды на літву – гэта наўрад ці кантрабандысты. навуковец падлічыў, наколькі гэта выгадна белсат
   links:
@@ -1242,6 +1339,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Смяротна небяспечная цвіль пагражае чалавецтву
   url: https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/
+  lang: be
   audio: false
   search: смяротна небяспечная цвіль пагражае чалавецтву беларускае радыё рацыя
   links:
@@ -1253,6 +1351,7 @@ cards:
   outlet: Радыё Свабода
   title: «Шкодныя рэчывы на тысячы, а то і мільёны гадоў». Якія радыяактыўныя адкіды хочуць захоўваць у Беларусі і ў чым шкода гэтага
   url: https://www.svaboda.org/a/33546939.html
+  lang: be
   audio: false
   search: «шкодныя рэчывы на тысячы, а то і мільёны гадоў». якія радыяактыўныя адкіды хочуць захоўваць у беларусі і ў чым шкода гэтага радыё свабода
   links:
@@ -1264,6 +1363,7 @@ cards:
   outlet: Белсат
   title: Жыць да 140 гадоў? НАН прапанавала беларусам дыету, пашпарт і надзею. Вучоны пракаментаваў
   url: https://belsat.eu/89234083/zhyc-da-140-gado
+  lang: be
   audio: false
   search: жыць да 140 гадоў? нан прапанавала беларусам дыету, пашпарт і надзею. вучоны пракаментаваў белсат
   links:
@@ -1284,6 +1384,7 @@ cards:
   outlet: Белсат
   title: У Беларусі задумалі ўвесці нормы на смурод у гарадах і ўзровень нябачнай цвілі ў жытле. Сур’ёзна?
   url: https://belsat.eu/88806100/normy-na-smurod-i-cvil
+  lang: be
   audio: false
   search: у беларусі задумалі ўвесці нормы на смурод у гарадах і ўзровень нябачнай цвілі ў жытле. сур’ёзна? белсат
   links:
@@ -1298,6 +1399,7 @@ cards:
   outlet: Белсат
   title: 'Крызіс кадраў і ідэалагічны дыктат: што стаіць за прыгожымі словамі ідэолагаў аб навуцы'
   url: https://belsat.eu/88443393/idealogija-metadychka-navuka
+  lang: be
   audio: false
   search: 'крызіс кадраў і ідэалагічны дыктат: што стаіць за прыгожымі словамі ідэолагаў аб навуцы белсат'
   links:
@@ -1309,6 +1411,7 @@ cards:
   outlet: Радыё Свабода
   title: «Вялікі воз» беларускіх талентаў. Навошта навукоўцы зь Беларусі другі раз зьбіраліся ў Эстоніі
   url: https://www.svaboda.org/a/33503777.html
+  lang: be
   audio: false
   search: «вялікі воз» беларускіх талентаў. навошта навукоўцы зь беларусі другі раз зьбіраліся ў эстоніі радыё свабода
   links:
@@ -1320,6 +1423,7 @@ cards:
   outlet: БАЖ
   title: 'Праверце фота: да герояў кнігі Marsz Białorusi прыходзяць сілавікі'
   url: https://baj.media/be/praverce-fota-da-geroja-knigi-marsz-bialorusi-pryhodzjac-silaviki/
+  lang: be
   audio: false
   search: 'праверце фота: да герояў кнігі marsz białorusi прыходзяць сілавікі баж'
   links:
@@ -1331,6 +1435,7 @@ cards:
   outlet: Радыё Свабода
   title: У адкрытым доступе зьявіліся здымкі, па якіх сілавікі вызначаюць удзельнікаў пратэстаў
   url: https://www.svaboda.org/a/33503981.html
+  lang: be
   audio: false
   search: у адкрытым доступе зьявіліся здымкі, па якіх сілавікі вызначаюць удзельнікаў пратэстаў радыё свабода
   links:
@@ -1342,6 +1447,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Ученый Бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов
   url: https://news.zerkalo.io/life/106316.html
+  lang: ru
   audio: false
   search: ученый бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов zerkalo.io (ex tut.by)
   links:
@@ -1356,6 +1462,7 @@ cards:
   outlet: Белсат
   title: Праверце, ці не трапілі вы на фота ў польскай кнізе «Marsz Białorusi». Да герояў прыходзяць цяпер сілавікі
   url: https://belsat.eu/88345120/pravertse-tsi-ne-trapili-vy-na-fota-u-polskaj-knize-marsz-bialorusi-da-geroyau-pryhodzyats-tsyaper-silaviki
+  lang: be
   audio: false
   search: праверце, ці не трапілі вы на фота ў польскай кнізе «marsz białorusi». да герояў прыходзяць цяпер сілавікі белсат
   links:
@@ -1367,6 +1474,7 @@ cards:
   outlet: ЕвроРадио
   title: Захаваць патэнцыял. У Эстоніі прайшоў другі з’езд беларускіх навукоўцаў Еўропы
   url: https://euroradio.fm/zakhavac-patencyyal-u-estonii-prayshou-drugi-zezd-belaruskikh-navukoucau-europy
+  lang: be
   audio: false
   search: захаваць патэнцыял. у эстоніі прайшоў другі з’езд беларускіх навукоўцаў еўропы еврорадио
   links:
@@ -1381,6 +1489,7 @@ cards:
   outlet: charter97
   title: «Эти заявления должны комментировать психотерапевты»
   url: https://charter97.org/ru/news/2025/8/6/651055/
+  lang: ru
   audio: false
   search: «эти заявления должны комментировать психотерапевты» charter97
   links:
@@ -1392,6 +1501,7 @@ cards:
   outlet: Белсат
   title: '«Науку в Беларуси реформируют не нобелевские лауреаты, а люди в погонах»: ученый о нападках Лукашенко на НАН'
   url: https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan
+  lang: ru
   audio: false
   search: '«науку в беларуси реформируют не нобелевские лауреаты, а люди в погонах»: ученый о нападках лукашенко на нан белсат'
   links:
@@ -1409,6 +1519,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Касіць ці не касіць? Навуковец прапануе «зялёную сярэдзіну»
   url: https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/
+  lang: be
   audio: false
   search: касіць ці не касіць? навуковец прапануе «зялёную сярэдзіну» беларускае радыё рацыя
   links:
@@ -1423,6 +1534,7 @@ cards:
   outlet: Штодзень
   title: Гомельшчына, амерыканскія прэрыі і рэпеленты
   url: https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/
+  lang: be
   audio: false
   search: гомельшчына, амерыканскія прэрыі і рэпеленты штодзень
   links:
@@ -1434,6 +1546,7 @@ cards:
   outlet: Зеленый портал
   title: '"Эй, агроном, приехали!" Как Беларуси спасти сельское хозяйство от климатического кризиса'
   url: https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo
+  lang: ru
   audio: false
   search: '"эй, агроном, приехали!" как беларуси спасти сельское хозяйство от климатического кризиса зеленый портал'
   links:
@@ -1445,6 +1558,7 @@ cards:
   outlet: Новы Час Online
   title: 'Феномен Бесараба: калі навука становіцца мовай супраціву'
   url: https://novychas.online/asoba/fenomen-besaraba-kali-navuka-stanovicca-movaj-sup
+  lang: be
   audio: false
   search: 'феномен бесараба: калі навука становіцца мовай супраціву новы час online'
   links:
@@ -1456,6 +1570,7 @@ cards:
   outlet: ЕвроРадио
   title: У Беларусі могуць знікнуць бульба і лён-даўгунец
   url: https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec
+  lang: be
   audio: false
   search: у беларусі могуць знікнуць бульба і лён-даўгунец еврорадио
   links:
@@ -1473,6 +1588,7 @@ cards:
   outlet: ЕвроРадио
   title: Вейпы небяспечнейшыя за звычайныя цыгарэты? Адказваюць нарколаг і навуковец
   url: https://euroradio.fm/veypy-nebyaspechneyshyya-za-zvychaynyya-cygarety-adkazvayuc-doktar-narkolag-i-navukov
+  lang: be
   audio: false
   search: вейпы небяспечнейшыя за звычайныя цыгарэты? адказваюць нарколаг і навуковец еврорадио
   links:
@@ -1487,6 +1603,7 @@ cards:
   outlet: ЕвроРадио
   title: Ці варта шукаць у Беларусі рэдказямельныя металы? Адказвае навуковец
   url: https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec
+  lang: be
   audio: false
   search: ці варта шукаць у беларусі рэдказямельныя металы? адказвае навуковец еврорадио
   links:
@@ -1501,6 +1618,7 @@ cards:
   outlet: ЕвроРадио
   title: “Паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта
   url: https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta
+  lang: be
   audio: false
   search: “паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта еврорадио
   links:
@@ -1515,6 +1633,7 @@ cards:
   outlet: ЕвроРадио
   title: Опять белые разводы на ботинках. Что делать? Разбираем с учёным-химиком
   url: https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom
+  lang: ru
   audio: false
   search: опять белые разводы на ботинках. что делать? разбираем с учёным-химиком еврорадио
   links:
@@ -1529,6 +1648,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Устойлівы прагноз для Беларусі: буры, шквалы, залевы і тарнада'
   url: https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/
+  lang: be
   audio: false
   search: 'сяргей бесараб: устойлівы прагноз для беларусі: буры, шквалы, залевы і тарнада беларускае радыё рацыя'
   links:
@@ -1540,6 +1660,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Чаму Літва паведамляе пра сітуацыю на БелАЭС хутчэй за Беларусь?
   url: https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/
+  lang: be
   audio: false
   search: чаму літва паведамляе пра сітуацыю на белаэс хутчэй за беларусь? беларускае радыё рацыя
   links:
@@ -1551,6 +1672,7 @@ cards:
   outlet: Белсат
   title: Беларусь сабралася рэгуляваць штучны інтэлект, збірае «экспертную пляцоўку»
   url: https://belsat.eu/87882490/ai
+  lang: be
   audio: false
   search: беларусь сабралася рэгуляваць штучны інтэлект, збірае «экспертную пляцоўку» белсат
   links:
@@ -1565,6 +1687,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «А мне воняет не гарью, а кошачьим туалетом». Беларусы возмущаются, что пакеты в магазинах неприятно пахнут. Объясняем почему
   url: https://news.zerkalo.io/life/103991.html
+  lang: ru
   audio: false
   search: «а мне воняет не гарью, а кошачьим туалетом». беларусы возмущаются, что пакеты в магазинах неприятно пахнут. объясняем почему zerkalo.io (ex tut.by)
   links:
@@ -1585,6 +1708,7 @@ cards:
   outlet: Белсат
   title: «І смех, і грэх». Урад абнавіў спіс «вызначальных» для эканомікі Беларусі інавацыяў
   url: https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau
+  lang: be
   audio: false
   search: «і смех, і грэх». урад абнавіў спіс «вызначальных» для эканомікі беларусі інавацыяў белсат
   links:
@@ -1599,6 +1723,7 @@ cards:
   outlet: Белсат
   title: 'Навуковец Сяргей Бесараб: тарнада ў Беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць'
   url: https://belsat.eu/87829612/tarnada-belarus
+  lang: be
   audio: false
   search: 'навуковец сяргей бесараб: тарнада ў беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць белсат'
   links:
@@ -1616,6 +1741,7 @@ cards:
   outlet: charter97
   title: 'Сергей Бесараб: В Беларуси не просто сменится режим, но и уровень жизни вырастет до европейского'
   url: https://charter97.link/ru/news/2023/7/7/554914/
+  lang: ru
   audio: false
   search: 'сергей бесараб: в беларуси не просто сменится режим, но и уровень жизни вырастет до европейского charter97'
   links:
@@ -1627,6 +1753,7 @@ cards:
   outlet: charter97
   title: Белорусские ученые требуют немедленной остановки всех военных действий РФ, направленных против Украины
   url: https://charter97.org/ru/news/2022/3/2/457221/
+  lang: ru
   audio: false
   search: белорусские ученые требуют немедленной остановки всех военных действий рф, направленных против украины charter97
   links:
@@ -1638,6 +1765,7 @@ cards:
   outlet: Our House
   title: How Lukashenko repressed Belarusian scientists who advocated new elections
   url: https://news.house/42353
+  lang: en
   audio: false
   search: how lukashenko repressed belarusian scientists who advocated new elections our house
   links:
@@ -1649,6 +1777,7 @@ cards:
   outlet: VoiceOfBelarus
   title: '36-year-old Minsk resident named Aliaksandr, born under Taurus zodiac sign: Portrait of typical Belarusian ‘extremist’'
   url: https://www.voiceofbelarus.org/belarus-news/36-old-minsk-resident-named-aliaksandr-taurus-portrait-of-typical-belarusian-extremist/
+  lang: en
   audio: false
   search: '36-year-old minsk resident named aliaksandr, born under taurus zodiac sign: portrait of typical belarusian ‘extremist’ voiceofbelarus'
   links:
@@ -1660,6 +1789,7 @@ cards:
   outlet: Зеленый портал
   title: «Побач з тэхналогіямі павінна заўсёды ісці этыка»
   url: https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka
+  lang: be
   audio: false
   search: «побач з тэхналогіямі павінна заўсёды ісці этыка» зеленый портал
   links:
@@ -1671,6 +1801,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год'
   url: https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/
+  lang: be
   audio: false
   search: 'сяргей бесараб: трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год беларускае радыё рацыя'
   links:
@@ -1682,6 +1813,7 @@ cards:
   outlet: Зеленый портал
   title: “Зялёная сетка” вызначыла лепшы кантэнт пра экалогію Беларусі
   url: https://greenbelarus.info/green_award
+  lang: be
   audio: false
   search: “зялёная сетка” вызначыла лепшы кантэнт пра экалогію беларусі зеленый портал
   links:
@@ -1693,6 +1825,7 @@ cards:
   outlet: Радыё Свабода
   title: Дыктатура і БелАЭС. Як улады ў Беларусі шкодзяць людзям і прыродзе праз атамную станцыю
   url: https://www.svaboda.org/a/33429574.html
+  lang: be
   audio: false
   search: дыктатура і белаэс. як улады ў беларусі шкодзяць людзям і прыродзе праз атамную станцыю радыё свабода
   links:
@@ -1704,6 +1837,7 @@ cards:
   outlet: Зеленый портал
   title: 'Сергей Бесараб: Радиоактивное бремя ляжет на плечи беларусов на столетия'
   url: https://greenbelarus.info/articles/25-04-2025/sergey-bessarab-radioaktivnoe-bremya-lyazhet-na-plechi-belarusov-na-stoletiya
+  lang: ru
   audio: false
   search: 'сергей бесараб: радиоактивное бремя ляжет на плечи беларусов на столетия зеленый портал'
   links:
@@ -1715,6 +1849,7 @@ cards:
   outlet: Позірк
   title: Назначение унылого Караника может быть метафорой, отражающей состояние Академии наук — ученый
   url: https://pozirk.online/ru/news/139413/
+  lang: ru
   audio: false
   search: назначение унылого караника может быть метафорой, отражающей состояние академии наук — ученый позірк
   links:
@@ -1726,6 +1861,7 @@ cards:
   outlet: Наша Ніва
   title: «Сыходзіць эпоха навуковага стэндапу». Бесараб пра зняцце з пасады былога кіраўніка Акадэміі навук
   url: https://nashaniva.com/368513
+  lang: be
   audio: false
   search: «сыходзіць эпоха навуковага стэндапу». бесараб пра зняцце з пасады былога кіраўніка акадэміі навук наша ніва
   links:
@@ -1737,6 +1873,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Всего один предмет может превратить ваш завтрак в бомбу замедленного действия. Вот что говорит беларусский ученый
   url: https://news.zerkalo.io/cellar/99730.html
+  lang: ru
   audio: false
   search: всего один предмет может превратить ваш завтрак в бомбу замедленного действия. вот что говорит беларусский ученый zerkalo.io (ex tut.by)
   links:
@@ -1748,6 +1885,7 @@ cards:
   outlet: Белсат
   title: Lukashenka aims to recover and develop Chernobyl disaster-contaminated fields and forests. Is it safe and necessary?
   url: https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary
+  lang: en
   audio: false
   search: lukashenka aims to recover and develop chernobyl disaster-contaminated fields and forests. is it safe and necessary? белсат
   links:
@@ -1759,6 +1897,7 @@ cards:
   outlet: Наша Ніва
   title: «Гэтая партыя прайграная». Беларускія даследчыкі — пра тое, у што ператварылася Акадэмія навук
   url: https://nashaniva.com/364587
+  lang: be
   audio: false
   search: «гэтая партыя прайграная». беларускія даследчыкі — пра тое, у што ператварылася акадэмія навук наша ніва
   links:
@@ -1773,6 +1912,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Одна привычка может существенно повлиять на уровень микропластика в организме. В чем дело и как обезопасить себя — спросили ученого
   url: https://news.zerkalo.io/life/97783.html
+  lang: ru
   audio: false
   search: одна привычка может существенно повлиять на уровень микропластика в организме. в чем дело и как обезопасить себя — спросили ученого zerkalo.io (ex tut.by)
   links:
@@ -1784,6 +1924,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Обсудили с врачами и химиком, насколько вредны Cola и Pepsi
   url: https://www.belhalat.news/articles/vred-cola-i-pepsi
+  lang: ru
   audio: false
   search: обсудили с врачами и химиком, насколько вредны cola и pepsi белые халаты (belhalat.news)
   links:
@@ -1795,6 +1936,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: У Беларусі працягваецца абмеркаванне будаўніцтва другой АЭС
   url: https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/
+  lang: be
   audio: false
   search: у беларусі працягваецца абмеркаванне будаўніцтва другой аэс беларускае радыё рацыя
   links:
@@ -1806,6 +1948,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в Instagram и TikTok. Вот его ответ
   url: https://news.zerkalo.io/cellar/96471.html
+  lang: ru
   audio: false
   search: спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в instagram и tiktok. вот его ответ zerkalo.io (ex tut.by)
   links:
@@ -1817,6 +1960,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Тэхналагічны герой, які пранёс праз усё жыццё беларушчыну
   url: https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/
+  lang: be
   audio: false
   search: тэхналагічны герой, які пранёс праз усё жыццё беларушчыну беларускае радыё рацыя
   links:
@@ -1828,6 +1972,7 @@ cards:
   outlet: Белсат
   title: Адкуль у беларусаў у ДНК балканцы і якія рызыкі ў генетычных тэстаў? Тлумачыць навуковец
   url: https://belsat.eu/85952537/dnk-testy-zdarouje
+  lang: be
   audio: false
   search: адкуль у беларусаў у днк балканцы і якія рызыкі ў генетычных тэстаў? тлумачыць навуковец белсат
   links:
@@ -1839,6 +1984,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: І другая БелАЭС карысці Беларусі не прынясе'
   url: https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase
+  lang: be
   audio: false
   search: 'сяргей бесараб: і другая белаэс карысці беларусі не прынясе беларускае радыё рацыя'
   links:
@@ -1850,6 +1996,7 @@ cards:
   outlet: Инициатива "Честные люди"
   title: 'Сергей Бесараб: «Беларуской науке нужна свобода»'
   url: https://honestby.substack.com/p/25e
+  lang: ru
   audio: false
   search: 'сергей бесараб: «беларуской науке нужна свобода» инициатива "честные люди"'
   links:
@@ -1861,6 +2008,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Все про кофеин
   url: https://www.belhalat.news/articles/vse-pro-kofein
+  lang: ru
   audio: false
   search: все про кофеин белые халаты (belhalat.news)
   links:
@@ -1872,6 +2020,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси
   url: https://news.zerkalo.io/economics/93150.html
+  lang: ru
   audio: false
   search: «обратили бы внимание на отходы гомельского химического комбината». что думает ученый о поисках редкоземельных минералов в беларуси zerkalo.io (ex tut.by)
   links:
@@ -1883,6 +2032,7 @@ cards:
   outlet: Наша Ніва
   title: Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне
   url: https://nashaniva.com/362665
+  lang: be
   audio: false
   search: адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва украіне наша ніва
   links:
@@ -1894,6 +2044,7 @@ cards:
   outlet: Новая Газета Европа
   title: Травы, масла и йодовая сеточка. По статистике, почти половина россиян хотя бы иногда прибегает к нетрадиционной медицине. Объясняем, что с ней не так
   url: https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka
+  lang: ru
   audio: false
   search: травы, масла и йодовая сеточка. по статистике, почти половина россиян хотя бы иногда прибегает к нетрадиционной медицине. объясняем, что с ней не так новая газета европа
   links:
@@ -1905,6 +2056,7 @@ cards:
   outlet: Радыё Свабода
   title: '«ПіК Свабоды»: Гардон адказаў за «экстрэміста». Рэдказёмы ў Гомлі. Вярхоўны камісар ААН едзе ў Беларусь?'
   url: https://www.svaboda.org/a/33330553.html
+  lang: be
   audio: false
   search: '«пік свабоды»: гардон адказаў за «экстрэміста». рэдказёмы ў гомлі. вярхоўны камісар аан едзе ў беларусь? радыё свабода'
   links:
@@ -1916,6 +2068,7 @@ cards:
   outlet: Радыё Свабода
   title: «Усё навідавоку — бяры і перапрацоўвай». Навуковец Сяргей Бесараб — пра рэдказямельныя мэталы ў Беларусі і сьвеце
   url: https://www.svaboda.org/a/33330429.html
+  lang: be
   audio: false
   search: «усё навідавоку — бяры і перапрацоўвай». навуковец сяргей бесараб — пра рэдказямельныя мэталы ў беларусі і сьвеце радыё свабода
   links:
@@ -1927,6 +2080,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Лекарства от простуды и гриппа в Европе «штырят». Почему?
   url: https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut
+  lang: ru
   audio: false
   search: лекарства от простуды и гриппа в европе «штырят». почему? белые халаты (belhalat.news)
   links:
@@ -1938,6 +2092,7 @@ cards:
   outlet: Белсат
   title: ВОТ-ТАК-ТВ.Украина заявила об ударе российского дрона по саркофагу Чернобыльской АЭС. Чем это грозит
   url: https://vot-tak.tv/85053412/chaes-udar
+  lang: ru
   audio: false
   search: вот-так-тв.украина заявила об ударе российского дрона по саркофагу чернобыльской аэс. чем это грозит белсат
   links:
@@ -1949,6 +2104,7 @@ cards:
   outlet: Белсат
   title: «Грантасмокі» Лукашэнкі. На якія праекты ўлады раздалі грошы беларусаў
   url: https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau
+  lang: be
   audio: false
   search: «грантасмокі» лукашэнкі. на якія праекты ўлады раздалі грошы беларусаў белсат
   links:
@@ -1963,6 +2119,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Все про оземпик
   url: https://www.belhalat.news/articles/vse-pro-ozempik
+  lang: ru
   audio: false
   search: все про оземпик белые халаты (belhalat.news)
   links:
@@ -1977,6 +2134,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: У Беларусі вучоных лёгка ператвараюць у палітзняволеных
   url: https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/
+  lang: be
   audio: false
   search: у беларусі вучоных лёгка ператвараюць у палітзняволеных беларускае радыё рацыя
   links:
@@ -1991,6 +2149,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки
   url: https://news.zerkalo.io/life/90056.html
+  lang: ru
   audio: false
   search: «царапают „здесь был вася“ на стене лувра». химик сергей бесараб — о том, как жодинский метеорит показал состояние беларусской науки zerkalo.io (ex tut.by)
   links:
@@ -2002,6 +2161,7 @@ cards:
   outlet: Наша Ніва
   title: Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію
   url: https://nashaniva.com/360401
+  lang: be
   audio: false
   search: месяц таму ў мінскай вобласці ўпаў метэарыт. сяргей бесараб падазрае, што яго могуць вывезці ў расію наша ніва
   links:
@@ -2013,6 +2173,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці паўплывае на «псеўдавыбары» прастой БелАЭС?
   url: https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes
+  lang: be
   audio: false
   search: ці паўплывае на «псеўдавыбары» прастой белаэс? беларускае радыё рацыя
   links:
@@ -2027,6 +2188,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: '«Так он показывает человеку: я опасен». Рассказываем, как обычный картофель может убить человека'
   url: https://news.zerkalo.io/life/88719.html
+  lang: ru
   audio: false
   search: '«так он показывает человеку: я опасен». рассказываем, как обычный картофель может убить человека zerkalo.io (ex tut.by)'
   links:
@@ -2038,6 +2200,7 @@ cards:
   outlet: Белые Халаты (belhalat.news)
   title: Академия наук назвала четыре значимых медицинских разработки, а мы посмотрели, в чем суть этих достижений
   url: https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie
+  lang: ru
   audio: false
   search: академия наук назвала четыре значимых медицинских разработки, а мы посмотрели, в чем суть этих достижений белые халаты (belhalat.news)
   links:
@@ -2049,6 +2212,7 @@ cards:
   outlet: Белсат
   title: Забруджаныя чарнобыльскай катастрофай землі вяртаюць у абарот. Гэта небяспечна і наўрад ці патрэбна
   url: https://belsat.eu/84426984/czarnobyl-viartajuc
+  lang: be
   audio: false
   search: забруджаныя чарнобыльскай катастрофай землі вяртаюць у абарот. гэта небяспечна і наўрад ці патрэбна белсат
   links:
@@ -2063,6 +2227,7 @@ cards:
   outlet: Белсат
   title: 'Чаго чакаць ад 2025 года? Спыталі экспертаў. Частка 2: пра эканоміку, міжнародную палітыку і штучны інтэлект'
   url: https://belsat.eu/84355651/pragnozy-2025-2
+  lang: be
   audio: false
   search: 'чаго чакаць ад 2025 года? спыталі экспертаў. частка 2: пра эканоміку, міжнародную палітыку і штучны інтэлект белсат'
   links:
@@ -2074,6 +2239,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Сяргей Бесараб пра спыненне працы БелАЭС
   url: https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes
+  lang: ru
   audio: false
   search: сяргей бесараб пра спыненне працы белаэс беларускае радыё рацыя
   links:
@@ -2085,6 +2251,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Какие «прорывные технологии» помогут Лукашенко? Ученый считает, что можно попробовать «запрещенку» и sextech — вот его мнение
   url: https://news.zerkalo.io/life/85166.html
+  lang: ru
   audio: false
   search: какие «прорывные технологии» помогут лукашенко? ученый считает, что можно попробовать «запрещенку» и sextech — вот его мнение zerkalo.io (ex tut.by)
   links:
@@ -2096,6 +2263,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Сяргей Бесараб пра спыненне супрацы CERN з Расеяй і Беларуссю
   url: https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju
+  lang: be
   audio: false
   search: сяргей бесараб пра спыненне супрацы cern з расеяй і беларуссю беларускае радыё рацыя
   links:
@@ -2107,6 +2275,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Задумывались, почему хурма вяжет? Оказывается, химия все объясняет
   url: https://news.zerkalo.io/life/84754.html
+  lang: ru
   audio: false
   search: задумывались, почему хурма вяжет? оказывается, химия все объясняет zerkalo.io (ex tut.by)
   links:
@@ -2118,6 +2287,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Каждый раз, когда завариваете чай, сверху появляется неприятная маслянистая пленка? Спросили у ученого, откуда она берется и вредна ли
   url: https://news.zerkalo.io/cellar/83756.html
+  lang: ru
   audio: false
   search: каждый раз, когда завариваете чай, сверху появляется неприятная маслянистая пленка? спросили у ученого, откуда она берется и вредна ли zerkalo.io (ex tut.by)
   links:
@@ -2129,6 +2299,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем
   url: https://news.zerkalo.io/life/83643.html
+  lang: ru
   audio: false
   search: нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? объясняем zerkalo.io (ex tut.by)
   links:
@@ -2140,6 +2311,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці ў змозе чалавецтва спыніць змены клімату?
   url: https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu
+  lang: be
   audio: false
   search: ці ў змозе чалавецтва спыніць змены клімату? беларускае радыё рацыя
   links:
@@ -2151,6 +2323,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени
   url: https://news.zerkalo.io/life/83323.html
+  lang: ru
   audio: false
   search: «чудовищный эксперимент мракобесов». ученый высказался об отмене перевода часов, из-за которого беларусь «застряла» в летнем времени zerkalo.io (ex tut.by)
   links:
@@ -2162,6 +2335,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці могуць лясы Падляшша пераўтварыцца ў крыніцы вуглякіслага газу?
   url: https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/
+  lang: be
   audio: false
   search: ці могуць лясы падляшша пераўтварыцца ў крыніцы вуглякіслага газу? беларускае радыё рацыя
   links:
@@ -2173,6 +2347,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Для любителей заговоров и чертовщины». В Кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. В чем дело
   url: https://news.zerkalo.io/cellar/79813.html
+  lang: ru
   audio: false
   search: «для любителей заговоров и чертовщины». в кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. в чем дело zerkalo.io (ex tut.by)
   links:
@@ -2184,6 +2359,7 @@ cards:
   outlet: ЕвроРадио
   title: 'Пыль над Беларусью: есть ли опасность и как уберечься от вреда?'
   url: https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda
+  lang: ru
   audio: false
   search: 'пыль над беларусью: есть ли опасность и как уберечься от вреда? еврорадио'
   links:
@@ -2195,6 +2371,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Производитель нарушил нормы либо нужно закрыть неприятное дело». Химик разобрал официальную версию смерти четырех детей после ужина в РФ
   url: https://news.zerkalo.io/life/79170.html
+  lang: ru
   audio: false
   search: «производитель нарушил нормы либо нужно закрыть неприятное дело». химик разобрал официальную версию смерти четырех детей после ужина в рф zerkalo.io (ex tut.by)
   links:
@@ -2206,6 +2383,7 @@ cards:
   outlet: Наша Ніва
   title: Ці магчыма атруціцца пасля апрацоўкі дыхлафосам? Тлумачыць хімік
   url: https://nashaniva.com/351993
+  lang: be
   audio: false
   search: ці магчыма атруціцца пасля апрацоўкі дыхлафосам? тлумачыць хімік наша ніва
   links:
@@ -2217,6 +2395,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)
   url: https://news.zerkalo.io/life/78923.html
+  lang: ru
   audio: false
   search: «бегите, глупцы». химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие) zerkalo.io (ex tut.by)
   links:
@@ -2228,6 +2407,7 @@ cards:
   outlet: Зеленый портал
   title: Взрывы в Торопце. Долетят ли выбросы до Беларуси?
   url: https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi
+  lang: ru
   audio: false
   search: взрывы в торопце. долетят ли выбросы до беларуси? зеленый портал
   links:
@@ -2239,6 +2419,7 @@ cards:
   outlet: Штодзень
   title: 'Радыяцыйныя пажары: Наколькі гэта небяспечна для жыхароў і што рабіць ва ўмовах замоўчвання інфармацыі ўладамі'
   url: https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami
+  lang: be
   audio: false
   search: 'радыяцыйныя пажары: наколькі гэта небяспечна для жыхароў і што рабіць ва ўмовах замоўчвання інфармацыі ўладамі штодзень'
   links:
@@ -2250,6 +2431,7 @@ cards:
   outlet: Радыё Свабода
   title: Анкалёгія, алергія, іншыя хваробы. Чым пагражаюць беларусам пажары на Палесьсі і ва Ўкраіне
   url: https://www.svaboda.org/a/33114820.html
+  lang: be
   audio: false
   search: анкалёгія, алергія, іншыя хваробы. чым пагражаюць беларусам пажары на палесьсі і ва ўкраіне радыё свабода
   links:
@@ -2261,6 +2443,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это
   url: https://news.zerkalo.io/cellar/77981.html
+  lang: ru
   audio: false
   search: «что за оно?» беларус пожаловался на огромного красного вредителя в огороде. узнали, кто это zerkalo.io (ex tut.by)
   links:
@@ -2272,6 +2455,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці небяспечны для Падляшша пажары на Альманскіх балотах і ў Чарнобыльскай зоне?
   url: https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/
+  lang: be
   audio: false
   search: ці небяспечны для падляшша пажары на альманскіх балотах і ў чарнобыльскай зоне? беларускае радыё рацыя
   links:
@@ -2283,6 +2467,7 @@ cards:
   outlet: ЕвроРадио
   title: 'Дым над Беларусью: есть ли опасность и как защититься от вреда'
   url: https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda
+  lang: ru
   audio: false
   search: 'дым над беларусью: есть ли опасность и как защититься от вреда еврорадио'
   links:
@@ -2300,6 +2485,7 @@ cards:
   outlet: Газета Салідарнасць
   title: «Сапраўдных злых геніяў з іх не атрымаецца – як, безумоўна, і добрых»
   url: https://gazetaby.com/post/sapraudnyx-zlyx-geniyau-z-ix-ne-atrymaeczcza-yak-bezumouna-i-dobryx/202898
+  lang: be
   audio: false
   search: «сапраўдных злых геніяў з іх не атрымаецца – як, безумоўна, і добрых» газета салідарнасць
   links:
@@ -2311,6 +2497,7 @@ cards:
   outlet: Газета Салідарнасць
   title: В Академии наук составят списки сотрудников, которым разрешат пользоваться интернетом
   url: https://gazetaby.com/post/v-akademii-nauk-sostavyat-spiski-sotrudnikov-kotorym-razreshat-polzova/202879
+  lang: ru
   audio: false
   search: в академии наук составят списки сотрудников, которым разрешат пользоваться интернетом газета салідарнасць
   links:
@@ -2322,6 +2509,7 @@ cards:
   outlet: ЕвроРадио
   title: Белорусских академиков, живущих за рубежом, хотят лишать званий
   url: https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy
+  lang: ru
   audio: false
   search: белорусских академиков, живущих за рубежом, хотят лишать званий еврорадио
   links:
@@ -2333,6 +2521,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: В Академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз
   url: https://news.zerkalo.io/life/77452.html
+  lang: ru
   audio: false
   search: в академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз zerkalo.io (ex tut.by)
   links:
@@ -2344,6 +2533,7 @@ cards:
   outlet: Наша Ніва
   title: У Акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт
   url: https://nashaniva.com/350586
+  lang: be
   audio: false
   search: у акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт наша ніва
   links:
@@ -2355,6 +2545,7 @@ cards:
   outlet: ЕвроРадио
   title: Як праверыць кавун на нітраты ў хатніх умовах і ці шкодзяць яны арганізму
   url: https://euroradio.fm/yak-praveryc-kavun-na-nitraty-u-khatnikh-umovakh-i-ci-shkodzyac-yany-arganizmu
+  lang: be
   audio: false
   search: як праверыць кавун на нітраты ў хатніх умовах і ці шкодзяць яны арганізму еврорадио
   links:
@@ -2372,6 +2563,7 @@ cards:
   outlet: Наша візія
   title: Будучыня беларускай навукі. Ракеты для расейскай арміі – ці грамадзянская навука і прыватныя лабараторыі для эксперыментаў моладзі
   url: https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2
+  lang: be
   audio: false
   search: будучыня беларускай навукі. ракеты для расейскай арміі – ці грамадзянская навука і прыватныя лабараторыі для эксперыментаў моладзі наша візія
   links:
@@ -2383,6 +2575,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. И вот почему
   url: https://news.zerkalo.io/life/76056.html
+  lang: ru
   audio: false
   search: беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. и вот почему zerkalo.io (ex tut.by)
   links:
@@ -2394,6 +2587,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «В некоторых случаях необходима обязательная проверка психического состояния». Мнение ученого о том, что не так в Академии наук
   url: https://news.zerkalo.io/economics/75716.html
+  lang: ru
   audio: false
   search: «в некоторых случаях необходима обязательная проверка психического состояния». мнение ученого о том, что не так в академии наук zerkalo.io (ex tut.by)
   links:
@@ -2405,6 +2599,7 @@ cards:
   outlet: Белсат
   title: Чым і наколькі шкодныя вэйпы, якія сабраліся забараніць у Беларусі
   url: https://belsat.eu/news/23-07-2024-chym-shkodnyya-vejpy
+  lang: be
   audio: false
   search: чым і наколькі шкодныя вэйпы, якія сабраліся забараніць у беларусі белсат
   links:
@@ -2416,6 +2611,7 @@ cards:
   outlet: Белсат
   title: Ці можна карыстацца тэлефонам у навальніцу? Размаўляем з навукоўцам пра надвор’е і тэхніку
   url: https://belsat.eu/news/27-07-2024-tsi-mozhna-karystatstsa-telefonam-u-navalnitsu-razmaulyaem-z-navukoutsam-pra-nadvor-e-i-tehniku
+  lang: be
   audio: false
   search: ці можна карыстацца тэлефонам у навальніцу? размаўляем з навукоўцам пра надвор’е і тэхніку белсат
   links:
@@ -2436,6 +2632,7 @@ cards:
   outlet: Наша Ніва
   title: Ці можна карыстацца тэлефонам у навальніцу? Расказвае навуковец
   url: https://nashaniva.com/347971
+  lang: be
   audio: false
   search: ці можна карыстацца тэлефонам у навальніцу? расказвае навуковец наша ніва
   links:
@@ -2447,6 +2644,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: С чем связаны природные аномалии, которые одна за одной обрушиваются на Беларусь? Ученый объяснил и рассказал, чего ждать дальше
   url: https://news.zerkalo.io/life/73695.html
+  lang: ru
   audio: false
   search: с чем связаны природные аномалии, которые одна за одной обрушиваются на беларусь? ученый объяснил и рассказал, чего ждать дальше zerkalo.io (ex tut.by)
   links:
@@ -2458,6 +2656,7 @@ cards:
   outlet: Радыё Свабода
   title: У Беларусі хочуць забараніць вэйпы. Экспэрты падазраюць, што гэта ў інтарэсах вытворцаў цыгарэт
   url: https://www.svaboda.org/a/33039864.html
+  lang: be
   audio: false
   search: у беларусі хочуць забараніць вэйпы. экспэрты падазраюць, што гэта ў інтарэсах вытворцаў цыгарэт радыё свабода
   links:
@@ -2469,6 +2668,7 @@ cards:
   outlet: Белсат
   title: «Калі насоўваецца навальніца, не чакайце да апошняга». Як не пацярпець падчас урагану? Беларусам трэба адаптавацца да змянення клімату
   url: https://belsat.eu/news/17-07-2024-yak-ne-patsyarpets-padchas-uraganu
+  lang: be
   audio: false
   search: «калі насоўваецца навальніца, не чакайце да апошняга». як не пацярпець падчас урагану? беларусам трэба адаптавацца да змянення клімату белсат
   links:
@@ -2489,6 +2689,7 @@ cards:
   outlet: Белсат
   title: Батулізм – смяротна небяспечная хвароба «з бляшанкі». Што гэта і як яе пазбегчы
   url: https://belsat.eu/news/07-07-2024-batulizm-smyarotna-nebyaspechnaya-hvaroba
+  lang: be
   audio: false
   search: батулізм – смяротна небяспечная хвароба «з бляшанкі». што гэта і як яе пазбегчы белсат
   links:
@@ -2500,6 +2701,7 @@ cards:
   outlet: ЕвроРадио
   title: 'Garnier vs Bielita: химик проанализировал состав наших (и ваших) кремов для лица'
   url: https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica
+  lang: ru
   audio: false
   search: 'garnier vs bielita: химик проанализировал состав наших (и ваших) кремов для лица еврорадио'
   links:
@@ -2511,6 +2713,7 @@ cards:
   outlet: ЕвроРадио
   title: 'Сергей Бесараб: через Беларусь к звездам — отличная национальная идея!'
   url: https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya
+  lang: ru
   audio: false
   search: 'сергей бесараб: через беларусь к звездам — отличная национальная идея! еврорадио'
   links:
@@ -2525,6 +2728,7 @@ cards:
   outlet: Зеленый портал
   title: Розніца ў якасці велізарная. Хімік — пра склад расійскага і еўрапейскага Persil
   url: https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil
+  lang: be
   audio: false
   search: розніца ў якасці велізарная. хімік — пра склад расійскага і еўрапейскага persil зеленый портал
   links:
@@ -2536,6 +2740,7 @@ cards:
   outlet: Радыё Свабода
   title: «Хлопцаў затрымалі за дзіцячыя пэтарды». Навуковец пракамэнтаваў арышт юнакоў за выбухоўку
   url: https://www.svaboda.org/a/32987593.html
+  lang: be
   audio: false
   search: «хлопцаў затрымалі за дзіцячыя пэтарды». навуковец пракамэнтаваў арышт юнакоў за выбухоўку радыё свабода
   links:
@@ -2547,6 +2752,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: 'Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды'
   url: https://news.zerkalo.io/life/70460.html
+  lang: ru
   audio: false
   search: 'ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды zerkalo.io (ex tut.by)'
   links:
@@ -2558,6 +2764,7 @@ cards:
   outlet: Наша Ніва
   title: «Хлопцаў затрымалі за дзіцячыя петарды». Навуковец пракаментаваў арышт юнакоў за выбухоўку
   url: https://nashaniva.com/344689
+  lang: be
   audio: false
   search: «хлопцаў затрымалі за дзіцячыя петарды». навуковец пракаментаваў арышт юнакоў за выбухоўку наша ніва
   links:
@@ -2569,6 +2776,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Бесараб: «Беларускім прадпрыемствам грошы вельмі патрэбныя, і ў цяперашніх варунках для іх «вайна — маці родная»'
   url: https://gazetaby.com/post/besarab-belaruskim-pradpryemstvam-groshy-velmi-patrebnyya-i-u-cyaperas/200599
+  lang: be
   audio: false
   search: 'бесараб: «беларускім прадпрыемствам грошы вельмі патрэбныя, і ў цяперашніх варунках для іх «вайна — маці родная» газета салідарнасць'
   links:
@@ -2580,6 +2788,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать
   url: https://news.zerkalo.io/cellar/69173.html
+  lang: ru
   audio: false
   search: вот чего не должно быть в солнцезащитном креме. беларусский ученый рассказал, как его выбирать zerkalo.io (ex tut.by)
   links:
@@ -2591,6 +2800,7 @@ cards:
   outlet: ЕвроРадио
   title: Не давярайце ўсяму, што пішуць. Хімік тлумачыць, як правільна выбраць SPF
   url: https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf
+  lang: be
   audio: false
   search: не давярайце ўсяму, што пішуць. хімік тлумачыць, як правільна выбраць spf еврорадио
   links:
@@ -2602,6 +2812,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Самые сильные за последние десятилетия». Ожидается магнитная буря — в Беларуси будут полярные сияния (если повезет с погодой)
   url: https://news.zerkalo.io/life/67978.html
+  lang: ru
   audio: false
   search: «самые сильные за последние десятилетия». ожидается магнитная буря — в беларуси будут полярные сияния (если повезет с погодой) zerkalo.io (ex tut.by)
   links:
@@ -2613,6 +2824,7 @@ cards:
   outlet: Радыё Свабода
   title: Затрымалі перакладчыцу Вольгу Калацкую
   url: https://www.svaboda.org/a/32940061.html
+  lang: be
   audio: false
   search: затрымалі перакладчыцу вольгу калацкую радыё свабода
   links:
@@ -2624,6 +2836,7 @@ cards:
   outlet: Зеленый портал
   title: «Радиация в паре с враньём, глупостью и закрытостью – совершенно несовместимые вещи»
   url: https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye
+  lang: ru
   audio: false
   search: «радиация в паре с враньём, глупостью и закрытостью – совершенно несовместимые вещи» зеленый портал
   links:
@@ -2635,6 +2848,7 @@ cards:
   outlet: Белсат
   title: «БелАЭС ужо прывяла да апраменьвання людзей». Эксперты – пра радыяцыйнае забруджванне ў Беларусі
   url: https://belsat.eu/news/27-04-2024-belaes-uzho-pryvyala-da-apramenvannya-lyudzej-eksperty-pra-radyyatsyjnae-zabrudzhvanne-u-belarusi
+  lang: be
   audio: false
   search: «белаэс ужо прывяла да апраменьвання людзей». эксперты – пра радыяцыйнае забруджванне ў беларусі белсат
   links:
@@ -2646,6 +2860,7 @@ cards:
   outlet: Радыё Свабода
   title: Беларускія ўлады расказалі, як змагаюцца з наступствамі Чарнобыльскай аварыі. Эколягі ім запярэчылі
   url: https://www.svaboda.org/a/32922242.html
+  lang: be
   audio: false
   search: беларускія ўлады расказалі, як змагаюцца з наступствамі чарнобыльскай аварыі. эколягі ім запярэчылі радыё свабода
   links:
@@ -2657,6 +2872,7 @@ cards:
   outlet: Позірк
   title: 'Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі'
   url: https://pozirk.online/be/longreads/82141/
+  lang: be
   audio: false
   search: 'сяргей бесараб: камбінацыя радыяцыі і глупства прыводзіць да трагедыі позірк'
   links:
@@ -2668,6 +2884,7 @@ cards:
   outlet: Белсат
   title: «Мы назіраем разгортванне ядравага рэнесансу». Пра будучыню АЭС разважае навуковец Сяргей Бесараб
   url: https://belsat.eu/news/26-04-2024-my-naziraem-razgortvanne-yadravaga-renesansu-pra-buduchynyu-aes-razvazhae-navukovets-syargej-besarab
+  lang: be
   audio: false
   search: «мы назіраем разгортванне ядравага рэнесансу». пра будучыню аэс разважае навуковец сяргей бесараб белсат
   links:
@@ -2685,6 +2902,7 @@ cards:
   outlet: Белсат
   title: 'Чарнобыльская катастрофа: 10 рэчаў, якія варта ведаць'
   url: https://belsat.eu/news/23-04-2024-charnobylskaya-katastrofa-10-rechau
+  lang: be
   audio: false
   search: 'чарнобыльская катастрофа: 10 рэчаў, якія варта ведаць белсат'
   links:
@@ -2696,6 +2914,7 @@ cards:
   outlet: Штодзень
   title: Плошча забруджвання Беларусі цэзіем-137 зменшылася амаль у два разы, сцвярджаюць улады. Але што значаць гэтыя лічбы?
   url: https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/
+  lang: be
   audio: false
   search: плошча забруджвання беларусі цэзіем-137 зменшылася амаль у два разы, сцвярджаюць улады. але што значаць гэтыя лічбы? штодзень
   links:
@@ -2707,6 +2926,7 @@ cards:
   outlet: Зеленый портал
   title: Набыў у Менску радыяактыўныя пацеркі. Хімік расказвае, як засцерагчыся ад выпраменьвання дома
   url: https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad
+  lang: be
   audio: false
   search: набыў у менску радыяактыўныя пацеркі. хімік расказвае, як засцерагчыся ад выпраменьвання дома зеленый портал
   links:
@@ -2718,6 +2938,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Как тебе такое, Илон Маск? Заквасить йогурт за миллионы рублей?» Мнение ученого о визите Марины Василевской на МКС
   url: https://news.zerkalo.io/life/66143.html
+  lang: ru
   audio: false
   search: «как тебе такое, илон маск? заквасить йогурт за миллионы рублей?» мнение ученого о визите марины василевской на мкс zerkalo.io (ex tut.by)
   links:
@@ -2729,6 +2950,7 @@ cards:
   outlet: Белсат
   title: «Яна праверыла, ці можна зрабіць ёгурт у космасе». Чаму космас не стаў «нашым» з-за палёту Васілеўскай
   url: https://belsat.eu/news/12-04-2024-yana-praveryla-tsi-mozhna-zrabits-yogurt-u-kosmase-chamu-kosmas-ne-stau-nashym-z-za-palyotu-vasileuskaj
+  lang: be
   audio: false
   search: «яна праверыла, ці можна зрабіць ёгурт у космасе». чаму космас не стаў «нашым» з-за палёту васілеўскай белсат
   links:
@@ -2740,6 +2962,7 @@ cards:
   outlet: Благотворительный фонд "Страна для жизни"
   title: 'Siarhei Besarab: “It is necessary to convey to the world community those terrible crimes”'
   url: https://en.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy
+  lang: en
   audio: false
   search: 'siarhei besarab: “it is necessary to convey to the world community those terrible crimes” благотворительный фонд "страна для жизни"'
   links:
@@ -2751,6 +2974,7 @@ cards:
   outlet: Благотворительный фонд "Страна для жизни"
   title: 'Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»'
   url: https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy
+  lang: be
   audio: false
   search: 'сяргей бесараб: «патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы» благотворительный фонд "страна для жизни"'
   links:
@@ -2762,6 +2986,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 114 гадоў з дня нараджэння Барыса Кіта
   url: https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/
+  lang: be
   audio: false
   search: 114 гадоў з дня нараджэння барыса кіта беларускае радыё рацыя
   links:
@@ -2773,6 +2998,7 @@ cards:
   outlet: Наша Ніва
   title: «Падарунак» дзясяткам пакаленняў. Як Беларусь будзе захоўваць ядзерныя адкіды са сваёй АЭС і ў чым адзіны яе шанец
   url: https://nashaniva.com/339603
+  lang: be
   audio: false
   search: «падарунак» дзясяткам пакаленняў. як беларусь будзе захоўваць ядзерныя адкіды са сваёй аэс і ў чым адзіны яе шанец наша ніва
   links:
@@ -2787,6 +3013,7 @@ cards:
   outlet: Штодзень
   title: '«Падарунак» дзясяткам пакаленняў: як Беларусь будзе захоўваць ядзерныя адходы са сваёй АЭС'
   url: https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/
+  lang: be
   audio: false
   search: '«падарунак» дзясяткам пакаленняў: як беларусь будзе захоўваць ядзерныя адходы са сваёй аэс штодзень'
   links:
@@ -2798,6 +3025,7 @@ cards:
   outlet: Штодзень
   title: Жлобін на Гомельшчыне лідзіруе па колькасці экстрэмістаў
   url: https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/
+  lang: be
   audio: false
   search: жлобін на гомельшчыне лідзіруе па колькасці экстрэмістаў штодзень
   links:
@@ -2809,6 +3037,7 @@ cards:
   outlet: Белсат
   title: «Палітычнае пудзіла». Дзе ў Беларусі можа з'явіцца магільнік радыеактыўных адкідаў?
   url: https://belsat.eu/news/27-03-2024-u-belarusi-vybirayuts-mestsa-zahouvannya-radyeaktyunyh-adkidau
+  lang: be
   audio: false
   search: «палітычнае пудзіла». дзе ў беларусі можа з'явіцца магільнік радыеактыўных адкідаў? белсат
   links:
@@ -2820,6 +3049,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Сяргей Бесараб пра беларускую навуку ў выгнанні і на «ваенных рэйках» унутры Беларусі
   url: https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/
+  lang: be
   audio: false
   search: сяргей бесараб пра беларускую навуку ў выгнанні і на «ваенных рэйках» унутры беларусі беларускае радыё рацыя
   links:
@@ -2831,6 +3061,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Вучоны-хімік: Знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля'
   url: https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/
+  lang: be
   audio: false
   search: 'вучоны-хімік: знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля газета салідарнасць'
   links:
@@ -2842,6 +3073,7 @@ cards:
   outlet: Наша Ніва
   title: «Чалавека можа ўратаваць уважлівасць і падрыхтаванасць». Навуковец расказаў, як прадбачыць землятрус і што трэба мець каля сябе, калі жывеш у сейсмазоне
   url: https://nashaniva.com/310385/
+  lang: be
   audio: false
   search: «чалавека можа ўратаваць уважлівасць і падрыхтаванасць». навуковец расказаў, як прадбачыць землятрус і што трэба мець каля сябе, калі жывеш у сейсмазоне наша ніва
   links:
@@ -2856,6 +3088,7 @@ cards:
   outlet: Наша Ніва
   title: «Гэта зброя выпаленай зямлі». Што такое «брудная бомба» і што рабіць, калі яе падарвуць у Беларусі
   url: https://nashaniva.com/301753
+  lang: be
   audio: false
   search: «гэта зброя выпаленай зямлі». што такое «брудная бомба» і што рабіць, калі яе падарвуць у беларусі наша ніва
   links:
@@ -2870,6 +3103,7 @@ cards:
   outlet: Наша Ніва
   title: Расія ўдарыць па Украіне хімічнай зброяй? Усё можа быць нашмат прасцей і трагічней
   url: https://nashaniva.com/286183
+  lang: be
   audio: false
   search: расія ўдарыць па украіне хімічнай зброяй? усё можа быць нашмат прасцей і трагічней наша ніва
   links:
@@ -2884,6 +3118,7 @@ cards:
   outlet: Наша Ніва
   title: 'Бесараб — пра цынгу Латыпава: Мне тут бачыцца рука нейкіх медыкаў-катаў'
   url: https://nashaniva.com/336556
+  lang: be
   audio: false
   search: 'бесараб — пра цынгу латыпава: мне тут бачыцца рука нейкіх медыкаў-катаў наша ніва'
   links:
@@ -2898,6 +3133,7 @@ cards:
   outlet: Наша Ніва
   title: Навуковец патлумачыў феномен рэжыму і ацаніў страты беларускай навукі за час кіравання Лукашэнкі
   url: https://nashaniva.com/314277
+  lang: be
   audio: false
   search: навуковец патлумачыў феномен рэжыму і ацаніў страты беларускай навукі за час кіравання лукашэнкі наша ніва
   links:
@@ -2912,6 +3148,7 @@ cards:
   outlet: Наша Ніва
   title: «Часам незаменна, але…» Бесараб адказаў на крытыку наконт апраменьвання прадуктаў радыяцыяй
   url: https://nashaniva.com/312409
+  lang: be
   audio: false
   search: «часам незаменна, але…» бесараб адказаў на крытыку наконт апраменьвання прадуктаў радыяцыяй наша ніва
   links:
@@ -2926,6 +3163,7 @@ cards:
   outlet: Наша Ніва
   title: «Гэта можа выклікаць рак». Навуковец б'е трывогу адносна таго, што ў Беларусі пачалі апраменьваць прадукты радыяцыяй
   url: https://nashaniva.com/312244
+  lang: be
   audio: false
   search: «гэта можа выклікаць рак». навуковец б'е трывогу адносна таго, што ў беларусі пачалі апраменьваць прадукты радыяцыяй наша ніва
   links:
@@ -2940,6 +3178,7 @@ cards:
   outlet: Наша Ніва
   title: Што трэба ведаць пра цюльпаны, каб імі не нашкодзіць сабе
   url: https://nashaniva.com/311882
+  lang: be
   audio: false
   search: што трэба ведаць пра цюльпаны, каб імі не нашкодзіць сабе наша ніва
   links:
@@ -2954,6 +3193,7 @@ cards:
   outlet: Наша Ніва
   title: Што за «апраменьванне персаналу» магло адбыцца на БелАЭС і ці яно было? Тлумачыць спецыяліст
   url: https://nashaniva.com/306534
+  lang: be
   audio: false
   search: што за «апраменьванне персаналу» магло адбыцца на белаэс і ці яно было? тлумачыць спецыяліст наша ніва
   links:
@@ -2968,6 +3208,7 @@ cards:
   outlet: Наша Ніва
   title: 'Экс-калега расказвае пра міністра адукацыі: «У Акадэміі навук яго называлі «Граза дзядам»'
   url: https://nashaniva.com/284540
+  lang: be
   audio: false
   search: 'экс-калега расказвае пра міністра адукацыі: «у акадэміі навук яго называлі «граза дзядам» наша ніва'
   links:
@@ -2982,6 +3223,7 @@ cards:
   outlet: Наша Ніва
   title: Аляксандр, 35 гадоў, вышэйшая адукацыя. Навуковец склаў партрэт беларускага «экстрэміста» — высновы ўражваюць
   url: https://nashaniva.com/303383
+  lang: be
   audio: false
   search: аляксандр, 35 гадоў, вышэйшая адукацыя. навуковец склаў партрэт беларускага «экстрэміста» — высновы ўражваюць наша ніва
   links:
@@ -2996,6 +3238,7 @@ cards:
   outlet: Наша Ніва
   title: «Казаць, што мы ўсе памрэм, — дакладна няправільна». Эксперт пра магчымыя наступствы ядзернай вайны
   url: https://nashaniva.com/289342
+  lang: be
   audio: false
   search: «казаць, што мы ўсе памрэм, — дакладна няправільна». эксперт пра магчымыя наступствы ядзернай вайны наша ніва
   links:
@@ -3010,6 +3253,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Як беларусам адсвяткаваць Дзень ліку Пі ў Польшчы?
   url: https://racyja.com/by/sumezza/jak-belarusam-adsvjatkavac-dzen-liku-pi-u-polscy
+  lang: be
   audio: false
   search: як беларусам адсвяткаваць дзень ліку пі ў польшчы? беларускае радыё рацыя
   links:
@@ -3021,6 +3265,7 @@ cards:
   outlet: Deutsche Welle
   title: '"Список экстремистов" от МВД Беларуси: кого и за что внесли'
   url: https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249
+  lang: ru
   audio: false
   search: '"список экстремистов" от мвд беларуси: кого и за что внесли deutsche welle'
   links:
@@ -3032,6 +3277,7 @@ cards:
   outlet: ЕвроРадио
   title: Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік
   url: https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik
+  lang: be
   audio: false
   search: бярозавы сок не такі ўжо і карысны? тлумачыць хімік еврорадио
   links:
@@ -3043,6 +3289,7 @@ cards:
   outlet: ЕвроРадио
   title: Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў
   url: https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina
+  lang: be
   audio: false
   search: навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў еврорадио
   links:
@@ -3054,6 +3301,7 @@ cards:
   outlet: Наша Ніва
   title: Навуковец раіць саджаць на лецішчы лаванду і разводзіць паўлінаў. Навошта?
   url: https://web.archive.org/web/20240309205034/https://nashaniva.com/338129
+  lang: be
   audio: false
   search: навуковец раіць саджаць на лецішчы лаванду і разводзіць паўлінаў. навошта? наша ніва
   links:
@@ -3065,6 +3313,7 @@ cards:
   outlet: ЕвроРадио
   title: '"Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў'
   url: https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau
+  lang: be
   audio: false
   search: '"можа быць алергія". з чаго шыюць форму для беларускіх школьнікаў еврорадио'
   links:
@@ -3076,6 +3325,7 @@ cards:
   outlet: Наша Ніва
   title: '"Каб я ведаў, што гэта дзяржтаямніца, то можа і не пісаў бы так хвацка". Хімік Сяргей Бесараб расказаў, як сумяшчае навуку і грамадзянскую пазіцыю'
   url: https://web.archive.org/web/20240223162359/https://d1a9nnmcvk9pjz.cloudfront.net/337123
+  lang: be
   audio: false
   search: '"каб я ведаў, што гэта дзяржтаямніца, то можа і не пісаў бы так хвацка". хімік сяргей бесараб расказаў, як сумяшчае навуку і грамадзянскую пазіцыю наша ніва'
   links:
@@ -3090,6 +3340,7 @@ cards:
   outlet: ЕвроРадио
   title: В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?
   url: https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec
+  lang: ru
   audio: false
   search: в беларуси построят мусороперерабатывающий завод. на минск полетит свинец? еврорадио
   links:
@@ -3101,6 +3352,7 @@ cards:
   outlet: ЕвроРадио
   title: С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием
   url: https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem
+  lang: ru
   audio: false
   search: с малиновым вареньем. как меняют рацион солдат, которые (не)работают с плутонием еврорадио
   links:
@@ -3112,6 +3364,7 @@ cards:
   outlet: Газета Салідарнасць
   title: «Что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать»
   url: https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/
+  lang: ru
   audio: false
   search: «что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать» газета салідарнасць
   links:
@@ -3123,6 +3376,7 @@ cards:
   outlet: Наша Ніва
   title: Ці такі ўжо бясшкодны ферментаваны іван-чай?
   url: https://nashaniva.com/333760
+  lang: be
   audio: false
   search: ці такі ўжо бясшкодны ферментаваны іван-чай? наша ніва
   links:
@@ -3137,6 +3391,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Трансфер ядзернай зброі з Расеі ў Беларусь сапраўды завершаны'
   url: https://racyja.com/by/palityka/sjarhej-besarab-transfer-jadzernaj-zbroi-z-rasei-u-belarus-sapraudy-zaversany/
+  lang: be
   audio: false
   search: 'сяргей бесараб: трансфер ядзернай зброі з расеі ў беларусь сапраўды завершаны беларускае радыё рацыя'
   links:
@@ -3148,6 +3403,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці ставіць у дамах навагоднюю ялінку?
   url: https://racyja.com/by/kultura/ci-stavic-u-damach-navahodnjuju-jalinku/
+  lang: be
   audio: false
   search: ці ставіць у дамах навагоднюю ялінку? беларускае радыё рацыя
   links:
@@ -3159,6 +3415,7 @@ cards:
   outlet: Штодзень
   title: Звесткі пра савецкі ваенны аб’ект “Гомель-30”
   url: https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/
+  lang: be
   audio: false
   search: звесткі пра савецкі ваенны аб’ект “гомель-30” штодзень
   links:
@@ -3170,6 +3427,7 @@ cards:
   outlet: Штодзень
   title: Гомель — зноў у лідарах па “экстрэмістах“
   url: https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/
+  lang: be
   audio: false
   search: гомель — зноў у лідарах па “экстрэмістах“ штодзень
   links:
@@ -3181,6 +3439,7 @@ cards:
   outlet: Наша Ніва
   title: «Пабачыў на скуры дарожку з укусаў». Як беларус змагаўся з пасцельнымі клапамі
   url: https://nashaniva.com/330453
+  lang: be
   audio: false
   search: «пабачыў на скуры дарожку з укусаў». як беларус змагаўся з пасцельнымі клапамі наша ніва
   links:
@@ -3195,6 +3454,7 @@ cards:
   outlet: Наша Ніва
   title: Эксперт выбачыўся за свой каментар «Нашай Ніве». Што здарылася?
   url: https://nashaniva.com/329483
+  lang: be
   audio: false
   search: эксперт выбачыўся за свой каментар «нашай ніве». што здарылася? наша ніва
   links:
@@ -3209,6 +3469,7 @@ cards:
   outlet: Наша Ніва
   title: 'Belita выпусціла гель для душа, які «ўплывае на эмоцыі». Навуковец: Гэта інфамахлярства'
   url: https://nashaniva.com/329445
+  lang: be
   audio: false
   search: 'belita выпусціла гель для душа, які «ўплывае на эмоцыі». навуковец: гэта інфамахлярства наша ніва'
   links:
@@ -3223,6 +3484,7 @@ cards:
   outlet: Наша Ніва
   title: «Мае знаёмыя робяць у Акадэміі разлікі для расійскіх ракет». Што адбываецца з беларускай навукай
   url: https://nashaniva.com/327293
+  lang: be
   audio: false
   search: «мае знаёмыя робяць у акадэміі разлікі для расійскіх ракет». што адбываецца з беларускай навукай наша ніва
   links:
@@ -3237,6 +3499,7 @@ cards:
   outlet: Наша Ніва
   title: Хімік Сяргей Бесараб патлумачыў, што не так з БелАЭС і якая перадавая тэхналогія выкарыстоўваецца Украінай у вайне
   url: https://nashaniva.com/326574
+  lang: be
   audio: false
   search: хімік сяргей бесараб патлумачыў, што не так з белаэс і якая перадавая тэхналогія выкарыстоўваецца украінай у вайне наша ніва
   links:
@@ -3251,6 +3514,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: МНС выдала ліцэнзію на эксплуатацыю 2-га блока БелАЭС
   url: https://www.racyja.com/ekanomika/mns-vydala-litsenziyu-na-ekspluatatsyyu-2-g/
+  lang: be
   audio: false
   search: мнс выдала ліцэнзію на эксплуатацыю 2-га блока белаэс беларускае радыё рацыя
   links:
@@ -3262,6 +3526,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Сергей Бесараб: «Если отбросить здравый смысл и посчитать, что Лукашенко выбирал Островец с точки зрения радиологической угрозы для Литвы — тогда все нормально»'
   url: https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406
+  lang: ru
   audio: false
   search: 'сергей бесараб: «если отбросить здравый смысл и посчитать, что лукашенко выбирал островец с точки зрения радиологической угрозы для литвы — тогда все нормально» газета салідарнасць'
   links:
@@ -3273,6 +3538,7 @@ cards:
   outlet: Штодзень
   title: Каля Рэчыцы фіксуюць нетыповае захворванне паразітамі, якія паражаюць мяккія тканкі людзей
   url: https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/
+  lang: be
   audio: false
   search: каля рэчыцы фіксуюць нетыповае захворванне паразітамі, якія паражаюць мяккія тканкі людзей штодзень
   links:
@@ -3284,6 +3550,7 @@ cards:
   outlet: Наша Ніва
   title: Беларусь нарошчвае здабычу нафты і выкарыстоўвае новую тэхналогію. Што за яна?
   url: https://nashaniva.com/327099
+  lang: be
   audio: false
   search: беларусь нарошчвае здабычу нафты і выкарыстоўвае новую тэхналогію. што за яна? наша ніва
   links:
@@ -3298,6 +3565,7 @@ cards:
   outlet: Штодзень
   title: “Калі вы і вашыя родзічы жывеце ў раёне радыяцыйнага забруджання і карыстаецеся пячным ацяпленнем — уважліва стаўцеся да пытанняў радыяцыйнай гігіены”
   url: https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/
+  lang: be
   audio: false
   search: “калі вы і вашыя родзічы жывеце ў раёне радыяцыйнага забруджання і карыстаецеся пячным ацяпленнем — уважліва стаўцеся да пытанняў радыяцыйнай гігіены” штодзень
   links:
@@ -3309,6 +3577,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Якую ядзерную зброю РФ можа даць Лукашэнку?
   url: https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/
+  lang: ru
   audio: false
   search: якую ядзерную зброю рф можа даць лукашэнку? беларускае радыё рацыя
   links:
@@ -3320,6 +3589,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Чаму так шмат вос і шэршняў на Падляшшы сёлета?
   url: https://www.racyja.com/sumezhzha/chamu-tak-shmat-vos-i-shershnyau-na-padlyashshy/
+  lang: be
   audio: false
   search: чаму так шмат вос і шэршняў на падляшшы сёлета? беларускае радыё рацыя
   links:
@@ -3331,6 +3601,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Уся хімічная прамысловасць Беларусі сёння – гэта падтрыманне створанага ў савецкі час'
   url: https://www.racyja.com/hramadstva/syargej-besarab-usya-khimichnaya-pramyslo/
+  lang: be
   audio: false
   search: 'сяргей бесараб: уся хімічная прамысловасць беларусі сёння – гэта падтрыманне створанага ў савецкі час беларускае радыё рацыя'
   links:
@@ -3342,6 +3613,7 @@ cards:
   outlet: Наша Ніва
   title: Чарвякі пад скурай як у фільмах жахаў. Навуковец тлумачыць, што такое дырафілярыёз, які распаўсюджваецца на Гомельшчыне
   url: https://nashaniva.com/326374
+  lang: be
   audio: false
   search: чарвякі пад скурай як у фільмах жахаў. навуковец тлумачыць, што такое дырафілярыёз, які распаўсюджваецца на гомельшчыне наша ніва
   links:
@@ -3356,6 +3628,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці сапраўды павялічылася выпраменьванне ў зоне вакол БелАЭС?
   url: https://www.racyja.com/ekanomika/tsi-sapraudy-pavyalichylasya-vypramenv/
+  lang: be
   audio: false
   search: ці сапраўды павялічылася выпраменьванне ў зоне вакол белаэс? беларускае радыё рацыя
   links:
@@ -3367,6 +3640,7 @@ cards:
   outlet: ЕвроРадио
   title: Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга
   url: https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga
+  lang: be
   audio: false
   search: атакуюць восы? даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга еврорадио
   links:
@@ -3378,6 +3652,7 @@ cards:
   outlet: Наша Ніва
   title: Ці каштавалі мяса саранчы? А яно ўжо прадаецца ў Польшчы. Знайшлі беларуса — фаната такой ежы
   url: https://nashaniva.com/324780
+  lang: be
   audio: false
   search: ці каштавалі мяса саранчы? а яно ўжо прадаецца ў польшчы. знайшлі беларуса — фаната такой ежы наша ніва
   links:
@@ -3392,6 +3667,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Пры мажлівасці Украіна паспрабуе знішчыць сховішчы ядзернай зброі ў Беларусі'
   url: https://www.racyja.com/palityka/syargej-besarab-pry-mazhlivastsi-ukrain/
+  lang: be
   audio: false
   search: 'сяргей бесараб: пры мажлівасці украіна паспрабуе знішчыць сховішчы ядзернай зброі ў беларусі беларускае радыё рацыя'
   links:
@@ -3403,6 +3679,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Для чаго беларускі спецназ на БелАЭС?
   url: https://www.racyja.com/hramadstva/dlya-chago-belaruski-spetsnaz-na-belaes/
+  lang: be
   audio: false
   search: для чаго беларускі спецназ на белаэс? беларускае радыё рацыя
   links:
@@ -3414,6 +3691,7 @@ cards:
   outlet: Наша Ніва
   title: Сродкі ад кляшчоў і камароў, што прадаюцца ў краінах ЕС. Якія найлепшыя?
   url: https://nashaniva.com/321476
+  lang: be
   audio: false
   search: сродкі ад кляшчоў і камароў, што прадаюцца ў краінах ес. якія найлепшыя? наша ніва
   links:
@@ -3428,6 +3706,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»'
   url: https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/
+  lang: ru
   audio: false
   search: 'беларусский ученый: «дорога из беларуси заняла три дня, и это были самые страшные три дня за последнее время» газета салідарнасць'
   links:
@@ -3439,6 +3718,7 @@ cards:
   outlet: Наша Ніва
   title: Хімік патлумачыў, чаму ніякая аварыя на Запарожскай АЭС не будзе мець маштабных наступстваў
   url: https://nashaniva.com/320839
+  lang: be
   audio: false
   search: хімік патлумачыў, чаму ніякая аварыя на запарожскай аэс не будзе мець маштабных наступстваў наша ніва
   links:
@@ -3453,6 +3733,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Лагер пад Асіповічамі – хутчэй для ахоўнікаў ядзернай зброі, чым для ПВК «Вагнер»'
   url: https://www.racyja.com/palityka/syargej-besarab-lager-pad-asipovichami/
+  lang: be
   audio: false
   search: 'сяргей бесараб: лагер пад асіповічамі – хутчэй для ахоўнікаў ядзернай зброі, чым для пвк «вагнер» беларускае радыё рацыя'
   links:
@@ -3464,6 +3745,7 @@ cards:
   outlet: Наша Ніва
   title: Беларускі навуковец, якому давялося ўцячы з Беларусі тайнымі сцежкамі, напісаў «кароткі дапаможнік па экстраннай эвакуацыі»
   url: https://nashaniva.com/320301
+  lang: be
   audio: false
   search: беларускі навуковец, якому давялося ўцячы з беларусі тайнымі сцежкамі, напісаў «кароткі дапаможнік па экстраннай эвакуацыі» наша ніва
   links:
@@ -3478,6 +3760,7 @@ cards:
   outlet: ЕвроРадио
   title: Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць
   url: https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic
+  lang: be
   audio: false
   search: атакі гнусу ў беларусі. даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць еврорадио
   links:
@@ -3489,6 +3772,7 @@ cards:
   outlet: Наша Ніва
   title: Дзе размесцяць расійскую ядзерную зброю, выбух якой можа знішчыць цэлы горад?
   url: https://nashaniva.com/317594
+  lang: be
   audio: false
   search: дзе размесцяць расійскую ядзерную зброю, выбух якой можа знішчыць цэлы горад? наша ніва
   links:
@@ -3503,6 +3787,7 @@ cards:
   outlet: Наша Ніва
   title: 'Страшная поедзь: кожны год Лунінец атакуе цікавы шкоднік — вусені амерыканскага белага матыля'
   url: https://nashaniva.com/317423
+  lang: be
   audio: false
   search: 'страшная поедзь: кожны год лунінец атакуе цікавы шкоднік — вусені амерыканскага белага матыля наша ніва'
   links:
@@ -3517,6 +3802,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Будучыня БелАЭС: выкарыстанне для патрэб Расеі і запужванне для астатняга свету?'
   url: https://www.racyja.com/ekanomika/buduchynya-belaes-vykarystanne-dlya-pat/
+  lang: be
   audio: false
   search: 'будучыня белаэс: выкарыстанне для патрэб расеі і запужванне для астатняга свету? беларускае радыё рацыя'
   links:
@@ -3528,6 +3814,7 @@ cards:
   outlet: Deutsche Welle
   title: 'Защита диссертаций в РБ: междусобойчик под контролем властей'
   url: https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190
+  lang: ru
   audio: false
   search: 'защита диссертаций в рб: междусобойчик под контролем властей deutsche welle'
   links:
@@ -3539,6 +3826,7 @@ cards:
   outlet: Наша Ніва
   title: Беларусь атакуюць мошкі. Вядомы хімік распавёў, як ад іх ратавацца
   url: https://nashaniva.com/316835
+  lang: be
   audio: false
   search: беларусь атакуюць мошкі. вядомы хімік распавёў, як ад іх ратавацца наша ніва
   links:
@@ -3553,6 +3841,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Кляшчы на Падляшшы: дзе іх трэба асцерагацца?'
   url: https://www.racyja.com/sumezhzha/klyashchy-na-padlyashshy-dze-ikh-treba-astsera/
+  lang: be
   audio: false
   search: 'кляшчы на падляшшы: дзе іх трэба асцерагацца? беларускае радыё рацыя'
   links:
@@ -3564,6 +3853,7 @@ cards:
   outlet: Наша Ніва
   title: Якія сродкі ад кляшчоў самыя надзейныя? Параўноўвае навуковец
   url: https://nashaniva.com/315958
+  lang: be
   audio: false
   search: якія сродкі ад кляшчоў самыя надзейныя? параўноўвае навуковец наша ніва
   links:
@@ -3578,6 +3868,7 @@ cards:
   outlet: Наша Ніва
   title: Вядомы хімік склаў партрэт рэпрэсаванага навукоўца. Некаторыя высновы нечаканыя
   url: https://nashaniva.com/315714
+  lang: be
   audio: false
   search: вядомы хімік склаў партрэт рэпрэсаванага навукоўца. некаторыя высновы нечаканыя наша ніва
   links:
@@ -3592,6 +3883,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: БелАЭС – гэта кабальная сувязь Беларусі з Расеяй на 50 год наперад'
   url: https://www.racyja.com/ekanomika/syargej-besarab-belaes-geta-kabaln/
+  lang: be
   audio: false
   search: 'сяргей бесараб: белаэс – гэта кабальная сувязь беларусі з расеяй на 50 год наперад беларускае радыё рацыя'
   links:
@@ -3603,6 +3895,7 @@ cards:
   outlet: Наша Ніва
   title: «Не размяшчаць негатыўную інфармацыю ў прыватных акаўнтах сацыяльных сетак». Што яшчэ забараняе рабіць «Кодэкс прафесійнай этыкі» НАНБ?
   url: https://nashaniva.com/314418
+  lang: be
   audio: false
   search: «не размяшчаць негатыўную інфармацыю ў прыватных акаўнтах сацыяльных сетак». што яшчэ забараняе рабіць «кодэкс прафесійнай этыкі» нанб? наша ніва
   links:
@@ -3617,6 +3910,7 @@ cards:
   outlet: Штодзень
   title: Тактычную ядзерную зброю могуць размясціць каля Гомеля
   url: https://homeldays.org/taktychnuju-jadzernuju-zbroju-moguc-razmjascic-kalja-gomelja/
+  lang: be
   audio: false
   search: тактычную ядзерную зброю могуць размясціць каля гомеля штодзень
   links:
@@ -3628,6 +3922,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Мы зараз вяртаемся ў 1996 год, калі Беларусь пазбаўлялася ядзернай зброі'
   url: https://www.racyja.com/palityka/syargej-besarab-my-zaraz-vyartaemsya-u-1996-g/
+  lang: be
   audio: false
   search: 'сяргей бесараб: мы зараз вяртаемся ў 1996 год, калі беларусь пазбаўлялася ядзернай зброі беларускае радыё рацыя'
   links:
@@ -3639,6 +3934,7 @@ cards:
   outlet: Radio France internationale (UA)
   title: 'Білоруський радіаційний хімік: Білорусь із ядерною зброєю — це мавпа з гранатою'
   url: https://www.rfi.fr/uk/%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/20230329-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%85%D1%96%D0%BC%D1%96%D0%BA-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C-%D1%96%D0%B7-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D1%8E-%D0%B7%D0%B1%D1%80%D0%BE%D1%94%D1%8E-%D1%86%D0%B5-%D0%BC%D0%B0%D0%B2%D0%BF%D0%B0-%D0%B7-%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%8E
+  lang: uk
   audio: false
   search: 'білоруський радіаційний хімік: білорусь із ядерною зброєю — це мавпа з гранатою radio france internationale (ua)'
   links:
@@ -3650,6 +3946,7 @@ cards:
   outlet: Thinktanks
   title: Основные техногенные угрозы для Беларуси — радиационные
   url: https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html
+  lang: ru
   audio: false
   search: основные техногенные угрозы для беларуси — радиационные thinktanks
   links:
@@ -3661,6 +3958,7 @@ cards:
   outlet: Наша Ніва
   title: 'Навуковец падлічыў, колькі каштуе «лепшая за натаўскую» аптэчка, калі яе збіраць самастойна. Выйшла танней, чым афіцыйна названая сума '
   url: https://nashaniva.com/311103
+  lang: be
   audio: false
   search: навуковец падлічыў, колькі каштуе «лепшая за натаўскую» аптэчка, калі яе збіраць самастойна. выйшла танней, чым афіцыйна названая сума  наша ніва
   links:
@@ -3675,6 +3973,7 @@ cards:
   outlet: Наша Ніва
   title: Амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па WiFi замест камер. Аказваецца, беларусы прэзентавалі падобны метад 6 год таму
   url: https://nashaniva.com/310711
+  lang: be
   audio: false
   search: амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па wifi замест камер. аказваецца, беларусы прэзентавалі падобны метад 6 год таму наша ніва
   links:
@@ -3689,6 +3988,7 @@ cards:
   outlet: Voice of America
   title: Photos Indicate Russian Looting of Radioactive Materials from Ukraine’s Chernobyl
   url: https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html
+  lang: en
   audio: false
   search: photos indicate russian looting of radioactive materials from ukraine’s chernobyl voice of america
   links:
@@ -3700,6 +4000,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: 'Сяргей Бесараб: Новая Беларусь можа лёгка стаць высокатэхналагічнай краінай'
   url: https://www.racyja.com/hramadstva/syargej-besarab-novaya-belarus-mozha-lyo/
+  lang: be
   audio: false
   search: 'сяргей бесараб: новая беларусь можа лёгка стаць высокатэхналагічнай краінай беларускае радыё рацыя'
   links:
@@ -3711,6 +4012,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Ці пагражае Беларусі і Польшчы сітуацыя на Хмяльніцкай АЭС?
   url: https://www.racyja.com/sumezhzha/tsi-pagrazhae-belarusi-i-polshchy-situats/
+  lang: be
   audio: false
   search: ці пагражае беларусі і польшчы сітуацыя на хмяльніцкай аэс? беларускае радыё рацыя
   links:
@@ -3722,6 +4024,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Лукашэнкаўцы будуць захоўваць радыеактыўныя адкіды ў гліне. Навуковец — гэта небяспечна!
   url: https://www.racyja.com/hramadstva/lukashysty-buduts-zakhouvats-radyeakt/
+  lang: be
   audio: false
   search: лукашэнкаўцы будуць захоўваць радыеактыўныя адкіды ў гліне. навуковец — гэта небяспечна! беларускае радыё рацыя
   links:
@@ -3733,6 +4036,7 @@ cards:
   outlet: Белсат
   title: Бачу навіны пра пагрозу ядравай вайны. Што зрабіць проста зараз, каб падрыхтавацца?
   url: https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/
+  lang: be
   audio: false
   search: бачу навіны пра пагрозу ядравай вайны. што зрабіць проста зараз, каб падрыхтавацца? белсат
   links:
@@ -3744,6 +4048,7 @@ cards:
   outlet: Voice of America
   title: 'VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl’s Radioactive Soil'
   url: https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html
+  lang: en
   audio: false
   search: 'voa exclusive: ukraine says photos show russia dug trenches in chernobyl’s radioactive soil voice of america'
   links:
@@ -3755,6 +4060,7 @@ cards:
   outlet: Белсат
   title: Пад Лунінцом пачалі разбудоўваць вайсковы аэрадром. Валяць радыеактыўны лес
   url: https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les
+  lang: be
   audio: false
   search: пад лунінцом пачалі разбудоўваць вайсковы аэрадром. валяць радыеактыўны лес белсат
   links:
@@ -3766,6 +4072,7 @@ cards:
   outlet: Белсат
   title: «Робяць сяк-так». Чаму ў Беларусі зноў абваліўся мост — і чаго чакаць надалей
   url: https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej
+  lang: be
   audio: false
   search: «робяць сяк-так». чаму ў беларусі зноў абваліўся мост — і чаго чакаць надалей белсат
   links:
@@ -3777,6 +4084,7 @@ cards:
   outlet: Inertia.pl
   title: Łukaszenka nie zważa na skażenie. "Musimy odzyskać ziemie czarnobylskie"
   url: https://wydarzenia.interia.pl/zagranica/news-lukaszenka-nie-zwaza-na-skazenie-musimy-odzyskac-ziemie-czar,nId,23422756
+  lang: pl
   audio: false
   search: łukaszenka nie zważa na skażenie. "musimy odzyskać ziemie czarnobylskie" inertia.pl
   links:
@@ -3788,6 +4096,7 @@ cards:
   outlet: Беларускае радыё Рацыя
   title: Праграмма Штосьці не так. Інтэрвью з Міколай Бянько наконт выкарыстання расейскай ядзернай зброі для выбуху ў космасе
   url: https://www.racyja.com/wp-content/uploads/2023/07/2023-10-08_Bjanko_Shtosci_AN.mp3
+  lang: en
   audio: false
   search: праграмма штосьці не так. інтэрвью з міколай бянько наконт выкарыстання расейскай ядзернай зброі для выбуху ў космасе беларускае радыё рацыя
   links: []
@@ -3796,6 +4105,7 @@ cards:
   outlet: Белсат
   title: Стэрылізацыя радыеактыўным апраменьваннем небяспечная?
   url: https://belsat.eu/in-focus/16-03-2023-sterylizatsyya-radyeaktyunym-apramenvannem-nebyaspechnaya
+  lang: be
   audio: false
   search: стэрылізацыя радыеактыўным апраменьваннем небяспечная? белсат
   links: []
@@ -3804,6 +4114,7 @@ cards:
   outlet: Белсат
   title: Чаму беларускі сыр нельга лічыць малочным прадуктам?
   url: https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam
+  lang: be
   audio: false
   search: чаму беларускі сыр нельга лічыць малочным прадуктам? белсат
   links: []
@@ -3812,6 +4123,7 @@ cards:
   outlet: Белсат
   title: Пяць прычынаў не адмаўляцца ад АЭС
   url: https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes
+  lang: be
   audio: false
   search: пяць прычынаў не адмаўляцца ад аэс белсат
   links:
@@ -3823,6 +4135,7 @@ cards:
   outlet: Белсат
   title: 'Найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года'
   url: https://belsat.eu/news/05-05-2023-najchastsej-represavali-filolagau-i-gistorykau-statystyka-represiyau-u-navutsy-ad-2020-goda
+  lang: be
   audio: false
   search: 'найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года белсат'
   links: []
@@ -3831,6 +4144,7 @@ cards:
   outlet: Белсат
   title: «Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?
   url: https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa
+  lang: be
   audio: false
   search: «яны забралі ў нас лес». чым небяспечныя кляшчы ў беларусі і як ад іх ратавацца? белсат
   links:
@@ -3842,6 +4156,7 @@ cards:
   outlet: Белсат
   title: На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России
   url: https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody
+  lang: ru
   audio: false
   search: на аэс фукусима-1 начали сбрасывать радиоактивную воду. рассказываем, стоит ли переживать японии и ее соседям — в том числе россии белсат
   links: []
@@ -3850,6 +4165,7 @@ cards:
   outlet: Белсат
   title: Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец
   url: https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa
+  lang: be
   audio: false
   search: чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? распавядае навуковец белсат
   links:
@@ -3861,6 +4177,7 @@ cards:
   outlet: Белсат
   title: '«Вся Земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее Симоньян взорвать бомбу над Сибирью'
   url: https://vot-tak.tv/novosti/04-10-2023-simonyan-vzryv
+  lang: ru
   audio: false
   search: '«вся земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее симоньян взорвать бомбу над сибирью белсат'
   links: []
@@ -3869,6 +4186,7 @@ cards:
   outlet: Белсат
   title: 'Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?'
   url: https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu
+  lang: be
   audio: false
   search: 'выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту? белсат'
   links: []
@@ -3877,6 +4195,7 @@ cards:
   outlet: Белсат
   title: Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі
   url: https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki
+  lang: be
   audio: false
   search: міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі белсат
   links: []
@@ -3885,6 +4204,7 @@ cards:
   outlet: Белсат
   title: Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023
   url: https://youtu.be/iXYwQTFsU1c?t=1191
+  lang: be
   audio: false
   search: атрутныя прадукты ў беларускіх крамах. праграмма аб'ектыў 22.12.2023 белсат
   links: []
@@ -3893,6 +4213,7 @@ cards:
   outlet: Белсат
   title: Прагнозы на 2024. Навука. Праграмма Тыдзень 07.01.2024
   url: https://youtu.be/AAOKeDtxsU8?t=770
+  lang: ru
   audio: false
   search: прагнозы на 2024. навука. праграмма тыдзень 07.01.2024 белсат
   links: []
@@ -3901,6 +4222,7 @@ cards:
   outlet: Белсат
   title: «Нават праказа здзівіла б менш». Навуковец патлумачыў, чаму цынга ў Латыпава – жахліва
   url: https://belsat.eu/news/16-02-2024-navat-prakaza-zdzivila-b-mensh-navukovets-patlumachyu-chamu-tsynga-u-latypava-zhahliva
+  lang: be
   audio: false
   search: «нават праказа здзівіла б менш». навуковец патлумачыў, чаму цынга ў латыпава – жахліва белсат
   links: []
@@ -3909,6 +4231,7 @@ cards:
   outlet: Белсат
   title: «Это худшая зависимость!» Беларусь подсела на российскую урановую иглу
   url: https://belsat.eu/ru/programs/26-02-2024-eto-hudshaya-zavisimost-belarus-podsela-na-rossijskuyu-uranovuyu-iglu
+  lang: ru
   audio: false
   search: «это худшая зависимость!» беларусь подсела на российскую урановую иглу белсат
   links: []
@@ -3917,6 +4240,7 @@ cards:
   outlet: Белсат
   title: 114 гадоў з дня народзінаў Барыса Кіта. Праграмма Аб'ектыў 06.04.2024
   url: https://youtu.be/i8bYzv3nJEU?t=984
+  lang: be
   audio: false
   search: 114 гадоў з дня народзінаў барыса кіта. праграмма аб'ектыў 06.04.2024 белсат
   links:
@@ -3928,6 +4252,7 @@ cards:
   outlet: Белсат
   title: Ці можна космас назваць нашым? Праграмма Аб'ектыў 12.04.2024
   url: https://belsat.eu/in-focus/12-04-2024-tsi-mozhna-kosmas-nazvats-nashym
+  lang: be
   audio: false
   search: ці можна космас назваць нашым? праграмма аб'ектыў 12.04.2024 белсат
   links: []
@@ -3936,6 +4261,7 @@ cards:
   outlet: Белсат
   title: Як беларусы адкрылі шлях у космас Праграмма Бязвіз 01.04.2024
   url: https://www.youtube.com/watch?v=x3s1YBcUKh0
+  lang: be
   audio: false
   search: як беларусы адкрылі шлях у космас праграмма бязвіз 01.04.2024 белсат
   links: []
@@ -3944,6 +4270,7 @@ cards:
   outlet: Белсат
   title: В РБ заговорили о необходимости перерабатывать мусор. Что скажет химик Праграмма Студыя БЕЛСАТ 25.05.2025
   url: https://www.youtube.com/watch?v=voKm6y69oL4
+  lang: ru
   audio: false
   search: в рб заговорили о необходимости перерабатывать мусор. что скажет химик праграмма студыя белсат 25.05.2025 белсат
   links:
@@ -3955,6 +4282,7 @@ cards:
   outlet: Белсат
   title: Спіс забруджаных земляў на Гомельшчыне скарацілі. Госць Сяргей Бесараб Праграмма Студыя БЕЛСАТ 25.11.2025
   url: https://www.youtube.com/watch?v=FhN5mNFmjOA
+  lang: be
   audio: false
   search: спіс забруджаных земляў на гомельшчыне скарацілі. госць сяргей бесараб праграмма студыя белсат 25.11.2025 белсат
   links:
@@ -3966,6 +4294,7 @@ cards:
   outlet: Белсат
   title: Месцы для сховішча адкідаў БелАЭС. Госць Сяргей Бесараб Праграмма Студыя БЕЛСАТ 29.03.2026
   url: https://www.youtube.com/watch?v=RKwxSCaCY68
+  lang: be
   audio: false
   search: месцы для сховішча адкідаў белаэс. госць сяргей бесараб праграмма студыя белсат 29.03.2026 белсат
   links:
@@ -3977,6 +4306,7 @@ cards:
   outlet: Белсат
   title: Сяргей Бесараб – пра загад Лукашэнкі вярнуць чарнобыльскія землі Праграмма Студыя БЕЛСАТ 27.04.2026
   url: https://www.youtube.com/watch?v=5-xiZFfUm_8
+  lang: be
   audio: false
   search: сяргей бесараб – пра загад лукашэнкі вярнуць чарнобыльскія землі праграмма студыя белсат 27.04.2026 белсат
   links: []
@@ -3985,6 +4315,7 @@ cards:
   outlet: Белсат
   title: Сяргей Бесараб – пра небяспеку хантавіруса Анды Праграмма Студыя БЕЛСАТ 11.05.2026
   url: https://www.youtube.com/watch?v=rCDSt5QDycc
+  lang: be
   audio: false
   search: сяргей бесараб – пра небяспеку хантавіруса анды праграмма студыя белсат 11.05.2026 белсат
   links: []
@@ -3993,6 +4324,7 @@ cards:
   outlet: Белсат
   title: Сяргей Бесараб – пра новую кліматычную рэальнасць Беларусі Праграмма Студыя БЕЛСАТ 29.06.2026
   url: https://www.youtube.com/watch?v=fsfG3nN5owc
+  lang: be
   audio: false
   search: сяргей бесараб – пра новую кліматычную рэальнасць беларусі праграмма студыя белсат 29.06.2026 белсат
   links:
@@ -4004,6 +4336,7 @@ cards:
   outlet: Белсат
   title: Наступствы чалавечай дзейнасці для беларускага клімату. Сяргей Бесараб Праграмма Студыя БЕЛСАТ 23.08.2026
   url: https://www.youtube.com/watch?v=HBi6Bh7DNSI
+  lang: be
   audio: false
   search: наступствы чалавечай дзейнасці для беларускага клімату. сяргей бесараб праграмма студыя белсат 23.08.2026 белсат
   links:
@@ -4015,6 +4348,7 @@ cards:
   outlet: Белсат
   title: Оземпик — лекарство или угроза? Химик Сергей Бесараб объясняет Праграмма Раніца з Белсатам 16.03.2025
   url: https://www.youtube.com/watch?v=-sTjp01FeB4
+  lang: ru
   audio: false
   search: оземпик — лекарство или угроза? химик сергей бесараб объясняет праграмма раніца з белсатам 16.03.2025 белсат
   links:
@@ -4026,6 +4360,7 @@ cards:
   outlet: Белсат
   title: Навуковы журналіст Сяргей Бесараб пра новыя мутацыі ў Чарнобылі Праграмма Раніца з Белсатам 26.04.2025
   url: https://www.youtube.com/watch?v=KoTlPvURZSA
+  lang: be
   audio: false
   search: навуковы журналіст сяргей бесараб пра новыя мутацыі ў чарнобылі праграмма раніца з белсатам 26.04.2025 белсат
   links:
@@ -4037,6 +4372,7 @@ cards:
   outlet: Белсат
   title: Коты, Rare и Medium-Rare стейки, сверчковое мясо и токсоплазма Праграмма Раніца з Белсатам 29.06.2025
   url: https://www.youtube.com/watch?v=h6QXZEsmFVY
+  lang: ru
   audio: false
   search: коты, rare и medium-rare стейки, сверчковое мясо и токсоплазма праграмма раніца з белсатам 29.06.2025 белсат
   links:
@@ -4048,6 +4384,7 @@ cards:
   outlet: Белсат
   title: Якія рызыкі нясе апраменьванне ад электрамабіляў і гібрыдаў Праграмма Раніца з Белсатам 16.08.2025
   url: https://www.youtube.com/watch?v=hPESqdd29WY
+  lang: be
   audio: false
   search: якія рызыкі нясе апраменьванне ад электрамабіляў і гібрыдаў праграмма раніца з белсатам 16.08.2025 белсат
   links:
@@ -4059,6 +4396,7 @@ cards:
   outlet: Белсат
   title: Сяргей Бесараб – пра мікрапластык, які мы спажываем разам з ежай Праграмма Раніца з Белсатам 05.10.2025
   url: https://www.youtube.com/watch?v=V4C87SoZS74
+  lang: be
   audio: false
   search: сяргей бесараб – пра мікрапластык, які мы спажываем разам з ежай праграмма раніца з белсатам 05.10.2025 белсат
   links:
@@ -4070,6 +4408,7 @@ cards:
   outlet: Белсат
   title: 'Усё пра каву: як выбраць, як правільна гатаваць, як змяняюцца кошты Праграмма Раніца з Белсатам 29.11.2025'
   url: https://www.youtube.com/watch?v=Zql25GqZI-4
+  lang: be
   audio: false
   search: 'усё пра каву: як выбраць, як правільна гатаваць, як змяняюцца кошты праграмма раніца з белсатам 29.11.2025 белсат'
   links:
@@ -4081,6 +4420,7 @@ cards:
   outlet: Белсат
   title: Навуковыя адкрыцці 2025 года і спадчына Мелказёрава Праграмма Раніца з Белсатам 27.12.2025
   url: https://www.youtube.com/watch?v=qUSNobrPMw8
+  lang: be
   audio: false
   search: навуковыя адкрыцці 2025 года і спадчына мелказёрава праграмма раніца з белсатам 27.12.2025 белсат
   links:
@@ -4092,6 +4432,7 @@ cards:
   outlet: Белсат
   title: Хімія кахання! Праграмма Раніца з Белсатам 14.02.2026
   url: https://www.youtube.com/watch?v=MLuCc137fgI
+  lang: be
   audio: false
   search: хімія кахання! праграмма раніца з белсатам 14.02.2026 белсат
   links:
@@ -4103,6 +4444,7 @@ cards:
   outlet: Белсат
   title: '«Гэта толькі пачатак»: шакавальны кліматычны прагноз для Беларусі Праграмма Белсат - Zoom 16.07.2024'
   url: https://www.youtube.com/watch?v=8LqQDSUGKzQ
+  lang: be
   audio: false
   search: '«гэта толькі пачатак»: шакавальны кліматычны прагноз для беларусі праграмма белсат - zoom 16.07.2024 белсат'
   links:
@@ -4114,6 +4456,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: 'Рубрыка Бесараба: Assisted Reproductive Technology Праграмма Раніца з Белсатам 07.03.2026'
   url: https://www.youtube.com/watch?v=PMytDt42heM
+  lang: en
   audio: false
   search: 'рубрыка бесараба: assisted reproductive technology праграмма раніца з белсатам 07.03.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)'
   links:
@@ -4125,6 +4468,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: 'Рубрыка Бесараба: Першы ў гісторыі наземны трансфер антыматэрыі Праграмма Раніца з Белсатам 28.03.2026'
   url: https://www.youtube.com/watch?v=7612Ixn7rCw
+  lang: be
   audio: false
   search: 'рубрыка бесараба: першы ў гісторыі наземны трансфер антыматэрыі праграмма раніца з белсатам 28.03.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)'
   links:
@@ -4136,6 +4480,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: 'Рубрыка Бесараба: Місія Artemis II. Што гэта значыць для Чалавецтва Праграмма Раніца з Белсатам 04.04.2026'
   url: https://www.youtube.com/watch?v=SDSyMQh1T5Y
+  lang: be
   audio: false
   search: 'рубрыка бесараба: місія artemis ii. што гэта значыць для чалавецтва праграмма раніца з белсатам 04.04.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)'
   links:
@@ -4147,6 +4492,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: 'Рубрыка Бесараба. Чарнобыль: ад катастрофы да навуч-тэх актыву Праграмма Раніца з Белсатам 25.04.2026'
   url: https://www.youtube.com/watch?v=o0dnD1SjUME
+  lang: ru
   audio: false
   search: 'рубрыка бесараба. чарнобыль: ад катастрофы да навуч-тэх актыву праграмма раніца з белсатам 25.04.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)'
   links:
@@ -4158,6 +4504,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Хронікі Пандэміцэну. Хантавірус Праграмма Раніца з Белсатам 09.05.2026
   url: https://www.youtube.com/watch?v=D6TmBcH_m0M
+  lang: be
   audio: false
   search: рубрыка бесараба. хронікі пандэміцэну. хантавірус праграмма раніца з белсатам 09.05.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4169,6 +4516,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Enhanced Games ці Гульні палепшаных Праграмма Раніца з Белсатам 23.05.2026
   url: https://www.youtube.com/watch?v=33OUD4-rpa4
+  lang: be
   audio: false
   search: рубрыка бесараба. enhanced games ці гульні палепшаных праграмма раніца з белсатам 23.05.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4180,6 +4528,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Engramme і паляпшэнне памяци Праграмма Раніца з Белсатам 14.06.2026
   url: https://www.youtube.com/watch?v=5byrNpyoJxI
+  lang: be
   audio: false
   search: рубрыка бесараба. engramme і паляпшэнне памяци праграмма раніца з белсатам 14.06.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4191,6 +4540,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Palantir і Цемнае Асветніцтва Праграмма Раніца з Белсатам 28.06.2026
   url: https://www.youtube.com/watch?v=Te22AmcE7OE
+  lang: be
   audio: false
   search: рубрыка бесараба. palantir і цемнае асветніцтва праграмма раніца з белсатам 28.06.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4202,6 +4552,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Геаінжынерыя Праграмма Раніца з Белсатам 18.07.2026
   url: https://www.youtube.com/watch?v=5c8r2lAHD9s
+  lang: be
   audio: false
   search: рубрыка бесараба. геаінжынерыя праграмма раніца з белсатам 18.07.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4213,6 +4564,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Лічбавае Сярэднявечча Праграмма Раніца з Белсатам 08.08.2026
   url: https://www.youtube.com/watch?v=sr1-JCbGiik
+  lang: be
   audio: false
   search: рубрыка бесараба. лічбавае сярэднявечча праграмма раніца з белсатам 08.08.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4224,6 +4576,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Эпоха пост-атлусцення Праграмма Раніца з Белсатам 29.08.2026
   url: https://www.youtube.com/watch?v=xZsmo7EnRK4
+  lang: ru
   audio: false
   search: рубрыка бесараба. эпоха пост-атлусцення праграмма раніца з белсатам 29.08.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4235,6 +4588,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Мэтанакіраваная інкубацыя сноў Праграмма Раніца з Белсатам 12.09.2026
   url: https://www.youtube.com/watch?v=UJpc2KCGaJI
+  lang: be
   audio: false
   search: рубрыка бесараба. мэтанакіраваная інкубацыя сноў праграмма раніца з белсатам 12.09.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4246,6 +4600,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Геапалітыка чалавечага мікрабіёма Праграмма Раніца з Белсатам 26.09.2026
   url: https://www.youtube.com/watch?v=XqOP-TZhFWo
+  lang: be
   audio: false
   search: рубрыка бесараба. геапалітыка чалавечага мікрабіёма праграмма раніца з белсатам 26.09.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4257,6 +4612,7 @@ cards:
   outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
   title: Рубрыка Бесараба. Сіндром Кеслера і Геапалітыка Арбіты Праграмма Раніца з Белсатам 24.10.2026
   url: https://www.youtube.com/watch?v=E3LfyONOxmg
+  lang: be
   audio: false
   search: рубрыка бесараба. сіндром кеслера і геапалітыка арбіты праграмма раніца з белсатам 24.10.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
   links:
@@ -4268,6 +4624,7 @@ cards:
   outlet: Зеленый портал
   title: 'Сергей Бесараб: «В домашней аптечке обязательно нужно иметь радиозащитную дозу йодидов»'
   url: https://greenbelarus.info/articles/29-08-2022/sergey-besarab-v-domashney-aptechke-obyazatelno-nuzhno-imet-radiozaschitnuyu
+  lang: ru
   audio: false
   search: 'сергей бесараб: «в домашней аптечке обязательно нужно иметь радиозащитную дозу йодидов» зеленый портал'
   links: []
@@ -4276,6 +4633,7 @@ cards:
   outlet: Зеленый портал
   title: В Донецке заявляют об утечке аммиака из-за обстрела пивного завода
   url: https://greenbelarus.info/articles/11-08-2022/v-donecke-zayavlyayut-ob-utechke-ammiaka-iz-za-obstrela-pivnogo-zavoda
+  lang: ru
   audio: false
   search: в донецке заявляют об утечке аммиака из-за обстрела пивного завода зеленый портал
   links: []
@@ -4284,6 +4642,7 @@ cards:
   outlet: Зеленый портал
   title: Что делать в случае ядерного взрыва, как обезопасить себя и продукты питания
   url: https://greenbelarus.info/articles/03-10-2022/chto-delat-v-sluchae-yadernogo-vzryva-kak-obezopasit-sebya-i-produkty-pitaniya
+  lang: ru
   audio: false
   search: что делать в случае ядерного взрыва, как обезопасить себя и продукты питания зеленый портал
   links: []
@@ -4292,6 +4651,7 @@ cards:
   outlet: Зеленый портал
   title: 'Ядерные отходы: почему они не уехали в Россию и что это значит для Беларуси?'
   url: https://greenbelarus.info/articles/27-11-2022/yadernye-otkhody-pochemu-oni-ne-uekhali-v-rossiyu-i-chto-eto-znachit-dlya
+  lang: ru
   audio: false
   search: 'ядерные отходы: почему они не уехали в россию и что это значит для беларуси? зеленый портал'
   links: []
@@ -4300,6 +4660,7 @@ cards:
   outlet: Зеленый портал
   title: 'Беларусский радиационный химик: Беларусь с ядерным оружием – это обезьяна с гранатой'
   url: https://greenbelarus.info/articles/07-04-2023/belarusskiy-radiacionnyy-khimik-belarus-s-yadernym-oruzhiem-eto-obezyana-s
+  lang: ru
   audio: false
   search: 'беларусский радиационный химик: беларусь с ядерным оружием – это обезьяна с гранатой зеленый портал'
   links: []
@@ -4308,6 +4669,7 @@ cards:
   outlet: Зеленый портал
   title: '«Это подарок для террористов или психически неуравновешенных людей». Поговорили с экспертами об облучении радиацией продуктов и товаров. Их вывод: вреда больше, чем пользы'
   url: https://greenbelarus.info/articles/18-04-2023/razmeschenie-ustanovok-dlya-oblucheniya-na-razlichnykh-obektakh-eto-podarok
+  lang: ru
   audio: false
   search: '«это подарок для террористов или психически неуравновешенных людей». поговорили с экспертами об облучении радиацией продуктов и товаров. их вывод: вреда больше, чем пользы зеленый портал'
   links: []
@@ -4316,6 +4678,7 @@ cards:
   outlet: Зеленый портал
   title: 'Были, есть и будут: какие радиоактивные элементы «подарил» нам Чернобыль?'
   url: https://greenbelarus.info/articles/19-04-2023/ne-stronciem-edinym-kakie-radioaktivnye-elementy-ostavil-nam-chernobyl
+  lang: ru
   audio: false
   search: 'были, есть и будут: какие радиоактивные элементы «подарил» нам чернобыль? зеленый портал'
   links: []
@@ -4324,6 +4687,7 @@ cards:
   outlet: Зеленый портал
   title: Атомные станции опасны, даже если никаких аварий на них не происходит
   url: https://greenbelarus.info/articles/19-05-2023/atomnye-stancii-opasny-dazhe-esli-nikakikh-avariy-na-nikh-ne-proiskhodit
+  lang: ru
   audio: false
   search: атомные станции опасны, даже если никаких аварий на них не происходит зеленый портал
   links: []
@@ -4332,6 +4696,7 @@ cards:
   outlet: Зеленый портал
   title: «Калі б за справу ўзялася ваенная контрвыведка, мяне б, хутчэй за ўсё, знайшлі. Таму я хутка з’ехаў з Беларусі»
   url: https://greenbelarus.info/articles/23-02-2024/kali-b-za-spravu-uzyalasya-vaennaya-kontrvyvedka-myane-b-khutchey-za-usyo
+  lang: be
   audio: false
   search: «калі б за справу ўзялася ваенная контрвыведка, мяне б, хутчэй за ўсё, знайшлі. таму я хутка з’ехаў з беларусі» зеленый портал
   links: []
@@ -4340,6 +4705,7 @@ cards:
   outlet: Зеленый портал
   title: Ці ёсць у мяне дома радыяцыя? Гутарка пра штодзённае апраменьванне
   url: https://www.youtube.com/watch?v=nu_FeLxJtjc
+  lang: be
   audio: false
   search: ці ёсць у мяне дома радыяцыя? гутарка пра штодзённае апраменьванне зеленый портал
   links: []
@@ -4348,6 +4714,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: 'Беседа с ученым-химиком Сергеем Бесарабом: "Ядерной войны не будет, возможен только микроудар"'
   url: https://www.youtube.com/watch?v=rmHCrB-pADM&t=2170s
+  lang: ru
   audio: false
   search: 'беседа с ученым-химиком сергеем бесарабом: "ядерной войны не будет, возможен только микроудар" обычное утро (оу)'
   links:
@@ -4359,6 +4726,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Сергей Бесараб о беларусской военной аптечке
   url: https://www.youtube.com/watch?v=v2nJjM7l1mE
+  lang: ru
   audio: false
   search: сергей бесараб о беларусской военной аптечке обычное утро (оу)
   links:
@@ -4370,6 +4738,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: 'Сергей Бесараб о прорыве в энергетике: «Прорыва нет. Это популизм!»'
   url: https://www.youtube.com/watch?v=KNclwxelxe8&t=4555s
+  lang: ru
   audio: false
   search: 'сергей бесараб о прорыве в энергетике: «прорыва нет. это популизм!» обычное утро (оу)'
   links:
@@ -4381,6 +4750,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Что делают УЧЕНЫЕ из Беларуси? Беспилотники и электрокары – от тоски и без финансирования
   url: https://www.youtube.com/watch?v=Elxed2qxbdg
+  lang: ru
   audio: false
   search: что делают ученые из беларуси? беспилотники и электрокары – от тоски и без финансирования обычное утро (оу)
   links:
@@ -4392,6 +4762,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: КАК ВЫЖИТЬ В ЯДЕРНОЙ ВОЙНЕ. Ученый – про виды бомб, оружие в России, Беларусь и где искать убежище
   url: https://www.youtube.com/watch?v=7gWKE71Ge-s
+  lang: ru
   audio: false
   search: как выжить в ядерной войне. ученый – про виды бомб, оружие в россии, беларусь и где искать убежище обычное утро (оу)
   links:
@@ -4403,6 +4774,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: КАК ЗЕМЛЯ ТРЕЩИТ ПО ШВАМ? Землетрясения в Турции, наводнения и смерчи в Беларуси
   url: https://www.youtube.com/watch?v=qB2bGUhKWC0
+  lang: ru
   audio: false
   search: как земля трещит по швам? землетрясения в турции, наводнения и смерчи в беларуси обычное утро (оу)
   links:
@@ -4414,6 +4786,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Этот фоторедактор ВЗОРВАЛ СОЦСЕТИ! Могут ли ваши данные попасть в ЦРУ или КГБ через Lensa?
   url: https://www.youtube.com/watch?v=EMcde95BpBU
+  lang: ru
   audio: false
   search: этот фоторедактор взорвал соцсети! могут ли ваши данные попасть в цру или кгб через lensa? обычное утро (оу)
   links:
@@ -4425,6 +4798,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: ПРИВОДИТ К РАКУ?! Зачем облучают продукты и какие дозы смертельно опасны для человека
   url: https://www.youtube.com/watch?v=zX7xBi3YQ6s
+  lang: ru
   audio: false
   search: приводит к раку?! зачем облучают продукты и какие дозы смертельно опасны для человека обычное утро (оу)
   links:
@@ -4436,6 +4810,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Лукашенко НЕ ОЖИДАЛ! Вот что будет, если ударят тактическим ядерным оружием по Дроздам
   url: https://www.youtube.com/watch?v=49sYqq6nvfE
+  lang: ru
   audio: false
   search: лукашенко не ожидал! вот что будет, если ударят тактическим ядерным оружием по дроздам обычное утро (оу)
   links:
@@ -4447,6 +4822,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Как вытащить КЛЕЩА, чем опасен укус энцефалитного клеща и другие важные вопросы
   url: https://www.youtube.com/watch?v=zIYUrt0y-AQ
+  lang: ru
   audio: false
   search: как вытащить клеща, чем опасен укус энцефалитного клеща и другие важные вопросы обычное утро (оу)
   links:
@@ -4458,6 +4834,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: 'Они хотят УДАРИТЬ ЯДЕРКОЙ по ПУТИНУ: есть ли у России ядерное оружие и стоит ли бояться?'
   url: https://www.youtube.com/watch?v=C1vAkg6HtkQ
+  lang: ru
   audio: false
   search: 'они хотят ударить ядеркой по путину: есть ли у россии ядерное оружие и стоит ли бояться? обычное утро (оу)'
   links:
@@ -4469,6 +4846,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Опасная МОЛОЧКА в Беларуси! Сколько радиации у нас в еде и есть ли ядерное оружие в Лиде
   url: https://www.youtube.com/watch?v=4EqgNybe3RM
+  lang: ru
   audio: false
   search: опасная молочка в беларуси! сколько радиации у нас в еде и есть ли ядерное оружие в лиде обычное утро (оу)
   links:
@@ -4480,6 +4858,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: В Беларуси будет МОГИЛЬНИК для ядерных отходов, но где? Шокирующие подробности про БелАЭС
   url: https://www.youtube.com/watch?v=GPFAcyd_FWE
+  lang: ru
   audio: false
   search: в беларуси будет могильник для ядерных отходов, но где? шокирующие подробности про белаэс обычное утро (оу)
   links:
@@ -4491,6 +4870,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: 'Защита от СОЛНЦА: как выбрать SPF, какой крем советует Рианна и что делают в Беларуси'
   url: https://www.youtube.com/watch?v=IPVYkVGjd0M
+  lang: ru
   audio: false
   search: 'защита от солнца: как выбрать spf, какой крем советует рианна и что делают в беларуси обычное утро (оу)'
   links:
@@ -4502,6 +4882,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: 'Беларусь: нефтедобыча, редкоземельные элементы и захоронения пестицидов'
   url: https://www.youtube.com/watch?v=GhSwwoe5Irg
+  lang: ru
   audio: false
   search: 'беларусь: нефтедобыча, редкоземельные элементы и захоронения пестицидов обычное утро (оу)'
   links:
@@ -4513,6 +4894,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Как ученым в Беларуси поднять свой статус?
   url: https://www.youtube.com/watch?v=2IVD3BmtuBg
+  lang: ru
   audio: false
   search: как ученым в беларуси поднять свой статус? обычное утро (оу)
   links:
@@ -4524,6 +4906,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: О лунной миссии Atremis II поведал ученый-химик Сергей Бесараб
   url: https://www.youtube.com/watch?v=bs0Vspl2fbY
+  lang: ru
   audio: false
   search: о лунной миссии atremis ii поведал ученый-химик сергей бесараб обычное утро (оу)
   links:
@@ -4535,6 +4918,7 @@ cards:
   outlet: Обычное утро (ОУ)
   title: Утечка чумы в Иркутске. Биооружие СССР и страхи США
   url: https://www.youtube.com/watch?v=BV4jIsAtL_4
+  lang: ru
   audio: false
   search: утечка чумы в иркутске. биооружие ссср и страхи сша обычное утро (оу)
   links:
@@ -4546,6 +4930,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: 36-летний минчанин Александр. Белорусский ученый составил портрет среднестатистического «экстремиста» — вот он какой
   url: https://news.zerkalo.io/life/26468.html
+  lang: ru
   audio: false
   search: 36-летний минчанин александр. белорусский ученый составил портрет среднестатистического «экстремиста» — вот он какой zerkalo.io (ex tut.by)
   links: []
@@ -4554,6 +4939,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: В Березовском районе мужчины подожгли прорубь. Узнали у ученого, как такое может быть
   url: https://news.zerkalo.io/life/28080.html
+  lang: ru
   audio: false
   search: в березовском районе мужчины подожгли прорубь. узнали у ученого, как такое может быть zerkalo.io (ex tut.by)
   links: []
@@ -4562,6 +4948,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Смерть наступает за несколько минут». По чатам распространяется страшилка о женщинах, дающих понюхать опасные духи
   url: https://news.zerkalo.io/cellar/33709.html
+  lang: ru
   audio: false
   search: «смерть наступает за несколько минут». по чатам распространяется страшилка о женщинах, дающих понюхать опасные духи zerkalo.io (ex tut.by)
   links: []
@@ -4570,6 +4957,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Есть овощи, которые во время жары становятся ядовитыми. Вы удивитесь, какие
   url: https://news.zerkalo.io/cellar/46656.html
+  lang: ru
   audio: false
   search: есть овощи, которые во время жары становятся ядовитыми. вы удивитесь, какие zerkalo.io (ex tut.by)
   links: []
@@ -4578,6 +4966,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Один месье очень боится нейтронов». Химик рассказал об интересных приборах, которые закупают для вероятной новой резиденции Лукашенко
   url: https://news.zerkalo.io/economics/49198.html
+  lang: ru
   audio: false
   search: «один месье очень боится нейтронов». химик рассказал об интересных приборах, которые закупают для вероятной новой резиденции лукашенко zerkalo.io (ex tut.by)
   links: []
@@ -4586,6 +4975,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Фантастическое будущее, которое уже наступает. Белорусский ученый рассказал о главных ожиданиях от науки в 2024 году
   url: https://news.zerkalo.io/cellar/59836.html
+  lang: ru
   audio: false
   search: фантастическое будущее, которое уже наступает. белорусский ученый рассказал о главных ожиданиях от науки в 2024 году zerkalo.io (ex tut.by)
   links: []
@@ -4594,6 +4984,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Рассказываем, как новые технологии меняют войны (многие уже существующие разработки наверняка покажутся вам фантастикой)
   url: https://news.zerkalo.io/cellar/60989.html
+  lang: ru
   audio: false
   search: рассказываем, как новые технологии меняют войны (многие уже существующие разработки наверняка покажутся вам фантастикой) zerkalo.io (ex tut.by)
   links: []
@@ -4602,6 +4993,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Ученый заканчивается там же, где заканчивается и личное достоинство». Мнение о том, что не так с белорусской наукой
   url: https://news.zerkalo.io/economics/62224.html
+  lang: ru
   audio: false
   search: «ученый заканчивается там же, где заканчивается и личное достоинство». мнение о том, что не так с белорусской наукой zerkalo.io (ex tut.by)
   links: []
@@ -4610,6 +5002,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит
   url: https://news.zerkalo.io/cellar/89634.html
+  lang: ru
   audio: false
   search: замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? объясняем, почему так происходит zerkalo.io (ex tut.by)
   links:
@@ -4621,6 +5014,7 @@ cards:
   outlet: Zerkalo.io (ex TUT.BY)
   title: «Всё прячется». Как и зачем власти возвращают в оборот земли, которые раньше относились к загрязненным радиацией
   url: https://news.zerkalo.io/economics/114538.html
+  lang: ru
   audio: false
   search: «всё прячется». как и зачем власти возвращают в оборот земли, которые раньше относились к загрязненным радиацией zerkalo.io (ex tut.by)
   links:
@@ -4635,6 +5029,7 @@ cards:
   outlet: DEV.BY
   title: «Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах
   url: https://devby.io/news/flies
+  lang: ru
   audio: false
   search: «бургеры из насекомых — хоть завтра». беларус ушёл из google делать бизнес на опарышах dev.by
   links: []
@@ -4643,6 +5038,7 @@ cards:
   outlet: DEV.BY
   title: «Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба
   url: https://devby.io/news/besarab-chto-chitat
+  lang: ru
   audio: false
   search: «спастись от газа, настроить сеть». чтение на уикенд от сергея бесараба dev.by
   links: []
@@ -4651,6 +5047,7 @@ cards:
   outlet: DEV.BY
   title: Где в Беларуси живут «экстремисты»? Анализ списка МВД из 1700+ человек
   url: https://devby.io/news/gde-v-belarusi-zhivut-ekstremisty
+  lang: ru
   audio: false
   search: где в беларуси живут «экстремисты»? анализ списка мвд из 1700+ человек dev.by
   links: []
@@ -4659,6 +5056,7 @@ cards:
   outlet: DEV.BY
   title: 'Научный хакатон в Минске: домашний наркотест, синтез генов и алгоритм для перебора картофеля'
   url: https://devby.io/news/pervyy-v-strane-nauchnyy-hakaton-vyigral-spektrometr-dlya-provedeniya-testa-na-narkotiki
+  lang: ru
   audio: false
   search: 'научный хакатон в минске: домашний наркотест, синтез генов и алгоритм для перебора картофеля dev.by'
   links: []
@@ -4667,6 +5065,7 @@ cards:
   outlet: DEV.BY
   title: Почему Нобелевская премия отстаёт от реального научного прогресса? Объясняет учёный-химик
   url: https://devby.io/blogs/posts/nobel-prize
+  lang: ru
   audio: false
   search: почему нобелевская премия отстаёт от реального научного прогресса? объясняет учёный-химик dev.by
   links:
@@ -4678,6 +5077,7 @@ cards:
   outlet: Новы Час Online
   title: Дзе ў Беларусі жыве найбольш «экстрэмістаў»?
   url: https://novychas.online/hramadstva/dze-u-belarusi-zyve-najbolsz-ekstremistau
+  lang: be
   audio: false
   search: дзе ў беларусі жыве найбольш «экстрэмістаў»? новы час online
   links: []
@@ -4686,6 +5086,7 @@ cards:
   outlet: Новы Час Online
   title: «Гомель-30» — сакрэтная база для ядзернай зброі РФ? Ці ПК-24, дзе здзекуюцца з жанчын-палітвязняў?
   url: https://novychas.online/hramadstva/homel-30-sakretnaja-baza-dlja-jadzernaj-zbroi
+  lang: be
   audio: false
   search: «гомель-30» — сакрэтная база для ядзернай зброі рф? ці пк-24, дзе здзекуюцца з жанчын-палітвязняў? новы час online
   links: []
@@ -4694,6 +5095,7 @@ cards:
   outlet: Новы Час Online
   title: Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі
   url: https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha
+  lang: be
   audio: false
   search: папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. некаторыя вынікі здзівілі новы час online
   links: []
@@ -4702,6 +5104,7 @@ cards:
   outlet: Радыё Свабода
   title: 'Чарнобыль: катастрофа, якую спрабуюць схаваць'
   url: https://www.youtube.com/watch?v=XNXtjazn680
+  lang: ru
   audio: false
   search: 'чарнобыль: катастрофа, якую спрабуюць схаваць радыё свабода'
   links: []
@@ -4710,6 +5113,7 @@ cards:
   outlet: Радыё Свабода
   title: 'Ядзерны магільнік у Беларусі: Сяргей Бесараб пра рэальную небяспеку'
   url: https://www.youtube.com/watch?v=lLyEE_F3hEk
+  lang: be
   audio: false
   search: 'ядзерны магільнік у беларусі: сяргей бесараб пра рэальную небяспеку радыё свабода'
   links:
@@ -4721,6 +5125,7 @@ cards:
   outlet: Радыё Свабода
   title: Должны ли были киберпартизаны взламывать сайт Национальной библиотеки? Радио Свобода 03.04.2026
   url: https://www.youtube.com/watch?v=uKGV8eto0Yk
+  lang: ru
   audio: false
   search: должны ли были киберпартизаны взламывать сайт национальной библиотеки? радио свобода 03.04.2026 радыё свабода
   links:
@@ -4732,6 +5137,7 @@ cards:
   outlet: Радыё Свабода
   title: Якія радыёнукліды засталіся ў Беларусі ад ЧАЭС. Каментуе Сяргей Бесараб Радыё Свабода 24.04.2026
   url: https://www.youtube.com/watch?v=6Fp1L3cn5CY
+  lang: be
   audio: false
   search: якія радыёнукліды засталіся ў беларусі ад чаэс. каментуе сяргей бесараб радыё свабода 24.04.2026 радыё свабода
   links:
@@ -4743,6 +5149,7 @@ cards:
   outlet: CityDog
   title: «В беларуских аптеках такого йода нет». Специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации
   url: https://citydog.io/post/kakoy-yod/
+  lang: ru
   audio: false
   search: «в беларуских аптеках такого йода нет». специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации citydog
   links: []
@@ -4751,6 +5158,7 @@ cards:
   outlet: CityDog
   title: 'Если случится ядерный удар: какой йод можно найти в беларуских аптеках? Сколько он стоит и поможет ли при радиации? Вот наглядная инструкция'
   url: https://citydog.io/post/kak-vybrat-yod/
+  lang: ru
   audio: false
   search: 'если случится ядерный удар: какой йод можно найти в беларуских аптеках? сколько он стоит и поможет ли при радиации? вот наглядная инструкция citydog'
   links: []
@@ -4759,6 +5167,7 @@ cards:
   outlet: Штодзень
   title: 'Чарнобыль: абы не было панікі'
   url: https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/
+  lang: be
   audio: true
   search: 'чарнобыль: абы не было панікі штодзень'
   links:
@@ -4773,6 +5182,7 @@ cards:
   outlet: Штодзень
   title: Могільнік, разлічаны на 300 гадоў, можа не вытрымаць і ста. Пяць галоўных рызык беларускага сховішча радыеактыўных адкідаў
   url: https://homeldays.org/mogilnik-razlichany-na-300-gado-mozha-ne-vytrymac-i-sta-pjac-galo-nyh-ryzyk-belaruskaga-shovishcha-radyeakty-nyh-adkida/
+  lang: be
   audio: false
   search: могільнік, разлічаны на 300 гадоў, можа не вытрымаць і ста. пяць галоўных рызык беларускага сховішча радыеактыўных адкідаў штодзень
   links:
@@ -4784,6 +5194,7 @@ cards:
   outlet: Флагшток
   title: «Уклонение от ответственности». Эксперт прокомментировал ответы БелРАО на замечания по проекту ПЗРО
   url: https://flagshtok.info/ru/naviny/uklonenie-ot-otvetstvennosti-ekspert-prokommentiroval-otvety-belrao-na-zamechanija-po-proektu-pzro.html
+  lang: ru
   audio: false
   search: «уклонение от ответственности». эксперт прокомментировал ответы белрао на замечания по проекту пзро флагшток
   links:
@@ -4795,6 +5206,7 @@ cards:
   outlet: ЕвроРадио
   title: Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай
   url: https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay
+  lang: ru
   audio: false
   search: как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай еврорадио
   links: []
@@ -4803,6 +5215,7 @@ cards:
   outlet: Авторский проект Никиты Мелкозерова «Жизнь-малина»
   title: 'Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ'
   url: https://www.youtube.com/watch?v=ffLIJD4RGxs
+  lang: ru
   audio: false
   search: 'его уволили из академии наук: лукашенко, бомба в 50 килотонн, почему наука в заднице - бесараб авторский проект никиты мелкозерова «жизнь-малина»'
   links:
@@ -4814,6 +5227,7 @@ cards:
   outlet: Инициатива "Честные люди"
   title: 'Искусственный интеллект в Беларуси: между глобальным прогрессом и цифровой диктатурой'
   url: https://www.youtube.com/watch?v=PJTSk8HM1dM
+  lang: ru
   audio: false
   search: 'искусственный интеллект в беларуси: между глобальным прогрессом и цифровой диктатурой инициатива "честные люди"'
   links:
@@ -4825,6 +5239,7 @@ cards:
   outlet: Инициатива "Честные люди"
   title: '400 000 «тунеядцев»: что Беларусь сделает с безработными в будущем'
   url: https://www.youtube.com/watch?v=lY-AwFK18Pk
+  lang: ru
   audio: false
   search: '400 000 «тунеядцев»: что беларусь сделает с безработными в будущем инициатива "честные люди"'
   links: []
@@ -4833,6 +5248,7 @@ cards:
   outlet: Газета Салідарнасць
   title: «Гусакоў генерыраваў крынж, Акадэмія навук хоць як прысутнічала ў інфапрасторы. Каранік жа абсалютна маркотны і выклікае толькі жаль»
   url: https://gazetaby.com/post/gusakou-generyravau-krynzh-akademiya-navuk-xocz-yak-prysutnichala-u-in/208717/
+  lang: be
   audio: false
   search: «гусакоў генерыраваў крынж, акадэмія навук хоць як прысутнічала ў інфапрасторы. каранік жа абсалютна маркотны і выклікае толькі жаль» газета салідарнасць
   links:
@@ -4853,6 +5269,7 @@ cards:
   outlet: Газета Салідарнасць
   title: 'Бесараб: Решение властей остановить радиацию «на бумаге» может привести к долгосрочной национальной катастрофе'
   url: https://gazetaby.com/post/besarab-reshenie-vlastej-ostanovit-radiaciyu-na-bumage-mozhet-privesti/215633/
+  lang: ru
   audio: false
   search: 'бесараб: решение властей остановить радиацию «на бумаге» может привести к долгосрочной национальной катастрофе газета салідарнасць'
   links:
@@ -4864,6 +5281,7 @@ cards:
   outlet: Газета Салідарнасць
   title: «Нет школы, нет опыта и компетенций. Только надежда на россиян»
   url: https://gazetaby.com/post/net-shkoly-net-opyta-i-kompetencij-est-tolko-nadezhda-na-rossiyan/216313/
+  lang: ru
   audio: false
   search: «нет школы, нет опыта и компетенций. только надежда на россиян» газета салідарнасць
   links:
@@ -4875,6 +5293,7 @@ cards:
   outlet: Газета Салідарнасць
   title: «Более 1300 гектаров вокруг Солигорска заняты соляными отвалами. Представьте, какое давление на экологию оказывается»
   url: https://gazetaby.com/post/bolee-1300-gektarov-vokrug-soligorska-zanyaty-solyanymi-otvalami-preds/217322/
+  lang: ru
   audio: false
   search: «более 1300 гектаров вокруг солигорска заняты соляными отвалами. представьте, какое давление на экологию оказывается» газета салідарнасць
   links:
@@ -4886,6 +5305,7 @@ cards:
   outlet: REFORM.BY
   title: Химик раскритиковал сюжеты БТ об «отравителе милиционеров» Латыпове
   url: https://reform.by/165661-himik-raskritikoval-sjuzhety-bt-ob-otravitele-milicionerov-latypove
+  lang: ru
   audio: false
   search: химик раскритиковал сюжеты бт об «отравителе милиционеров» латыпове reform.by
   links: []
@@ -4894,6 +5314,7 @@ cards:
   outlet: Onliner
   title: Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»
   url: https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen
+  lang: ru
   audio: false
   search: удобрение, «белизна» и средство от кротов. ученый-химик раскритиковал историю об «отравителе» с «площади перемен» onliner
   links: []
@@ -4902,6 +5323,7 @@ cards:
   outlet: Petitions.by
   title: https://e-petitions.by/articles/4993
   url: https://web.archive.org/web/20240908173716/https://telegra.ph/ZHalkoe-zrelishche-Belarusy-prosyat-ne-otklyuchat-internet-uchenym-v-Akademii-Nauk-09-08
+  lang: en
   audio: false
   search: https://e-petitions.by/articles/4993 petitions.by
   links: []
@@ -4910,6 +5332,7 @@ cards:
   outlet: Petitions.by
   title: «Это может стать проблемой для соседних стран». Химик о последствиях сокращения списка населенных пунктов с «чернобыльским» статусом
   url: https://petitions.pro/articles/6587
+  lang: ru
   audio: false
   search: «это может стать проблемой для соседних стран». химик о последствиях сокращения списка населенных пунктов с «чернобыльским» статусом petitions.by
   links:
@@ -4921,6 +5344,7 @@ cards:
   outlet: Беларусский расследовательский центр
   title: Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего
   url: https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine
+  lang: ru
   audio: false
   search: антифейк/фактчек. на «горизонте» создали уникальный телевизор будущего беларусский расследовательский центр
   links: []
@@ -4929,6 +5353,7 @@ cards:
   outlet: Наша візія
   title: Дыскусія пра будучыню беларускай навукі Наша Візія
   url: https://www.youtube.com/watch?v=dyq6qrTN-70
+  lang: be
   audio: false
   search: дыскусія пра будучыню беларускай навукі наша візія наша візія
   links:
@@ -4940,6 +5365,7 @@ cards:
   outlet: Газета СБ. Беларусь сегодня
   title: 'Есть вопрос: что не мешало бы изобрести?'
   url: https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html
+  lang: ru
   audio: false
   search: 'есть вопрос: что не мешало бы изобрести? газета сб. беларусь сегодня'
   links: []
@@ -4948,6 +5374,7 @@ cards:
   outlet: Беларусское телевидение (СТВ/БТ)
   title: Столичное телевидение. В Беларуси с помощью смартфона можно будет измерить давление и определить качество продуктов
   url: https://web.archive.org/web/20201007084712/http://www.ctv.by/v-belarusi-s-pomoshchyu-smartfona-mozhno-budet-izmerit-davlenie-i-opredelit-kachestvo-produktov
+  lang: ru
   audio: false
   search: столичное телевидение. в беларуси с помощью смартфона можно будет измерить давление и определить качество продуктов беларусское телевидение (ств/бт)
   links: []
@@ -4956,6 +5383,7 @@ cards:
   outlet: Беларусское телевидение (СТВ/БТ)
   title: В Парке высоких технологий прошел первый научный хакатон в Беларуси
   url: https://www.tvr.by/videogallery/informatsionno-analiticheskie/panorama/panorama-01-06-2017/
+  lang: ru
   audio: false
   search: в парке высоких технологий прошел первый научный хакатон в беларуси беларусское телевидение (ств/бт)
   links:
@@ -4967,6 +5395,7 @@ cards:
   outlet: Беларусское телевидение (СТВ/БТ)
   title: 'Научный хакатон Столичное телевидение: Новости Беларуси 02.06.2017'
   url: https://www.youtube.com/watch?v=vKhX39d8Pmo
+  lang: ru
   audio: false
   search: 'научный хакатон столичное телевидение: новости беларуси 02.06.2017 беларусское телевидение (ств/бт)'
   links:
@@ -4978,6 +5407,7 @@ cards:
   outlet: Настоящее Время
   title: Что будет с погодой в Беларуси до конца лета и ближайшие годы
   url: https://www.youtube.com/watch?v=T_FhQ8n1NCc
+  lang: ru
   audio: false
   search: что будет с погодой в беларуси до конца лета и ближайшие годы настоящее время
   links: []
@@ -4986,6 +5416,7 @@ cards:
   outlet: EcoHome
   title: Эксперты раскритиковали проект ОВОС беларусского пункта захоронения радиоактивных отходов
   url: https://web.archive.org/web/20260902105624/https://ecohome.ngo/nezavisimye-eksperty-raskritikovali-proekt-ovos-belarusskogo-punkta-zahoroneniya-radioaktivnyh-othodov/
+  lang: ru
   audio: false
   search: эксперты раскритиковали проект овос беларусского пункта захоронения радиоактивных отходов ecohome
   links:
@@ -4997,6 +5428,7 @@ cards:
   outlet: Malanka Media
   title: Конкурентна ли беларусская наука?
   url: https://www.youtube.com/watch?v=orxYrMBJS1k
+  lang: ru
   audio: false
   search: конкурентна ли беларусская наука? malanka media
   links: []
@@ -5005,6 +5437,7 @@ cards:
   outlet: Malanka Media
   title: Зачем переходить на зимнее время?
   url: https://www.youtube.com/watch?v=vzQ1G_HZJUg
+  lang: ru
   audio: false
   search: зачем переходить на зимнее время? malanka media
   links: []
@@ -5013,6 +5446,7 @@ cards:
   outlet: Malanka Media
   title: Чернобыльская АЭС как инструмент провокаций Кремля
   url: https://www.youtube.com/watch?v=B7TiK-86ens
+  lang: ru
   audio: false
   search: чернобыльская аэс как инструмент провокаций кремля malanka media
   links:
@@ -5024,6 +5458,7 @@ cards:
   outlet: Malanka Media
   title: Беларусь станет полигоном для ядерных отходов?
   url: https://www.youtube.com/watch?v=4Tqhi-IncTg
+  lang: ru
   audio: false
   search: беларусь станет полигоном для ядерных отходов? malanka media
   links: []
@@ -5032,6 +5467,7 @@ cards:
   outlet: Malanka Media
   title: Какие сюрпризы принесёт погода в 2025 в Беларуси?
   url: https://www.youtube.com/watch?v=VMyZwOvcPyI
+  lang: ru
   audio: false
   search: какие сюрпризы принесёт погода в 2025 в беларуси? malanka media
   links: []
@@ -5040,6 +5476,7 @@ cards:
   outlet: Malanka Media
   title: Авария неизбежна? Что происходит на ЗАЭС
   url: https://www.youtube.com/watch?v=Ap93YoGrdfI
+  lang: ru
   audio: false
   search: авария неизбежна? что происходит на заэс malanka media
   links: []
@@ -5048,6 +5485,7 @@ cards:
   outlet: Malanka Media
   title: РФ ударила по ЧАЭС! Есть риск новой катастрофы?
   url: https://www.youtube.com/watch?v=Gxo3zaLBI9Y
+  lang: ru
   audio: false
   search: рф ударила по чаэс! есть риск новой катастрофы? malanka media
   links: []
@@ -5056,6 +5494,7 @@ cards:
   outlet: Malanka Media
   title: Атомный шантаж! Чернобыль не выдержит этого удара
   url: https://www.youtube.com/watch?v=aqS56v1EJK0
+  lang: ru
   audio: false
   search: атомный шантаж! чернобыль не выдержит этого удара malanka media
   links: []
@@ -5064,6 +5503,7 @@ cards:
   outlet: Malanka Media
   title: Безопасность хранилища радиоактивных отходов в Беларуси
   url: https://www.youtube.com/watch?v=hTzNqbBMKfc
+  lang: ru
   audio: false
   search: безопасность хранилища радиоактивных отходов в беларуси malanka media
   links: []
@@ -5072,6 +5512,7 @@ cards:
   outlet: Malanka Media
   title: В Беларуси из ЧЗО исключены 177 населенных пунктов
   url: https://www.youtube.com/watch?v=_tfh9EmJ3zk
+  lang: ru
   audio: false
   search: в беларуси из чзо исключены 177 населенных пунктов malanka media
   links:
@@ -5083,6 +5524,7 @@ cards:
   outlet: Malanka Media
   title: Эксперты против хранилища радиоактивных отходов в РБ
   url: https://www.youtube.com/watch?v=cqZrczkwrT0
+  lang: ru
   audio: false
   search: эксперты против хранилища радиоактивных отходов в рб malanka media
   links:
@@ -5094,6 +5536,7 @@ cards:
   outlet: Malanka Media
   title: В Беларуси меняют правила работы академии наук
   url: https://www.youtube.com/watch?v=92Z65mebpoI
+  lang: ru
   audio: false
   search: в беларуси меняют правила работы академии наук malanka media
   links: []
@@ -5102,6 +5545,7 @@ cards:
   outlet: Malanka Media
   title: Lukashenko Puts Belarusian Science Under Security Service Control! What’s Next for Scientists?
   url: https://www.youtube.com/watch?v=BY3Dmm8He50
+  lang: en
   audio: false
   search: lukashenko puts belarusian science under security service control! what’s next for scientists? malanka media
   links:
@@ -5113,6 +5557,7 @@ cards:
   outlet: Телеканал Дождь
   title: В Беларуси задержаны семь радиолюбителей по делу о шпионаже
   url: https://www.youtube.com/watch?v=LduAfFSnkPk
+  lang: ru
   audio: false
   search: в беларуси задержаны семь радиолюбителей по делу о шпионаже телеканал дождь
   links:
@@ -5124,6 +5569,7 @@ cards:
   outlet: Телеканал Дождь
   title: Последствия ударов ВСУ по нефтяным объектам Туапсе
   url: https://www.youtube.com/watch?v=1vuwuMk0g68
+  lang: ru
   audio: false
   search: последствия ударов всу по нефтяным объектам туапсе телеканал дождь
   links: []
@@ -5132,6 +5578,7 @@ cards:
   outlet: Ходорковский LIVE
   title: Катастрофа в Туапсе. Комментарий коллоидного химика
   url: https://www.youtube.com/watch?v=Oow4Nnu-XQU
+  lang: ru
   audio: false
   search: катастрофа в туапсе. комментарий коллоидного химика ходорковский live
   links: []
@@ -5140,6 +5587,7 @@ cards:
   outlet: Авторский проект Николая Халезина «Перетрем с Халезиным»
   title: 'Радиация, ГМО и 5G: чего мы боимся зря? Разговор с химиком Сергеем Бесарабом'
   url: https://www.youtube.com/watch?v=_LWtUZAOuFk
+  lang: ru
   audio: false
   search: 'радиация, гмо и 5g: чего мы боимся зря? разговор с химиком сергеем бесарабом авторский проект николая халезина «перетрем с халезиным»'
   links:
@@ -5151,6 +5599,7 @@ cards:
   outlet: Авторский проект Александра Ивулина «ЧестнОК-LIVE»
   title: 'Ученые для Лукашенко мусор: здоровья нет, Караник абы кто, русские ржут с АЭС!'
   url: https://www.youtube.com/watch?v=OWHWzmSAe0E
+  lang: ru
   audio: false
   search: 'ученые для лукашенко мусор: здоровья нет, караник абы кто, русские ржут с аэс! авторский проект александра ивулина «честнок-live»'
   links:

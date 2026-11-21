@@ -228,3 +228,55 @@ h3 { font-size: 1.15rem; }
 .best-list a { color: $ink; font-weight: 600; text-decoration-color: $line; }
 .best-list a:hover { text-decoration-color: $ink-soft; }
 .best-list .best-note { display: block; font-size: 0.93rem; color: $ink-soft; margin-top: 2px; }
+
+/* Support */
+.support h2 { margin: 2rem 0 0.8rem; }
+.support-methods { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 10px 22px; }
+.support-methods a { font-weight: 600; }
+.support-crypto { list-style: none; padding: 0; margin: 0.6rem 0 0; }
+.support-crypto li { padding: 12px 0; border-top: 1px solid $line; display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: center; }
+.support-crypto li:first-child { border-top: 0; }
+.support-crypto .coin { grid-column: 1 / -1; font-size: 0.9rem; color: $muted; }
+.support-crypto .addr { word-break: break-all; font-size: 0.88rem; }
+.support .copy { font: 500 0.85rem $sans; padding: 5px 12px; border: 1px solid $line; border-radius: 8px; background: $card; color: $ink-soft; cursor: pointer; }
+.support .copy:hover { background: #f0f2ef; }
+.support .note { color: $muted; font-size: 0.9rem; margin: 0 0 8px; }
+.quiet { color: $muted; font-size: 0.9rem; margin: 2rem 0 0; }
+
+/* About: сводка и оглавление */
+.keyfacts { background: $card; border: 1px solid $line; border-radius: 10px; padding: 16px 22px; margin: 0 0 1rem; }
+.keyfacts h2 { font-size: 1.15rem; margin: 0 0 8px; }
+.keyfacts ul { margin: 0; padding-left: 1.1rem; }
+.keyfacts li { margin: 4px 0; font-size: 0.97rem; }
+.toc { font-size: 0.92rem; color: $muted; margin: 0 0 1.6rem; }
+.toc span { margin-right: 6px; }
+
+/* Меню на узких экранах, пропуск навигации, «наверх» */
+.skip-link { position: absolute; left: -9999px; top: 0; background: $ink; color: #fff; padding: 10px 16px; z-index: 100; border-radius: 0 0 8px 0; }
+.skip-link:focus { left: 0; }
+.nav-toggle { display: none; font: 500 0.9rem $sans; padding: 6px 14px; border: 1px solid $line; border-radius: 8px; background: $card; color: $ink-soft; cursor: pointer; }
+.to-top { position: fixed; right: 18px; bottom: 18px; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; background: $ink-soft; color: #fff; text-decoration: none; font-size: 1.3rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); z-index: 50; }
+.to-top[hidden] { display: none; }
+@media (max-width: 720px) {
+  .js .nav-toggle { display: inline-block; }
+  .js .main-nav { display: none; width: 100%; flex-direction: column; gap: 2px; order: 3; padding-top: 6px; }
+  .js .nav-open .main-nav { display: flex; }
+  .js .main-nav a { padding: 10px 0; font-size: 1rem; }
+  .header-tools { width: 100%; justify-content: space-between; }
+}
+
+/* Фильтр по языку на странице СМИ */
+.langs { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 18px; }
+.lang-btn { font: 500 0.82rem $sans; padding: 4px 10px; border: 1px solid $line; border-radius: 999px; background: $card; color: $muted; cursor: pointer; }
+.lang-btn .n { color: $muted; font-size: 0.75rem; }
+.lang-btn:hover { color: $ink; }
+.lang-btn[aria-pressed="true"] { background: $ink-soft; color: #fff; border-color: $ink-soft; }
+.lang-btn[aria-pressed="true"] .n { color: #e3e6e2; }
+
+/* Best coverage: сворачивающийся блок */
+.best-coverage > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; }
+.best-coverage > summary::-webkit-details-marker { display: none; }
+.best-coverage > summary::before { content: "▸"; color: $muted; font-size: 1.1rem; transition: transform 0.15s; }
+.best-coverage[open] > summary::before { transform: rotate(90deg); }
+.best-coverage > summary h2 { display: inline; }
+.best-coverage .best-list { margin-top: 0.8rem; }

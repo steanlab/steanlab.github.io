@@ -23,7 +23,7 @@ layout: default
     <h1>{{ t.hero_h1 }}</h1>
     <p class="lead">{{ t.hero_lead }}</p>
     <div class="actions">
-      <a class="btn btn-primary" href="#contact">{{ t.cta_press }}</a>
+      <a class="btn btn-primary" href="{{ site.baseurl }}{{ home }}press/">{{ t.cta_press }}</a>
       <a class="btn btn-outline" href="{{ site.baseurl }}{{ home }}interview/">{{ t.cta_media }}</a>
     </div>
   </div>
@@ -88,7 +88,9 @@ layout: default
       <div class="latest-body">
         <div class="label">{{ r.section }}</div>
         <h3><a href="{{ r.url }}">{{ r.title }}</a></h3>
-        <div class="chips"><span class="chip">{% if r.kind == "media" %}{{ t.kind_media }}{% else %}{{ t.kind_publications }}{% endif %}</span></div>
+        {%- if r.kind != "media" %}
+        <div class="chips"><span class="chip">{{ t.kind_publications }}</span></div>
+        {%- endif %}
       </div>
     </article>
     {%- endfor %}
@@ -106,7 +108,7 @@ layout: default
     <li><a href="{{ site.baseurl }}{{ home }}about/">{{ t.press_bio }}</a></li>
     <li><a href="{{ site.baseurl }}{{ home }}interview/">{{ t.press_media }}</a></li>
     {%- if site.data.facts.pgp_url and site.data.facts.pgp_url != "" %}
-    <li><a href="{{ site.data.facts.pgp_url }}">{{ t.press_pgp }}</a>{% if site.data.facts.pgp_fingerprint and site.data.facts.pgp_fingerprint != "" %} <code>{{ site.data.facts.pgp_fingerprint }}</code>{% endif %}</li>
+    <li><a href="{{ site.data.facts.pgp_url }}">{{ t.press_pgp }}</a></li>
     {%- endif %}
     {%- if site.data.facts.photo_url and site.data.facts.photo_url != "" %}
     <li><a href="{{ site.data.facts.photo_url }}">{{ t.press_photo }}</a></li>

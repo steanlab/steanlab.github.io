@@ -1,0 +1,14 @@
+# Страница «Support»: способы поддержки и криптоадреса. Порядок как на странице. Ничего другого править не нужно.
+methods:
+  - {name: Donorbox, url: "https://donorbox.org/donations-for-lab-66", preferred: true}
+  - {name: GitHub Sponsors, url: "https://github.com/sponsors/steanlab"}
+  - {name: Patreon, url: "https://www.patreon.com/steanlab"}
+  - {name: Revolut, url: "https://revolut.me/steanlab"}
+  - {name: PayPal, url: "https://paypal.me/steanlab"}
+crypto:
+  - {ticker: BTC, name: Bitcoin, network: Bitcoin, address: "3QRyF2UwcKECVtk1Ep8scndmCBoRATvZkx"}
+  - {ticker: ETH, name: Ethereum, network: Ethereum, address: "0x3Aa313FA17444db70536A0ec5493F3aaA49C9CBf"}
+  - {ticker: USDT, name: Tether, network: "ERC-20 (Ethereum)", address: "0x3Aa313FA17444db70536A0ec5493F3aaA49C9CBf"}
+  - {ticker: USDT, name: Tether, network: "TRC-20 (Tron)", address: "TCkcHBS1N5cVQtJNDMzKV6kSvrSCiEqkEo"}
+  - {ticker: TON, name: Toncoin, network: TON, address: "UQCTOOXW7Lz5Fhz9tu1pS0gilsrtLmEBKvYWzp7gQ-q5tZYW"}
+  - {ticker: ZEC, name: Zcash, network: Zcash (transparent), address: "t1LrYwjGn84gG4fWRs3ajaHZdaK2VWi5gFk"}

@@ -26,16 +26,33 @@ en:
   titles_note: Titles of articles and interviews are given in their original language.
   best_heading: Best coverage
   best_note: Nine selected items. The one-line summaries are in English, the titles are in the original language (EN, RU, UK, BE).
+  nav_menu: Menu
+  skip_link: Skip to content
+  to_top: Back to top
+  support_link: Support the author
+  support_intro: "Support helps keep this work independent: time for research and writing, the LAB66 science communication project, and the equipment and hosting behind it."
+  support_methods_h: Ways to support
+  support_preferred: "Preferred: lowest fees"
+  support_crypto_h: Cryptocurrency
+  support_crypto_note: Copy the address and check its first and last characters before sending. Send only the coin shown, on the network shown.
+  support_copy: Copy
+  support_copied: Copied
+  support_consult_h: Consultations
+  support_consult: Paid chemical consultations on request, details by email. Advice on emergency response to environmental and chemical disasters is free.
+  pub_announce: "News about new texts appears first in the Telegram channel <a href='https://t.me/lab66'>LAB-66</a>. Not every useful note grows into a full article, so small notes live only there."
+  lang_h: Language
+  lang_all: All
+  avail_emergency: Free and urgent advice on emergency response to environmental and chemical disasters.
   nav_expertise: Expertise
   nav_projects: Projects
   nav_contacts: Contacts
   hero_eyebrow: Independent scientist · Research chemist · Science communicator
   hero_h1: Chemistry, nuclear safety and global risks.
   hero_lead: Independent scientist and research chemist in colloid and surface chemistry, author of 12 patents. A regular expert for Belsat, RFE/RL and Deutsche Welle on nuclear safety, global catastrophic risks and technology analysis. Based in the European Union.
-  cta_press: Press contact
+  cta_press: Press kit
   cta_media: Media archive
   portrait_alt: "Portrait of Siarhei Besarab. Photo: Oleslawlama, CC BY-SA 4.0, cropped"
-  expertise_h: What I can comment on
+  expertise_h: "Expertise: what I can comment on"
   card1_title: Nuclear, radiation & chemical safety
   card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive waste repositories and disposal sites, radioactive and hazardous materials, protective equipment, risk assessment.
   card2_title: Futures studies & global risks
@@ -126,16 +143,33 @@ ru:
   titles_note: Названия статей и интервью приведены на языке оригинала.
   best_heading: Избранные материалы
   best_note: Девять избранных материалов. Краткие описания на английском, названия на языке оригинала (EN, RU, UK, BE).
+  nav_menu: Меню
+  skip_link: Перейти к содержимому
+  to_top: Наверх
+  support_link: Поддержать автора
+  support_intro: "Поддержка помогает сохранять независимость этой работы: время на исследования и тексты, научно-коммуникационный проект LAB66, оборудование и хостинг."
+  support_methods_h: Способы поддержки
+  support_preferred: "Предпочтительно: минимальные комиссии"
+  support_crypto_h: Криптовалюта
+  support_crypto_note: Скопируйте адрес и перед отправкой проверьте его первые и последние символы. Отправляйте только указанную монету в указанной сети.
+  support_copy: Копировать
+  support_copied: Скопировано
+  support_consult_h: Консультации
+  support_consult: Платные химические консультации по запросу, подробности по почте. Консультации по аварийному реагированию на экологические и химические катастрофы бесплатны.
+  pub_announce: "Новости о новых текстах сначала выходят в Telegram-канале <a href='https://t.me/lab66'>LAB-66</a>. Не каждая полезная заметка вырастает в отдельную статью, поэтому маленькие заметки живут только там."
+  lang_h: Язык
+  lang_all: Все
+  avail_emergency: Бесплатные срочные консультации по аварийному реагированию на экологические и химические катастрофы.
   nav_expertise: Экспертиза
   nav_projects: Проекты
   nav_contacts: Контакты
   hero_eyebrow: Независимый учёный · Химик-исследователь · Научный коммуникатор
   hero_h1: Химия, ядерная безопасность и глобальные риски.
   hero_lead: Независимый учёный, химик-исследователь в области коллоидной химии и химии поверхности, автор 12 патентов. Постоянный эксперт Белсата, Радио Свобода и Deutsche Welle по ядерной безопасности, глобальным катастрофическим рискам и аналитике технологий. Живёт в Европейском союзе.
-  cta_press: Контакт для прессы
+  cta_press: Пресс-кит
   cta_media: Архив СМИ
   portrait_alt: "Портрет Сергея Бесараба. Фото: Oleslawlama, CC BY-SA 4.0, обрезано"
-  expertise_h: Что могу прокомментировать
+  expertise_h: "Экспертиза: что могу прокомментировать"
   card1_title: Ядерная, радиационная и химическая безопасность
   card1_text: БелАЭС, чернобыльские территории, могильники радиоактивных отходов и пункты захоронения, радиоактивные и опасные вещества, средства защиты, оценка рисков.
   card2_title: Футурология и глобальные риски
@@ -226,15 +260,32 @@ be:
   titles_note: Назвы артыкулаў і інтэрв’ю прыведзены на мове арыгінала.
   best_heading: Выбраныя матэрыялы
   best_note: Дзевяць выбраных матэрыялаў. Кароткія апісанні па-англійску, назвы на мове арыгінала (EN, RU, UK, BE).
+  nav_menu: Меню
+  skip_link: Перайсці да зместу
+  to_top: Уверх
+  support_link: Падтрымаць аўтара
+  support_intro: "Падтрымка дапамагае захоўваць незалежнасць гэтай працы: час на даследаванні і тэксты, навукова-камунікацыйны праект LAB66, абсталяванне і хостынг."
+  support_methods_h: Спосабы падтрымкі
+  support_preferred: "Пераважна: мінімальныя камісіі"
+  support_crypto_h: Крыптавалюта
+  support_crypto_note: Скапіруйце адрас і перад адпраўкай праверце яго першыя і апошнія сімвалы. Адпраўляйце толькі ўказаную манету ва ўказанай сетцы.
+  support_copy: Капіраваць
+  support_copied: Скапіравана
+  support_consult_h: Кансультацыі
+  support_consult: Платныя хімічныя кансультацыі па запыце, падрабязнасці па пошце. Кансультацыі па аварыйным рэагаванні на экалагічныя і хімічныя катастрофы бясплатныя.
+  pub_announce: "Навіны пра новыя тэксты спачатку выходзяць у Telegram-канале <a href='https://t.me/lab66'>LAB-66</a>. Не кожная карысная нататка вырастае ў асобны артыкул, таму маленькія нататкі жывуць толькі там."
+  lang_h: Мова
+  lang_all: Усе
+  avail_emergency: Бясплатныя тэрміновыя кансультацыі па аварыйным рэагаванні на экалагічныя і хімічныя катастрофы.
   nav_expertise: Экспертыза
   nav_projects: Праекты
   nav_contacts: Кантакты
   hero_eyebrow: Незалежны навуковец · Хімік-даследчык · Навуковы камунікатар
   hero_h1: Хімія, ядзерная бяспека і глабальныя рызыкі.
   hero_lead: Незалежны навуковец, хімік-даследчык у галіне калоіднай хіміі і хіміі паверхні, аўтар 12 патэнтаў. Пастаянны эксперт Белсата, Радыё Свабода і Deutsche Welle па ядзернай бяспецы, глабальных катастрофічных рызыках і аналітыцы тэхналогій. Жыве ў Еўрапейскім саюзе.
-  cta_press: Кантакт для прэсы
+  cta_press: Прэс-кіт
   cta_media: Архіў СМІ
-  expertise_h: Што магу пракаментаваць
+  expertise_h: "Экспертыза: што магу пракаментаваць"
   portrait_alt: "Партрэт Сяргея Бесараба. Фота: Oleslawlama, CC BY-SA 4.0, абрэзана"
   card1_title: Ядзерная, радыяцыйная і хімічная бяспека
   card1_text: БелАЭС, чарнобыльскія тэрыторыі, могільнікі радыеактыўных адходаў і пункты іх захавання, радыеактыўныя і небяспечныя рэчывы, сродкі абароны, ацэнка рызык.

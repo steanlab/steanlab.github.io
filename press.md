@@ -31,6 +31,7 @@ The [full biography]({{ site.baseurl }}/about/) has education, awards and public
 - Time zone: Warsaw (Europe/Warsaw), UTC+01:00 in winter and UTC+02:00 in summer.
 - Languages: English, Russian, Belarusian.
 - Contact: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}).
+- Emergencies: free and urgent advice on emergency response to environmental and chemical disasters.
 
 {% include best-coverage.html %}
 

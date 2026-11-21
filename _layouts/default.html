@@ -5,6 +5,7 @@
 <!DOCTYPE html>
 <html lang="{{ lang }}">
   <head>
+    <script>document.documentElement.className += " js";</script>
     <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ t.name }} – {{ t.description }}</title>
 
     {% include meta.html %}
@@ -16,6 +17,7 @@
   </head>
 
   <body>
+    <a class="skip-link" href="#main">{{ t.skip_link }}</a>
     <div class="wrap">
       <header class="site-header">
         <a href="{{ site.baseurl }}{{ home }}" class="brand">
@@ -23,7 +25,8 @@
           <span class="brand-name">{{ t.name }}</span>
         </a>
         <div class="header-tools">
-          <nav class="main-nav" aria-label="Main">
+          <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="main-nav">{{ t.nav_menu }}</button>
+          <nav class="main-nav" id="main-nav" aria-label="Main">
             <a href="{{ site.baseurl }}{{ home }}interview/"{% if page.ref == "media" %} aria-current="page"{% endif %}>{{ t.nav_media }}</a>
             <a href="{{ site.baseurl }}{{ home }}bibliography/"{% if page.ref == "publications" %} aria-current="page"{% endif %}>{{ t.nav_publications }}</a>
             <a href="{{ site.baseurl }}{{ home }}#expertise">{{ t.nav_expertise }}</a>
@@ -51,6 +54,21 @@
         var a = e.target && e.target.closest ? e.target.closest("a[data-lang]") : null;
         if (a) { try { localStorage.setItem("lang", a.getAttribute("data-lang")); } catch (x) {} }
       });
+    </script>
+    <a class="to-top" href="#" hidden aria-label="{{ t.to_top }}" title="{{ t.to_top }}">↑</a>
+    <script>
+      (function () {
+        var tg = document.querySelector(".nav-toggle"), hd = document.querySelector(".site-header");
+        if (tg && hd) tg.addEventListener("click", function () {
+          var o = hd.classList.toggle("nav-open"); tg.setAttribute("aria-expanded", o ? "true" : "false");
+        });
+        var up = document.querySelector(".to-top");
+        if (up) {
+          function chk() { up.hidden = (window.pageYOffset || document.documentElement.scrollTop) < 900; }
+          window.addEventListener("scroll", chk, { passive: true }); chk();
+          up.addEventListener("click", function (e) { e.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+        }
+      })();
     </script>
     {% include analytics.html %}
   </body>

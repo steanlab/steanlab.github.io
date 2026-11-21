@@ -14,8 +14,8 @@ description: Multidisciplinary Scientist · Research Chemist · Writer
 # browser: какие языки браузера (navigator.language, первый в списке) ведут на эту версию при первом заходе на «/».
 languages:
   - {code: en, label: EN, name: English, home: /}
-  - {code: ru, label: RU, name: Русский, home: /ru/, browser: [ru, uk]}
-  - {code: be, label: BE, name: Беларуская, home: /be/, browser: [be]}
+  - {code: ru, label: RU, name: Русский, home: /ru/, browser: [ru]}
+  - {code: be, label: BE, name: Беларуская, home: /be/, browser: [be, uk]}
 facebook_app_id: "1221388345862223"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)

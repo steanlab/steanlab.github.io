@@ -1,4 +1,8 @@
 # Проекты для страницы «Проекты» (/projects/, /ru/projects/, /be/projects/).
-# title_key — ключ подписи в _data/i18n.yml; url — адрес без языкового префикса; text_key — необязательное описание (ключ в i18n.yml).
-- title_key: nav_stat
+# title_key и text_key — ключи подписей в _data/i18n.yml; url — адрес без языкового префикса.
+- title_key: proj_malina_title
+  text_key: proj_malina_text
   url: /stat/
+- title_key: proj_zs_title
+  text_key: proj_zs_text
+  url: /stat/zahlianie_sonca.html

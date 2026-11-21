@@ -30,7 +30,7 @@ en:
   nav_contacts: Contacts
   hero_eyebrow: Independent scientist · Research chemist · Science communicator
   hero_h1: Chemistry, radiation safety and the science behind the news.
-  hero_lead: Siarhei Besarab is a colloid and surface chemist and a regular expert voice on nuclear safety, environment and climate for Belarusian and international media.
+  hero_lead: Independent scientist and research chemist in colloid and surface chemistry, author of 12 patents. A regular expert for Belsat, RFE/RL and Deutsche Welle on nuclear safety, the environment and climate. Based in the European Union.
   cta_press: Press contact
   cta_media: Media archive
   portrait_alt: Portrait of Siarhei Besarab
@@ -69,6 +69,10 @@ en:
   l_other: Copy
   badge_audio: Audio
   sections_h: Series and topics
+  proj_malina_title: malina.by, a memorial catalogue
+  proj_malina_text: A catalogue of all videos by Mikita Melkazyorau, made in his memory, with a guide to guests by profession.
+  proj_zs_title: «Загляне сонца», a viewing guide
+  proj_zs_text: A catalogue of the lesser-known educational channel «Загляне сонца» by Mikita Melkazyorau, with a button that picks a random episode.
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -97,7 +101,7 @@ ru:
   nav_contacts: Контакты
   hero_eyebrow: Независимый учёный · Химик-исследователь · Научный коммуникатор
   hero_h1: Химия, радиационная безопасность и наука за новостями.
-  hero_lead: Сергей Бесараб — химик в области коллоидов и поверхности, постоянный эксперт белорусских и международных СМИ по ядерной безопасности, экологии и климату.
+  hero_lead: Независимый учёный, химик-исследователь в области коллоидной химии и химии поверхности, автор 12 патентов. Постоянный эксперт Белсата, Радио Свобода и Deutsche Welle по ядерной безопасности, экологии и климату. Живёт в Европейском союзе.
   cta_press: Контакт для прессы
   cta_media: Архив СМИ
   portrait_alt: Портрет Сергея Бесараба
@@ -136,6 +140,10 @@ ru:
   l_other: Копия
   badge_audio: Аудио
   sections_h: Серии и темы
+  proj_malina_title: malina.by, мемориальный каталог
+  proj_malina_text: Каталог всех видео Никиты Мелкозерова, созданный в его память, с путеводителем по гостям и их профессиям.
+  proj_zs_title: «Загляне сонца», путеводитель
+  proj_zs_text: Каталог малоизвестного просветительского канала «Загляне сонца» Никиты Мелкозерова с кнопкой, которая выбирает случайную серию.
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны вучоны · Хімік-даследчык · Аўтар
@@ -164,7 +172,7 @@ be:
   nav_contacts: Кантакты
   hero_eyebrow: Незалежны навуковец · Хімік-даследчык · Навуковы камунікатар
   hero_h1: Хімія, радыяцыйная бяспека і навука за навінамі.
-  hero_lead: Сяргей Бесараб — хімік у галіне калоідаў і паверхні, пастаянны эксперт беларускіх і міжнародных СМІ па ядзернай бяспецы, экалогіі і клімаце.
+  hero_lead: Незалежны вучоны, хімік-даследчык у галіне калоіднай хіміі і хіміі паверхні, аўтар 12 патэнтаў. Пастаянны эксперт Белсата, Радыё Свабода і Deutsche Welle па ядзернай бяспецы, экалогіі і клімаце. Жыве ў Еўрапейскім саюзе.
   cta_press: Кантакт для прэсы
   cta_media: Архіў СМІ
   portrait_alt: Партрэт Сяргея Бесараба
@@ -203,3 +211,7 @@ be:
   l_other: Копія
   badge_audio: Аўдыё
   sections_h: Серыі і тэмы
+  proj_malina_title: malina.by, мемарыяльны каталог
+  proj_malina_text: Каталог усіх відэа Мікіты Мелказёрава, створаны ў яго памяць, з даведнікам па гасцях і іх прафесіях.
+  proj_zs_title: «Загляне сонца», даведнік
+  proj_zs_text: Каталог малавядомага асветніцкага канала «Загляне сонца» Мікіты Мелказёрава з кнопкай, якая выбірае выпадковую серыю.

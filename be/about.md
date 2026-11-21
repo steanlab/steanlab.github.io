@@ -7,6 +7,4 @@ title: "Пра аўтара"
 published: true
 ---
 
-> {{ site.data.i18n.be.translation_note }}
-
-{% include about-body.md %}
+{% include about-body-be.md %}

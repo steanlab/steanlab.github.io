@@ -318,6 +318,12 @@ def check_static(root, i18n):
         for tag in re.findall(r"\{\{.*?\}\}|\{%.*?%\}", src, re.S):
             for k in re.findall(r"(?<![\w.])t\.([a-z_0-9]+)", tag):
                 used.add(k)
+    for f in files:
+        src = open(os.path.join(root, f), encoding="utf-8").read()
+        for inc in re.findall(r"\{%-?\s*include\s+([\w./-]+)", src):
+            if not os.path.exists(os.path.join(root, "_includes", inc)) and inc not in (
+                    "svg-icons.html", "analytics.html", "disqus.html"):
+                bad.append("%s: нет файла _includes/%s" % (f, inc))
     print("шаблоны: «%%» не найдено" if not bad else "шаблоны: ОШИБКИ " + "; ".join(bad))
     ok &= not bad
     # внутренние слои (layout: default) рисуются раньше внешнего: lang/t/home задаём в каждом сами

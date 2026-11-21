@@ -14,7 +14,7 @@ sections:
 - title: Бумажные книги
   level: 1
   entries:
-  - text: 'Пока представлены только одной позицией, научной монографией из далекого 2014 года, посвященной особенностям регулирования пористой структуры адсорбентов и кактализаторов. В общих чертах вопросы, которые затрагиваются в книге описаны в {BE:WIKIPEDIA}:'
+  - text: 'Пока представлены только одной позицией, научной монографией из далекого 2014 года, посвященной особенностям регулирования пористой структуры адсорбентов и кактализаторов. В общих чертах вопросы, которые затрагиваются в книге описаны в [белорусской Википедии](https://be.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%B0%D1%80%D0%B1%D0%B5%D0%BD%D1%82%D1%8B_%D1%96_%D0%BD%D0%BE%D1%81%D1%8C%D0%B1%D1%96%D1%82%D1%8B_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%82%D0%B0%D1%80%D0%B0%D1%9E._%D0%9D%D0%B0%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F_%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D1%8D%D0%B3%D1%83%D0%BB%D1%8F%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BF%D0%BE%D1%80%D1%8B%D1%81%D1%82%D0%B0%D0%B9_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B):'
   - title: Адсорбенты и носители катализаторов. Научные основые регулирования пористой структуры
     url: https://be.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%B0%D1%80%D0%B1%D0%B5%D0%BD%D1%82%D1%8B_%D1%96_%D0%BD%D0%BE%D1%81%D1%8C%D0%B1%D1%96%D1%82%D1%8B_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%82%D0%B0%D1%80%D0%B0%D1%9E._%D0%9D%D0%B0%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F_%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D1%8D%D0%B3%D1%83%D0%BB%D1%8F%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BF%D0%BE%D1%80%D1%8B%D1%81%D1%82%D0%B0%D0%B9_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B
 - title: KV.BY этап. Заметки в бумажную газету «Компьютерные вести»
@@ -26,57 +26,57 @@ sections:
   level: 2
   entries:
   - title: «Ленивчик» из мобильного телефона. Часть 2 (Компьютерные Вести №38 за 2007 год)
-    url: http://www.kv.by/index2007380503.htm&amp;print
+    url: https://www.kv.by/archive/index2007380503.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/MSgTf'}
   - title: «Ленивчик» из мобильного телефона. Часть 1 (Компьютерные Вести №37 за 2007 год)
-    url: http://www.kv.by/index2007370504.htm&amp;print
+    url: https://www.kv.by/archive/index2007370504.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/aqhhd'}
 - title: Серия «Пособие цифровым книгопечатникам»
   level: 2
   entries:
   - title: Пособие «цифровым» книгопечатникам. Часть 3 (Компьютерные Вести №38 за 2008 год)
-    url: http://www.kv.by/index2008383001.htm&amp;print
+    url: https://www.kv.by/archive/index2008383001.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/B8VHX'}
   - title: Пособие «цифровым» книгопечатникам. Часть 2 (Компьютерные Вести №36 за 2008 год)
-    url: http://www.kv.by/index2008363001.htm&amp;print
+    url: https://www.kv.by/archive/index2008363001.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/1Mf7j'}
   - title: Пособие «цифровым» книгопечатникам. Часть 1 (Компьютерные Вести №34 за 2008 год)
-    url: http://kv.by/index2008343001.htm&amp;print
+    url: https://www.kv.by/archive/index2008343001.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/P0fVk'}
   - title: Цифровое «книгопечатание».Фотоаппарат вместо сканера (Компьютерные Вести №9 за 2009 год)
-    url: http://www.kv.by/print/archive/index2009093001.htm
+    url: https://www.kv.by/archive/index2009093001.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/JPeIB'}
   - title: Цифровое «книгопечатание». Книга за 5 минут. Часть 2(Компьютерные Вести №46 за 2009 год)
-    url: http://old.kv.by/index2009463002.htm&amp;print
+    url: https://www.kv.by/archive/index2009463002.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/YHstz'}
   - title: Цифровое «книгопечатание». Книга за 5 минут. Часть 1 (Компьютерные Вести №45 за 2009 год)
-    url: http://old.kv.by/index2009453002.htm&amp;print
+    url: https://www.kv.by/archive/index2009453002.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/vDpXM'}
   - title: Маленькая Opera для большого компьютера (Компьютерные Вести №31 за 2008 год)
-    url: http://www.kv.by/archive/index2008311106.htm
+    url: https://www.kv.by/archive/index2008311106.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/UaTX6'}
   - title: Omnia meum mecum porto или on-line бэкап записной книги (Компьютерные Вести №20 за 2008 год)
-    url: http://www.kv.by/index2008204501.htm&amp;print
+    url: https://www.kv.by/archive/index2008204501.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/hIUl4'}
 - title: Серия «Слово о демосцене»
   level: 2
   entries:
   - title: Слово о демосцене. Часть 2(Компьютерные Вести №26 за 2009 год)
-    url: http://old.kv.by/index2009264402.htm&amp;print
+    url: https://www.kv.by/archive/index2009264402.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/TVmh5'}
   - title: Слово о демосцене. Часть 1 (Компьютерные Вести №25 за 2009 год)
-    url: http://old.kv.by/index2009254402.htm&amp;print
+    url: https://www.kv.by/archive/index2009254402.htm
     links:
     - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/0t3qB'}
   - text: Кстати вспомнил своего любимого автора из школьной юности. Роман Севко aka AppleRom (если меня не подводит память, именно он основал известный сайт rom.by). Его статьи про BIOS я читал взахлеб, а вырезки из газеты ламинировал…Уже потом, будучи студентом меня угораздило даже купить у легендарного автора материнскую плату (как сейчас помню, ABIT под S462), но это совсем другая история…

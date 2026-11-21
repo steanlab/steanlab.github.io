@@ -1,0 +1,26 @@
+{%- comment -%}
+  Подключается только на английской главной «/». Один раз выбирает язык по языку браузера:
+  первый язык из navigator.languages → версия из site.languages[].browser (ru, uk → /ru/, be → /be/), остальные (в т.ч. pl, en) остаются на EN.
+  Ручной выбор в переключателе запоминается (localStorage "lang") и имеет приоритет. «/?nolang» отключает перенаправление.
+{%- endcomment -%}
+<script>
+(function () {
+  try {
+    if (/[?&]nolang\b/.test(location.search)) return;
+    var map = { {% for l in site.languages %}{% for b in l.browser %}"{{ b }}": "{{ site.baseurl }}{{ l.home }}", {% endfor %}{% endfor %}"-": "" };
+    var homes = { {% for l in site.languages %}"{{ l.code }}": "{{ site.baseurl }}{{ l.home }}", {% endfor %}"-": "" };
+    var saved = null;
+    try { saved = localStorage.getItem("lang"); } catch (e) {}
+    var to = null;
+    if (saved && homes[saved]) {
+      to = homes[saved];
+    } else {
+      var list = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ""];
+      var code = String(list[0] || "").toLowerCase().split("-")[0];
+      to = map[code] || null;
+    }
+    var here = "{{ site.baseurl }}/";
+    if (to && to !== here) location.replace(to);
+  } catch (e) {}
+})();
+</script>

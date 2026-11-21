@@ -1,0 +1,1757 @@
+# Данные страницы, перенесённые из _posts/2014-3-2-interview.md скриптом tools/archive_data.py.
+# Порядок разделов и записей, заголовки, подписи ссылок и тексты сохранены как в источнике.
+# Описание структуры и найденные дефекты: REPORT.md
+source: _posts/2014-3-2-interview.md
+front_matter:
+- 'layout: post'
+- 'title: Siarhei Besarab. Media Commentary & Interviews | Комментарии в СМИ'
+- 'published: true'
+preamble:
+- text: '✍️ EN: A curated selection of my interviews and expert takes on science and tech, featured across various media outlets. Sorted by outlet, updated when time allows ✍️ RU: Подмножество моих интервью и комментариев в средствах массовой информации. Сортировка по изданиям, актуализируется по мере возможного'
+- toc: '**СОДЕРЖАНИЕ**'
+- hr: ____
+sections:
+- title: Voice of America
+  level: 1
+  entries:
+  - title: 'VOA Exclusive: Ukraine Says Photos Show Russia Dug Trenches in Chernobyl’s Radioactive Soil'
+    url: https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20220922163157/https://www.voanews.com/a/voa-exclusive-ukraine-says-photos-show-russia-dug-trenches-in-chernobyl-s-radioactive-soil/6518700.html'}
+  - title: Photos Indicate Russian Looting of Radioactive Materials from Ukraine’s Chernobyl
+    url: https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230217140520/https://www.voanews.com/a/photos-indicate-russian-looting-of-radioactive-materials-from-ukraine-s-chernoby/6526620.html'}
+- title: RFE/RL
+  level: 1
+  entries:
+  - title: Too Soon? Swaths Of Chernobyl-Affected Land In Belarus To Lose 'Contaminated' Status
+    url: https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20261012081557/https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html'}
+- title: Radio France internationale (UA)
+  level: 1
+  entries:
+  - title: 'Білоруський радіаційний хімік: Білорусь із ядерною зброєю — це мавпа з гранатою'
+    url: https://www.rfi.fr/uk/%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/20230329-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%85%D1%96%D0%BC%D1%96%D0%BA-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C-%D1%96%D0%B7-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D1%8E-%D0%B7%D0%B1%D1%80%D0%BE%D1%94%D1%8E-%D1%86%D0%B5-%D0%BC%D0%B0%D0%B2%D0%BF%D0%B0-%D0%B7-%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%8E
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230329104756/https://www.rfi.fr/uk/%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%96-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/20230329-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-%D1%80%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D1%85%D1%96%D0%BC%D1%96%D0%BA-%D0%B1%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C-%D1%96%D0%B7-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D0%BE%D1%8E-%D0%B7%D0%B1%D1%80%D0%BE%D1%94%D1%8E-%D1%86%D0%B5-%D0%BC%D0%B0%D0%B2%D0%BF%D0%B0-%D0%B7-%D0%B3%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D1%8E'}
+- title: Deutsche Welle
+  level: 1
+  entries:
+  - title: 'Защита диссертаций в РБ: междусобойчик под контролем властей'
+    url: https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230522132153/https://www.dw.com/ru/zasita-dissertacij-v-rb-mezdusobojcik-pod-kontrolem-cinovnikov/a-65638190'}
+  - title: '"Список экстремистов" от МВД Беларуси: кого и за что внесли'
+    url: https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240314070855/https://www.dw.com/ru/spisok-ekstremistov-ot-mvd-belarusi-kogo-i-za-cto-v-nego-vnesli/a-63859249'}
+  - title: Лукашенко хочет продавать Европе воздух. Это возможно?
+    url: https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/rIW8g'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251120231734/https://www.dw.com/ru/lukasenko-hocet-prodavat-evrope-vozduh-eto-vozmozno/a-74808576'}
+  - title: Где в Беларуси построят ядерный могильник?
+    url: https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260331171518/https://www.dw.com/ru/gde-v-belarusi-postroat-adernyj-mogilnik/a-76609727'}
+  - title: '"За границами": что обсуждали белорусы на TEDx в Варшаве'
+    url: https://www.dw.com/ru/za-granicami-cto-obsuzdali-belorusy-na-tedx-v-varsave/a-76852059
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/O16d3'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260424075422/https://www.dw.com/ru/belorusskij-tedx-v-varsave-radiacia-mova-poisk-seba/a-76852059'}
+- title: 2digital.news
+  level: 1
+  entries:
+  - title: A technooptimist on what will finally burst the AI bubble
+    url: https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251218115226/https://2digital.news/a-technooptimist-on-what-will-finally-burst-the-ai-bubble/'}
+    - {label: ghostarchive, type: mirror, url: 'https://ghostarchive.org/archive/wesSx'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/POarz'}
+  - title: “When the AI bubble bursts, we could be facing the first Great Depression of the 21st century” One more grim future forecast
+    url: https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260109142133/https://2digital.news/when-the-ai-bubble-bursts-we-could-be-facing-the-first-great-depression-of-the-21st-century-one-more-grim-future-forecast'}
+  - title: '“People Have Been Cyborgs for a Long Time — We’re Just Embarrassed to Admit It”: Enhanced Games Could Trigger a Revolution'
+    url: https://2digital.news/people-have-been-cyborgs-for-a-long-time-were-just-embarrassed-to-admit-it-enhanced-games-could-trigger-a-revolution/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260310131422/https://2digital.news/people-have-been-cyborgs-for-a-long-time-were-just-embarrassed-to-admit-it-enhanced-games-could-trigger-a-revolution/'}
+- title: Argument UA
+  level: 1
+  entries:
+  - title: 'Лоботомія нації: чому інтелект став головним ворогом білоруського режиму'
+    url: https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu
+    links:
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/TAE3o'}
+    - {label: Webarchive, type: web_archive, url: 'https://web.archive.org/web/20260128184242/https://argumentua.com/stati/lobtomiya-natsii-chomu-intelekt-stav-golovnim-vorogom-biloruskogo-rezhimu'}
+  - title: Ядерний могильник під наглядом КДБ або Чому лояльність у Білорусі стала небезпечнішою за радіацію
+    url: https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260501075140/https://argumentua.com/stati/yadernii-mogilnik-pid-naglyadom-kdb-abo-chomu-loyalnist-u-bilorusi-stala-nebezpechnishoyu-za-r'}
+  - title: 'Ядерний могильник Лукашенка: як Білорусь готує небезпечний об’єкт біля кордонів України'
+    url: https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob'yekt-bilya-kordoniv-ukrayini_n80157
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260503175225/https://bastion.tv/yadernij-mogilnik-lukashenka-yak-bilorus-gotuye-nebezpechnij-ob%27yekt-bilya-kordoniv-ukrayini_n80157'}
+- title: Inertia.pl
+  level: 1
+  entries:
+  - title: Łukaszenka nie zważa na skażenie. "Musimy odzyskać ziemie czarnobylskie"
+    url: https://wydarzenia.interia.pl/zagranica/news-lukaszenka-nie-zwaza-na-skazenie-musimy-odzyskac-ziemie-czar,nId,23422756
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/aikqt'}
+- title: Наша Ніва
+  level: 1
+  entries:
+  - title: Амерыканскія навукоўцы прыдумалі, як візуальна сачыць за людзьмі па WiFi замест камер. Аказваецца, беларусы прэзентавалі падобны метад 6 год таму
+    url: https://nashaniva.com/310711
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/310711'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230222033251/https://nashaniva.com/310711'}
+  - title: 'Навуковец падлічыў, колькі каштуе «лепшая за натаўскую» аптэчка, калі яе збіраць самастойна. Выйшла танней, чым афіцыйна названая сума '
+    url: https://nashaniva.com/311103
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/311103'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230228063224/https://nashaniva.com/311103'}
+  - title: «Казаць, што мы ўсе памрэм, — дакладна няправільна». Эксперт пра магчымыя наступствы ядзернай вайны
+    url: https://nashaniva.com/289342
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/289342'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317044610/https://nashaniva.com/289342'}
+  - title: Расія ўдарыць па Украіне хімічнай зброяй? Усё можа быць нашмат прасцей і трагічней
+    url: https://nashaniva.com/286183
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/286183'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240318214303/https://nashaniva.com/286183'}
+  - title: «Гэта зброя выпаленай зямлі». Што такое «брудная бомба» і што рабіць, калі яе падарвуць у Беларусі
+    url: https://nashaniva.com/301753
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/301753'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240318214235/https://nashaniva.com/301753'}
+  - title: Аляксандр, 35 гадоў, вышэйшая адукацыя. Навуковец склаў партрэт беларускага «экстрэміста» — высновы ўражваюць
+    url: https://nashaniva.com/303383
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/303383'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042808/https://nashaniva.com/303383'}
+  - title: 'Экс-калега расказвае пра міністра адукацыі: «У Акадэміі навук яго называлі «Граза дзядам»'
+    url: https://nashaniva.com/284540
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/284540'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042837/https://nashaniva.com/284540'}
+  - title: Што за «апраменьванне персаналу» магло адбыцца на БелАЭС і ці яно было? Тлумачыць спецыяліст
+    url: https://nashaniva.com/306534
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/306534'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042730/https://nashaniva.com/306534'}
+  - title: «Чалавека можа ўратаваць уважлівасць і падрыхтаванасць». Навуковец расказаў, як прадбачыць землятрус і што трэба мець каля сябе, калі жывеш у сейсмазоне
+    url: https://nashaniva.com/310385/
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/310385'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240318214138/https://nashaniva.com/310385'}
+  - title: Што трэба ведаць пра цюльпаны, каб імі не нашкодзіць сабе
+    url: https://nashaniva.com/311882
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/311882'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042214/https://nashaniva.com/311882'}
+  - title: «Гэта можа выклікаць рак». Навуковец б'е трывогу адносна таго, што ў Беларусі пачалі апраменьваць прадукты радыяцыяй
+    url: https://nashaniva.com/312244
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/312244'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042847/https://nashaniva.com/312244'}
+  - title: «Часам незаменна, але…» Бесараб адказаў на крытыку наконт апраменьвання прадуктаў радыяцыяй
+    url: https://nashaniva.com/312409
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/312409'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317043853/https://nashaniva.com/312409'}
+  - title: Навуковец патлумачыў феномен рэжыму і ацаніў страты беларускай навукі за час кіравання Лукашэнкі
+    url: https://nashaniva.com/314277
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/314277'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317042856/https://nashaniva.com/314277'}
+  - title: Вядомы хімік склаў партрэт рэпрэсаванага навукоўца. Некаторыя высновы нечаканыя
+    url: https://nashaniva.com/315714
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/315714'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230517004618/https://nashaniva.com/315714'}
+  - title: Беларусь атакуюць мошкі. Вядомы хімік распавёў, як ад іх ратавацца
+    url: https://nashaniva.com/316835
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/316835'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230520210515/https://nashaniva.com/316835'}
+  - title: 'Страшная поедзь: кожны год Лунінец атакуе цікавы шкоднік — вусені амерыканскага белага матыля'
+    url: https://nashaniva.com/317423
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/317423'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230524091522/https://nashaniva.com/317423'}
+  - title: Якія сродкі ад кляшчоў самыя надзейныя? Параўноўвае навуковец
+    url: https://nashaniva.com/315958
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/315958'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230517112840/https://nashaniva.com/315958'}
+  - title: Сродкі ад кляшчоў і камароў, што прадаюцца ў краінах ЕС. Якія найлепшыя?
+    url: https://nashaniva.com/321476
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/321476'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230713220114/https://nashaniva.com/321476'}
+  - title: Беларускі навуковец, якому давялося ўцячы з Беларусі тайнымі сцежкамі, напісаў «кароткі дапаможнік па экстраннай эвакуацыі»
+    url: https://nashaniva.com/320301
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/320301'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230704182108/https://nashaniva.com/320301'}
+  - title: Хімік патлумачыў, чаму ніякая аварыя на Запарожскай АЭС не будзе мець маштабных наступстваў
+    url: https://nashaniva.com/320839
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/320839'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230706032443/https://nashaniva.com/320839'}
+  - title: Дзе размесцяць расійскую ядзерную зброю, выбух якой можа знішчыць цэлы горад?
+    url: https://nashaniva.com/317594
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/317594'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230527091356/https://nashaniva.com/317594'}
+  - title: Ці каштавалі мяса саранчы? А яно ўжо прадаецца ў Польшчы. Знайшлі беларуса — фаната такой ежы
+    url: https://nashaniva.com/324780
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/324780'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230828071520/https://nashaniva.com/324780'}
+  - title: Чарвякі пад скурай як у фільмах жахаў. Навуковец тлумачыць, што такое дырафілярыёз, які распаўсюджваецца на Гомельшчыне
+    url: https://nashaniva.com/326374
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/326374'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230915180625/https://nashaniva.com/326374'}
+  - title: Хімік Сяргей Бесараб патлумачыў, што не так з БелАЭС і якая перадавая тэхналогія выкарыстоўваецца Украінай у вайне
+    url: https://nashaniva.com/326574
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/326574'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231101210554/https://nashaniva.com/326574'}
+  - title: «Не размяшчаць негатыўную інфармацыю ў прыватных акаўнтах сацыяльных сетак». Што яшчэ забараняе рабіць «Кодэкс прафесійнай этыкі» НАНБ?
+    url: https://nashaniva.com/314418
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/314418'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230418134156/https://nashaniva.com/314418'}
+  - title: Беларусь нарошчвае здабычу нафты і выкарыстоўвае новую тэхналогію. Што за яна?
+    url: https://nashaniva.com/327099
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/327099'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231007160713/https://nashaniva.com/327099'}
+  - title: «Мае знаёмыя робяць у Акадэміі разлікі для расійскіх ракет». Што адбываецца з беларускай навукай
+    url: https://nashaniva.com/327293
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/327293'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231101201933/https://nashaniva.com/327293'}
+  - title: 'Belita выпусціла гель для душа, які «ўплывае на эмоцыі». Навуковец: Гэта інфамахлярства'
+    url: https://nashaniva.com/329445
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: '[https://nashaniva.com/ru/329445'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231102134642/https://nashaniva.com/329445'}
+  - title: Эксперт выбачыўся за свой каментар «Нашай Ніве». Што здарылася?
+    url: https://nashaniva.com/329483
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/329483'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231103140444/https://nashaniva.com/329483'}
+  - title: «Пабачыў на скуры дарожку з укусаў». Як беларус змагаўся з пасцельнымі клапамі
+    url: https://nashaniva.com/330453
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/330453'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231119084035/https://nashaniva.com/330453'}
+  - title: Ці такі ўжо бясшкодны ферментаваны іван-чай?
+    url: https://nashaniva.com/333760
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/333760'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240111024640/https://nashaniva.com/333760'}
+  - title: 'Бесараб — пра цынгу Латыпава: Мне тут бачыцца рука нейкіх медыкаў-катаў'
+    url: https://nashaniva.com/336556
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/336556'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240317105506/https://nashaniva.com/336556'}
+  - title: '"Каб я ведаў, што гэта дзяржтаямніца, то можа і не пісаў бы так хвацка". Хімік Сяргей Бесараб расказаў, як сумяшчае навуку і грамадзянскую пазіцыю'
+    url: https://web.archive.org/web/20240223162359/https://d1a9nnmcvk9pjz.cloudfront.net/337123
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/337123'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240223162210/https://nashaniva.com/337123'}
+  - title: Навуковец раіць саджаць на лецішчы лаванду і разводзіць паўлінаў. Навошта?
+    url: https://web.archive.org/web/20240309205034/https://nashaniva.com/338129
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://web.archive.org/web/20240309211022/https://nashaniva.com/ru/338129'}
+    - {text: )}
+  - title: «Падарунак» дзясяткам пакаленняў. Як Беларусь будзе захоўваць ядзерныя адкіды са сваёй АЭС і ў чым адзіны яе шанец
+    url: https://nashaniva.com/339603
+    links:
+    - {text: (}
+    - {label: RU, type: language_version, url: 'https://nashaniva.com/ru/339603'}
+    - {text: )}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240331165443/https://nashaniva.com/339603'}
+  - title: «Хлопцаў затрымалі за дзіцячыя петарды». Навуковец пракаментаваў арышт юнакоў за выбухоўку
+    url: https://nashaniva.com/344689
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240611102912/https://nashaniva.com/344689'}
+  - title: Ці можна карыстацца тэлефонам у навальніцу? Расказвае навуковец
+    url: https://nashaniva.com/347971
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240727143531/https://nashaniva.com/347971'}
+  - title: У Акадэміі навук складаюць спіс тых, каму дазволяць выходзіць у інтэрнэт
+    url: https://nashaniva.com/350586
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240903140416/https://nashaniva.com/350586'}
+  - title: Ці магчыма атруціцца пасля апрацоўкі дыхлафосам? Тлумачыць хімік
+    url: https://nashaniva.com/351993
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240925081822/https://nashaniva.com/351993'}
+  - title: Месяц таму ў Мінскай вобласці ўпаў метэарыт. Сяргей Бесараб падазрае, што яго могуць вывезці ў Расію
+    url: https://nashaniva.com/360401
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250129091524/https://nashaniva.com/360401'}
+  - title: Адкіды беларускага хімічнага камбіната ўтрымліваюць канцэнтрацыю рэдказёмаў, супастаўную з радовішчамі ва Украіне
+    url: https://nashaniva.com/362665
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250306184354/https://nashaniva.com/362665'}
+  - title: «Гэтая партыя прайграная». Беларускія даследчыкі — пра тое, у што ператварылася Акадэмія навук
+    url: https://nashaniva.com/364587
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250512084843/https://nashaniva.com/364587'}
+    - {label: RU, type: language_version, url: 'https://web.archive.org/web/20250512084954/https://nashaniva.com/ru/364587'}
+  - title: «Сыходзіць эпоха навуковага стэндапу». Бесараб пра зняцце з пасады былога кіраўніка Акадэміі навук
+    url: https://nashaniva.com/368513
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250523082115/https://nashaniva.com/368513'}
+  - title: Што сабой уяўляюць тыя метэазонды, якія прылятаюць з Беларусі ў Літву? Расказвае Бесараб
+    url: https://nashaniva.com/380089
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251030101404/https://nashaniva.com/380089'}
+- title: Беларускае радыё Рацыя
+  level: 1
+  entries:
+  - title: Лукашэнкаўцы будуць захоўваць радыеактыўныя адкіды ў гліне. Навуковец — гэта небяспечна!
+    url: https://www.racyja.com/hramadstva/lukashysty-buduts-zakhouvats-radyeakt/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20221008113837/https://www.racyja.com/hramadstva/lukashysty-buduts-zakhouvats-radyeakt/'}
+  - title: Ці пагражае Беларусі і Польшчы сітуацыя на Хмяльніцкай АЭС?
+    url: https://www.racyja.com/sumezhzha/tsi-pagrazhae-belarusi-i-polshchy-situats/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20221118053225/https://www.racyja.com/sumezhzha/tsi-pagrazhae-belarusi-i-polshchy-situats/'}
+  - title: 'Сяргей Бесараб: Новая Беларусь можа лёгка стаць высокатэхналагічнай краінай'
+    url: https://www.racyja.com/hramadstva/syargej-besarab-novaya-belarus-mozha-lyo/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20221123053954/https://www.racyja.com/hramadstva/syargej-besarab-novaya-belarus-mozha-lyo/'}
+  - title: 'Сяргей Бесараб: Мы зараз вяртаемся ў 1996 год, калі Беларусь пазбаўлялася ядзернай зброі'
+    url: https://www.racyja.com/palityka/syargej-besarab-my-zaraz-vyartaemsya-u-1996-g/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230331165948/https://www.racyja.com/palityka/syargej-besarab-my-zaraz-vyartaemsya-u-1996-g/'}
+  - title: 'Сяргей Бесараб: БелАЭС – гэта кабальная сувязь Беларусі з Расеяй на 50 год наперад'
+    url: https://www.racyja.com/ekanomika/syargej-besarab-belaes-geta-kabaln/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230419163926/https://www.racyja.com/ekanomika/syargej-besarab-belaes-geta-kabaln/'}
+  - title: 'Кляшчы на Падляшшы: дзе іх трэба асцерагацца?'
+    url: https://www.racyja.com/sumezhzha/klyashchy-na-padlyashshy-dze-ikh-treba-astsera/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230517191511/https://www.racyja.com/sumezhzha/klyashchy-na-padlyashshy-dze-ikh-treba-astsera/'}
+  - title: 'Будучыня БелАЭС: выкарыстанне для патрэб Расеі і запужванне для астатняга свету?'
+    url: https://www.racyja.com/ekanomika/buduchynya-belaes-vykarystanne-dlya-pat/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230522173743/https://www.racyja.com/ekanomika/buduchynya-belaes-vykarystanne-dlya-pat/'}
+  - title: 'Сяргей Бесараб: Лагер пад Асіповічамі – хутчэй для ахоўнікаў ядзернай зброі, чым для ПВК «Вагнер»'
+    url: https://www.racyja.com/palityka/syargej-besarab-lager-pad-asipovichami/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230704181009/https://www.racyja.com/palityka/syargej-besarab-lager-pad-asipovichami/'}
+  - title: 'Сяргей Бесараб: Пры мажлівасці Украіна паспрабуе знішчыць сховішчы ядзернай зброі ў Беларусі'
+    url: https://www.racyja.com/palityka/syargej-besarab-pry-mazhlivastsi-ukrain/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230813140620/https://www.racyja.com/palityka/syargej-besarab-pry-mazhlivastsi-ukrain/'}
+  - title: Ці сапраўды павялічылася выпраменьванне ў зоне вакол БелАЭС?
+    url: https://www.racyja.com/ekanomika/tsi-sapraudy-pavyalichylasya-vypramenv/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230912195441/https://www.racyja.com/ekanomika/tsi-sapraudy-pavyalichylasya-vypramenv/'}
+  - title: Для чаго беларускі спецназ на БелАЭС?
+    url: https://www.racyja.com/hramadstva/dlya-chago-belaruski-spetsnaz-na-belaes/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230726201623/https://www.racyja.com/hramadstva/dlya-chago-belaruski-spetsnaz-na-belaes/'}
+  - title: 'Сяргей Бесараб: Уся хімічная прамысловасць Беларусі сёння – гэта падтрыманне створанага ў савецкі час'
+    url: https://www.racyja.com/hramadstva/syargej-besarab-usya-khimichnaya-pramyslo/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230927214657/https://www.racyja.com/hramadstva/syargej-besarab-usya-khimichnaya-pramyslo/'}
+  - title: Чаму так шмат вос і шэршняў на Падляшшы сёлета?
+    url: https://www.racyja.com/sumezhzha/chamu-tak-shmat-vos-i-shershnyau-na-padlyashshy/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230927214905/https://www.racyja.com/sumezhzha/chamu-tak-shmat-vos-i-shershnyau-na-padlyashshy/'}
+  - title: Якую ядзерную зброю РФ можа даць Лукашэнку?
+    url: https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230927223109/https://www.racyja.com/palityka/yakuyu-yadzernuyu-zbroyu-rf-mozha-dats-lukash/'}
+  - title: Праграмма Штосьці не так. Інтэрвью з Міколай Бянько наконт выкарыстання расейскай ядзернай зброі для выбуху ў космасе
+    url: https://www.racyja.com/wp-content/uploads/2023/07/2023-10-08_Bjanko_Shtosci_AN.mp3
+  - title: МНС выдала ліцэнзію на эксплуатацыю 2-га блока БелАЭС
+    url: https://www.racyja.com/ekanomika/mns-vydala-litsenziyu-na-ekspluatatsyyu-2-g/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231027140736/https://www.racyja.com/ekanomika/mns-vydala-litsenziyu-na-ekspluatatsyyu-2-g/'}
+  - title: Ці ставіць у дамах навагоднюю ялінку?
+    url: https://racyja.com/by/kultura/ci-stavic-u-damach-navahodnjuju-jalinku/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231228193140/https://racyja.com/by/kultura/ci-stavic-u-damach-navahodnjuju-jalinku/'}
+  - title: 'Сяргей Бесараб: Трансфер ядзернай зброі з Расеі ў Беларусь сапраўды завершаны'
+    url: https://racyja.com/by/palityka/sjarhej-besarab-transfer-jadzernaj-zbroi-z-rasei-u-belarus-sapraudy-zaversany/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231230003553/https://racyja.com/by/palityka/sjarhej-besarab-transfer-jadzernaj-zbroi-z-rasei-u-belarus-sapraudy-zaversany/'}
+  - title: Як беларусам адсвяткаваць Дзень ліку Пі ў Польшчы?
+    url: https://racyja.com/by/sumezza/jak-belarusam-adsvjatkavac-dzen-liku-pi-u-polscy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240315164437/https://racyja.com/by/sumezza/jak-belarusam-adsvjatkavac-dzen-liku-pi-u-polscy/'}
+  - title: Сяргей Бесараб пра беларускую навуку ў выгнанні і на «ваенных рэйках» унутры Беларусі
+    url: https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240327220340/https://racyja.com/by/sumezza/sjarhej-besarab-pra-belaruskuju-navuku-u-vyhnanni-i-na-vaennych-rejkach-unutry-belarusi/'}
+  - title: 114 гадоў з дня нараджэння Барыса Кіта
+    url: https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240406084805/https://racyja.com/by/kultura/114-hadou-z-dnja-naradzennja-barysa-kita/'}
+  - title: Ці небяспечны для Падляшша пажары на Альманскіх балотах і ў Чарнобыльскай зоне?
+    url: https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240910104343/https://racyja.com/by/hramadstva/ci-nebjaspecny-dlja-padljassa-pazary-na-almanskich-balotach-i-u-carnobylskaj-zone/'}
+  - title: Ці могуць лясы Падляшша пераўтварыцца ў крыніцы вуглякіслага газу?
+    url: https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241009150656/https://racyja.com/by/sumezza/ci-mohuc-ljasy-padljassa-perautvarycca-u-krynicy-vuhljakislaha-hazu/'}
+  - title: Ці ў змозе чалавецтва спыніць змены клімату?
+    url: https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241115004127/https://racyja.com/by/hramadstva/ci-u-zmoze-calavectva-spynic-zmeny-klimatu'}
+  - title: Сяргей Бесараб пра спыненне супрацы CERN з Расеяй і Беларуссю
+    url: https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241203125845/https://racyja.com/by/palityka/sjarhej-besarab-pra-spynenne-supracy-cern-z-rasejaj-i-belarussju/'}
+  - title: Сяргей Бесараб пра спыненне працы БелАЭС
+    url: https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241223124631/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-spynenne-pracy-belaes'}
+  - title: Ці паўплывае на «псеўдавыбары» прастой БелАЭС?
+    url: https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes
+    links:
+    - {label: ARCHIVE.is, type: archive_is, url: 'https://archive.is/wip/Ajy9H'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250120233953/https://racyja.com/by/palityka/ci-pauplyvae-na-pseudavybary-prastoj-belaes/'}
+  - title: У Беларусі вучоных лёгка ператвараюць у палітзняволеных
+    url: https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/tHhcx'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250207104816/https://racyja.com/by/hramadstva/u-belarusi-vuconych-lehka-peratvarajuc-u-palitznjavolenych/'}
+  - title: 'Сяргей Бесараб: І другая БелАЭС карысці Беларусі не прынясе'
+    url: https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250402132457/https://racyja.com/by/ekanomika/sjarhej-besarab-i-druhaja-belaes-karysci-belarusi-ne-prynjase'}
+  - title: Тэхналагічны герой, які пранёс праз усё жыццё беларушчыну
+    url: https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250405112225/https://racyja.com/by/kultura/spaunjaecca-115-hadou-z-dnja-naradzennja-barysa-kita/'}
+  - title: У Беларусі працягваецца абмеркаванне будаўніцтва другой АЭС
+    url: https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250415104622/https://racyja.com/by/ekanomika/u-belarusi-pracjahvaecca-abmerkavanne-budaunictva-druhoj-aes/'}
+  - title: 'Сяргей Бесараб: Трэба рыхтавацца да таго, што кляшчы будуць актыўнымі круглы год'
+    url: https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250612214833/https://racyja.com/by/sumezza/sjarhej-besarab-treba-rychtavacca-da-taho-sto-kljascy-buduc-aktyunymi-kruhly-hod/'}
+  - title: Чаму Літва паведамляе пра сітуацыю на БелАЭС хутчэй за Беларусь?
+    url: https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250718153101/https://racyja.com/by/ekanomika/camu-litva-pavedamljae-pra-situacyju-na-belaes-chutcej-za-belarus/'}
+  - title: 'Сяргей Бесараб: Устойлівы прагноз для Беларусі: буры, шквалы, залевы і тарнада'
+    url: https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721111026/https://racyja.com/by/hramadstva/sjarhej-besarab-ustojlivy-prahnoz-dlja-belarusi-bury-skvaly-zalevy-i-tadnada/'}
+  - title: Касіць ці не касіць? Навуковец прапануе «зялёную сярэдзіну»
+    url: https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250806131927/https://racyja.com/by/sumezza/kasic-ci-ne-kasic-besarab-prapanue-zjalenuju-sjaredzinu/'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/VE7T3'}
+  - title: Смяротна небяспечная цвіль пагражае чалавецтву
+    url: https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251009063326/https://racyja.com/by/hramadstva/smjarotna-nebjaspecnaja-cvil-pahrazae-calavectvu/'}
+  - title: Зіма будзе цяплейшая, але больш кантрасная
+    url: https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251208165416/https://racyja.com/by/hramadstva/sjarhej-besarab-seleta-budze-cjaplejsaja-zima-cym-letas/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2025-12-08_wierbalovich_gosc_biesarab_ss.mp3}
+  - title: “Суровая зіма як раз і пацвярджае набліжэнне глабальнага пацяплення”
+    url: https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260209124329/https://racyja.com/by/hramadstva/surovaja-zima-jak-raz-i-pacvjardzae-nablizenne-hlabalnaha-pacjaplennja/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-02-09_wierbalovich_gosc_biesarab_ss.mp3}
+  - title: Беларуская навука становіцца «сэрвісным цэнтрам» Расеі і Кітая
+    url: https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260212231126/https://racyja.com/by/ekanomika/belaruskaja-navuka-stanovicca-servisnym-centram-rasei-i-kitaja'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-02-12_volha_siamashka_navuka_biesarab_k.mp3}
+  - title: У Варшаве адбылася канферэнцыя TEDxUlicaMińska
+    url: https://racyja.com/by/kultura/u-varsave-adbylasja-kanferencyja-tedxulicaminska
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260420112701/https://racyja.com/by/kultura/u-varsave-adbylasja-kanferencyja-tedxulicaminska/'}
+  - title: Сітуацыя з наступствамі аварыі на ЧАЭС патрабуе дакладнай інфармацыі
+    url: https://racyja.com/by/hramadstva/situacyja-z-nastupstvami-avaryi-na-caes-patrabue-dakladnaj-infarmacyi/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260422160333/https://racyja.com/by/hramadstva/situacyja-z-nastupstvami-avaryi-na-caes-patrabue-dakladnaj-infarmacyi/'}
+  - title: “Штам хантавіруса Andes на Падляшшы малаверагодны”
+    url: https://racyja.com/by/sumezza/stam-chantavirusa-andes-na-padljassy-malaverahodny/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260514220042/https://racyja.com/by/sumezza/stam-chantavirusa-andes-na-padljassy-malaverahodny/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-05-14_volha_siamashka_hantawirus_biesarab_ss.mp3}
+  - title: “Важна, каб слуханні не сталі фармальнай працэдурай”
+    url: https://racyja.com/by/ekanomika/vazna-kab-sluchanni-ne-stali-farmalnaj-praceduraj/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260725133729/https://racyja.com/by/ekanomika/vazna-kab-sluchanni-ne-stali-farmalnaj-praceduraj/'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/KOdON'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-07-24_volha_siamashka_showiszczy_besarab_ns.mp3}
+  - title: “Ключы ад БелАЭС знаходзяцца ў руках Масквы”
+    url: https://racyja.com/by/hramadstva/zaleznasc-ad-rasei-u-jadzernaj-sfery-stavic-pad-pytanne-suverenitet-belarusi/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260727211246/https://racyja.com/by/hramadstva/zaleznasc-ad-rasei-u-jadzernaj-sfery-stavic-pad-pytanne-suverenitet-belarusi/'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/8g28C'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-07-27_volha_siamashka_nuclear_besarab_k.mp3}
+  - title: «Ніводная не адпавядае правілам»
+    url: https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260911125238/https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-09-11_smotkina_besarab.mp3}
+  - title: “Беларусь сябе цалкам забяспечвала. АЭС была непатрэбна”
+    url: https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260922093047/https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/'}
+  - title: “Дэградацыя сістэмы біябяспекі ў Расеі стварае глабальныя рызыкі”
+    url: https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20261007220953/https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-10-07_volha_siamashka_czuma_besarab_ns.mp3}
+  - title: Сяргей Бесараб пра 27 тон радыеактыўнага грузу на мяжы з ЕЗ
+    url: https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20261106192859/https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/'}
+    - {label: AUDIO, type: audio, url: /_posts/files/2026-11-06_volha_siamashka_radiogruz_besarab.mp3}
+- title: Белсат
+  level: 1
+  entries:
+  - title: «Робяць сяк-так». Чаму ў Беларусі зноў абваліўся мост — і чаго чакаць надалей
+    url: https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20220604013835/https://belsat.eu/news/12-01-2022-robyats-na-tsyap-lyap-chamu-u-belarusi-znou-upau-most-i-chago-chakats-nadalej/'}
+  - title: Пад Лунінцом пачалі разбудоўваць вайсковы аэрадром. Валяць радыеактыўны лес
+    url: https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20220818163134/https://belsat.eu/news/18-08-2022-pad-lunintsom-pachali-razbudouvats-vajskovy-aeradrom-valyats-radyeaktyuny-les/'}
+  - title: Бачу навіны пра пагрозу ядравай вайны. Што зрабіць проста зараз, каб падрыхтавацца?
+    url: https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20221002212911/https://belsat.eu/news/29-09-2022-bachu-naviny-pra-pagrozu-yadravaj-vajny-shto-zrabits-prosta-zaraz-kab-padryhtavatstsa/'}
+  - title: Стэрылізацыя радыеактыўным апраменьваннем небяспечная?
+    url: https://belsat.eu/in-focus/16-03-2023-sterylizatsyya-radyeaktyunym-apramenvannem-nebyaspechnaya
+  - title: Чаму беларускі сыр нельга лічыць малочным прадуктам?
+    url: https://belsat.eu/in-focus/12-04-2023-chamu-belaruski-syr-nelga-lichyts-malochnym-praduktam
+  - title: Пяць прычынаў не адмаўляцца ад АЭС
+    url: https://belsat.eu/news/21-04-2023-pyats-prychynau-ne-admaulyatstsa-ad-aes
+    links:
+    - {text: '['}
+    - {label: Medium, type: mirror, url: 'https://medium.com/@steanlab/fivenukl-cecd47a1e5c7'}
+    - {text: ']'}
+  - title: 'Найчасцей рэпрэсавалі філолагаў і гісторыкаў: статыстыка рэпрэсіяў у навуцы ад 2020 года'
+    url: https://belsat.eu/news/05-05-2023-najchastsej-represavali-filolagau-i-gistorykau-statystyka-represiyau-u-navutsy-ad-2020-goda
+  - title: «Яны забралі ў нас лес». Чым небяспечныя кляшчы ў Беларусі і як ад іх ратавацца?
+    url: https://belsat.eu/news/20-05-2023-yany-zabrali-u-nas-les-chym-nebyaspechnyya-klyashchy-u-belarusi-i-yak-ad-ih-ratavatstsa
+    links:
+    - {text: '['}
+    - {label: Medium, type: mirror, url: 'https://steanlab.medium.com/acari-05b8e3bd2fc9'}
+    - {text: ']'}
+  - title: На АЭС Фукусима-1 начали сбрасывать радиоактивную воду. Рассказываем, стоит ли переживать Японии и ее соседям — в том числе России
+    url: https://vot-tak.tv/novosti/24-08-2023-sbros-radioaktivnoj-vody
+  - title: Чаму шэршні нападаюць на чалавека і ці трэба іх баяцца? Распавядае навуковец
+    url: https://belsat.eu/news/29-08-2023-chamu-shershni-napadayuts-na-chalaveka-i-tsi-treba-ih-bayatstsa
+    links:
+    - {text: '['}
+    - {label: Medium, type: mirror, url: 'https://medium.com/@steanlab/hornet-8bccedc4aa73'}
+    - {text: ']'}
+  - title: '«Вся Земля погрузится в темноту и тишину»: эксперты по ядерной физике и безопасности — об идее Симоньян взорвать бомбу над Сибирью'
+    url: https://vot-tak.tv/novosti/04-10-2023-simonyan-vzryv
+  - title: 'Выгаднае сяброўства: хто зарабляе на дэзынфекцыі транспарту?'
+    url: https://belsat.eu/in-focus/07-10-2023-vygadnae-syabroustva-hto-zarablyae-na-dezynfektsyi-transpartu
+  - title: Міністэрства аховы здароўя забараніла расейскія шклоабмывальнікі
+    url: https://belsat.eu/in-focus/08-12-2023-ministerstva-ahovy-zdarouya-zabaranila-rasejskiya-shkloabmyvalniki
+  - title: Атрутныя прадукты ў беларускіх крамах. Праграмма Аб'ектыў 22.12.2023
+    url: https://youtu.be/iXYwQTFsU1c?t=1191
+  - title: Прагнозы на 2024. Навука. Праграмма Тыдзень 07.01.2024
+    url: https://youtu.be/AAOKeDtxsU8?t=770
+  - title: «Нават праказа здзівіла б менш». Навуковец патлумачыў, чаму цынга ў Латыпава – жахліва
+    url: https://belsat.eu/news/16-02-2024-navat-prakaza-zdzivila-b-mensh-navukovets-patlumachyu-chamu-tsynga-u-latypava-zhahliva
+  - title: «Это худшая зависимость!» Беларусь подсела на российскую урановую иглу
+    url: https://belsat.eu/ru/programs/26-02-2024-eto-hudshaya-zavisimost-belarus-podsela-na-rossijskuyu-uranovuyu-iglu
+  - title: «Палітычнае пудзіла». Дзе ў Беларусі можа з'явіцца магільнік радыеактыўных адкідаў?
+    url: https://belsat.eu/news/27-03-2024-u-belarusi-vybirayuts-mestsa-zahouvannya-radyeaktyunyh-adkidau
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240327231623/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/27-03-2024-u-belarusi-vybirayuts-mestsa-zahouvannya-radyeaktyunyh-adkidau'}
+  - title: 114 гадоў з дня народзінаў Барыса Кіта. Праграмма Аб'ектыў 06.04.2024
+    url: https://youtu.be/i8bYzv3nJEU?t=984
+    links:
+    - {label: TXT, type: mirror, url: 'https://belsat.eu/in-focus/06-04-2024-114-gadou-z-dnya-narodzinau-barysa-kita'}
+  - title: Ці можна космас назваць нашым? Праграмма Аб'ектыў 12.04.2024
+    url: https://belsat.eu/in-focus/12-04-2024-tsi-mozhna-kosmas-nazvats-nashym
+  - title: «Яна праверыла, ці можна зрабіць ёгурт у космасе». Чаму космас не стаў «нашым» з-за палёту Васілеўскай
+    url: https://belsat.eu/news/12-04-2024-yana-praveryla-tsi-mozhna-zrabits-yogurt-u-kosmase-chamu-kosmas-ne-stau-nashym-z-za-palyotu-vasileuskaj
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240416142752/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/12-04-2024-yana-praveryla-tsi-mozhna-zrabits-yogurt-u-kosmase-chamu-kosmas-ne-stau-nashym-z-za-palyotu-vasileuskaj'}
+  - title: 'Чарнобыльская катастрофа: 10 рэчаў, якія варта ведаць'
+    url: https://belsat.eu/news/23-04-2024-charnobylskaya-katastrofa-10-rechau
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240426054421/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/23-04-2024-charnobylskaya-katastrofa-10-rechau'}
+  - title: «Мы назіраем разгортванне ядравага рэнесансу». Пра будучыню АЭС разважае навуковец Сяргей Бесараб
+    url: https://belsat.eu/news/26-04-2024-my-naziraem-razgortvanne-yadravaga-renesansu-pra-buduchynyu-aes-razvazhae-navukovets-syargej-besarab
+    links:
+    - {label: (RU), type: language_version, url: 'https://belsat.eu/ru/news/26-04-2024-my-nablyudaem-razvertyvanie-yadernogo-renessansa-o-budushhem-aes-rassuzhdaet-uchenyj-sergej-bessarab'}
+    - {text: WEBARCHIVE}
+    - {label: (BE), type: language_version, url: 'https://web.archive.org/web/20240426130242/https://belsat.eu/news/26-04-2024-my-naziraem-razgortvanne-yadravaga-renesansu-pra-buduchynyu-aes-razvazhae-navukovets-syargej-besarab'}
+    - {text: ', зеркало'}
+    - {label: MEDIUM, type: mirror, url: 'https://steanlab.medium.com/ai-npp-a6c3dc12e477'}
+  - title: «БелАЭС ужо прывяла да апраменьвання людзей». Эксперты – пра радыяцыйнае забруджванне ў Беларусі
+    url: https://belsat.eu/news/27-04-2024-belaes-uzho-pryvyala-da-apramenvannya-lyudzej-eksperty-pra-radyyatsyjnae-zabrudzhvanne-u-belarusi
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240428215116/https://d5b539c6770e46a30bce2cff66194ba8.aws-123.link/news/27-04-2024-belaes-uzho-pryvyala-da-apramenvannya-lyudzej-eksperty-pra-radyyatsyjnae-zabrudzhvanne-u-belarusi'}
+  - title: Батулізм – смяротна небяспечная хвароба «з бляшанкі». Што гэта і як яе пазбегчы
+    url: https://belsat.eu/news/07-07-2024-batulizm-smyarotna-nebyaspechnaya-hvaroba
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240713081148/https://babzypmyspjjcuxq.aws-123.link/news/07-07-2024-batulizm-smyarotna-nebyaspechnaya-hvaroba'}
+  - title: «Калі насоўваецца навальніца, не чакайце да апошняга». Як не пацярпець падчас урагану? Беларусам трэба адаптавацца да змянення клімату
+    url: https://belsat.eu/news/17-07-2024-yak-ne-patsyarpets-padchas-uraganu
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240718211023/https://belsat.eu/news/17-07-2024-yak-ne-patsyarpets-padchas-uraganu'}
+    - {text: '['}
+    - {label: '2', type: other, url: 'https://telegra.ph/Kal%D1%96-naso%D1%9Evaecca-navaln%D1%96ca-ne-chakajce-da-aposhnyaga-YAk-ne-pacyarpec-padchas-uraganu-07-18'}
+    - {text: ']['}
+    - {label: '3', type: other, url: 'https://conifer.rhizome.org/steanlab/default-collection/20250711141307/https://telegra.ph/Kal%D1%96-naso%D1%9Evaecca-navaln%D1%96ca-ne-chakajce-da-aposhnyaga-YAk-ne-pacyarpec-padchas-uraganu-07-18'}
+    - {text: '] - ['}
+    - {label: Medium, type: mirror, url: 'https://steanlab.medium.com/thunderstorm-ad22c48100cc'}
+    - {text: ']'}
+  - title: Ці можна карыстацца тэлефонам у навальніцу? Размаўляем з навукоўцам пра надвор’е і тэхніку
+    url: https://belsat.eu/news/27-07-2024-tsi-mozhna-karystatstsa-telefonam-u-navalnitsu-razmaulyaem-z-navukoutsam-pra-nadvor-e-i-tehniku
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240727095440/https://telegra.ph/C%D1%96-mozhna-karystacca-tehlefonam-u-navaln%D1%96cu-Razma%D1%9Elyaem-z-navuko%D1%9Ecam-pra-nadvore-%D1%96-tehhn%D1%96ku-07-27'}
+    - {label: (RU), type: language_version, url: 'https://belsat.eu/ru/news/27-07-2024-mozhno-li-polzovatsya-telefonom-v-grozu-beseduem-s-uchenym-o-pogode-i-tehnike'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240727094954/https://telegra.ph/Mozhno-li-polzovatsya-telefonom-v-grozu-Beseduem-s-uchenym-o-pogode-i-tehnike-07-27'}
+    - {text: '['}
+    - {label: Medium, type: mirror, url: 'https://medium.com/@steanlab/thunderstorm-safety-b6e6ad0690ae'}
+    - {text: ']'}
+  - title: Чым і наколькі шкодныя вэйпы, якія сабраліся забараніць у Беларусі
+    url: https://belsat.eu/news/23-07-2024-chym-shkodnyya-vejpy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240728074004/https://telegra.ph/CHym-%D1%96-nakolk%D1%96-shkodnyya-vehjpy-yak%D1%96ya-sabral%D1%96sya-zabaran%D1%96c-u-Belarus%D1%96-07-28'}
+  - title: 'Чаго чакаць ад 2025 года? Спыталі экспертаў. Частка 2: пра эканоміку, міжнародную палітыку і штучны інтэлект'
+    url: https://belsat.eu/84355651/pragnozy-2025-2
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250104110410/https://belsat.eu/84355651/pragnozy-2025-2'}
+  - title: Забруджаныя чарнобыльскай катастрофай землі вяртаюць у абарот. Гэта небяспечна і наўрад ці патрэбна
+    url: https://belsat.eu/84426984/czarnobyl-viartajuc
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250109123405/https://belsat.eu/84426984/czarnobyl-viartajuc'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/EvEF5'}
+  - title: «Грантасмокі» Лукашэнкі. На якія праекты ўлады раздалі грошы беларусаў
+    url: https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250211172844/https://belsat.eu/85005917/grantasmoki-lukashenki-na-yakiya-praekty-ulady-razdali-groshy-belarusau'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/7GkRi'}
+  - title: ВОТ-ТАК-ТВ.Украина заявила об ударе российского дрона по саркофагу Чернобыльской АЭС. Чем это грозит
+    url: https://vot-tak.tv/85053412/chaes-udar
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250219114058/https://vot-tak.tv/85053412/chaes-udar'}
+  - title: Адкуль у беларусаў у ДНК балканцы і якія рызыкі ў генетычных тэстаў? Тлумачыць навуковец
+    url: https://belsat.eu/85952537/dnk-testy-zdarouje
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250403075331/https://belsat.eu/85952537/dnk-testy-zdarouje'}
+  - title: Lukashenka aims to recover and develop Chernobyl disaster-contaminated fields and forests. Is it safe and necessary?
+    url: https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250518175732/https://en.belsat.eu/84641385/lukashenka-aims-to-recover-and-develop-chernobyl-disastercontaminated-fields-and-forests-is-it-safe-and-necessary'}
+  - title: 'Навуковец Сяргей Бесараб: тарнада ў Беларусі будуць усё часцейшымі, і з гэтым трэба навучыцца жыць'
+    url: https://belsat.eu/87829612/tarnada-belarus
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250714111608/https://belsat.eu/87829612/tarnada-belarus'}
+    - {text: ', ['}
+    - {label: RU, type: language_version, url: 'https://ru.belsat.eu/87831297/tornado-belarus'}
+    - {text: ']'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250714150730/https://ru.belsat.eu/87831297/tornado-belarus'}
+  - title: «І смех, і грэх». Урад абнавіў спіс «вызначальных» для эканомікі Беларусі інавацыяў
+    url: https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250716072157/https://belsat.eu/87853568/i-smeh-i-greh-urad-abnaviu-spis-vyznachalnyh-dlya-ekanomiki-belarusi-inavatsyyau'}
+    - {text: '['}
+    - {label: RU, type: language_version, url: 'https://web.archive.org/web/20250716072541/https://ru.belsat.eu/87853846/i-smeh-i-greh-pravitelstvo-obnovilo-spisok-opredelyayushchih-dlya-ekonomiki-belarusi-innovatsij'}
+    - {text: ']'}
+  - title: Беларусь сабралася рэгуляваць штучны інтэлект, збірае «экспертную пляцоўку»
+    url: https://belsat.eu/87882490/ai
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250717102839/https://belsat.eu/87882490/ai'}
+    - {label: archive.is, type: archive_is, url: 'https://archive.is/2tM60'}
+  - title: '«Науку в Беларуси реформируют не нобелевские лауреаты, а люди в погонах»: ученый о нападках Лукашенко на НАН'
+    url: https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250806124338/https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/CeVIn'}
+    - {label: CONIFER, type: mirror, url: 'https://conifer.rhizome.org/steanlab/default-collection/20250806132840/https://ru.belsat.eu/88203122/nauku-v-belarusi-reformiruyut-ne-nobelevskie-laureaty-a-lyudi-v-pogonah-uchenyj-o-napadkah-lukashenko-na-nan'}
+  - title: Праверце, ці не трапілі вы на фота ў польскай кнізе «Marsz Białorusi». Да герояў прыходзяць цяпер сілавікі
+    url: https://belsat.eu/88345120/pravertse-tsi-ne-trapili-vy-na-fota-u-polskaj-knize-marsz-bialorusi-da-geroyau-pryhodzyats-tsyaper-silaviki
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250815102221/https://belsat.eu/88345120/pravertse-tsi-ne-trapili-vy-na-fota-u-polskaj-knize-marsz-bialorusi-da-geroyau-pryhodzyats-tsyaper-silaviki'}
+  - title: 'Крызіс кадраў і ідэалагічны дыктат: што стаіць за прыгожымі словамі ідэолагаў аб навуцы'
+    url: https://belsat.eu/88443393/idealogija-metadychka-navuka
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250821102039/https://belsat.eu/88443393/idealogija-metadychka-navuka'}
+  - title: У Беларусі задумалі ўвесці нормы на смурод у гарадах і ўзровень нябачнай цвілі ў жытле. Сур’ёзна?
+    url: https://belsat.eu/88806100/normy-na-smurod-i-cvil
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250910174107/https://belsat.eu/88806100/normy-na-smurod-i-cvil'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/0JtWR'}
+  - title: Жыць да 140 гадоў? НАН прапанавала беларусам дыету, пашпарт і надзею. Вучоны пракаментаваў
+    url: https://belsat.eu/89234083/zhyc-da-140-gado
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251001163945/https://belsat.eu/89234083/zhyc-da-140-gado'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/PUojL'}
+    - {label: RU, type: language_version, url: 'https://ru.belsat.eu/89236918/zhit-do-140-let'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251001182254/https://ru.belsat.eu/89236918/zhit-do-140-let'}
+  - title: Метэазонды на Літву – гэта наўрад ці кантрабандысты. Навуковец падлічыў, наколькі гэта выгадна
+    url: https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251029123345/https://belsat.eu/89730636/meteazondy-na-litvu-heta-naurad-ci-kantrabandysty'}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/wip/EPB68'}
+    - {label: Medium, type: mirror, url: 'https://steanlab.medium.com/weather-balloon-3f5bdbced624'}
+    - {label: RU, type: language_version, url: 'https://ru.belsat.eu/89732120/meteozondy-na-litvu-eto-vriad-li-kontrabandisty'}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/wip/77N7w'}
+  - title: 'Замест рыбы – сурагат: навуковец раскрытыкаваў новую распрацоўку для школьных сталовак'
+    url: https://belsat.eu/89945986/zamest-ryby-suragat
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251110160952/https://belsat.eu/89945986/zamest-ryby-suragat'}
+  - title: Як на Літву запускаюць метэазонды з цыгарэтамі – і хто гэта робіць. Расследаванні «Бюро» і LRT
+    url: https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251111222601/https://belsat.eu/89961965/jak-zapuskajuc-meteazondy-na-litvu'}
+  - title: 'Новыя пагрозы чалавецтву: вірусныя бомбы з футравых фермаў і войны ў інфармацыйнай прасторы'
+    url: https://belsat.eu/90155359/novyya-pagrozy-chalavectvu
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251122153854/https://belsat.eu/90155359/novyya-pagrozy-chalavectvu'}
+  - title: «Багатым – біялогія паводле падпіскі, бедным – чат-бот-нутрыцыёлаг». Прагнозы на 2026 год ад беларускага навукоўца
+    url: https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca
+    links:
+    - {label: RU, type: language_version, url: 'https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo'}
+    - {label: WEBARCHIVE BE, type: web_archive, url: 'https://web.archive.org/web/20260105132813/https://belsat.eu/90661091/pragnozy-na-2026-god-ad-navukoca'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20260105133500/https://ru.belsat.eu/90734083/prognoz-na-2026-god-ot-uchenogo'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/IKikK'}
+  - title: Што напраўду маглі праслухаць «шпіёны-радыёаматары»? Вось што можа злавіць любы ахвочы
+    url: https://belsat.eu/91084724/radyjoamatary
+    links:
+    - {label: archive.is, type: archive_is, url: 'https://archive.is/dsHPN'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260116232249/https://belsat.eu/91084724/radyjoamatary'}
+    - {label: EN, type: language_version, url: 'https://en.belsat.eu/91185507/what-did-belarusian-amateur-radio-spies-actually-intercept-heres-what-anyone-can-pick-up'}
+    - {label: WEBARCHIVE EN, type: web_archive, url: 'https://web.archive.org/web/20260122170145/https://en.belsat.eu/91185507/what-did-belarusian-amateur-radio-spies-actually-intercept-heres-what-anyone-can-pick-up'}
+  - title: Ад беспілотнікаў да лекаў ад раку. Над чым беларуская навука будзе працаваць у найбліжэйшую пяцігодку
+    url: https://belsat.eu/91059606/navuka-2026-2020
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/MsyKa'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260117212415/https://belsat.eu/91059606/navuka-2026-2020'}
+    - {label: RU, type: language_version, url: 'https://ru.belsat.eu/91078412/nauka-2026-2030'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20260122040143/https://ru.belsat.eu/91078412/nauka-2026-2030'}
+  - title: '«Амаль уся табліца Мендзялеева»: СТВ расказала пра гаючую ваду з уранам, навуковец з гэтым не пагадзіўся'
+    url: https://belsat.eu/91330204/yuckaskaya-krynica
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260130164021/https://belsat.eu/91330204/yuckaskaya-krynica'}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/E6Y8I'}
+  - title: «Варварскі эксперымент». Чаму стаўся магчымы скандал з вулічным асвятленнем?
+    url: https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260207013222/https://belsat.eu/91432373/skandal-z-vulicnym-asviatlienniem'}
+  - title: «Зачыстка поля» і легалізацыя кантролю за супольнасцю. Навошта ўладам новае палажэнне «Аб радыёчастотным спектры»?
+    url: https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/jLeHd'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260309115704/https://belsat.eu/91991992/navoshta-uladam-novae-palazhenne-ab-radyyochastotnym-spektry'}
+  - title: «Киберпартизаны» ответили на критику взлома сайта Национальной библиотеки
+    url: https://ru.belsat.eu/92424707/kiberpartizany-biblioteka
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260403203243/https://ru.belsat.eu/92424707/kiberpartizany-biblioteka'}
+  - title: «Вы радыеактыўныя – і гэта цудоўная навіна». Пра што казалі на TEDx Ulica Mińska?
+    url: https://belsat.eu/92786159/wulica-minska-tedx
+    links:
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/C5YoC'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260419111127/https://belsat.eu/92786159/wulica-minska-tedx'}
+  - title: Як беларуская дзяржава вырашыла «залатаць бюджэтную дзіру» за кошт дзяцей Чарнобылю
+    url: https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260805132137/https://belsat.eu/94704791/homeil-zaliczyli-u-czystyja-ad-radyjacyi'}
+  - title: Ці спыніцца БелАЭС ад спёкі і засухі?
+    url: https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260817142325/https://belsat.eu/94860474/tsi-spynitstsa-belaes-ad-spyoki-i-zasuhi'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/01OnC'}
+  - title: Эксперты назвали проект беларусского хранилища радиоактивных отходов опасным
+    url: https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/ssuip'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260903154626/https://ru.belsat.eu/95136792/proekt-belarusskogo-hranilischa-radioaktivnyh-othodov-opasnym'}
+  - title: «Радыяцыйнае жыццё ўнутры бетоннага блоку не спыняецца». Эксперты – пра небяспеку ядравага могільніку
+    url: https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260911072239/https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku'}
+- title: Зеленый портал
+  level: 1
+  entries:
+  - title: 'Сергей Бесараб: «В домашней аптечке обязательно нужно иметь радиозащитную дозу йодидов»'
+    url: https://greenbelarus.info/articles/29-08-2022/sergey-besarab-v-domashney-aptechke-obyazatelno-nuzhno-imet-radiozaschitnuyu
+  - title: В Донецке заявляют об утечке аммиака из-за обстрела пивного завода
+    url: https://greenbelarus.info/articles/11-08-2022/v-donecke-zayavlyayut-ob-utechke-ammiaka-iz-za-obstrela-pivnogo-zavoda
+  - title: Что делать в случае ядерного взрыва, как обезопасить себя и продукты питания
+    url: https://greenbelarus.info/articles/03-10-2022/chto-delat-v-sluchae-yadernogo-vzryva-kak-obezopasit-sebya-i-produkty-pitaniya
+  - title: 'Ядерные отходы: почему они не уехали в Россию и что это значит для Беларуси?'
+    url: https://greenbelarus.info/articles/27-11-2022/yadernye-otkhody-pochemu-oni-ne-uekhali-v-rossiyu-i-chto-eto-znachit-dlya
+  - title: 'Беларусский радиационный химик: Беларусь с ядерным оружием – это обезьяна с гранатой'
+    url: https://greenbelarus.info/articles/07-04-2023/belarusskiy-radiacionnyy-khimik-belarus-s-yadernym-oruzhiem-eto-obezyana-s
+  - title: '«Это подарок для террористов или психически неуравновешенных людей». Поговорили с экспертами об облучении радиацией продуктов и товаров. Их вывод: вреда больше, чем пользы'
+    url: https://greenbelarus.info/articles/18-04-2023/razmeschenie-ustanovok-dlya-oblucheniya-na-razlichnykh-obektakh-eto-podarok
+  - title: 'Были, есть и будут: какие радиоактивные элементы «подарил» нам Чернобыль?'
+    url: https://greenbelarus.info/articles/19-04-2023/ne-stronciem-edinym-kakie-radioaktivnye-elementy-ostavil-nam-chernobyl
+  - title: Атомные станции опасны, даже если никаких аварий на них не происходит
+    url: https://greenbelarus.info/articles/19-05-2023/atomnye-stancii-opasny-dazhe-esli-nikakikh-avariy-na-nikh-ne-proiskhodit
+  - title: «Калі б за справу ўзялася ваенная контрвыведка, мяне б, хутчэй за ўсё, знайшлі. Таму я хутка з’ехаў з Беларусі»
+    url: https://greenbelarus.info/articles/23-02-2024/kali-b-za-spravu-uzyalasya-vaennaya-kontrvyvedka-myane-b-khutchey-za-usyo
+  - title: Набыў у Менску радыяактыўныя пацеркі. Хімік расказвае, як засцерагчыся ад выпраменьвання дома
+    url: https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240425215954/https://greenbelarus.info/articles/25-04-2024/nabyu-u-mensku-radyeaktyunyya-pacerki-khimik-raskazvae-yak-zasceragchysya-ad'}
+  - title: Ці ёсць у мяне дома радыяцыя? Гутарка пра штодзённае апраменьванне
+    url: https://www.youtube.com/watch?v=nu_FeLxJtjc
+  - title: «Радиация в паре с враньём, глупостью и закрытостью – совершенно несовместимые вещи»
+    url: https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240506222650/https://greenbelarus.info/articles/02-05-2024/radiaciya-v-pare-s-vranyom-glupostyu-i-zakrytostyu-sovershenno-nesovmestimye'}
+  - title: Розніца ў якасці велізарная. Хімік — пра склад расійскага і еўрапейскага Persil
+    url: https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240617220406/https://euroradio.fm/roznica-u-yakasci-velizarnaya-khimik-pra-sklad-rasiyskaga-i-eurapeyskaga-persil'}
+  - title: Взрывы в Торопце. Долетят ли выбросы до Беларуси?
+    url: https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240921075107/https://greenbelarus.info/articles/20-09-2024/vzryvy-v-toropce-doletyat-li-vybrosy-do-belarusi'}
+  - title: 'Сергей Бесараб: Радиоактивное бремя ляжет на плечи беларусов на столетия'
+    url: https://greenbelarus.info/articles/25-04-2025/sergey-bessarab-radioaktivnoe-bremya-lyazhet-na-plechi-belarusov-na-stoletiya
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250526072511/https://greenbelarus.info/articles/25-04-2025/sergey-bessarab-radioaktivnoe-bremya-lyazhet-na-plechi-belarusov-na-stoletiya'}
+  - title: “Зялёная сетка” вызначыла лепшы кантэнт пра экалогію Беларусі
+    url: https://greenbelarus.info/green_award
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250606163735/https://greenbelarus.info/articles/05-06-2025/v-plastikovom-plenu-ot-vershin-everesta-do-glubin-marianskoy-vpadiny'}
+  - title: «Побач з тэхналогіямі павінна заўсёды ісці этыка»
+    url: https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250612102239/https://greenbelarus.info/articles/12-06-2025/pobach-z-tekhnalogiyami-pavinna-zausyody-isci-etyka'}
+  - title: '"Эй, агроном, приехали!" Как Беларуси спасти сельское хозяйство от климатического кризиса'
+    url: https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250730085041/https://greenbelarus.info/articles/18-07-2025/ey-agronom-priekhali-kak-belarusi-spasti-selskoe-khozyaystvo-ot-klimaticheskogo'}
+  - title: БелАЭС — уникальна. Такого чудовищного количества проблем, как на ней, не было ни у кого
+    url: https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251121103027/https://greenbelarus.info/articles/21-11-2025/belaes-unikalna-takogo-chudovischnogo-kolichestva-problem-kak-na-ney-ne-bylo-ni'}
+  - title: 'Активированный уголь из погребённой древесины: почему это не прорыв, а сомнительная идея'
+    url: https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260205172449/https://greenbelarus.info/articles/05-02-2026/aktivirovannyy-ugol-iz-pogrebyonnoy-drevesiny-pochemu-eto-ne-proryv'}
+  - title: Чернобыль не закончился в 1986-м. Как радиация до сих пор влияет на здоровье беларусов
+    url: https://greenbelarus.info/articles/09-04-2026/chernobyl-ne-zakonchilsya-v-1986-m-kak-radiaciya-do-sikh-por-vliyaet-na-zdorove
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260409164814/https://greenbelarus.info/articles/07-04-2026/deti-vsyo-chasche-boyatsya-prirody-uchyonye-govoryat-o-roste-biofobii'}
+  - title: 'Беларусский пункт захоронения отходов: почему эксперты бьют тревогу из-за опасных технологий'
+    url: https://greenbelarus.info/articles/31-08-2026/nezavisimye-eksperty-kommentiruyut-pzro
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260903133911/https://greenbelarus.info/articles/31-08-2026/nezavisimye-eksperty-kommentiruyut-pzro'}
+- title: Обычное утро (ОУ)
+  level: 1
+  entries:
+  - title: 'Беседа с ученым-химиком Сергеем Бесарабом: "Ядерной войны не будет, возможен только микроудар"'
+    url: https://www.youtube.com/watch?v=rmHCrB-pADM&t=2170s
+  - title: Сергей Бесараб о беларусской военной аптечке
+    url: https://www.youtube.com/watch?v=v2nJjM7l1mE
+  - title: 'Сергей Бесараб о прорыве в энергетике: «Прорыва нет. Это популизм!»'
+    url: https://www.youtube.com/watch?v=KNclwxelxe8&t=4555s
+  - title: Что делают УЧЕНЫЕ из Беларуси? Беспилотники и электрокары – от тоски и без финансирования
+    url: https://www.youtube.com/watch?v=Elxed2qxbdg
+  - title: КАК ВЫЖИТЬ В ЯДЕРНОЙ ВОЙНЕ. Ученый – про виды бомб, оружие в России, Беларусь и где искать убежище
+    url: https://www.youtube.com/watch?v=7gWKE71Ge-s
+  - title: КАК ЗЕМЛЯ ТРЕЩИТ ПО ШВАМ? Землетрясения в Турции, наводнения и смерчи в Беларуси
+    url: https://www.youtube.com/watch?v=qB2bGUhKWC0
+  - title: Этот фоторедактор ВЗОРВАЛ СОЦСЕТИ! Могут ли ваши данные попасть в ЦРУ или КГБ через Lensa?
+    url: https://www.youtube.com/watch?v=EMcde95BpBU
+  - title: ПРИВОДИТ К РАКУ?! Зачем облучают продукты и какие дозы смертельно опасны для человека
+    url: https://www.youtube.com/watch?v=zX7xBi3YQ6s
+  - title: Лукашенко НЕ ОЖИДАЛ! Вот что будет, если ударят тактическим ядерным оружием по Дроздам
+    url: https://www.youtube.com/watch?v=49sYqq6nvfE
+  - title: Как вытащить КЛЕЩА, чем опасен укус энцефалитного клеща и другие важные вопросы
+    url: https://www.youtube.com/watch?v=zIYUrt0y-AQ
+  - title: 'Они хотят УДАРИТЬ ЯДЕРКОЙ по ПУТИНУ: есть ли у России ядерное оружие и стоит ли бояться?'
+    url: https://www.youtube.com/watch?v=C1vAkg6HtkQ
+  - title: Опасная МОЛОЧКА в Беларуси! Сколько радиации у нас в еде и есть ли ядерное оружие в Лиде
+    url: https://www.youtube.com/watch?v=4EqgNybe3RM
+  - title: В Беларуси будет МОГИЛЬНИК для ядерных отходов, но где? Шокирующие подробности про БелАЭС
+    url: https://www.youtube.com/watch?v=GPFAcyd_FWE
+  - title: 'Защита от СОЛНЦА: как выбрать SPF, какой крем советует Рианна и что делают в Беларуси'
+    url: https://www.youtube.com/watch?v=IPVYkVGjd0M
+- title: Zerkalo.io (ex TUT.BY)
+  level: 1
+  entries:
+  - title: 36-летний минчанин Александр. Белорусский ученый составил портрет среднестатистического «экстремиста» — вот он какой
+    url: https://news.zerkalo.io/life/26468.html
+  - title: В Березовском районе мужчины подожгли прорубь. Узнали у ученого, как такое может быть
+    url: https://news.zerkalo.io/life/28080.html
+  - title: «Смерть наступает за несколько минут». По чатам распространяется страшилка о женщинах, дающих понюхать опасные духи
+    url: https://news.zerkalo.io/cellar/33709.html
+  - title: Есть овощи, которые во время жары становятся ядовитыми. Вы удивитесь, какие
+    url: https://news.zerkalo.io/cellar/46656.html
+  - title: «Один месье очень боится нейтронов». Химик рассказал об интересных приборах, которые закупают для вероятной новой резиденции Лукашенко
+    url: https://news.zerkalo.io/economics/49198.html
+  - title: Фантастическое будущее, которое уже наступает. Белорусский ученый рассказал о главных ожиданиях от науки в 2024 году
+    url: https://news.zerkalo.io/cellar/59836.html
+  - title: Рассказываем, как новые технологии меняют войны (многие уже существующие разработки наверняка покажутся вам фантастикой)
+    url: https://news.zerkalo.io/cellar/60989.html
+  - title: «Ученый заканчивается там же, где заканчивается и личное достоинство». Мнение о том, что не так с белорусской наукой
+    url: https://news.zerkalo.io/economics/62224.html
+  - title: «Как тебе такое, Илон Маск? Заквасить йогурт за миллионы рублей?» Мнение ученого о визите Марины Василевской на МКС
+    url: https://news.zerkalo.io/life/66143.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240417100748/https://news.zerkalo.io/life/66143.html'}
+  - title: «Самые сильные за последние десятилетия». Ожидается магнитная буря — в Беларуси будут полярные сияния (если повезет с погодой)
+    url: https://news.zerkalo.io/life/67978.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240510162525/https://news.zerkalo.io/life/67978.html'}
+  - title: Вот чего не должно быть в солнцезащитном креме. Беларусский ученый рассказал, как его выбирать
+    url: https://news.zerkalo.io/cellar/69173.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240528151452/https://news.zerkalo.io/cellar/69173.html'}
+  - title: 'Ученый-химик прокомментировал задержание беларусских школьников: их задержали за детские петарды'
+    url: https://news.zerkalo.io/life/70460.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240611090640/https://news.zerkalo.io/life/70460.html'}
+  - title: С чем связаны природные аномалии, которые одна за одной обрушиваются на Беларусь? Ученый объяснил и рассказал, чего ждать дальше
+    url: https://news.zerkalo.io/life/73695.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240719152359/https://news.zerkalo.io/life/73695.html'}
+  - title: «В некоторых случаях необходима обязательная проверка психического состояния». Мнение ученого о том, что не так в Академии наук
+    url: https://news.zerkalo.io/economics/75716.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240813144201/https://news.zerkalo.io/economics/75716.html'}
+  - title: Беларусский ученый отмечает, что люди старше 44 лет могут легче перенести оспу обезьян. И вот почему
+    url: https://news.zerkalo.io/life/76056.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240817140707/https://news.zerkalo.io/life/76056.html'}
+  - title: В Академии наук составляют списки сотрудников, кому разрешат доступ в интернет, а для уехавших за границу академиков готовят сюрприз
+    url: https://news.zerkalo.io/life/77452.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240903155859/https://news.zerkalo.io/life/77452.html'}
+  - title: «Что за оно?» Беларус пожаловался на огромного красного вредителя в огороде. Узнали, кто это
+    url: https://news.zerkalo.io/cellar/77981.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240910150046/https://news.zerkalo.io/cellar/77981.html'}
+  - title: «Бегите, глупцы». Химик рассказал, чем опасно горение складов боеприпасов (последствия пугающие)
+    url: https://news.zerkalo.io/life/78923.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240921171328/https://news.zerkalo.io/life/78923.html'}
+  - title: «Для любителей заговоров и чертовщины». В Кобрине прошел максимально странный дождь, озадачивший автолюбителей и прохожих. В чем дело
+    url: https://news.zerkalo.io/cellar/79813.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241003081912/https://news.zerkalo.io/cellar/79813.html'}
+  - title: «Производитель нарушил нормы либо нужно закрыть неприятное дело». Химик разобрал официальную версию смерти четырех детей после ужина в РФ
+    url: https://news.zerkalo.io/life/79170.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240930204023/https://news.zerkalo.io/life/79170.html'}
+  - title: «Чудовищный эксперимент мракобесов». Ученый высказался об отмене перевода часов, из-за которого Беларусь «застряла» в летнем времени
+    url: https://news.zerkalo.io/life/83323.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241114184102/https://news.zerkalo.io/life/83323.html'}
+  - title: Нужно ли стирать новое постельное белье и одежду перед тем, как использовать первый раз? Объясняем
+    url: https://news.zerkalo.io/life/83643.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241118171222/https://news.zerkalo.io/life/83643.html'}
+  - title: Каждый раз, когда завариваете чай, сверху появляется неприятная маслянистая пленка? Спросили у ученого, откуда она берется и вредна ли
+    url: https://news.zerkalo.io/cellar/83756.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241121104315/https://news.zerkalo.io/cellar/83756.html'}
+  - title: Задумывались, почему хурма вяжет? Оказывается, химия все объясняет
+    url: https://news.zerkalo.io/life/84754.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241130184032/https://news.zerkalo.io/life/84754.html'}
+  - title: Какие «прорывные технологии» помогут Лукашенко? Ученый считает, что можно попробовать «запрещенку» и sextech — вот его мнение
+    url: https://news.zerkalo.io/life/85166.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241204201846/https://news.zerkalo.io/life/85166.html'}
+  - title: '«Так он показывает человеку: я опасен». Рассказываем, как обычный картофель может убить человека'
+    url: https://news.zerkalo.io/life/88719.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250118163346/https://news.zerkalo.io/life/88719.html'}
+  - title: Замечали, как порой дотрагиваетесь до каких-то вещей и вас бьет током? Объясняем, почему так происходит
+    url: https://news.zerkalo.io/cellar/89634.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/save/https://news.zerkalo.io/cellar/89634.html'}
+  - title: «Царапают „здесь был Вася“ на стене Лувра». Химик Сергей Бесараб — о том, как жодинский метеорит показал состояние беларусской науки
+    url: https://news.zerkalo.io/life/90056.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250201095635/https://news.zerkalo.io/life/90056.html'}
+  - title: «Обратили бы внимание на отходы Гомельского химического комбината». Что думает ученый о поисках редкоземельных минералов в Беларуси
+    url: https://news.zerkalo.io/economics/93150.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250306171009/https://news.zerkalo.io/economics/93150.html'}
+  - title: Спросили у ученого, нужно ли мыть с содой овощи и фрукты, как советуют в Instagram и TikTok. Вот его ответ
+    url: https://news.zerkalo.io/cellar/96471.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250410181053/https://news.zerkalo.io/cellar/96471.html'}
+  - title: Одна привычка может существенно повлиять на уровень микропластика в организме. В чем дело и как обезопасить себя — спросили ученого
+    url: https://news.zerkalo.io/life/97783.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250429105746/https://by-zerkalo-read.space/news/life/97783.html?social'}
+  - title: Всего один предмет может превратить ваш завтрак в бомбу замедленного действия. Вот что говорит беларусский ученый
+    url: https://news.zerkalo.io/cellar/99730.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250520191008/https://news.zerkalo.io/cellar/99730.html'}
+  - title: «А мне воняет не гарью, а кошачьим туалетом». Беларусы возмущаются, что пакеты в магазинах неприятно пахнут. Объясняем почему
+    url: https://news.zerkalo.io/life/103991.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250716220427/https://news.zerkalo.io/life/103991.html'}
+    - {text: '['}
+    - {label: '2', type: other, url: 'https://conifer.rhizome.org/steanlab/default-collection/20250716221433/https://news.zerkalo.io/life/103991.html'}
+    - {text: '] - ['}
+    - {label: archive.is, type: archive_is, url: 'https://archive.is/3S1Wh'}
+    - {text: '] - ['}
+    - {label: Telegra.ph, type: mirror, url: 'https://telegra.ph/A-mne-vonyaet-ne-garyu-a-koshachim-tualetom-Belarusy-vozmushchayutsya-chto-pakety-v-magazinah-nepriyatno-pahnut-Obyasnyaem-poche-07-17'}
+    - {text: ']'}
+  - title: Ученый Бесараб выложил фотографии из польской книги, по которой силовики ищут участников протестов
+    url: https://news.zerkalo.io/life/106316.html
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/IENGR'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250815151931/https://news.zerkalo.io/life/106316.html'}
+  - title: «Всё прячется». Как и зачем власти возвращают в оборот земли, которые раньше относились к загрязненным радиацией
+    url: https://news.zerkalo.io/economics/114538.html
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/Oxh5J'}
+    - {label: SCREENSHOT, type: mirror, url: 'https://web.archive.org/screenshot/https://news.zerkalo.io/economics/114538.html'}
+  - title: «Это они называют артезианской». Минчанка возмутилась качеством воды и показала фильтр — спросили химика, есть ли основания переживать
+    url: https://news.zerkalo.io/life/118969.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260127222833/https://news.zerkalo.io/life/118969.html'}
+  - title: «Платите здоровьем за „светлый вечер“, но света вам не дают». Ученый о возможных последствиях идеи Лукашенко с «блэкаутом» для беларусов
+    url: https://news.zerkalo.io/life/119640.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260205173352/https://news.zerkalo.io/life/119640.html'}
+  - title: «Спасибо всевышнему, что уцелел». Известные беларусы рассказали, какими они были в школе, и поделились своими фото тех лет — смотрите
+    url: https://news.zerkalo.io/life/119726.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260207124310/https://news.zerkalo.io/life/119726.html'}
+  - title: «Отравление всех без разбора, и детей, и взрослых». Химик прокомментировал идею Лукашенко удобрять поля солью
+    url: https://news.zerkalo.io/economics/122464.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260312203409/https://news.zerkalo.io/economics/122464.html'}
+  - title: Нам все время рассказывали, что в жару надо носить белое и нельзя черное. Оказалось, что все не так, — объяснил ученый
+    url: https://news.zerkalo.io/life/130736.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260629145850/https://news.zerkalo.io/life/130736.html'}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/Kovxa'}
+  - title: «Южные и восточные районы рискуют стать непригодными для жизни в ближайшие 10 лет». Ученый — о том, как спасти водоемы от обмеления
+    url: https://news.zerkalo.io/life/135205.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260827124159/https://news.zerkalo.io/life/135205.html'}
+  - title: Радиоактивные отходы в Беларуси планируют хранить в специальных ангарах 600−700 лет
+    url: https://news.zerkalo.io/life/135676.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260903081325/news.zerkalo.io/life/135676.html'}
+- title: DEV.BY
+  level: 1
+  entries:
+  - title: «Бургеры из насекомых — хоть завтра». Беларус ушёл из Google делать бизнес на опарышах
+    url: https://devby.io/news/flies
+  - title: «Спастись от газа, настроить сеть». Чтение на уикенд от Сергея Бесараба
+    url: https://devby.io/news/besarab-chto-chitat
+  - title: Где в Беларуси живут «экстремисты»? Анализ списка МВД из 1700+ человек
+    url: https://devby.io/news/gde-v-belarusi-zhivut-ekstremisty
+  - title: 'Научный хакатон в Минске: домашний наркотест, синтез генов и алгоритм для перебора картофеля'
+    url: https://devby.io/news/pervyy-v-strane-nauchnyy-hakaton-vyigral-spektrometr-dlya-provedeniya-testa-na-narkotiki
+  - title: Почему Нобелевская премия отстаёт от реального научного прогресса? Объясняет учёный-химик
+    url: https://devby.io/blogs/posts/nobel-prize
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://archive.is/wip/zDq70'}
+- title: Новы Час Online
+  level: 1
+  entries:
+  - title: Дзе ў Беларусі жыве найбольш «экстрэмістаў»?
+    url: https://novychas.online/hramadstva/dze-u-belarusi-zyve-najbolsz-ekstremistau
+  - title: «Гомель-30» — сакрэтная база для ядзернай зброі РФ? Ці ПК-24, дзе здзекуюцца з жанчын-палітвязняў?
+    url: https://novychas.online/hramadstva/homel-30-sakretnaja-baza-dlja-jadzernaj-zbroi
+  - title: Папулярызатар навукі склаў партрэт рэпрэсаванага навукоўца. Некаторыя вынікі здзівілі
+    url: https://novychas.online/hramadstva/papuljaryzatar-navuki-sklau-partret-represavanaha
+  - title: 'Феномен Бесараба: калі навука становіцца мовай супраціву'
+    url: https://novychas.online/asoba/fenomen-besaraba-kali-navuka-stanovicca-movaj-sup
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250725062032/https://novychas.online/asoba/fenomen-besaraba-kali-navuka-stanovicca-movaj-sup'}
+- title: Позірк
+  level: 1
+  entries:
+  - title: 'Сяргей Бесараб: Камбінацыя радыяцыі і глупства прыводзіць да трагедыі'
+    url: https://pozirk.online/be/longreads/82141/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240426095409/https://pozirk.online/be/longreads/82141/'}
+  - title: Назначение унылого Караника может быть метафорой, отражающей состояние Академии наук — ученый
+    url: https://pozirk.online/ru/news/139413/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250523000208/https://pozirk.online/ru/news/139413/'}
+- title: Новая Газета Европа
+  level: 1
+  entries:
+  - title: Травы, масла и йодовая сеточка. По статистике, почти половина россиян хотя бы иногда прибегает к нетрадиционной медицине. Объясняем, что с ней не так
+    url: https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250301095116/https://novayagazeta.eu/articles/2025/02/27/travy-masla-i-iodovaia-setochka'}
+- title: ВОТ-ТАК ТВ
+  level: 1
+  entries:
+  - title: 'Катастрофа на Чернобыльской АЭС: как это было и что угрожает человечеству спустя 40 лет'
+    url: https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260426145305/https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya'}
+- title: Радыё Свабода
+  level: 1
+  entries:
+  - title: Беларускія ўлады расказалі, як змагаюцца з наступствамі Чарнобыльскай аварыі. Эколягі ім запярэчылі
+    url: https://www.svaboda.org/a/32922242.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240426164036/https://www.svaboda.org/a/32922242.html'}
+  - title: Затрымалі перакладчыцу Вольгу Калацкую
+    url: https://www.svaboda.org/a/32940061.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240509202947/https://www.svaboda.org/a/32940061.html'}
+  - title: «Хлопцаў затрымалі за дзіцячыя пэтарды». Навуковец пракамэнтаваў арышт юнакоў за выбухоўку
+    url: https://www.svaboda.org/a/32987593.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240611073236/https://www.svaboda.org/a/32987593.html'}
+  - title: У Беларусі хочуць забараніць вэйпы. Экспэрты падазраюць, што гэта ў інтарэсах вытворцаў цыгарэт
+    url: https://www.svaboda.org/a/33039864.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240718094401/https://www.svaboda.org/a/33039864.html'}
+  - title: Анкалёгія, алергія, іншыя хваробы. Чым пагражаюць беларусам пажары на Палесьсі і ва Ўкраіне
+    url: https://www.svaboda.org/a/33114820.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240911083018/https://www.svaboda.org/a/33114820.html'}
+  - title: «Усё навідавоку — бяры і перапрацоўвай». Навуковец Сяргей Бесараб — пра рэдказямельныя мэталы ў Беларусі і сьвеце
+    url: https://www.svaboda.org/a/33330429.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250227163304/https://www.svaboda.org/a/33330429.html'}
+  - title: '«ПіК Свабоды»: Гардон адказаў за «экстрэміста». Рэдказёмы ў Гомлі. Вярхоўны камісар ААН едзе ў Беларусь?'
+    url: https://www.svaboda.org/a/33330553.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250227185935/https://www.svaboda.org/a/33330553.html'}
+  - title: Дыктатура і БелАЭС. Як улады ў Беларусі шкодзяць людзям і прыродзе праз атамную станцыю
+    url: https://www.svaboda.org/a/33429574.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250531074322/https://www.svaboda.org/a/33429574.html'}
+  - title: У адкрытым доступе зьявіліся здымкі, па якіх сілавікі вызначаюць удзельнікаў пратэстаў
+    url: https://www.svaboda.org/a/33503981.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250815104614/https://www.svaboda.org/a/33503981.html'}
+  - title: «Вялікі воз» беларускіх талентаў. Навошта навукоўцы зь Беларусі другі раз зьбіраліся ў Эстоніі
+    url: https://www.svaboda.org/a/33503777.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250816182054/https://www.svaboda.org/a/33503777.html'}
+  - title: «Шкодныя рэчывы на тысячы, а то і мільёны гадоў». Якія радыяактыўныя адкіды хочуць захоўваць у Беларусі і ў чым шкода гэтага
+    url: https://www.svaboda.org/a/33546939.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251002093457/https://www.svaboda.org/a/33546939.html'}
+  - title: Беларускіх кантрабандных цыгарэт стала менш удвая, але цяпер яны спыняюць працу аэрапортаў. Як зьмянілася кантрабанда ў Літву
+    url: https://www.svaboda.org/a/33586119.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251111114750/https://www.svaboda.org/a/33586119.html'}
+  - title: За час працы АЭС у Астраўцы электрычнасьць для людзей падаражэла на 36%. Навошта ўладам Беларусі другая атамная станцыя
+    url: https://www.svaboda.org/a/33597163.html
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/flQlq'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251120224906/https://www.svaboda.org/a/33597163.html'}
+  - title: «У сілавікоў кепская сувязь, а вінаватыя радыёаматары». Чаму людзей з аматарскімі радыёстанцыямі абвінавацілі ў здрадзе дзяржаве
+    url: https://www.svaboda.org/a/33653641.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260119115207/https://www.svaboda.org/a/33653641.html'}
+  - title: Мазырскі НПЗ атачаюць комплексамі супрацьпаветранай абароны. Спадарожнікавыя здымкі
+    url: https://www.svaboda.org/a/33668138.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260204130148/https://www.svaboda.org/a/33668138.html'}
+  - title: «Электрычнасьць дзяваць няма куды, яе прорва!». Чаму беларускія ўлады вырашылі адключыць ліхтары
+    url: https://www.svaboda.org/a/33670436.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260205132915/https://www.svaboda.org/a/33670436.html'}
+  - title: «Атрымліваецца толькі саламяны макет». Як у Беларусі больш за 40 гадоў ствараюць свой электрамабіль
+    url: https://www.svaboda.org/a/33679641.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260216121908/https://www.svaboda.org/a/33679641.html'}
+  - title: 'Палесьсе, Мсьціслаў ці Астравец: улады прапанавалі тры пляцоўкі пад адкіды ад БелАЭС. Чым гэта небясьпечна і якая зь іх лепшая'
+    url: https://www.svaboda.org/a/33723980.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260403103339/https://www.svaboda.org/a/33723980.html'}
+  - title: «Тысячы людзей згубілі доступ». Навуковец Бесараб — пра акцыю кібэрпартызанаў супраць Нацыянальнай бібліятэкі
+    url: https://www.svaboda.org/a/33724158.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260405122556/https://www.svaboda.org/a/33724158.html'}
+  - title: 'Чарнобыль ня скончыўся: якія радыянукліды засталіся ў Беларусі праз 40 гадоў'
+    url: https://www.svaboda.org/a/33741521.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260426064405/https://www.svaboda.org/a/33741521.html'}
+  - title: 'Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»'
+    url: https://www.svaboda.org/a/33851719.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260910134135/https://www.svaboda.org/a/33851719.html'}
+- title: CityDog
+  level: 1
+  entries:
+  - title: «В беларуских аптеках такого йода нет». Специалист — о том, как и какой именно йод надо пить, чтобы защититься от радиации
+    url: https://citydog.io/post/kakoy-yod/
+  - title: 'Если случится ядерный удар: какой йод можно найти в беларуских аптеках? Сколько он стоит и поможет ли при радиации? Вот наглядная инструкция'
+    url: https://citydog.io/post/kak-vybrat-yod/
+- title: Штодзень
+  level: 1
+  entries:
+  - title: Тактычную ядзерную зброю могуць размясціць каля Гомеля
+    url: https://homeldays.org/taktychnuju-jadzernuju-zbroju-moguc-razmjascic-kalja-gomelja/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230404131208/https://homeldays.org/taktychnuju-jadzernuju-zbroju-moguc-razmjascic-kalja-gomelja/'}
+  - title: Звесткі пра савецкі ваенны аб’ект “Гомель-30”
+    url: https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231206032252/https://homeldays.org/zvestki-pra-savecki-vaenny-ab-ekt-gomel-30/'}
+  - title: “Калі вы і вашыя родзічы жывеце ў раёне радыяцыйнага забруджання і карыстаецеся пячным ацяпленнем — уважліва стаўцеся да пытанняў радыяцыйнай гігіены”
+    url: https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231004021436/https://homeldays.org/kali-vy-i-vashyja-rodzichy-zhyvece-rajone-radyjacyjnaga-zabrudzhannja-i-karystaecesja-pjachnym-acjaplennem-vazhliva-sta-cesja-da-pytannja-radyjacyjnaj-gigieny/'}
+  - title: Каля Рэчыцы фіксуюць нетыповае захворванне паразітамі, якія паражаюць мяккія тканкі людзей
+    url: https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231010050416/https://homeldays.org/kalja-rjechycy-fiksujuc-netypovae-zahvorvanne-parazitami-jakija-parazhajuc-mjakkija-tkanki-ljudzej/'}
+  - title: Гомель — зноў у лідарах па “экстрэмістах“
+    url: https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231129154120/https://homeldays.org/gomel-zno-u-lidjerah-pa-jekstrjemistah/'}
+  - title: Жлобін на Гомельшчыне лідзіруе па колькасці экстрэмістаў
+    url: https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240328122437/https://homeldays.org/zhlobin-na-gomelshchyne-lidzirue-pa-kolkasci-jekstrjemista/'}
+  - title: '«Падарунак» дзясяткам пакаленняў: як Беларусь будзе захоўваць ядзерныя адходы са сваёй АЭС'
+    url: https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240330222406/https://homeldays.org/padarunak-dzjasjatkam-pakalennja-jak-belarus-budze-zaho-vac-jadzernyja-adyhody-sa-svajoj-ajes/'}
+  - title: Плошча забруджвання Беларусі цэзіем-137 зменшылася амаль у два разы, сцвярджаюць улады. Але што значаць гэтыя лічбы?
+    url: https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240425193933/https://homeldays.org/ploshcha-zabrudzhvannja-belarusi-cjeziem-137-zmenshylasja-amal-u-dva-razy-scvjardzhajuc-ulady-ale-shto-znachac-gjetyja-lichby/'}
+  - title: 'Радыяцыйныя пажары: Наколькі гэта небяспечна для жыхароў і што рабіць ва ўмовах замоўчвання інфармацыі ўладамі'
+    url: https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240911125937/https://homeldays.org/radyjacyjnyja-pazhary-nakolki-gjeta-nebjaspechna-dlja-zhyharo-i-shto-rabic-va-movah-zamo-chvannja-infarmacyi-ladami/'}
+  - title: Гомельшчына, амерыканскія прэрыі і рэпеленты
+    url: https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250804060133/https://homeldays.org/gomelshchyna-amerykanskija-prjeryi-i-rjepelenty/amp/'}
+  - title: Дзе пабудуюць другую АЭС у Беларусі. Чаму пад пагрозай Гомельшчына
+    url: https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20251130113217/https://homeldays.org/dze-pabudujuc-druguju-ajes-u-belarusi-chamu-pad-pagrozaj-gomelshchyna/'}
+  - title: 'Чарнобыль: абы не было панікі'
+    url: https://homeldays.org/charnobyl-aby-ne-bylo-paniki-padkast/
+    links:
+    - {text: (}
+    - {label: падкаст, type: audio, url: /_posts/files/Чарнобыль-абы-не-было-панікі-604617598.mp3}
+    - {text: )}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/9t6AH'}
+  - title: Улады хочуць адкрыць назіральную вышку з выглядам на саркафаг ЧАЭС
+    url: https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260420190938/https://homeldays.org/ulady-hochuc-adkryc-naziralnuju-vyshku-z-vygljadam-na-sarkafag-chajes/'}
+  - title: Могільнік, разлічаны на 300 гадоў, можа не вытрымаць і ста. Пяць галоўных рызык беларускага сховішча радыеактыўных адкідаў
+    url: https://homeldays.org/mogilnik-razlichany-na-300-gado-mozha-ne-vytrymac-i-sta-pjac-galo-nyh-ryzyk-belaruskaga-shovishcha-radyeakty-nyh-adkida/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/E7DJS'}
+- title: Флагшток
+  level: 1
+  entries:
+  - title: «Мы открыли пожарный гидрант и теперь не знаем, куда отвести воду». Известный ученый рассказал о проблемах строительства ядерного могильника в Беларуси
+    url: https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260417103459/https://flagshtok.info/ru/naviny/my-otkryli-pozharnyj-gidrant-i-teper-ne-znaem-kuda-otvesti-vodu-izvestnyj-uchenyj-rasskazal-o-problemah-stroitelstva-jadernogo-mogilnika-v-belarusi.html'}
+  - title: Торговля одеждой, агросервис, КГБ. Есть ли профильные специалисты в организации, ответственной за ядерный могильник в Беларуси?
+    url: https://flagshtok.info/ru/flagshtok/torgovlja-odezhdoj-agroservis-kgb-est-li-profilnye-specialisty-v-organizacii-otvetstvennoj-za-jadernyj-mogilnik-v-belarusi.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260426163106/https://flagshtok.info/ru/flagshtok/torgovlja-odezhdoj-agroservis-kgb-est-li-profilnye-specialisty-v-organizacii-otvetstvennoj-za-jadernyj-mogilnik-v-belarusi.html'}
+  - title: «Вдыхали радиоактивный аэрозоль». На госТВ заявили, что радиационный фон в норме, говоря о пожаре в Чернобыльской зоне, но умолчали о главном
+    url: https://flagshtok.info/ru/naviny/radiacionnyj-fon-v-norme-zajavili-na-gostv-kommentiruja-pozhar-v-chernobylskoj-zone-chto-ne-tak-objasnil-ekspert.html
+    links:
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/rZONe'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260513153208/https://flagshtok.info/ru/naviny/radiacionnyj-fon-v-norme-zajavili-na-gostv-kommentiruja-pozhar-v-chernobylskoj-zone-chto-ne-tak-objasnil-ekspert.html'}
+  - title: «Беларусь выбирает самый дешевый тип». Какую опасность будет нести ядерный могильник, который может появиться на Гомельщине, объяснил эксперт
+    url: https://flagshtok.info/ru/naviny/belarus-vybiraet-samyj-deshevyj-tip-kakuju-opasnost-budet-nesti-jadernyj-mogilnik-kotoryj-mozhet-pojavitsja-na-gomelscine-objasnil-ekspert.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260515101608/https://flagshtok.info/ru/naviny/belarus-vybiraet-samyj-deshevyj-tip-kakuju-opasnost-budet-nesti-jadernyj-mogilnik-kotoryj-mozhet-pojavitsja-na-gomelscine-objasnil-ekspert.html'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.ph/y7DwM'}
+  - title: В Беларуси хотят вывести из-под надзора ядерные могильники времен Чернобыля. О чем это говорит, объяснил эксперт
+    url: https://flagshtok.info/ru/naviny/v-belarusi-hotjat-vyvesti-iz-pod-nadzora-jadernye-mogilniki-vremen-chernobylja-o-chem-eto-govorit-objasnil-ekspert.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260721121846/https://flagshtok.info/ru/naviny/v-belarusi-hotjat-vyvesti-iz-pod-nadzora-jadernye-mogilniki-vremen-chernobylja-o-chem-eto-govorit-objasnil-ekspert.html'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/9aDJG'}
+  - title: «Попытка устранить репутационный ущерб». В преддверии общественных обсуждений ядерного могильника БелРАО сменил информационную политику
+    url: https://flagshtok.info/ru/naviny/v-preddverii-obscestvennyh-obsuzhdenij-jadernogo-mogilnika-belrao-smenil-informacionnuju-politiku.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260729111746/https://flagshtok.info/ru/naviny/v-preddverii-obscestvennyh-obsuzhdenij-jadernogo-mogilnika-belrao-smenil-informacionnuju-politiku.html'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/w06Fd'}
+  - title: Беларуси грозит радиологическая катастрофа. Эксперт подтвердил, что ядерный могильник начали строить втихую, не дожидаясь общественных обсуждений
+    url: https://flagshtok.info/ru/naviny/belarusi-grozit-radiologicheskaja-katastrofa-ekspert-podtverdil-chto-jadernyj-mogilnik-nachali-stroit-vtihuju-ne-dozhidajas-obscestvennyh-obsuzhdenij.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260819130220/https://flagshtok.info/ru/naviny/belarusi-grozit-radiologicheskaja-katastrofa-ekspert-podtverdil-chto-jadernyj-mogilnik-nachali-stroit-vtihuju-ne-dozhidajas-obscestvennyh-obsuzhdenij.html'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/uIOyG'}
+  - title: «Уклонение от ответственности». Эксперт прокомментировал ответы БелРАО на замечания по проекту ПЗРО
+    url: https://flagshtok.info/ru/naviny/uklonenie-ot-otvetstvennosti-ekspert-prokommentiroval-otvety-belrao-na-zamechanija-po-proektu-pzro.html
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/C0iDR'}
+- title: ЕвроРадио
+  level: 1
+  entries:
+  - title: Атакі гнусу ў Беларусі. Даведаліся, адкуль усе гэтыя мошкі і як сябе абараніць
+    url: https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230627170801/https://euroradio.fm/ataki-gnusu-u-belarusi-davedalisya-adkul-use-getyya-moshki-i-yak-syabe-abaranic'}
+  - title: Атакуюць восы? Даведаліся, чаму іх шмат, як уратавацца і чаму без іх нельга
+    url: https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230907060208/https://euroradio.fm/atakuyuc-vosy-davedalisya-chamu-ikh-shmat-yak-uratavacca-i-chamu-bez-ikh-nelga'}
+  - title: С малиновым вареньем. Как меняют рацион солдат, которые (не)работают с плутонием
+    url: https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240130094606/https://euroradio.fm/ru/s-malinovym-varenem-kak-menyayut-racion-soldat-kotorye-nerabotayut-s-plutoniem'}
+  - title: В Беларуси построят мусороперерабатывающий завод. На Минск полетит свинец?
+    url: https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240216082939/https://euroradio.fm/ru/v-belarusi-postroyat-musoropererabatyvayuschiy-zavod-na-minsk-poletit-svinec'}
+  - title: '"Можа быць алергія". З чаго шыюць форму для беларускіх школьнікаў'
+    url: https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240301193936/https://euroradio.fm/mozha-byc-alergiya-z-chago-shyyuc-formu-dlya-belaruskikh-shkolnikau'}
+  - title: Навуковец тлумачыць, навошта саджаць на лецішчы лаванду і… разводзіць паўлінаў
+    url: https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240309150056/https://euroradio.fm/navukovec-tlumachyc-chamu-varta-sadzhac-na-lecishchy-lavandu-i-razvodzic-paulina'}
+  - title: Бярозавы сок не такі ўжо і карысны? Тлумачыць хімік
+    url: https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240312181850/https://euroradio.fm/byarozavy-sok-ne-taki-uzho-i-karysny-tlumachyc-khimik'}
+  - title: Как собрать аптечку на случай ядерной войны (без паники, просто на всякий случай
+    url: https://web.archive.org/web/20240508151638/https://euroradio.fm/ru/kak-sobrat-aptechku-na-sluchay-yadernoy-voyny-bez-paniki-prosto-na-vsyakiy-sluchay
+  - title: Не давярайце ўсяму, што пішуць. Хімік тлумачыць, як правільна выбраць SPF
+    url: https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240517091518/https://euroradio.fm/ne-davyarayce-usyamu-shto-pishuc-khimik-tlumachyc-yak-pravilna-vybrac-spf'}
+  - title: 'Сергей Бесараб: через Беларусь к звездам — отличная национальная идея!'
+    url: https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240620084920/https://euroradio.fm/ru/sergey-besarab-cherez-belarus-k-zvezdam-otlichnaya-nacionalnaya-ideya'}
+  - title: 'Garnier vs Bielita: химик проанализировал состав наших (и ваших) кремов для лица'
+    url: https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240625083038/https://euroradio.fm/ru/garnier-vs-bielita-khimik-proanaliziroval-sostav-nashikh-i-vashikh-kremov-dlya-lica'}
+  - title: Як праверыць кавун на нітраты ў хатніх умовах і ці шкодзяць яны арганізму
+    url: https://euroradio.fm/yak-praveryc-kavun-na-nitraty-u-khatnikh-umovakh-i-ci-shkodzyac-yany-arganizmu
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240827111638/https://euroradio.fm/yak-praveryc-kavun-na-nitraty-u-khatnikh-umovakh-i-ci-shkodzyac-yany-arganizmu'}
+    - {text: .}
+    - {label: RU, type: language_version, url: 'https://euroradio.fm/ru/kak-proverit-arbuz-na-nitraty-v-domashnikh-usloviyakh-i-vredyat-li-oni-organizmu'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240827112807/https://euroradio.fm/ru/kak-proverit-arbuz-na-nitraty-v-domashnikh-usloviyakh-i-vredyat-li-oni-organizmu'}
+  - title: Белорусских академиков, живущих за рубежом, хотят лишать званий
+    url: https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240903192639/https://euroradio.fm/ru/belorusskikh-akademikov-zhivuschikh-za-rubezhom-khotyat-lishat-zvaniy'}
+  - title: 'Дым над Беларусью: есть ли опасность и как защититься от вреда'
+    url: https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240909165912/https://euroradio.fm/ru/dym-nad-belarusyu-est-li-opasnost-i-kak-zaschititsya-ot-vreda'}
+    - {label: BE, type: language_version, url: 'https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240909170031/https://euroradio.fm/dym-nad-belarussyu-ci-yosc-nebyaspeka-i-yak-abaranicca-ad-shkody'}
+  - title: 'Пыль над Беларусью: есть ли опасность и как уберечься от вреда?'
+    url: https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20241002115915/https://euroradio.fm/ru/pyl-nad-belarusyu-est-li-opasnost-i-kak-uberechsya-ot-vreda'}
+  - title: Опять белые разводы на ботинках. Что делать? Разбираем с учёным-химиком
+    url: https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/BUiQG'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721145937/https://euroradio.fm/ru/opyat-belye-razvody-na-botinkakh-chto-delat-razbiraem-s-uchyonym-khimikom'}
+  - title: “Паставяць у рэзідэнцыі” — навуковец пра магчымы лёс беларускага метэарыта
+    url: https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/nqBbe'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721150033/https://euroradio.fm/pastavyac-u-rezidencyi-navukovec-pra-magchymy-lyos-belaruskaga-metearyta'}
+  - title: Ці варта шукаць у Беларусі рэдказямельныя металы? Адказвае навуковец
+    url: https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/oBBgx'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721145929/https://euroradio.fm/ci-varta-shukac-u-belarusi-redkazyamelnyya-metaly-adkazvae-navukovec'}
+  - title: Вейпы небяспечнейшыя за звычайныя цыгарэты? Адказваюць нарколаг і навуковец
+    url: https://euroradio.fm/veypy-nebyaspechneyshyya-za-zvychaynyya-cygarety-adkazvayuc-doktar-narkolag-i-navukov
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/kBiE7'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721150027/https://euroradio.fm/veypy-nebyaspechneyshyya-za-zvychaynyya-cygarety-adkazvayuc-doktar-narkolag-i-navukov'}
+  - title: У Беларусі могуць знікнуць бульба і лён-даўгунец
+    url: https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250721145503/https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec'}
+    - {label: CONIFER, type: mirror, url: 'https://conifer.rhizome.org/steanlab/default-collection/20250721145514/https://euroradio.fm/u-belarusi-moguc-zniknuc-bulba-i-lyon-daugunec'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/5KgIq'}
+  - title: Захаваць патэнцыял. У Эстоніі прайшоў другі з’езд беларускіх навукоўцаў Еўропы
+    url: https://euroradio.fm/zakhavac-patencyyal-u-estonii-prayshou-drugi-zezd-belaruskikh-navukoucau-europy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250811151828/https://euroradio.fm/zakhavac-patencyyal-u-estonii-prayshou-drugi-zezd-belaruskikh-navukoucau-europy'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/1KeUY'}
+  - title: “Сонца як каструля з аўсянкай”. Урач і навуковец пра “небяспеку” магнітных бур
+    url: https://euroradio.fm/sonca-yak-kastrulya-z-ausyankay-urach-i-navukovec-pra-nebyaspeku-magnitnykh-bur
+    links:
+    - {label: RU, type: language_version, url: 'https://euroradio.fm/ru/solnce-kak-kastryulya-s-ovsyankoy-vrach-i-uchyonyy-ob-opasnosti-magnitnykh-bur'}
+    - {label: WEBARCHIVE BY, type: web_archive, url: 'https://web.archive.org/web/20260227205346/https://euroradio.fm/sonca-yak-kastrulya-z-ausyankay-urach-i-navukovec-pra-nebyaspeku-magnitnykh-bur'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20260227205442/https://euroradio.fm/ru/solnce-kak-kastryulya-s-ovsyankoy-vrach-i-uchyonyy-ob-opasnosti-magnitnykh-bur'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/f14Jc'}
+  - title: Учёный, чиновники и обычные люди о запрете искусственных цветов в Беларуси
+    url: https://euroradio.fm/ru/uchyonyy-chinovniki-i-obychnye-lyudi-o-zaprete-iskusstvennykh-cvetov-v-belarusi
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/4WbIq'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260424211713/https://euroradio.fm/ru/uchyonyy-chinovniki-i-obychnye-lyudi-o-zaprete-iskusstvennykh-cvetov-v-belarusi'}
+  - title: 'Раскрытыя даныя пра НЛА: што мы даведаліся і якое гэта мае значэнне. Меркаванне'
+    url: https://euroradio.fm/raskrytyya-danyya-pra-nla-shto-my-davedalisya-i-yakoe-geta-mae-znachenne-merkavanne
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260510201039/https://euroradio.fm/raskrytyya-danyya-pra-nla-shto-my-davedalisya-i-yakoe-geta-mae-znachenne-merkavanne'}
+    - {label: RU, type: language_version, url: 'https://euroradio.fm/ru/raskryty-dannye-ob-nlo-chto-my-uznali-i-kakoe-eto-imeet-znachenie-dlya-chelovechestva-mnenie'}
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260511063017/https://euroradio.fm/ru/raskryty-dannye-ob-nlo-chto-my-uznali-i-kakoe-eto-imeet-znachenie-dlya-chelovechestva-mnenie'}
+  - title: Вучоны ўказаў на недахопы справаздачы аб сховішчы радыёактыўных адходаў у Беларусі
+    url: https://euroradio.fm/vuchony-ukazau-na-nedakhopy-spravazdachy-ab-skhovishchy-radyyoaktyunykh-adkhodau-u-belarusi
+    links:
+    - {label: RU, type: language_version, url: 'https://euroradio.fm/ru/uchyonyy-ukazal-na-nedostatki-otchyota-po-khranilischu-radioaktivnykh-otkhodov-v-belarusi'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20260704085409/https://euroradio.fm/ru/uchyonyy-ukazal-na-nedostatki-otchyota-po-khranilischu-radioaktivnykh-otkhodov-v-belarusi'}
+    - {label: WEBARCHIVE BY, type: web_archive, url: 'https://web.archive.org/web/20260704085701/https://euroradio.fm/vuchony-ukazau-na-nedakhopy-spravazdachy-ab-skhovishchy-radyyoaktyunykh-adkhodau-u-belarusi'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/PlrTv'}
+- title: Авторский проект Никиты Мелкозерова «Жизнь-малина»
+  level: 1
+  entries:
+  - title: 'Его УВОЛИЛИ из Академии наук: Лукашенко, бомба в 50 килотонн, почему наука в заднице - БЕСАРАБ'
+    url: https://www.youtube.com/watch?v=ffLIJD4RGxs
+- title: Белые Халаты (belhalat.news)
+  level: 1
+  entries:
+  - title: Академия наук назвала четыре значимых медицинских разработки, а мы посмотрели, в чем суть этих достижений
+    url: https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250117165656/https://www.belhalat.news/articles/proryv-mirovoy-prioritet-otkrytie'}
+  - title: Все про оземпик
+    url: https://www.belhalat.news/articles/vse-pro-ozempik
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250207181853/https://www.belhalat.news/articles/vse-pro-ozempik'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/CkkWl'}
+  - title: Лекарства от простуды и гриппа в Европе «штырят». Почему?
+    url: https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250219154532/https://www.belhalat.news/articles/chto-takoe-psevdoeffedrin-pochemu-ego-zapreshchayut'}
+  - title: Все про кофеин
+    url: https://www.belhalat.news/articles/vse-pro-kofein
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250313094243/https://www.belhalat.news/articles/vse-pro-kofein'}
+  - title: Обсудили с врачами и химиком, насколько вредны Cola и Pepsi
+    url: https://www.belhalat.news/articles/vred-cola-i-pepsi
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250427074405/https://www.belhalat.news/articles/vred-cola-i-pepsi'}
+  - title: Все про сахарозаменители
+    url: https://www.belhalat.news/articles/vse-pro-saharozameniteli
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260615204115/https://www.belhalat.news/articles/vse-pro-saharozameniteli'}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/VHovv'}
+- title: Благотворительный фонд "Страна для жизни"
+  level: 1
+  entries:
+  - title: 'Сяргей Бесараб: «Патрэбна даносіць да сусветнай грамадскасці інфармацыю пра пачварныя злачынствы»'
+    url: https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240407133615/https://by.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy'}
+  - title: 'Siarhei Besarab: “It is necessary to convey to the world community those terrible crimes”'
+    url: https://en.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240407223820/https://en.stranafund.org/blog/news/siarhei-besarab-patrebna-danosic-da-susvetnay-gramadskasci-infarmaciyu-pra-pacvarniya-zlachinstvy'}
+- title: Инициатива "Честные люди"
+  level: 1
+  entries:
+  - title: 'Сергей Бесараб: «Беларуской науке нужна свобода»'
+    url: https://honestby.substack.com/p/25e
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250321002340/https://honestby.substack.com/p/25e'}
+- title: Газета Салідарнасць
+  level: 1
+  entries:
+  - title: 'Беларусский ученый: «Дорога из Беларуси заняла три дня, и это были самые страшные три дня за последнее время»'
+    url: https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230707141347/https://gazetaby.plus/post/belarusskij-uchenyj-doroga-iz-belarusi-zanyala-tri/192665/'}
+  - title: 'Сергей Бесараб: «Если отбросить здравый смысл и посчитать, что Лукашенко выбирал Островец с точки зрения радиологической угрозы для Литвы — тогда все нормально»'
+    url: https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20231026074738/https://gazetaby.com/post/sergej-besarab-esli-otbrosit-zdravyj-smysl-i-posch/195406'}
+  - title: «Что-то ухватывают урывками — и получаются такие франкенштейны, что сложно даже словами описать»
+    url: https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240127153610/https://gazetaby.com/post/chto-to-uxvatyvayut-uryvkami-i-poluchayutsya-takie-frankenshtejny-chto/197757/'}
+  - title: 'Вучоны-хімік: Знойдуцца людзі, якія змогуць пошук «ветра ў полі» прадаць вар’яту — як у казцы пра голага караля'
+    url: https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240319152650/https://gazetaby.com/post/vuchony-ximik-znojduczcza-lyudzi-yakiya-zmogucz-poshuk-vetra-u-poli-pr/198959/'}
+  - title: 'Бесараб: «Беларускім прадпрыемствам грошы вельмі патрэбныя, і ў цяперашніх варунках для іх «вайна — маці родная»'
+    url: https://gazetaby.com/post/besarab-belaruskim-pradpryemstvam-groshy-velmi-patrebnyya-i-u-cyaperas/200599
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240528074636/https://gazetaby.com/post/besarab-belaruskim-pradpryemstvam-groshy-velmi-patrebnyya-i-u-cyaperas/200599'}
+  - title: В Академии наук составят списки сотрудников, которым разрешат пользоваться интернетом
+    url: https://gazetaby.com/post/v-akademii-nauk-sostavyat-spiski-sotrudnikov-kotorym-razreshat-polzova/202879
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240903170900/https://gazetaby.com/post/v-akademii-nauk-sostavyat-spiski-sotrudnikov-kotorym-razreshat-polzova/202879'}
+  - title: «Сапраўдных злых геніяў з іх не атрымаецца – як, безумоўна, і добрых»
+    url: https://gazetaby.com/post/sapraudnyx-zlyx-geniyau-z-ix-ne-atrymaeczcza-yak-bezumouna-i-dobryx/202898
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240904164144/https://gazetaby.com/post/sapraudnyx-zlyx-geniyau-z-ix-ne-atrymaeczcza-yak-bezumouna-i-dobryx/202898'}
+  - title: «Гусакоў генерыраваў крынж, Акадэмія навук хоць як прысутнічала ў інфапрасторы. Каранік жа абсалютна маркотны і выклікае толькі жаль»
+    url: https://gazetaby.com/post/gusakou-generyravau-krynzh-akademiya-navuk-xocz-yak-prysutnichala-u-in/208717/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: ''}
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/freyq'}
+    - {label: CONIFER, type: mirror, url: 'https://conifer.rhizome.org/steanlab/default-collection/20250806140943/https://gazetaby.com/post/gusakou-generyravau-krynzh-akademiya-navuk-xocz-yak-prysutnichala-u-in/208717/'}
+    - {label: Telegra.ph, type: mirror, url: 'https://telegra.ph/Gusako%D1%9E-generyrava%D1%9E-krynzh-Akadehm%D1%96ya-navuk-hoc-yak-prysutn%D1%96chala-%D1%9E-%D1%96nfaprastory-Karan%D1%96k-zha-absalyutna-markotny-%D1%96-vykl%D1%96kae-tolk-08-06'}
+  - title: 'Бесараб: «Остается только посочувствовать детям, которых отправили на отдых в Туапсе. Нет ничего страшнее малограмотных родителей»'
+    url: https://gazetaby.com/post/besarab-ostaetsya-tolko-posochuvstvovat-detyam-kotoryx-otpravili-na-ot/214498/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260604175828/https://gazetaby.com/post/besarab-ostaetsya-tolko-posochuvstvovat-detyam-kotoryx-otpravili-na-ot/214498/'}
+    - {label: Archive.is, type: archive_is, url: 'https://archive.is/FORxL'}
+  - title: 'Бесараб: Решение властей остановить радиацию «на бумаге» может привести к долгосрочной национальной катастрофе'
+    url: https://gazetaby.com/post/besarab-reshenie-vlastej-ostanovit-radiaciyu-na-bumage-mozhet-privesti/215633/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/C1RkY'}
+  - title: «Нет школы, нет опыта и компетенций. Только надежда на россиян»
+    url: https://gazetaby.com/post/net-shkoly-net-opyta-i-kompetencij-est-tolko-nadezhda-na-rossiyan/216313/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/Wri07'}
+  - title: «Более 1300 гектаров вокруг Солигорска заняты соляными отвалами. Представьте, какое давление на экологию оказывается»
+    url: https://gazetaby.com/post/bolee-1300-gektarov-vokrug-soligorska-zanyaty-solyanymi-otvalami-preds/217322/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/ecpCk'}
+- title: REFORM.BY
+  level: 1
+  entries:
+  - title: Химик раскритиковал сюжеты БТ об «отравителе милиционеров» Латыпове
+    url: https://reform.by/165661-himik-raskritikoval-sjuzhety-bt-ob-otravitele-milicionerov-latypove
+- title: Медиазона Беларусь
+  level: 1
+  entries:
+  - title: 'Ядерный «могильник» и тихие обсуждения: куда денут отходы БелАЭС'
+    url: https://mediazonaby.com/article/2026/04/26/station
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260426143131/https://mediazonaby.com/article/2026/04/26/station'}
+- title: Onliner
+  level: 1
+  entries:
+  - title: Удобрение, «Белизна» и средство от кротов. Ученый-химик раскритиковал историю об «отравителе» с «площади Перемен»
+    url: https://realt.onliner.by/2020/09/21/ob-otravitele-s-ploshhadi-peremen
+- title: Petitions.by
+  level: 1
+  entries:
+  - title: https://e-petitions.by/articles/4993
+    url: https://web.archive.org/web/20240908173716/https://telegra.ph/ZHalkoe-zrelishche-Belarusy-prosyat-ne-otklyuchat-internet-uchenym-v-Akademii-Nauk-09-08
+  - title: «Это может стать проблемой для соседних стран». Химик о последствиях сокращения списка населенных пунктов с «чернобыльским» статусом
+    url: https://petitions.pro/articles/6587
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/MItC7'}
+- title: VoiceOfBelarus
+  level: 1
+  entries:
+  - title: '36-year-old Minsk resident named Aliaksandr, born under Taurus zodiac sign: Portrait of typical Belarusian ‘extremist’'
+    url: https://www.voiceofbelarus.org/belarus-news/36-old-minsk-resident-named-aliaksandr-taurus-portrait-of-typical-belarusian-extremist/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250613213959/https://www.voiceofbelarus.org/belarus-news/36-old-minsk-resident-named-aliaksandr-taurus-portrait-of-typical-belarusian-extremist/'}
+- title: Our House
+  level: 1
+  entries:
+  - title: How Lukashenko repressed Belarusian scientists who advocated new elections
+    url: https://news.house/42353
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250613213503/https://news.house/42353'}
+- title: Hrodna Life
+  level: 1
+  entries:
+  - title: «Может протечь уже в первые 100 лет». Эксперты раскритиковали проект хранилища ядерных отходов БелАЭС
+    url: https://ru.hrodna.life/2026/09/03/shovishcha-adkhodau/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260903161533/https://ru.hrodna.life/2026/09/03/shovishcha-adkhodau/'}
+- title: ЭХО Новости
+  level: 1
+  entries:
+  - title: В Беларуси радиолюбителей обвиняют в том, что они «выкачивали гостайну из эфира»
+    url: https://echofm.online/news/v-belarusi-radiolyubitelej-obvinyayut-v-tom-chto-oni-vykachivali-gostajnu-iz-efira
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260123140820/https://echofm.online/news/v-belarusi-radiolyubitelej-obvinyayut-v-tom-chto-oni-vykachivali-gostajnu-iz-efira'}
+- title: Беларусский расследовательский центр
+  level: 1
+  entries:
+  - title: Антифейк/фактчек. На «Горизонте» создали уникальный телевизор будущего
+    url: https://investigatebel.org/ru/fakenews/fejki-nedeli-nemcy-protiv-postavok-tankov-ukraine
+  - title: Соль в мешке. Продукцию «Беларуськалия» переименовали и продают ЕС в обход санкций
+    url: https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/wip/vXOr9'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20251216170118/https://investigatebel.org/ru/investigations/belaruskaliy-obhodit-sankcii'}
+    - {label: WEBARCHIVE EN, type: web_archive, url: 'https://web.archive.org/web/20251216170520/https://investigatebel.org/en/investigations/belaruskaliy-obhodit-sankcii'}
+  - title: Грошы з пырскаў. Як два «гаманцы» Лукашэнкі зладзілі паборы на мяжы
+    url: https://investigatebel.org/by/investigations/lukashenko-wallets-border-disinfection
+    links:
+    - {label: EN, type: language_version, url: 'https://investigatebel.org/en/investigations/lukashenko-wallets-border-disinfection'}
+    - {label: RU, type: language_version, url: 'https://investigatebel.org/ru/investigations/lukashenko-wallets-border-disinfection'}
+    - {label: WEBARCHIVE BY, type: web_archive, url: 'https://web.archive.org/web/20251216170010/https://investigatebel.org/by/investigations/lukashenko-wallets-border-disinfection'}
+    - {label: WEBARCHIVE RU, type: web_archive, url: 'https://web.archive.org/web/20251217152937/https://investigatebel.org/ru/investigations/lukashenko-wallets-border-disinfection'}
+    - {label: WEBARCHIVE EN, type: web_archive, url: 'https://web.archive.org/web/20251216165721/https://investigatebel.org/en/investigations/lukashenko-wallets-border-disinfection'}
+  - title: Ніць падману. Як «Гродна Азот» забяспечвае расейскі ВПК сыравінай
+    url: https://investigatebel.org/by/investigations/grodno-azot-polyamide-russia-sanctions-eu
+    links:
+    - {label: EN, type: language_version, url: 'https://investigatebel.org/en/investigations/grodno-azot-polyamide-russia-sanctions-eu'}
+    - {label: RU, type: language_version, url: 'https://investigatebel.org/ru/investigations/grodno-azot-polyamide-russia-sanctions-eu'}
+    - {label: WEBARCHIVE BY, type: web_archive, url: 'https://web.archive.org/web/20251223222410/https://investigatebel.org/by/investigations/grodno-azot-polyamide-russia-sanctions-eu'}
+    - {label: WEBARCHIVE EN, type: web_archive, url: 'https://web.archive.org/web/20251223222533/https://investigatebel.org/en/investigations/grodno-azot-polyamide-russia-sanctions-eu'}
+- title: Thinktanks
+  level: 1
+  entries:
+  - title: Основные техногенные угрозы для Беларуси — радиационные
+    url: https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20230320000608/https://thinktanks.by/publication/2023/01/10/osnovnye-tehnogennye-ugrozy-dlya-belarusi-radiatsionnye.html'}
+- title: Наша візія
+  level: 1
+  entries:
+  - title: Будучыня беларускай навукі. Ракеты для расейскай арміі – ці грамадзянская навука і прыватныя лабараторыі для эксперыментаў моладзі
+    url: https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20240819103105/https://visia.pro/buduchynya-belaruskaj-navuki/#p164c2'}
+- title: БАЖ
+  level: 1
+  entries:
+  - title: 'Праверце фота: да герояў кнігі Marsz Białorusi прыходзяць сілавікі'
+    url: https://baj.media/be/praverce-fota-da-geroja-knigi-marsz-bialorusi-pryhodzjac-silaviki/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250815102119/https://baj.media/be/praverce-fota-da-geroja-knigi-marsz-bialorusi-pryhodzjac-silaviki/'}
+- title: Газета СБ. Беларусь сегодня
+  level: 1
+  entries:
+  - title: 'Есть вопрос: что не мешало бы изобрести?'
+    url: https://www.sb.by/articles/est-vopros-chto-ne-meshalo-by-izobresti.html
+- title: Беларусское телевидение (СТВ/БТ)
+  level: 1
+  entries:
+  - title: Столичное телевидение. В Беларуси с помощью смартфона можно будет измерить давление и определить качество продуктов
+    url: https://web.archive.org/web/20201007084712/http://www.ctv.by/v-belarusi-s-pomoshchyu-smartfona-mozhno-budet-izmerit-davlenie-i-opredelit-kachestvo-produktov
+  - title: В Парке высоких технологий прошел первый научный хакатон в Беларуси
+    url: https://www.tvr.by/videogallery/informatsionno-analiticheskie/panorama/panorama-01-06-2017/
+- title: charter97
+  level: 1
+  entries:
+  - title: 'Сергей Бесараб: В Беларуси не просто сменится режим, но и уровень жизни вырастет до европейского'
+    url: https://charter97.link/ru/news/2023/7/7/554914/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250628131117/https://charter97.link/ru/news/2023/7/7/554914/'}
+  - title: Белорусские ученые требуют немедленной остановки всех военных действий РФ, направленных против Украины
+    url: https://charter97.org/ru/news/2022/3/2/457221/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250625165451/https://charter97.org/ru/news/2022/3/2/457221/'}
+  - title: «Эти заявления должны комментировать психотерапевты»
+    url: https://charter97.org/ru/news/2025/8/6/651055/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20250806152429/https://charter97.org/ru/news/2025/8/6/651055/'}
+  - title: Ученый разнес решение Лукашенко
+    url: https://charter97.link/ru/news/2026/8/5/693645/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260805154424/https://charter97.link/ru/news/2026/8/5/693645/'}
+  - title: Radioactive Waste In Belarus Is Planned To Be Stored In Special Hangars For 600–700 Years
+    url: https://charter97.org/en/news/2026/9/3/697095/
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260903134430/https://charter97.org/en/news/2026/9/3/697095/'}
+- title: Настоящее Время
+  level: 1
+  entries:
+  - title: '"Дело радиолюбителей". В Беларуси обвинили в госизмене и шпионаже тех, кто владел радиостанциями и мог слушать эфиры силовиков и военных'
+    url: https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260120231443/https://www.currenttime.tv/a/delo-radiolyubiteley-v-belarusi-lyudey-vladeyuschih-lyubitelskimi-radiostantsiyami-obvinili-v-gosudarstvennoy-izmene-i-shpionazhe/33653856.html'}
+- title: EcoHome
+  level: 1
+  entries:
+  - title: Эксперты раскритиковали проект ОВОС беларусского пункта захоронения радиоактивных отходов
+    url: https://web.archive.org/web/20260902105624/https://ecohome.ngo/nezavisimye-eksperty-raskritikovali-proekt-ovos-belarusskogo-punkta-zahoroneniya-radioaktivnyh-othodov/
+    links:
+    - {label: ARCHIVE.IS, type: archive_is, url: 'https://archive.is/OvNGR'}

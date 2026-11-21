@@ -1,0 +1,73 @@
+# Тексты интерфейса на трёх языках. Названия материалов (статьи, интервью) здесь НЕ переводятся:
+# они хранятся в _data/media.yml и _data/publications.yml на языке оригинала.
+# Строки на русском взяты из прежних страниц дословно. Белорусские строки и подписи EN/BE — черновик,
+# нужна вычитка автором (в тексте это помечено в REPORT.md / в сообщении при передаче).
+en:
+  name: Siarhei Besarab
+  description: Multidisciplinary Scientist · Research Chemist · Writer
+  nav_home: Home
+  nav_about: About me
+  nav_media: Media & interviews
+  nav_publications: Publications
+  nav_stat: "@malina_by guide"
+  language: Language
+  marks_label: Marks
+  contents: CONTENTS
+  read_more: Read more
+  media_intro: >-
+    A curated selection of my interviews and expert takes on science and tech, featured across various media outlets. Sorted by outlet, updated when time allows
+  publications_intro: >-
+    A curated subset of authored works published across various platforms. This list serves as the primary, periodically updated bibliography of technical journalism and science communication articles
+  home_lead: Independent scientist, research chemist and science writer. This site collects my media appearances, publications and a short CV.
+  stat_records: records in the media archive
+  stat_copies: copies kept in web archives
+  stat_patents: patents as author or co-author
+  stat_texts: popular science texts
+  titles_note: Titles of articles and interviews are given in their original language.
+  translation_note: ""
+ru:
+  name: Сергей Бесараб
+  description: Мультидисциплинарный учёный · Химик-исследователь · Автор
+  nav_home: Главная
+  nav_about: Об авторе
+  nav_media: СМИ и интервью
+  nav_publications: Публикации
+  nav_stat: "Путеводитель по @malina_by"
+  language: Язык
+  marks_label: Метки
+  contents: СОДЕРЖАНИЕ
+  read_more: Читать далее
+  media_intro: >-
+    Подмножество моих интервью и комментариев в средствах массовой информации. Сортировка по изданиям, актуализируется по мере возможного
+  publications_intro: >-
+    Подмножество авторских работ, опубликованных на различных ресурсах. Можно считать данный перечень основной, периодически актуализируемой библиографией технической публицистики и научно-популярных статей.
+  home_lead: Независимый учёный, химик-исследователь и автор научно-популярных текстов. На сайте собраны выступления в СМИ, публикации и краткое резюме.
+  stat_records: материалов в архиве СМИ
+  stat_copies: копий сохранено в веб-архивах
+  stat_patents: патентов как автор или соавтор
+  stat_texts: научно-популярных текстов
+  titles_note: Названия статей и интервью приведены на языке оригинала.
+  translation_note: Раздел «Об авторе» пока доступен только на английском языке.
+be:
+  name: Сяргей Бесараб
+  description: Мультыдысцыплінарны вучоны · Хімік-даследчык · Аўтар
+  nav_home: Галоўная
+  nav_about: Пра аўтара
+  nav_media: СМІ і інтэрв’ю
+  nav_publications: Публікацыі
+  nav_stat: "Даведнік па @malina_by"
+  language: Мова
+  marks_label: Меткі
+  contents: ЗМЕСТ
+  read_more: Чытаць далей
+  media_intro: >-
+    Падмноства маіх інтэрв’ю і каментарыяў у сродках масавай інфармацыі. Сартыроўка па выданнях, актуалізуецца па меры магчымасці
+  publications_intro: >-
+    Падмноства аўтарскіх прац, апублікаваных на розных рэсурсах. Гэты пералік можна лічыць асноўнай, перыядычна актуалізаванай бібліяграфіяй тэхнічнай публіцыстыкі і навукова-папулярных артыкулаў.
+  home_lead: Незалежны вучоны, хімік-даследчык і аўтар навукова-папулярных тэкстаў. На сайце сабраны выступы ў СМІ, публікацыі і кароткае рэзюмэ.
+  stat_records: матэрыялаў у архіве СМІ
+  stat_copies: копій захавана ў вэб-архівах
+  stat_patents: патэнтаў як аўтар або сааўтар
+  stat_texts: навукова-папулярных тэкстаў
+  titles_note: Назвы артыкулаў і інтэрв’ю прыведзены на мове арыгінала.
+  translation_note: Раздзел «Пра аўтара» пакуль даступны толькі па-англійску.

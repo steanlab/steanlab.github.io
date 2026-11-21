@@ -7,4 +7,4 @@ title: "About me"
 published: true
 ---
 
-{%% include about-body.md %%}
+{% include about-body.md %}

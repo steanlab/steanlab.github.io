@@ -1,6 +1,6 @@
 ![]({{site.baseurl}}/images/footer.png)
 
-Siarhei Besarab is an independent scientist and research chemist working in colloid and surface chemistry. He holds two master's degrees, in environmental chemistry (University of the National Academy of Sciences of Belarus) and in pharmaceutical chemistry (Belarusian State University), and completed all requirements of the doctoral programme at the Institute of General and Inorganic Chemistry of the NAS of Belarus except the dissertation defense. He is the author of a scientific monograph, more than 50 scientific and over 200 popular-science publications, and a co-author of 12 patents on adsorbents, filtration and catalytic materials. He is a regular expert for Belsat, Radio Free Europe/Radio Liberty, Deutsche Welle, Voice of America, Zerkalo.io and other outlets on nuclear and radiation safety, the environment, climate and biosafety. He is the author of the rubric «Топология сингулярности» and of the science-communication project LAB66, and a recipient of the Green Award Prize 2025. He lives in the European Union.
+Siarhei Besarab is an independent scientist and research chemist in colloid and surface chemistry. He holds two master's degrees, in environmental chemistry (University of the National Academy of Sciences of Belarus) and in pharmaceutical chemistry (Belarusian State University), completed postgraduate studies in colloid chemistry at the Institute of General and Inorganic Chemistry of the NAS of Belarus and worked there as a researcher in 2010–2020. He is the author of a scientific monograph, more than 50 scientific and over 200 popular-science publications, and a co-author of 12 patents on adsorbents, filtration and catalytic materials. He is a regular expert for Belsat, Radio Free Europe/Radio Liberty, Deutsche Welle, Voice of America, Zerkalo.io and other outlets on nuclear and radiation safety, the environment, climate and biosafety, and hosts the weekly rubric «Топология сингулярности» on technology and futurology in Belsat's «Раніца з Белсатам». He founded the science-communication project LAB66, has been a guest researcher at the Global Catastrophic Risk Institute since 2025, spoke at TEDxUlicaMińska in 2026 and received the Green Award Prize 2025. He lives in the European Union.
 
 He is also a [certified researcher]({{site.baseurl}}/images/res.jpg) and writes for platforms such as [Habr](https://habr.com/ru/users/steanlab/posts), [Substack](https://lab66.substack.com) and [Medium](https://medium.com/@steanlab). This website serves as a professional, academically grounded alternative to conventional social media profiles.
 
@@ -14,6 +14,7 @@ He is also a [certified researcher]({{site.baseurl}}/images/res.jpg) and writes 
 
 - Presidential Scholarship for Talented Young Scientists, Belarus
 - Winner, Russian Startup Tour 2016
+- Two-time winner of the «Technotext» technology authors' contest (Habr, 2021 and 2025)
 - Green Award Prize 2025 — for climate analysis, eco-content, and science podcasting
 - Multiple national and international research grants and innovation awards
 

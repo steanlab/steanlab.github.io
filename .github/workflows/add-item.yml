@@ -1,0 +1,72 @@
+# Добавление интервью/публикации через форму issue (см. tools/issue_bot.py).
+# Работает только на событиях от владельца репозитория; остальные задачи и комментарии пропускаются.
+name: Add archive item
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: archive-data
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Process issue event
+        id: bot
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+        run: python3 tools/issue_bot.py run --event "$GITHUB_EVENT_PATH" --root . --out "$RUNNER_TEMP/bot"
+
+      - name: Self-check templates against data
+        if: steps.bot.outputs.changed == 'true'
+        run: python3 tools/check_templates.py
+
+      - name: Commit data
+        if: steps.bot.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/media.yml _data/publications.yml
+          git commit -F "$RUNNER_TEMP/bot/commit.txt"
+          git push
+
+      - name: Request Pages build
+        if: steps.bot.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+
+      - name: Comment on issue
+        if: steps.bot.outputs.has_comment == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$NUMBER" --body-file "$RUNNER_TEMP/bot/comment.md"
+
+      - name: Close issue
+        if: steps.bot.outputs.close == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: gh issue close "$NUMBER"

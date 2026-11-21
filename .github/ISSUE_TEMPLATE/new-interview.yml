@@ -1,0 +1,148 @@
+name: Новое интервью или комментарий в СМИ
+description: Добавить запись на страницу
+title: '[Интервью] '
+labels:
+- new-interview
+body:
+- type: markdown
+  attributes:
+    value: Запись будет добавлена на страницу автоматически. Название — на языке оригинала, как в источнике.
+- type: dropdown
+  id: section
+  attributes:
+    label: Раздел
+    options:
+    - ➕ Новый раздел (название — в поле ниже)
+    - Voice of America
+    - RFE/RL
+    - Radio France internationale (UA)
+    - Deutsche Welle
+    - 2digital.news
+    - Argument UA
+    - Inertia.pl
+    - Наша Ніва
+    - Беларускае радыё Рацыя
+    - Белсат
+    - Зеленый портал
+    - Обычное утро (ОУ)
+    - Zerkalo.io (ex TUT.BY)
+    - DEV.BY
+    - Новы Час Online
+    - Позірк
+    - Новая Газета Европа
+    - ВОТ-ТАК ТВ
+    - Радыё Свабода
+    - CityDog
+    - Штодзень
+    - Флагшток
+    - ЕвроРадио
+    - Авторский проект Никиты Мелкозерова «Жизнь-малина»
+    - Белые Халаты (belhalat.news)
+    - Благотворительный фонд "Страна для жизни"
+    - Инициатива "Честные люди"
+    - Газета Салідарнасць
+    - REFORM.BY
+    - Медиазона Беларусь
+    - Onliner
+    - Petitions.by
+    - VoiceOfBelarus
+    - Our House
+    - Hrodna Life
+    - ЭХО Новости
+    - Беларусский расследовательский центр
+    - Thinktanks
+    - Наша візія
+    - БАЖ
+    - Газета СБ. Беларусь сегодня
+    - Беларусское телевидение (СТВ/БТ)
+    - charter97
+    - Настоящее Время
+    - EcoHome
+  validations:
+    required: true
+- type: input
+  id: title
+  attributes:
+    label: Название материала
+  validations:
+    required: true
+- type: input
+  id: url
+  attributes:
+    label: Адрес материала (URL)
+    placeholder: https://
+  validations:
+    required: true
+- type: textarea
+  id: links
+  attributes:
+    label: Дополнительные ссылки
+    description: 'По одной на строку: ПОДПИСЬ=АДРЕС, например RU=https://… (необязательно)'
+- type: dropdown
+  id: wayback
+  attributes:
+    label: Сохранить в Wayback Machine
+    options:
+    - Да
+    - Нет
+    default: 0
+- type: markdown
+  attributes:
+    value: '**Новый раздел** — только если сверху выбран пункт «Новый раздел».'
+- type: input
+  id: new_section
+  attributes:
+    label: Название нового раздела
+    description: Только если выбран пункт «Новый раздел» (в этом поле — название заголовка).
+- type: dropdown
+  id: after
+  attributes:
+    label: Вставить новый раздел после
+    description: 'Только для нового раздела: он встанет сразу после выбранного.'
+    options:
+    - Voice of America
+    - RFE/RL
+    - Radio France internationale (UA)
+    - Deutsche Welle
+    - 2digital.news
+    - Argument UA
+    - Inertia.pl
+    - Наша Ніва
+    - Беларускае радыё Рацыя
+    - Белсат
+    - Зеленый портал
+    - Обычное утро (ОУ)
+    - Zerkalo.io (ex TUT.BY)
+    - DEV.BY
+    - Новы Час Online
+    - Позірк
+    - Новая Газета Европа
+    - ВОТ-ТАК ТВ
+    - Радыё Свабода
+    - CityDog
+    - Штодзень
+    - Флагшток
+    - ЕвроРадио
+    - Авторский проект Никиты Мелкозерова «Жизнь-малина»
+    - Белые Халаты (belhalat.news)
+    - Благотворительный фонд "Страна для жизни"
+    - Инициатива "Честные люди"
+    - Газета Салідарнасць
+    - REFORM.BY
+    - Медиазона Беларусь
+    - Onliner
+    - Petitions.by
+    - VoiceOfBelarus
+    - Our House
+    - Hrodna Life
+    - ЭХО Новости
+    - Беларусский расследовательский центр
+    - Thinktanks
+    - Наша візія
+    - БАЖ
+    - Газета СБ. Беларусь сегодня
+    - Беларусское телевидение (СТВ/БТ)
+    - charter97
+    - Настоящее Время
+    - EcoHome
+    default: 44

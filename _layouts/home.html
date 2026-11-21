@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{%- comment -%} Внутренний шаблон рисуется раньше внешнего, поэтому подписи и адрес главной языка берём здесь заново. {%- endcomment -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cur = site.languages | where: "code", lang | first -%}
+{%- assign home = cur.home | default: "/" -%}
 {%- comment -%} Числа считаются из данных при каждой сборке: записи с адресом и ссылки-копии (Wayback Machine, archive.today). {%- endcomment -%}
 {%- assign n_records = 0 -%}
 {%- assign n_copies = 0 -%}

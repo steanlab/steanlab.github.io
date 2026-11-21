@@ -859,6 +859,8 @@ sections:
     url: https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260911072239/https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku'}
+  - title: Интервью тест
+    url: https://example.org/test-bot-2026
 - title: Зеленый портал
   level: 1
   entries:

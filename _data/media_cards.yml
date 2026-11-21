@@ -1,9 +1,9 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
-total: 375
+total: 376
 outlets:
 - name: Белсат
-  count: 58
+  count: 59
 - name: Беларускае радыё Рацыя
   count: 48
 - name: Наша Ніва
@@ -93,6 +93,14 @@ outlets:
 - name: ЭХО Новости
   count: 1
 cards:
+- date: '2026-11-21'
+  approx: false
+  outlet: Белсат
+  title: Интервью тест
+  url: https://example.org/test-bot-2026
+  audio: false
+  search: интервью тест белсат
+  links: []
 - date: '2026-11-06'
   approx: true
   outlet: Беларускае радыё Рацыя

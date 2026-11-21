@@ -1,0 +1,9 @@
+# Метки перед названием материала на странице «Публикации»: где опубликован текст.
+# Единственный источник: легенда на странице и список меток в форме issue берутся отсюда.
+# Список кодов должен совпадать с MARK_CODES в tools/archive_data.py (проверяет tools/check_templates.py).
+- {code: P, name: Patreon}
+- {code: M, name: Medium}
+- {code: PK, name: Pikabu}
+- {code: ST, name: Substack}
+- {code: TG, name: Telegram}
+- {code: RD, name: Reddit}

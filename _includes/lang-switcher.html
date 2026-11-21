@@ -1,0 +1,13 @@
+{%- comment -%} Переключатель языка: ведёт на ту же страницу на другом языке (страницы связаны полем ref), иначе на главную языка. {%- endcomment -%}
+{%- assign alts = site.pages | where: "ref", page.ref -%}
+<div class="lang-switcher" role="navigation" aria-label="{{ t.language }}">
+  {%- for l in site.languages -%}
+    {%- assign target_url = l.home -%}
+    {%- for a in alts -%}{%- if a.lang == l.code -%}{%- assign target_url = a.url -%}{%- endif -%}{%- endfor -%}
+    {%- if l.code == lang -%}
+      <span class="current" aria-current="true" lang="{{ l.code }}" title="{{ l.name }}">{{ l.label }}</span>
+    {%- else -%}
+      <a href="{{ site.baseurl }}{{ target_url }}" hreflang="{{ l.code }}" lang="{{ l.code }}" data-lang="{{ l.code }}" title="{{ l.name }}">{{ l.label }}</a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>

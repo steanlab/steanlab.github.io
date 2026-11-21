@@ -1,9 +1,14 @@
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cur = site.languages | where: "code", lang | first -%}
+{%- assign home = cur.home | default: "/" -%}
 <!DOCTYPE html>
-<html>
+<html lang="{{ lang }}">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ t.name }} – {{ t.description }}</title>
 
     {% include meta.html %}
+    {% include hreflang.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,15 +25,19 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}{{ home }}" class="site-avatar"><img src="{{ site.avatar }}" alt="" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <h1 class="site-name"><a href="{{ site.baseurl }}{{ home }}">{{ t.name }}</a></h1>
+            <p class="site-description">{{ t.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/about">Об авторе | About me</a>
+          <nav class="main-nav">
+            <a href="{{ site.baseurl }}{{ home }}interview/">{{ t.nav_media }}</a>
+            <a href="{{ site.baseurl }}{{ home }}bibliography/">{{ t.nav_publications }}</a>
+            <a href="{{ site.baseurl }}/stat/">{{ t.nav_stat }}</a>
+            <a href="{{ site.baseurl }}{{ home }}about/">{{ t.nav_about }}</a>
+            {% include lang-switcher.html %}
           </nav>
         </header>
       </div>
@@ -46,6 +55,13 @@
       </div>
     </div>
 
+    <script>
+      /* запоминаем ручной выбор языка: на главной «/» он важнее языка браузера */
+      document.addEventListener("click", function (e) {
+        var a = e.target && e.target.closest ? e.target.closest("a[data-lang]") : null;
+        if (a) { try { localStorage.setItem("lang", a.getAttribute("data-lang")); } catch (x) {} }
+      });
+    </script>
     {% include analytics.html %}
   </body>
 </html>

@@ -4,16 +4,19 @@
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
 <!-- Используем title страницы, если есть, или title сайта, если нет -->
-<title>{{ page.title | default: site.title }} | {{ site.description }}</title>
+{% assign meta_lang = page.lang | default: "en" %}
+{% assign meta_t = site.data.i18n[meta_lang] %}
+<title>{% if page.title and page.title != "" %}{{ page.title }}{% else %}{{ meta_t.name }}{% endif %} | {{ meta_t.description }}</title>
 
 <!-- Описание для SEO и соцсетей -->
-{% assign meta_description = page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+{% assign meta_description = page.excerpt | default: meta_t.description | strip_html | strip_newlines | truncate: 160 %}
 <meta name="description" content="{{ meta_description }}">
-<meta name="author" content="{{ site.name }}">
+<meta name="author" content="{{ meta_t.name }}">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
-<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:site_name" content="{{ meta_t.name }}">
+<meta property="og:locale" content="{% if page.lang == 'ru' %}ru_RU{% elsif page.lang == 'be' %}be_BY{% else %}en_US{% endif %}">
 <meta property="og:title" content="{{ page.title | default: site.title }}">
 <meta property="og:description" content="{{ meta_description }}">
 <!-- Фильтр `absolute_url` теперь будет генерировать ПРАВИЛЬНЫЙ https:// URL -->

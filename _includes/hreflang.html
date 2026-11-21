@@ -1,0 +1,10 @@
+{%- comment -%} Альтернативные языковые версии страницы для поисковиков; x-default — английская. {%- endcomment -%}
+{%- assign alts = site.pages | where: "ref", page.ref -%}
+{%- if page.ref -%}
+{%- for a in alts %}
+    <link rel="alternate" hreflang="{{ a.lang }}" href="{{ a.url | absolute_url }}" />
+{%- if a.lang == "en" %}
+    <link rel="alternate" hreflang="x-default" href="{{ a.url | absolute_url }}" />
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}

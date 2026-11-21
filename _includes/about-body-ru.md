@@ -67,4 +67,4 @@
 - ENG: **Siarhei Besarab** ([Wikipedia](https://en.wikipedia.org/wiki/Siarhei_Besarab))
 - BEL: **Сяргей Бесараб** ([Wikipedia](https://be.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D1%96%D0%BB%D0%B5%D0%B2%D1%96%D1%87_%D0%91%D0%B5%D1%81%D0%B0%D1%80%D0%B0%D0%B1)) 
 
-<p class="quiet"><a href="{{ site.baseurl }}/ru/support/">Поддержать автора</a></p>
+<div class="support-card"><p>Если эта работа вам полезна, её можно поддержать.</p><a class="btn btn-outline" href="{{ site.baseurl }}/ru/support/">Поддержать автора</a></div>

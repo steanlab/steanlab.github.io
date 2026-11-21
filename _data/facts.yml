@@ -6,7 +6,9 @@ texts: "200+"
 rubric_outlet: "Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)"
 # Необязательные пункты блока «Пресс-кит» на главной. Пустое значение — пункт не показывается.
 # pgp_url: ссылка на публичный ключ (полный адрес или путь вида /pgp.asc); pgp_fingerprint: отпечаток ключа.
-pgp_url: "https://keybase.io/steanlab/pgp_keys.asc"
-pgp_fingerprint: "F9F2 237E C324 7FD0 A8DF D8BD 8F3A 6CC2 5399 44AE"
+pgp_url: "https://steanlab.github.io/pgp.asc"
+pgp_fingerprint: "CD18 FA21 3679 4D16 DDA5 19ED A1D6 DCCE C753 B27B"
 # photo_url: ссылка на портрет для прессы (путь вида /images/photo.jpg)
 photo_url: "https://commons.wikimedia.org/wiki/File:Scientist_Siarhei_Besarab_Astra_Studio_Warsaw_June_2026_(01).jpg"
+# Ссылка на профиль в Signal (ссылка на имя пользователя). Пустое значение: пункт в пресс-ките не показывается.
+signal_url: "https://signal.me/#eu/APv59BW-jqxXZ4JkNBtbx2DcyBenNa1Qd_jLIX8QfUbUEYKSdilDwqBvs16hWoav"

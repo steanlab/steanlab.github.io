@@ -30,8 +30,15 @@ description: "Пресс-кит: как подписывать Сергея Бе
 
 - Часовой пояс: Варшава (Europe/Warsaw), UTC+01:00 зимой и UTC+02:00 летом.
 - Языки: английский, русский, беларусский.
-- Контакт: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}).
+- Контакт: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}), [labinform@proton.me](mailto:labinform@proton.me).
 - Чрезвычайные ситуации: бесплатные срочные консультации по аварийному реагированию на экологические и химические катастрофы.
+
+## Защищённая связь
+
+Для чувствительных разговоров предпочтителен Signal. Доступны также почта и PGP.
+
+- Signal: [мой профиль в Signal]({{ site.data.facts.signal_url }}).
+- PGP: [публичный ключ]({{ site.data.facts.pgp_url }}), отпечаток `{{ site.data.facts.pgp_fingerprint }}`. Ключ есть и на [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}
 

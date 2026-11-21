@@ -110,7 +110,7 @@ en:
   proj_notes_text: "Audio sketches recorded with <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстына Саўка</a>, broadcast for the children’s programme «Дасціпныя. Нястомныя. Кемлівыя» on the «Культура» radio channel. Recordings of the episodes are on Wikisource."
   proj_hw_heading: "Hardware and open source"
   proj_hame_title: "Hame A15 clone mini-router"
-  proj_hame_text: "A guide to bringing a clone of the popular Chinese Hame A15 mini-router up to a working state, published on Habr in 2018 and presented at Chaos Constructions 2019."
+  proj_hame_text: "A guide to bringing a clone of the popular Chinese Hame A15 mini-router up to a working state, published on Habr in 2018 and presented at Chaos Constructions 2019. Also the author’s own open software based on OpenWRT for Ralink processors."
   proj_bthome_title: "BTHome Logger"
   proj_bthome_text: "An open source Android app for logging data from Bluetooth Low Energy sensors that use the BTHome format. Accepted by F-Droid, publication pending."
   proj_elements_title: "Periodic table for Flipper Zero"
@@ -118,7 +118,7 @@ en:
   proj_beacon_title: "BLE Beacon for Flipper Zero"
   proj_beacon_text: "A Flipper Zero app that turns the device into a configurable Bluetooth Low Energy beacon with unencrypted advertisements, for testing scanners and smart-home integrations. MIT license."
   proj_b154_title: "badge154"
-  proj_b154_text: "A web tool for uploading slideshows over Bluetooth to Hanshow Nebular 154 e-paper price tags."
+  proj_b154_text: "A web tool for uploading slideshows over Bluetooth to Hanshow Nebular 154 e-paper price tags, and open firmware for these tags on Telink TLSR8258 processors."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -227,7 +227,7 @@ ru:
   proj_notes_text: "Аудионаброски, записанные вместе с <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстыной Саўкай</a>, выходившие для детской программы «Дасціпныя. Нястомныя. Кемлівыя» на канале радио «Культура». Записи выпусков есть в Викитеке."
   proj_hw_heading: "Электроника и открытый код"
   proj_hame_title: "Мини-роутер Hame A15 (клон)"
-  proj_hame_text: "Руководство по доведению клона популярного китайского мини-роутера Hame A15 до рабочего состояния. Опубликовано на Habr в 2018 году, представлено на Chaos Constructions 2019."
+  proj_hame_text: "Руководство по доведению клона популярного китайского мини-роутера Hame A15 до рабочего состояния. Опубликовано на Habr в 2018 году, представлено на Chaos Constructions 2019. Также собственное открытое ПО автора на базе OpenWRT для процессоров Ralink."
   proj_bthome_title: "BTHome Logger"
   proj_bthome_text: "Приложение для Android с открытым кодом: записывает данные Bluetooth-датчиков в формате BTHome. Принято в F-Droid, публикация ожидается."
   proj_elements_title: "Таблица Менделеева для Flipper Zero"
@@ -235,7 +235,7 @@ ru:
   proj_beacon_title: "BLE-маяк для Flipper Zero"
   proj_beacon_text: "Приложение для Flipper Zero: превращает устройство в настраиваемый маяк Bluetooth Low Energy с незашифрованными рекламными пакетами для проверки сканеров и интеграций умного дома. Лицензия MIT."
   proj_b154_title: "badge154"
-  proj_b154_text: "Веб-инструмент для загрузки слайдшоу по Bluetooth на электронные ценники Hanshow Nebular 154 (e-paper)."
+  proj_b154_text: "Веб-инструмент для загрузки слайдшоу по Bluetooth на электронные ценники Hanshow Nebular 154 (e-paper), а также открытая прошивка для этих ценников на процессорах Telink TLSR8258."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -344,7 +344,7 @@ be:
   proj_notes_text: "Аўдыёнарысы, запісаныя разам з <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстынай Саўкай</a>, якія выходзілі для дзіцячай праграмы «Дасціпныя. Нястомныя. Кемлівыя» на канале радыё «Культура». Запісы выпускаў ёсць у Вікікрыніцах."
   proj_hw_heading: "Электроніка і адкрыты код"
   proj_hame_title: "Міні-роўтар Hame A15 (клон)"
-  proj_hame_text: "Кіраўніцтва па даводцы да працоўнага стану клона папулярнага кітайскага міні-роўтара Hame A15. Апублікавана на Habr у 2018 годзе, прадстаўлена на Chaos Constructions 2019."
+  proj_hame_text: "Кіраўніцтва па даводцы да працоўнага стану клона папулярнага кітайскага міні-роўтара Hame A15. Апублікавана на Habr у 2018 годзе, прадстаўлена на Chaos Constructions 2019. Таксама ўласнае адкрытае ПЗ аўтара на базе OpenWRT для працэсараў Ralink."
   proj_bthome_title: "BTHome Logger"
   proj_bthome_text: "Праграма для Android з адкрытым кодам: запісвае даныя Bluetooth-датчыкаў у фармаце BTHome. Прынята ў F-Droid, публікацыя чакаецца."
   proj_elements_title: "Табліца Мендзялеева для Flipper Zero"
@@ -352,4 +352,4 @@ be:
   proj_beacon_title: "BLE-маяк для Flipper Zero"
   proj_beacon_text: "Праграма для Flipper Zero: ператварае прыладу ў наладжвальны маяк Bluetooth Low Energy з незашыфраванымі рэкламнымі пакетамі для праверкі сканераў і інтэграцый разумнага дома. Ліцэнзія MIT."
   proj_b154_title: "badge154"
-  proj_b154_text: "Вэб-інструмент для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Hanshow Nebular 154 (e-paper)."
+  proj_b154_text: "Вэб-інструмент для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Hanshow Nebular 154 (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Telink TLSR8258."

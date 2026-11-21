@@ -30,8 +30,15 @@ description: "Прэс-кіт: як падпісваць Сяргея Бесар
 
 - Гадзінны пояс: Варшава (Europe/Warsaw), UTC+01:00 зімой і UTC+02:00 летам.
 - Мовы: англійская, руская, беларуская.
-- Кантакт: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}).
+- Кантакт: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}), [labinform@proton.me](mailto:labinform@proton.me).
 - Надзвычайныя сітуацыі: бясплатныя тэрміновыя кансультацыі па аварыйным рэагаванні на экалагічныя і хімічныя катастрофы.
+
+## Абароненая сувязь
+
+Для адчувальных размоў пераважны Signal. Даступныя таксама пошта і PGP.
+
+- Signal: [мой профіль у Signal]({{ site.data.facts.signal_url }}).
+- PGP: [публічны ключ]({{ site.data.facts.pgp_url }}), адбітак `{{ site.data.facts.pgp_fingerprint }}`. Ключ ёсць і на [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}
 

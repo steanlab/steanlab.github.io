@@ -280,3 +280,7 @@ h3 { font-size: 1.15rem; }
 .best-coverage[open] > summary::before { transform: rotate(90deg); }
 .best-coverage > summary h2 { display: inline; }
 .best-coverage .best-list { margin-top: 0.8rem; }
+
+/* Карточка «Поддержать автора» в конце About */
+.support-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 20px; background: $card; border: 1px solid $line; border-left: 4px solid $warm; padding: 16px 20px; margin: 2.4rem 0 0; }
+.support-card p { margin: 0; color: $ink; font-size: 0.98rem; }

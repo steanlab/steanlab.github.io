@@ -30,8 +30,15 @@ The [full biography]({{ site.baseurl }}/about/) has education, awards and public
 
 - Time zone: Warsaw (Europe/Warsaw), UTC+01:00 in winter and UTC+02:00 in summer.
 - Languages: English, Russian, Belarusian.
-- Contact: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}).
+- Contact: [{{ site.footer-links.email }}](mailto:{{ site.footer-links.email }}), [labinform@proton.me](mailto:labinform@proton.me).
 - Emergencies: free and urgent advice on emergency response to environmental and chemical disasters.
+
+## Secure contact
+
+For sensitive conversations, Signal is preferred. Email and PGP are also available.
+
+- Signal: [open my Signal profile]({{ site.data.facts.signal_url }}).
+- PGP: [public key]({{ site.data.facts.pgp_url }}), fingerprint `{{ site.data.facts.pgp_fingerprint }}`. The key is also on [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}
 

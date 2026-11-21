@@ -103,7 +103,6 @@ layout: default
   </div>
   <ul class="press-list">
     <li><a href="{{ site.baseurl }}{{ home }}about/">{{ t.press_bio }}</a></li>
-    <li><a href="{{ site.baseurl }}/images/CV.pdf">{{ t.press_cv }}</a></li>
     <li><a href="{{ site.baseurl }}{{ home }}interview/">{{ t.press_media }}</a></li>
     {%- if site.data.facts.pgp_url and site.data.facts.pgp_url != "" %}
     <li><a href="{{ site.data.facts.pgp_url }}">{{ t.press_pgp }}</a>{% if site.data.facts.pgp_fingerprint and site.data.facts.pgp_fingerprint != "" %} <code>{{ site.data.facts.pgp_fingerprint }}</code>{% endif %}</li>

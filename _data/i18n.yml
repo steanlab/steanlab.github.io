@@ -56,7 +56,6 @@ en:
   press_text: Everything a journalist needs in one place. Replies in English, Russian and Belarusian.
   write: Write to me
   press_bio: Biography
-  press_cv: CV (PDF)
   press_media: Media archive
   press_pgp: Public PGP key
   press_photo: Portrait photo
@@ -134,7 +133,6 @@ ru:
   press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском и беларусском.
   write: Написать
   press_bio: Биография
-  press_cv: CV (PDF)
   press_media: Архив СМИ
   press_pgp: Публичный PGP-ключ
   press_photo: Портрет
@@ -212,7 +210,6 @@ be:
   press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску і па-беларуску.
   write: Напісаць
   press_bio: Біяграфія
-  press_cv: CV (PDF)
   press_media: Архіў СМІ
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт

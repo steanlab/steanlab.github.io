@@ -29,8 +29,8 @@ en:
   nav_projects: Projects
   nav_contacts: Contacts
   hero_eyebrow: Independent scientist · Research chemist · Science communicator
-  hero_h1: Chemistry, radiation safety and the science behind the news.
-  hero_lead: Independent scientist and research chemist in colloid and surface chemistry, author of 12 patents. A regular expert for Belsat, RFE/RL and Deutsche Welle on nuclear safety, the environment and climate. Based in the European Union.
+  hero_h1: Chemistry, nuclear safety and global risks.
+  hero_lead: Independent scientist and research chemist in colloid and surface chemistry, author of 12 patents. A regular expert for Belsat, RFE/RL and Deutsche Welle on nuclear safety, global catastrophic risks and technology analysis. Based in the European Union.
   cta_press: Press contact
   cta_media: Media archive
   portrait_alt: Portrait of Siarhei Besarab
@@ -100,8 +100,8 @@ ru:
   nav_projects: Проекты
   nav_contacts: Контакты
   hero_eyebrow: Независимый учёный · Химик-исследователь · Научный коммуникатор
-  hero_h1: Химия, радиационная безопасность и наука за новостями.
-  hero_lead: Независимый учёный, химик-исследователь в области коллоидной химии и химии поверхности, автор 12 патентов. Постоянный эксперт Белсата, Радио Свобода и Deutsche Welle по ядерной безопасности, экологии и климату. Живёт в Европейском союзе.
+  hero_h1: Химия, ядерная безопасность и глобальные риски.
+  hero_lead: Независимый учёный, химик-исследователь в области коллоидной химии и химии поверхности, автор 12 патентов. Постоянный эксперт Белсата, Радио Свобода и Deutsche Welle по ядерной безопасности, глобальным катастрофическим рискам и аналитике технологий. Живёт в Европейском союзе.
   cta_press: Контакт для прессы
   cta_media: Архив СМИ
   portrait_alt: Портрет Сергея Бесараба
@@ -146,7 +146,7 @@ ru:
   proj_zs_text: Каталог малоизвестного просветительского канала «Загляне сонца» Никиты Мелкозерова с кнопкой, которая выбирает случайную серию.
 be:
   name: Сяргей Бесараб
-  description: Мультыдысцыплінарны вучоны · Хімік-даследчык · Аўтар
+  description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
   nav_home: Галоўная
   nav_about: Пра аўтара
   nav_media: СМІ і інтэрв’ю
@@ -160,7 +160,7 @@ be:
     Падмноства маіх інтэрв’ю і каментарыяў у сродках масавай інфармацыі. Сартыроўка па выданнях, актуалізуецца па меры магчымасці
   publications_intro: >-
     Падмноства аўтарскіх прац, апублікаваных на розных рэсурсах. Гэты пералік можна лічыць асноўнай, перыядычна актуалізаванай бібліяграфіяй тэхнічнай публіцыстыкі і навукова-папулярных артыкулаў.
-  home_lead: Незалежны вучоны, хімік-даследчык і аўтар навукова-папулярных тэкстаў. На сайце сабраны выступы ў СМІ, публікацыі і кароткае рэзюмэ.
+  home_lead: Незалежны навуковец, хімік-даследчык і аўтар навукова-папулярных тэкстаў. На сайце сабраны выступы ў СМІ, публікацыі і кароткае рэзюмэ.
   stat_records: матэрыялаў у архіве СМІ
   stat_copies: копій захавана ў вэб-архівах
   stat_patents: патэнтаў як аўтар або сааўтар
@@ -171,8 +171,8 @@ be:
   nav_projects: Праекты
   nav_contacts: Кантакты
   hero_eyebrow: Незалежны навуковец · Хімік-даследчык · Навуковы камунікатар
-  hero_h1: Хімія, радыяцыйная бяспека і навука за навінамі.
-  hero_lead: Незалежны вучоны, хімік-даследчык у галіне калоіднай хіміі і хіміі паверхні, аўтар 12 патэнтаў. Пастаянны эксперт Белсата, Радыё Свабода і Deutsche Welle па ядзернай бяспецы, экалогіі і клімаце. Жыве ў Еўрапейскім саюзе.
+  hero_h1: Хімія, ядзерная бяспека і глабальныя рызыкі.
+  hero_lead: Незалежны навуковец, хімік-даследчык у галіне калоіднай хіміі і хіміі паверхні, аўтар 12 патэнтаў. Пастаянны эксперт Белсата, Радыё Свабода і Deutsche Welle па ядзернай бяспецы, глабальных катастрофічных рызыках і аналітыцы тэхналогій. Жыве ў Еўрапейскім саюзе.
   cta_press: Кантакт для прэсы
   cta_media: Архіў СМІ
   portrait_alt: Партрэт Сяргея Бесараба
@@ -195,7 +195,7 @@ be:
   press_media: Архіў СМІ
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт
-  principle: "Нічога не выдаляецца: у кожным запісе захаваны спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."
+  principle: "Нічога не выдаляецца: у кожным запісе захоўваюцца спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."
   search_label: Пошук
   search_ph: Назва або выданне
   outlets_h: Выданні

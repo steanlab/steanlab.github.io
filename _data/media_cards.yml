@@ -1,6 +1,6 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
-total: 375
+total: 376
 outlets:
 - name: Белсат
   count: 58
@@ -50,6 +50,8 @@ outlets:
   count: 2
 - name: Благотворительный фонд "Страна для жизни"
   count: 2
+- name: ВОТ-ТАК ТВ
+  count: 2
 - name: Позірк
   count: 2
 - name: EcoHome
@@ -76,8 +78,6 @@ outlets:
   count: 1
 - name: БАЖ
   count: 1
-- name: ВОТ-ТАК ТВ
-  count: 1
 - name: Газета СБ. Беларусь сегодня
   count: 1
 - name: Инициатива "Честные люди"
@@ -93,6 +93,17 @@ outlets:
 - name: ЭХО Новости
   count: 1
 cards:
+- date: '2026-11-20'
+  approx: true
+  outlet: ВОТ-ТАК ТВ
+  title: «Вознаграждение за атаки против Украины». Заместителем главы МАГАТЭ может стать россиянин, которого обвиняют в поддержке захвата Запорожской АЭС
+  url: https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate
+  audio: false
+  search: «вознаграждение за атаки против украины». заместителем главы магатэ может стать россиянин, которого обвиняют в поддержке захвата запорожской аэс вот-так тв
+  links:
+  - kind: web_archive
+    label: ''
+    url: https://web.archive.org/web/20261120173153/https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate
 - date: '2026-11-06'
   approx: true
   outlet: Беларускае радыё Рацыя

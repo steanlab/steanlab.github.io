@@ -1179,6 +1179,10 @@ sections:
     url: https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya
     links:
     - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20260426145305/https://vot-tak.tv/92910714/chernobyl-aes-40-let-spustya'}
+  - title: «Вознаграждение за атаки против Украины». Заместителем главы МАГАТЭ может стать россиянин, которого обвиняют в поддержке захвата Запорожской АЭС
+    url: https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20261120173153/https://vot-tak.tv/96591163/alexei-ferapontov-mozhet-stat-zamglavy-magate'}
 - title: Радыё Свабода
   level: 1
   entries:

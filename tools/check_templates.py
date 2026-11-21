@@ -257,7 +257,9 @@ def check_media(root, i18n):
                 and "{{" not in body and "{%" not in body)
         n_links = len(re.findall(r'<div class="links">.*?</div>', body, re.S))
         total_links = sum(len(re.findall(r"<a ", m)) for m in re.findall(r'<div class="links">.*?</div>', body, re.S))
-        want_links = sum(1 + len(c["links"]) for c in cards["cards"])
+        want_links = sum(1 + sum(1 for l in c["links"] if l["kind"] != "audio") for c in cards["cards"])
+        players = len(re.findall(r'<audio controls preload="none" src="', body))
+        same &= players == sum(1 for c in cards["cards"] for l in c["links"] if l["kind"] == "audio")
         same &= total_links == want_links and n_links == cards["total"]
         print("media         %-3s %s  (%d карточек, %d ссылок)" % (lang, "совпало" if same else "РАСХОЖДЕНИЕ", len(rows), total_links))
         ok &= same

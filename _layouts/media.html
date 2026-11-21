@@ -47,17 +47,23 @@ layout: default
             <div class="links">
               <a href="{{ r.url }}">{{ t.l_src }}</a>
               {%- for l in r.links %}
+              {%- if l.kind != "audio" %}
               <a href="{{ l.url }}">
                 {%- if l.kind == "web_archive" -%}{{ t.l_web }}{%- if l.label != "" %} {{ l.label }}{% endif -%}
                 {%- elsif l.kind == "archive_is" -%}{{ t.l_ais }}
-                {%- elsif l.kind == "audio" -%}{{ t.l_audio }}{%- if l.label != "" %} {{ l.label }}{% endif -%}
                 {%- elsif l.kind == "language_version" -%}{{ t.l_lang }} {{ l.label }}
                 {%- elsif l.kind == "mirror" -%}{{ l.label }}
                 {%- else -%}{{ t.l_other }} {{ l.label }}
                 {%- endif -%}
               </a>
+              {%- endif %}
               {%- endfor %}
             </div>
+            {%- for l in r.links %}
+            {%- if l.kind == "audio" %}
+            <audio controls preload="none" src="{{ l.url }}"></audio>
+            {%- endif %}
+            {%- endfor %}
           </div>
         </article>
         {%- endfor %}

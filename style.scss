@@ -172,6 +172,7 @@ h3 { font-size: 1.15rem; }
 .row-body h2 a:hover { text-decoration-color: $ink-soft; }
 .links { display: flex; flex-wrap: wrap; gap: 2px 18px; font-size: 0.9rem; margin-top: 4px; }
 .links a { padding: 4px 0; }
+.row-body audio { display: block; width: 100%; max-width: 420px; height: 40px; margin-top: 8px; }
 @media (max-width: 800px) {
   .media-grid { grid-template-columns: 1fr; gap: 24px; }
   .media-side { position: static; }

@@ -65,6 +65,9 @@ h3 { font-size: 1.15rem; }
 .btn-outline:hover { background: $ink-soft; color: #fff; }
 .btn-light { background: #fff; color: $ink; }
 .btn-light:hover { background: #eef0ed; color: $ink; }
+// «.press a» (белый) перебивал цвет кнопки: текст был белым на белом
+.press a.btn-light { color: #5b6661; }
+.press a.btn-light:hover { background: #eef0ed; color: #000; }
 
 // ---------- главная ----------
 .hero { display: grid; grid-template-columns: 1fr 260px; gap: 48px; align-items: center; padding: 64px 0 40px; }

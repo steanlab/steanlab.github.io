@@ -17,20 +17,84 @@ layout: default
     {%- endfor -%}
   {%- endfor -%}
 {%- endfor -%}
-<article class="home">
-  <p class="home-lead">{{ t.home_lead }}</p>
-  <ul class="home-stats">
-    <li><b>{{ n_records }}</b><span>{{ t.stat_records }}</span></li>
-    <li><b>{{ n_copies }}</b><span>{{ t.stat_copies }}</span></li>
-    <li><b>{{ site.data.facts.patents }}</b><span>{{ t.stat_patents }}</span></li>
-    <li><b>{{ site.data.facts.texts }}</b><span>{{ t.stat_texts }}</span></li>
+<section class="hero">
+  <div class="hero-text">
+    <div class="eyebrow">{{ t.hero_eyebrow }}</div>
+    <h1>{{ t.hero_h1 }}</h1>
+    <p class="lead">{{ t.hero_lead }}</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="#contact">{{ t.cta_press }}</a>
+      <a class="btn btn-outline" href="{{ site.baseurl }}{{ home }}interview/">{{ t.cta_media }}</a>
+    </div>
+  </div>
+  <div class="hero-photo">
+    <img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ t.portrait_alt }}">
+  </div>
+</section>
+
+<section class="stats" aria-label="Numbers">
+  <div class="stat"><div class="stat-n">{{ n_records }}</div><div class="stat-l">{{ t.stat_records }}</div></div>
+  <div class="stat"><div class="stat-n">{{ n_copies }}</div><div class="stat-l">{{ t.stat_copies }}</div></div>
+  <div class="stat"><div class="stat-n">{{ site.data.facts.patents }}</div><div class="stat-l">{{ t.stat_patents }}</div></div>
+  <div class="stat"><div class="stat-n">{{ site.data.facts.texts }}</div><div class="stat-l">{{ t.stat_texts }}</div></div>
+</section>
+
+<section id="expertise" class="block">
+  <h2>{{ t.expertise_h }}</h2>
+  <div class="cards">
+    <article class="card">
+      <div class="card-n">01</div>
+      <h3>{{ t.card1_title }}</h3>
+      <p>{{ t.card1_text }}</p>
+    </article>
+    <article class="card">
+      <div class="card-n">02</div>
+      <h3>{{ t.card2_title }}</h3>
+      <p>{{ t.card2_text }}</p>
+    </article>
+    <article class="card">
+      <div class="card-n">03</div>
+      <h3>{{ t.card3_title }}</h3>
+      <p>{{ t.card3_text }}</p>
+    </article>
+  </div>
+</section>
+
+<section class="block">
+  <div class="block-head">
+    <h2>{{ t.latest_h }}</h2>
+    <a class="more" href="{{ site.baseurl }}{{ home }}interview/">{{ t.all_records }}</a>
+  </div>
+  <div class="latest">
+    {%- for r in site.data.latest limit: 4 %}
+    <article class="latest-item">
+      <div class="latest-date">{% if r.approx %}≈ {% endif %}{{ r.date }}</div>
+      <div class="latest-body">
+        <div class="label">{{ r.section }}</div>
+        <h3><a href="{{ r.url }}">{{ r.title }}</a></h3>
+        <div class="chips"><span class="chip">{% if r.kind == "media" %}{{ t.kind_media }}{% else %}{{ t.kind_publications }}{% endif %}</span></div>
+      </div>
+    </article>
+    {%- endfor %}
+  </div>
+</section>
+
+<section id="contact" class="press">
+  <div class="press-main">
+    <h2>{{ t.press_h }}</h2>
+    <p>{{ t.press_text }}</p>
+    <a class="btn btn-light" href="mailto:{{ site.footer-links.email }}">{{ t.write }}</a>
+  </div>
+  <ul class="press-list">
+    <li><a href="{{ site.baseurl }}{{ home }}about/">{{ t.press_bio }}</a></li>
+    <li><a href="{{ site.baseurl }}/images/CV.pdf">{{ t.press_cv }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ home }}interview/">{{ t.press_media }}</a></li>
+    {%- if site.data.facts.pgp_url and site.data.facts.pgp_url != "" %}
+    <li><a href="{{ site.baseurl }}{{ site.data.facts.pgp_url }}">{{ t.press_pgp }}</a>{% if site.data.facts.pgp_fingerprint and site.data.facts.pgp_fingerprint != "" %} <code>{{ site.data.facts.pgp_fingerprint }}</code>{% endif %}</li>
+    {%- endif %}
+    {%- if site.data.facts.photo_url and site.data.facts.photo_url != "" %}
+    <li><a href="{{ site.baseurl }}{{ site.data.facts.photo_url }}">{{ t.press_photo }}</a></li>
+    {%- endif %}
   </ul>
-  <ul class="home-links">
-    <li><a href="{{ site.baseurl }}{{ home }}interview/">{{ t.nav_media }}</a></li>
-    <li><a href="{{ site.baseurl }}{{ home }}bibliography/">{{ t.nav_publications }}</a></li>
-    <li><a href="{{ site.baseurl }}{{ home }}about/">{{ t.nav_about }}</a></li>
-    <li><a href="{{ site.baseurl }}/stat/">{{ t.nav_stat }}</a></li>
-  </ul>
-  <p class="home-note">{{ t.titles_note }}</p>
-  {{ content }}
-</article>
+</section>
+{{ content }}

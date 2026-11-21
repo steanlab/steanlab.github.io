@@ -10,49 +10,39 @@
     {% include meta.html %}
     {% include hreflang.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}{{ home }}" class="site-avatar"><img src="{{ site.avatar }}" alt="" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}{{ home }}">{{ t.name }}</a></h1>
-            <p class="site-description">{{ t.description }}</p>
-          </div>
-
-          <nav class="main-nav">
-            <a href="{{ site.baseurl }}{{ home }}interview/">{{ t.nav_media }}</a>
-            <a href="{{ site.baseurl }}{{ home }}bibliography/">{{ t.nav_publications }}</a>
-            <a href="{{ site.baseurl }}/stat/">{{ t.nav_stat }}</a>
-            <a href="{{ site.baseurl }}{{ home }}about/">{{ t.nav_about }}</a>
-            {% include lang-switcher.html %}
+    <div class="wrap">
+      <header class="site-header">
+        <a href="{{ site.baseurl }}{{ home }}" class="brand">
+          <span class="brand-mark" aria-hidden="true">SB</span>
+          <span class="brand-name">{{ t.name }}</span>
+        </a>
+        <div class="header-tools">
+          <nav class="main-nav" aria-label="Main">
+            <a href="{{ site.baseurl }}{{ home }}interview/"{% if page.ref == "media" %} aria-current="page"{% endif %}>{{ t.nav_media }}</a>
+            <a href="{{ site.baseurl }}{{ home }}bibliography/"{% if page.ref == "publications" %} aria-current="page"{% endif %}>{{ t.nav_publications }}</a>
+            <a href="{{ site.baseurl }}{{ home }}#expertise">{{ t.nav_expertise }}</a>
+            <a href="{{ site.baseurl }}{{ home }}projects/"{% if page.ref == "projects" %} aria-current="page"{% endif %}>{{ t.nav_projects }}</a>
+            <a href="{{ site.baseurl }}{{ home }}about/"{% if page.ref == "about" %} aria-current="page"{% endif %}>{{ t.nav_about }}</a>
+            <a href="{{ site.baseurl }}{{ home }}#contact">{{ t.nav_contacts }}</a>
           </nav>
-        </header>
-      </div>
-    </div>
+          {% include lang-switcher.html %}
+        </div>
+      </header>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+      <main id="main" class="site-main">
+        {{ content }}
+      </main>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
+      <footer class="site-footer">
+        <p class="principle">{{ t.principle }}</p>
+        {% include footer-links.html %}
+      </footer>
     </div>
 
     <script>

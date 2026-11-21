@@ -25,6 +25,35 @@ en:
   stat_texts: popular science texts
   titles_note: Titles of articles and interviews are given in their original language.
   translation_note: ""
+  nav_expertise: Expertise
+  nav_projects: Projects
+  nav_contacts: Contacts
+  hero_eyebrow: Independent scientist · Research chemist · Science communicator
+  hero_h1: Chemistry, radiation safety and the science behind the news.
+  hero_lead: Siarhei Besarab is a colloid and surface chemist and a regular expert voice on nuclear safety, environment and climate for Belarusian and international media.
+  cta_press: Press contact
+  cta_media: Media archive
+  portrait_alt: Portrait of Siarhei Besarab
+  expertise_h: What I can comment on
+  card1_title: Nuclear & radiation safety
+  card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive materials, emergency preparedness.
+  card2_title: Surface & colloid chemistry
+  card2_text: Adsorbents, porous materials, filtration, nanomaterials for environmental use.
+  card3_title: Environment, climate & biosafety
+  card3_text: Extreme weather, ecosystems, biological risks, evidence-based policy.
+  latest_h: Latest added
+  all_records: All records →
+  kind_media: Media
+  kind_publications: Publication
+  press_h: Press kit
+  press_text: Everything a journalist needs in one place. Replies in English, Russian and Belarusian.
+  write: Write to me
+  press_bio: Biography
+  press_cv: CV (PDF)
+  press_media: Media archive
+  press_pgp: Public PGP key
+  press_photo: Portrait photo
+  principle: "Nothing is removed: every record keeps its source link, web-archive copy and audio file."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -48,6 +77,35 @@ ru:
   stat_texts: научно-популярных текстов
   titles_note: Названия статей и интервью приведены на языке оригинала.
   translation_note: Раздел «Об авторе» пока доступен только на английском языке.
+  nav_expertise: Экспертиза
+  nav_projects: Проекты
+  nav_contacts: Контакты
+  hero_eyebrow: Независимый учёный · Химик-исследователь · Научный коммуникатор
+  hero_h1: Химия, радиационная безопасность и наука за новостями.
+  hero_lead: Сергей Бесараб — химик в области коллоидов и поверхности, постоянный эксперт белорусских и международных СМИ по ядерной безопасности, экологии и климату.
+  cta_press: Контакт для прессы
+  cta_media: Архив СМИ
+  portrait_alt: Портрет Сергея Бесараба
+  expertise_h: Что могу прокомментировать
+  card1_title: Ядерная и радиационная безопасность
+  card1_text: БелАЭС, чернобыльские территории, радиоактивные материалы, готовность к авариям.
+  card2_title: Химия поверхности и коллоидов
+  card2_text: Адсорбенты, пористые материалы, фильтрация, наноматериалы для экологии.
+  card3_title: Экология, климат и биобезопасность
+  card3_text: Экстремальная погода, экосистемы, биологические риски, политика на основе доказательств.
+  latest_h: Последнее добавленное
+  all_records: Все материалы →
+  kind_media: СМИ
+  kind_publications: Публикация
+  press_h: Пресс-кит
+  press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском и беларусском.
+  write: Написать
+  press_bio: Биография
+  press_cv: CV (PDF)
+  press_media: Архив СМИ
+  press_pgp: Публичный PGP-ключ
+  press_photo: Портрет
+  principle: "Ничего не удаляется: у каждой записи сохранены ссылка на источник, копия в веб-архиве и аудиофайл."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны вучоны · Хімік-даследчык · Аўтар
@@ -71,3 +129,32 @@ be:
   stat_texts: навукова-папулярных тэкстаў
   titles_note: Назвы артыкулаў і інтэрв’ю прыведзены на мове арыгінала.
   translation_note: Раздзел «Пра аўтара» пакуль даступны толькі па-англійску.
+  nav_expertise: Экспертыза
+  nav_projects: Праекты
+  nav_contacts: Кантакты
+  hero_eyebrow: Незалежны навуковец · Хімік-даследчык · Навуковы камунікатар
+  hero_h1: Хімія, радыяцыйная бяспека і навука за навінамі.
+  hero_lead: Сяргей Бесараб — хімік у галіне калоідаў і паверхні, пастаянны эксперт беларускіх і міжнародных СМІ па ядзернай бяспецы, экалогіі і клімаце.
+  cta_press: Кантакт для прэсы
+  cta_media: Архіў СМІ
+  portrait_alt: Партрэт Сяргея Бесараба
+  expertise_h: Што магу пракаментаваць
+  card1_title: Ядзерная і радыяцыйная бяспека
+  card1_text: БелАЭС, чарнобыльскія тэрыторыі, радыеактыўныя матэрыялы, гатоўнасць да аварый.
+  card2_title: Хімія паверхні і калоідаў
+  card2_text: Адсарбенты, порыстыя матэрыялы, фільтрацыя, наноматэрыялы для экалогіі.
+  card3_title: Экалогія, клімат і біябяспека
+  card3_text: Экстрэмальнае надвор’е, экасістэмы, біялагічныя рызыкі, палітыка на аснове доказаў.
+  latest_h: Апошняе дададзенае
+  all_records: Усе матэрыялы →
+  kind_media: СМІ
+  kind_publications: Публікацыя
+  press_h: Прэс-кіт
+  press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску і па-беларуску.
+  write: Напісаць
+  press_bio: Біяграфія
+  press_cv: CV (PDF)
+  press_media: Архіў СМІ
+  press_pgp: Публічны PGP-ключ
+  press_photo: Партрэт
+  principle: "Нічога не выдаляецца: у кожным запісе захаваны спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."

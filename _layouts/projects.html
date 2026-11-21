@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cur = site.languages | where: "code", lang | first -%}
+{%- assign home = cur.home | default: "/" -%}
+<article class="page">
+  <h1>{{ page.title }}</h1>
+  <div class="entry">{{ content }}</div>
+  <ul class="project-list">
+    {%- for p in site.data.projects %}
+    <li class="project">
+      <h3><a href="{{ site.baseurl }}{{ p.url }}">{{ t[p.title_key] }}</a></h3>
+      {%- if p.text_key %}<p>{{ t[p.text_key] }}</p>{% endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+</article>

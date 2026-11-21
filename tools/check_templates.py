@@ -174,7 +174,12 @@ def run(nodes, ctx):
         elif k == "capture":
             ctx[n[1]] = run(n[2], ctx)
         elif k == "for":
-            for item in lookup(ctx, n[2]) or []:
+            src_expr, lim = n[2], None
+            m = re.fullmatch(r"(.*?)\s+limit:\s*(\d+)", src_expr)
+            if m:
+                src_expr, lim = m.group(1), int(m.group(2))
+            items = lookup(ctx, src_expr) or []
+            for item in (items[:lim] if lim is not None else items):
                 ctx[n[1]] = item
                 out.append(run(n[3], ctx))
         elif k == "if":
@@ -214,15 +219,67 @@ def check_home(root, i18n):
     copies = sum(1 for e in recs for l in e.get("links", []) if l.get("type") in ("web_archive", "archive_is"))
     ok = True
     for lang in ("en", "ru", "be"):
-        ctx = {"site": {"data": {"media": media, "facts": facts, "i18n": i18n}}, "t": i18n[lang],
-               "page": {"lang": lang}, "home": "/", "content": ""}
+        latest = yaml.safe_load(open(os.path.join(root, "_data", "latest.yml"), encoding="utf-8"))
+        ctx = {"site": {"data": {"media": media, "facts": facts, "i18n": i18n, "latest": latest},
+                        "footer-links": {"email": "x@example.org"}},
+               "page": {"lang": lang}, "content": ""}
         out = render_body(os.path.join(root, "_layouts", "home.html"), ctx)
-        got = re.findall(r"<b>(.*?)</b><span>(.*?)</span>", out)
+        got = re.findall(r'<div class="stat-n">(.*?)</div><div class="stat-l">(.*?)</div>', out)
         want = [(str(len(recs)), i18n[lang]["stat_records"]), (str(copies), i18n[lang]["stat_copies"]),
                 (str(facts["patents"]), i18n[lang]["stat_patents"]), (str(facts["texts"]), i18n[lang]["stat_texts"])]
         same = got == want
+        urls = re.findall(r'<h3><a href="(.*?)">', out)
+        same &= urls == [r["url"] for r in latest[:4]]
+        same &= "{{" not in out and "{%" not in out and 'href="mailto:x@example.org"' in out
         print("главная       %-3s %s  %s" % (lang, "совпало" if same else "РАСХОЖДЕНИЕ", [g[0] for g in got]))
         ok &= same
+    return ok
+
+
+def check_static(root, i18n):
+    """Статические проверки шаблонов: опечатки `%%`, переменные во внутренних слоях, ключи i18n, latest.yml."""
+    ok = True
+    files = []
+    for d in ("_layouts", "_includes"):
+        for f in sorted(os.listdir(os.path.join(root, d))):
+            files.append(os.path.join(d, f))
+    for f in ("about.md", "projects.md", "bibliography.md", "interview.md"):
+        files.append(f)
+    for lang in ("ru", "be"):
+        for f in sorted(os.listdir(os.path.join(root, lang))):
+            files.append(os.path.join(lang, f))
+    bad = []
+    used = set()
+    for f in files:
+        src = open(os.path.join(root, f), encoding="utf-8").read()
+        if "{%%" in src or "%%}" in src:
+            bad.append(f + ": найдено «%%»")
+        for tag in re.findall(r"\{\{.*?\}\}|\{%.*?%\}", src, re.S):
+            for k in re.findall(r"(?<![\w.])t\.([a-z_0-9]+)", tag):
+                used.add(k)
+    print("шаблоны: «%%» не найдено" if not bad else "шаблоны: ОШИБКИ " + "; ".join(bad))
+    ok &= not bad
+    # внутренние слои (layout: default) рисуются раньше внешнего: lang/t/home задаём в каждом сами
+    for f in sorted(os.listdir(os.path.join(root, "_layouts"))):
+        src = open(os.path.join(root, "_layouts", f), encoding="utf-8").read()
+        body = re.sub(r"\{%-?\s*assign .*?-?%\}", "", src, flags=re.S)
+        tags = " ".join(re.findall(r"\{\{.*?\}\}|\{%.*?%\}", body, re.S))
+        for var, pat in (("t", r"(?<![\w.])t\."), ("home", r"(?<![\w.])home\b"), ("lang", r"(?<![\w.])lang\b")):
+            if re.search(pat, tags) and ("assign %s =" % var) not in src and f != "default.html" or (
+                    f == "default.html" and re.search(pat, tags) and ("assign %s =" % var) not in src):
+                print("слой %-14s использует «%s», но не задаёт его" % (f, var))
+                ok = False
+    print("слои: переменные t/home заданы везде, где используются" if ok else "слои: ЕСТЬ ПРОБЛЕМЫ")
+    missing = sorted((l, k) for l in ("en", "ru", "be") for k in used if k not in i18n[l])
+    print("i18n: все ключи из шаблонов есть в en/ru/be" if not missing else "i18n: НЕТ КЛЮЧЕЙ %s" % missing)
+    ok &= not missing
+    parity = [l for l in ("ru", "be") if set(i18n[l]) != set(i18n["en"])]
+    print("i18n: наборы ключей одинаковы" if not parity else "i18n: РАЗНЫЕ НАБОРЫ %s" % parity)
+    ok &= not parity
+    import make_latest as ML
+    cur = ML.is_current(root)
+    print("latest.yml: " + ("актуален" if cur else "УСТАРЕЛ (python3 tools/make_latest.py)"))
+    ok &= cur
     return ok
 
 
@@ -230,6 +287,7 @@ def main():
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     i18n = yaml.safe_load(open(os.path.join(root, "_data", "i18n.yml"), encoding="utf-8"))
     ok = True
+    ok &= check_static(root, i18n)
     marks = yaml.safe_load(open(os.path.join(root, "_data", "marks.yml"), encoding="utf-8"))
     same_marks = tuple(m["code"] for m in marks) == A.MARK_CODES
     print("метки: _data/marks.yml и MARK_CODES %s" % ("совпадают" if same_marks else "РАСХОДЯТСЯ"))

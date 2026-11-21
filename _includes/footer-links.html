@@ -1,0 +1,11 @@
+{%- comment -%} Ссылки подвала из site.footer-links (_config.yml): заполненные значения выводятся текстом. {%- endcomment -%}
+<nav class="footer-links" aria-label="Links">
+{%- if site.footer-links.telegram %}<a href="https://telegram.me/{{ site.footer-links.telegram }}">Telegram</a>{% endif %}
+{%- if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}">GitHub</a>{% endif %}
+{%- if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">LinkedIn</a>{% endif %}
+{%- if site.footer-links.youtube %}<a href="https://youtube.com/{{ site.footer-links.youtube }}">YouTube</a>{% endif %}
+{%- if site.footer-links.facebook %}<a href="https://www.facebook.com/{{ site.footer-links.facebook }}">Facebook</a>{% endif %}
+{%- if site.footer-links.instagram %}<a href="https://instagram.com/{{ site.footer-links.instagram }}">Instagram</a>{% endif %}
+{%- if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}">Twitter</a>{% endif %}
+{%- if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}">Email</a>{% endif %}
+</nav>

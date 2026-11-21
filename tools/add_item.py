@@ -24,6 +24,7 @@ archive.today официального API не имеет: скрипт печ�
 данные и что адрес ещё не встречался на странице.
 """
 import argparse
+import datetime
 import json
 import os
 import sys
@@ -36,6 +37,7 @@ import yaml
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import archive_data as A  # noqa: E402
+import make_latest as ML  # noqa: E402
 
 DATA = {"media": "_data/media.yml", "publications": "_data/publications.yml"}
 MARKS = A.MARK_CODES
@@ -117,10 +119,32 @@ def self_check(d, src):
         raise SystemExit("самопроверка не пройдена: данные не переживают сборку Markdown и разбор обратно")
 
 
-def save_data(d, key, root):
+ADDED = "_data/added.yml"
+ADDED_HEADER = ("# Когда запись была добавлена через форму issue: адрес материала → дата (ГГГГ-ММ-ДД). Пишет tools/add_item.py.\n"
+                "# У записей, которых здесь нет, дата берётся из метки времени ссылки на веб-архив (≈ дата).\n")
+
+
+def mark_added(root, url):
+    """Запоминает дату добавления записи (для блока «Последнее добавленное» на главной)."""
+    path = os.path.join(root, ADDED)
+    cur = {}
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            cur = yaml.safe_load(f) or {}
+    day = os.environ.get("ADDED_DATE") or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    cur[url] = day
+    text = ADDED_HEADER + yaml.dump(cur, Dumper=yaml.SafeDumper, allow_unicode=True, sort_keys=False,
+                                     width=10 ** 9, default_flow_style=False)
+    A.write(path, text)
+
+
+def save_data(d, key, root, added_url=None):
     src = "_posts/2014-3-2-interview.md" if key == "media" else "_posts/2014-3-3-bibliography.md"
     self_check(d, src)
     A.write(os.path.join(root, DATA[key]), A.dump_yaml(d, src))
+    if added_url:
+        mark_added(root, added_url)
+    ML.regenerate(root)
 
 
 def new_section(d, title, level=1, after=None):
@@ -177,7 +201,7 @@ def cmd_add(a, wayback=save_wayback):
         self_check(d, "")
         print("(пробный запуск, файл не записан)")
     else:
-        save_data(d, a.data, a.root)
+        save_data(d, a.data, a.root, added_url=a.url)
         print("добавлено в", DATA[a.data], "→ раздел «%s»" % a.section)
     print("archive.today, один клик:", archive_today_link(a.url))
     print("потом: python3 tools/add_item.py attach --data %s --url %s --link ARCHIVE.IS=https://archive.is/КОД" % (a.data, a.url))

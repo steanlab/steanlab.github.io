@@ -1,0 +1,50 @@
+# Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
+# Руками не править.
+- date: '2026-11-06'
+  approx: true
+  kind: media
+  section: Беларускае радыё Рацыя
+  title: Сяргей Бесараб пра 27 тон радыеактыўнага грузу на мяжы з ЕЗ
+  url: https://racyja.com/by/ekanomika/sjarhej-besarab-pra-27-ton-radyeaktyunaha-hruzu-na-mjazy-z-ez/
+- date: '2026-10-12'
+  approx: true
+  kind: media
+  section: RFE/RL
+  title: Too Soon? Swaths Of Chernobyl-Affected Land In Belarus To Lose 'Contaminated' Status
+  url: https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html
+- date: '2026-10-07'
+  approx: true
+  kind: media
+  section: Беларускае радыё Рацыя
+  title: “Дэградацыя сістэмы біябяспекі ў Расеі стварае глабальныя рызыкі”
+  url: https://racyja.com/by/hramadstva/dehradacyja-sistemy-bijabjaspeki-u-rasei-stvarae-hlabalnyja-ryzyki/
+- date: '2026-09-22'
+  approx: true
+  kind: media
+  section: Беларускае радыё Рацыя
+  title: “Беларусь сябе цалкам забяспечвала. АЭС была непатрэбна”
+  url: https://racyja.com/by/ekanomika/belarus-sjabe-calkam-zabjaspecvala-aes-byla-nepatrebna/
+- date: '2026-09-11'
+  approx: true
+  kind: media
+  section: Белсат
+  title: «Радыяцыйнае жыццё ўнутры бетоннага блоку не спыняецца». Эксперты – пра небяспеку ядравага могільніку
+  url: https://belsat.eu/95326625/niebiaspeka-jadravaga-mogilniku
+- date: '2026-09-11'
+  approx: true
+  kind: media
+  section: Беларускае радыё Рацыя
+  title: «Ніводная не адпавядае правілам»
+  url: https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/
+- date: '2026-09-10'
+  approx: true
+  kind: media
+  section: Радыё Свабода
+  title: 'Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»'
+  url: https://www.svaboda.org/a/33851719.html
+- date: '2026-09-03'
+  approx: true
+  kind: media
+  section: charter97
+  title: Radioactive Waste In Belarus Is Planned To Be Stored In Special Hangars For 600–700 Years
+  url: https://charter97.org/en/news/2026/9/3/697095/

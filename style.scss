@@ -178,3 +178,22 @@ h3 { font-size: 1.15rem; }
   .outlets { max-height: 220px; }
   .row { grid-template-columns: 1fr; }
 }
+
+// ---------- страница публикаций ----------
+.sec-nav { max-height: 70vh; }
+.sec-nav li.grp { margin-top: 10px; font-weight: 600; }
+.sec-nav li.sub { padding-left: 10px; }
+.sec-nav a { display: block; padding: 4px 8px; font-size: 0.9rem; line-height: 1.35; text-decoration: none; color: $ink; border-radius: 6px; }
+.sec-nav a:hover { background: #eceee9; }
+.pub-sec { margin-bottom: 8px; scroll-margin-top: 16px; }
+.pub-h1 { font-size: 1.5rem; margin: 40px 0 8px; padding-top: 24px; border-top: 1px solid $line; }
+.pub-h2 { font-size: 1.1rem; margin: 28px 0 6px; color: $ink-soft; }
+.pub-item { padding: 8px 0; border-top: 1px solid $line; font-size: 0.98rem; line-height: 1.45; }
+.pub-item .mark { display: inline-block; min-width: 2em; margin-right: 8px; padding: 0 6px; text-align: center; font: 600 0.7rem/1.7 $sans; border: 1px solid $line; border-radius: 4px; color: $muted; background: $card; }
+.pub-title { color: $ink; }
+.pub-link { margin-left: 12px; font-size: 0.85rem; }
+.pub-text { margin: 10px 0; color: $ink; font-size: 0.97rem; }
+.pub-text p { margin: 0 0 0.7em; }
+.pub-text blockquote { margin: 0; padding: 4px 14px; border-left: 3px solid $line; color: $muted; }
+.pub-bullet { margin: 2px 0; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.82rem; word-break: break-all; }
+.pub-bullet p { margin: 0; }

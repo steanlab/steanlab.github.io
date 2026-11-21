@@ -179,7 +179,9 @@ def run(nodes, ctx):
             if m:
                 src_expr, lim = m.group(1), int(m.group(2))
             items = lookup(ctx, src_expr) or []
-            for item in (items[:lim] if lim is not None else items):
+            seq = items[:lim] if lim is not None else items
+            for i, item in enumerate(seq):
+                ctx["forloop"] = {"index": i + 1, "index0": i, "first": i == 0, "last": i == len(seq) - 1}
                 ctx[n[1]] = item
                 out.append(run(n[3], ctx))
         elif k == "if":
@@ -266,6 +268,35 @@ def check_media(root, i18n):
     return ok
 
 
+def check_publications(root, i18n):
+    """Страница публикаций: все записи, тексты и маркеры из publications.yml на месте и в том же порядке."""
+    d = yaml.safe_load(open(os.path.join(root, "_data", "publications.yml"), encoding="utf-8"))
+    marks = yaml.safe_load(open(os.path.join(root, "_data", "marks.yml"), encoding="utf-8"))
+    ents = [e for s in d["sections"] for e in s["entries"]]
+    want_urls = [e["url"] for e in ents if "title" in e]
+    want_marks = [e["mark"] for e in ents if "title" in e and "mark" in e]
+    want_texts = [e["text"] for e in ents if "text" in e] + [e["bullet"] for e in ents if "bullet" in e]
+    want_links = sum(1 for e in ents for l in e.get("links", []) if "url" in l)
+    ok = True
+    for lang in ("en", "ru", "be"):
+        ctx = {"site": {"data": {"publications": d, "marks": marks, "i18n": i18n}}, "page": {"lang": lang, "title": "T"}}
+        out = render_body(os.path.join(root, "_layouts", "publications.html"), ctx)
+        body = out.split("<script>", 1)[0]
+        urls = re.findall(r'<a class="pub-title" href="(.*?)">', body)
+        got_marks = re.findall(r'<span class="mark" title="[^"]*">(.*?)</span>', body)
+        got_texts = re.findall(r'<div class="pub-text(?: pub-bullet)?">(.*?)</div>', body, re.S)
+        got_links = len(re.findall(r'class="pub-link"', body))
+        nsec = len(re.findall(r'<section class="pub-sec" id="s\d+">', body))
+        ids_ok = re.findall(r'id="s(\d+)"', body) == [str(i + 1) for i in range(len(d["sections"]))]
+        same = (urls == want_urls and got_marks == want_marks and sorted(got_texts) == sorted(want_texts)
+                and got_links == want_links and nsec == len(d["sections"]) and ids_ok
+                and "{{" not in body and "{%" not in body)
+        print("publications  %-3s %s  (%d записей, %d текстов, %d разделов)" % (
+            lang, "совпало" if same else "РАСХОЖДЕНИЕ", len(urls), len(got_texts), nsec))
+        ok &= same
+    return ok
+
+
 def check_static(root, i18n):
     """Статические проверки шаблонов: опечатки `%%`, переменные во внутренних слоях, ключи i18n, latest.yml."""
     ok = True
@@ -324,7 +355,8 @@ def main():
     ok &= same_marks
     ok &= check_home(root, i18n)
     ok &= check_media(root, i18n)
-    for data_name, intro_key in (("publications", "publications_intro"),):
+    ok &= check_publications(root, i18n)
+    for data_name, intro_key in ():
         data = yaml.safe_load(open(os.path.join(root, "_data", data_name + ".yml"), encoding="utf-8"))
         want_all = A.render(data)
         body = want_all.split("\n---\n", 1)[1].lstrip("\n")

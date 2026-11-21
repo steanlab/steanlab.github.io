@@ -1,0 +1,87 @@
+---
+layout: default
+---
+{%- comment -%}
+  Страница публикаций: разделы и записи из _data/publications.yml (порядок как в данных).
+  Поиск работает на странице без перезагрузки; без JavaScript виден весь список.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cur = site.languages | where: "code", lang | first -%}
+{%- assign home = cur.home | default: "/" -%}
+{%- assign d = site.data.publications -%}
+{%- assign n_items = 0 -%}
+{%- for sec in d.sections -%}{%- for e in sec.entries -%}{%- if e.title -%}{%- assign n_items = n_items | plus: 1 -%}{%- endif -%}{%- endfor -%}{%- endfor -%}
+<article class="media-page pubs-page">
+  <h1>{{ page.title }}</h1>
+  <p class="lead">{{ t.publications_intro }}</p>
+  <p class="note">{{ t.titles_note }} {{ t.marks_label }}: {% for m in site.data.marks %}<b>{{ m.code }}</b>&nbsp;{{ m.name }}{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+
+  <div class="media-grid">
+    <aside class="media-side">
+      <label for="q" class="side-h">{{ t.search_label }}</label>
+      <input id="q" type="search" class="search" placeholder="{{ t.search_ph }}" autocomplete="off">
+      <div class="side-h outlets-h">{{ t.sections_h }}</div>
+      <ul class="outlets sec-nav">
+        {%- for sec in d.sections %}
+        <li class="{% if sec.level == 1 %}grp{% else %}sub{% endif %}"><a href="#s{{ forloop.index }}">{{ sec.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </aside>
+
+    <section class="media-list" aria-live="polite">
+      <div class="list-head">
+        <div class="count" id="count" data-tpl="{{ t.count_tpl }}" data-total="{{ n_items }}">{{ n_items }}</div>
+      </div>
+      <div class="empty" id="empty" hidden>{{ t.empty }}</div>
+      {%- for sec in d.sections %}
+      <section class="pub-sec" id="s{{ forloop.index }}">
+        {%- if sec.level == 1 %}
+        <h2 class="pub-h1">{{ sec.title }}</h2>
+        {%- else %}
+        <h3 class="pub-h2">{{ sec.title }}</h3>
+        {%- endif %}
+        {%- for e in sec.entries %}
+        {%- if e.title %}
+        <div class="pub-item" data-search="{{ e.title | downcase | escape }}">
+          {%- if e.mark %}{% assign mk = site.data.marks | where: "code", e.mark | first %}<span class="mark" title="{{ mk.name }}">{{ e.mark }}</span>{% endif %}
+          <a class="pub-title" href="{{ e.url }}">{{ e.title }}</a>
+          {%- for l in e.links %}{%- if l.url %}
+          <a class="pub-link" href="{{ l.url }}">{% if l.type == "archive_is" %}{{ t.l_ais }}{% elsif l.type == "web_archive" %}{{ t.l_web }}{% else %}{{ l.label }}{% endif %}</a>
+          {%- endif %}{%- endfor %}
+        </div>
+        {%- elsif e.text %}
+        <div class="pub-text">{{ e.text | markdownify }}</div>
+        {%- elsif e.bullet %}
+        <div class="pub-text pub-bullet">{{ e.bullet | markdownify }}</div>
+        {%- endif %}
+        {%- endfor %}
+      </section>
+      {%- endfor %}
+    </section>
+  </div>
+</article>
+<script>
+(function () {
+  var q = document.getElementById("q"), items = [].slice.call(document.querySelectorAll(".pub-item")),
+      texts = [].slice.call(document.querySelectorAll(".pub-text")), secs = [].slice.call(document.querySelectorAll(".pub-sec")),
+      count = document.getElementById("count"), empty = document.getElementById("empty");
+  function apply() {
+    var s = q.value.trim().toLowerCase(), n = 0;
+    items.forEach(function (r) {
+      var ok = !s || r.getAttribute("data-search").indexOf(s) !== -1;
+      r.hidden = !ok;
+      if (ok) n++;
+    });
+    texts.forEach(function (x) { x.hidden = !!s; });
+    secs.forEach(function (sec) {
+      var any = sec.querySelector(".pub-item:not([hidden])");
+      sec.hidden = !!s && !any;
+    });
+    count.textContent = count.getAttribute("data-tpl").replace("{n}", n).replace("{total}", count.getAttribute("data-total"));
+    empty.hidden = n !== 0;
+  }
+  q.addEventListener("input", apply);
+  apply();
+})();
+</script>

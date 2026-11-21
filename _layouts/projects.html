@@ -11,7 +11,8 @@ layout: default
   <ul class="project-list">
     {%- for p in site.data.projects %}
     <li class="project">
-      <h3><a href="{{ site.baseurl }}{% if p.local %}{{ home }}{% endif %}{{ p.url }}">{{ t[p.title_key] }}</a></h3>
+      {%- if p.image %}<img class="project-logo" src="{{ p.image }}" alt="" loading="lazy">{% endif %}
+      <h3><a href="{% if p.external %}{{ p.url }}{% else %}{{ site.baseurl }}{% if p.local %}{{ home }}{% endif %}{{ p.url }}{% endif %}">{{ t[p.title_key] }}</a></h3>
       {%- if p.text_key %}<p>{{ t[p.text_key] }}</p>{% endif %}
     </li>
     {%- endfor %}

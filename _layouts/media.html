@@ -22,7 +22,7 @@ layout: default
       <div class="side-h outlets-h">{{ t.outlets_h }}</div>
       <ul class="outlets" id="outlets">
         {%- for o in cards.outlets %}
-        <li><button type="button" class="outlet" data-outlet="{{ o.name | escape }}">{{ o.name }} <span class="n">{{ o.count }}</span></button></li>
+        <li><button type="button" class="outlet" data-outlet="{{ o.name | escape }}">{% if o.name == site.data.facts.rubric_outlet %}{{ t.outlet_rubric }}{% else %}{{ o.name }}{% endif %} <span class="n">{{ o.count }}</span></button></li>
         {%- endfor %}
       </ul>
       <button type="button" class="reset" id="reset" hidden>{{ t.reset_filter }}</button>
@@ -39,7 +39,7 @@ layout: default
         <article class="row" data-outlet="{{ r.outlet | escape }}" data-search="{{ r.search | escape }}">
           <div class="row-date">{% if r.date != "" %}{% if r.approx %}≈ {% endif %}{{ r.date }}{% endif %}</div>
           <div class="row-body">
-            <div class="label">{{ r.outlet }}</div>
+            <div class="label">{% if r.outlet == site.data.facts.rubric_outlet %}{{ t.outlet_rubric }}{% else %}{{ r.outlet }}{% endif %}</div>
             <h2><a href="{{ r.url }}">{{ r.title }}</a></h2>
             {%- if r.audio %}
             <div class="chips"><span class="chip">{{ t.badge_audio }}</span></div>

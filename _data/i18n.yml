@@ -36,13 +36,13 @@ en:
   portrait_alt: "Portrait of Siarhei Besarab. Photo: Oleslawlama, CC BY-SA 4.0, cropped"
   expertise_h: What I can comment on
   card1_title: Nuclear, radiation & chemical safety
-  card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive and hazardous materials, protective equipment, risk assessment.
+  card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive waste repositories and disposal sites, radioactive and hazardous materials, protective equipment, risk assessment.
   card2_title: Futures studies & global risks
   card2_text: Technology foresight, techno-ethics, human–technology convergence, existential and dual-use risks.
   card3_title: Technology analysis
   card3_text: "AI and data science, biosensors and wearables, FoodTech: what new technologies really offer and what they risk."
   card4_title: Colloid & surface chemistry
-  card4_text: Adsorption, porous materials, filtration, catalysts, nanomaterials, green chemistry.
+  card4_text: Adsorption, porous materials, filtration, catalysts, nanomaterials, supramolecular chemistry, green chemistry.
   card5_title: Environment & climate
   card5_text: Water and air purification, persistent pollutants, extreme weather, climate adaptation.
   card6_title: Science communication
@@ -57,11 +57,12 @@ en:
   write: Write to me
   press_bio: Biography
   press_page: "How to credit, short bios"
+  outlet_rubric: "Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)"
   press_media: Media archive
   press_pgp: Public PGP key
   press_photo: Portrait photo
   press_photos_more: "Other photos (Wikimedia Commons)"
-  principle: "Nothing is removed: every record keeps its source link, web-archive copy and audio file."
+  principle: "Nothing is removed: every record keeps its source link, web-archive copies and audio file, if there is one."
   search_label: Search
   search_ph: Title or outlet
   outlets_h: Outlets
@@ -83,6 +84,12 @@ en:
   proj_zs_text: A catalogue of the lesser-known educational channel «Загляне сонца» by Mikita Melkazyorau, with a button that picks a random episode.
   proj_rubric_title: "«Topology of the Singularity», a column"
   proj_rubric_text: "An author’s column on science, technology and the future in the programme «Раніца з Белсатам» on Belsat (on air it is called «Рубрыка Бесараба»). All episodes, on YouTube and Odysee, are in the media archive."
+  proj_lab66_title: "LAB-66"
+  proj_lab66_text: "A science communication project on chemistry, radiation, chemical and biological safety and citizen science, founded in 2019 and named after laboratory No. 66 of the Institute of General and Inorganic Chemistry of the National Academy of Sciences of Belarus."
+  proj_scihack_title: "Belarusian Science Hackathon (SciHackathon)"
+  proj_scihack_text: "A pilot hackathon held on 2–3 June 2017 at the High-Tech Park in Minsk, which brought scientists and IT specialists together to solve scientific and technical problems. More than 300 participants took part; I was one of the organizers and its scientific curator."
+  proj_notes_title: "Нататкі фітахіміка (Phytochemist’s Notes)"
+  proj_notes_text: "Audio sketches recorded with Юстына Саўка for the children’s programme «Дасціпныя. Нястомныя. Кемлівыя» on the «Культура» channel. The text is on Wikisource."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -117,13 +124,13 @@ ru:
   portrait_alt: "Портрет Сергея Бесараба. Фото: Oleslawlama, CC BY-SA 4.0, обрезано"
   expertise_h: Что могу прокомментировать
   card1_title: Ядерная, радиационная и химическая безопасность
-  card1_text: БелАЭС, чернобыльские территории, радиоактивные и опасные вещества, средства защиты, оценка рисков.
+  card1_text: БелАЭС, чернобыльские территории, могильники радиоактивных отходов и пункты захоронения, радиоактивные и опасные вещества, средства защиты, оценка рисков.
   card2_title: Футурология и глобальные риски
   card2_text: Технологическое прогнозирование, техноэтика, конвергенция человека и технологий, экзистенциальные риски и технологии двойного назначения.
   card3_title: Технологическая аналитика
   card3_text: "ИИ и анализ данных, биосенсоры и носимая электроника, FoodTech: что новые технологии дают и чем рискуют."
   card4_title: Коллоидная химия и наука о поверхности
-  card4_text: Адсорбция, пористые материалы, фильтрация, катализаторы, наноматериалы, зелёная химия.
+  card4_text: Адсорбция, пористые материалы, фильтрация, катализаторы, наноматериалы, супрамолекулярная химия, зелёная химия.
   card5_title: Экология и климат
   card5_text: Очистка воды и воздуха, стойкие загрязнители, экстремальная погода, адаптация к изменению климата.
   card6_title: Научная коммуникация
@@ -138,11 +145,12 @@ ru:
   write: Написать
   press_bio: Биография
   press_page: "Как подписывать, краткие биографии"
+  outlet_rubric: "Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)"
   press_media: Архив СМИ
   press_pgp: Публичный PGP-ключ
   press_photo: Портрет
   press_photos_more: "Другие фото (Wikimedia Commons)"
-  principle: "Ничего не удаляется: у каждой записи сохранены ссылка на источник, копия в веб-архиве и аудиофайл."
+  principle: "Ничего не удаляется: в каждой записи сохраняются ссылка на источник, копия в веб-архивах и аудиофайл, если он есть."
   search_label: Поиск
   search_ph: Название или издание
   outlets_h: Издания
@@ -164,6 +172,12 @@ ru:
   proj_zs_text: Каталог малоизвестного просветительского канала «Загляне сонца» Никиты Мелкозерова с кнопкой, которая выбирает случайную серию.
   proj_rubric_title: "«Топология сингулярности», авторская рубрика"
   proj_rubric_text: "Авторская рубрика о науке, технологиях и будущем в программе «Раніца з Белсатам» на Белсате (в эфире называется «Рубрыка Бесараба»). Все выпуски, на YouTube и Odysee, — в архиве СМИ."
+  proj_lab66_title: "LAB-66"
+  proj_lab66_text: "Научно-популярный проект о химии, радиационной, химической и биологической безопасности и гражданской науке, основан в 2019 году и назван в честь лаборатории № 66 Института общей и неорганической химии НАН Беларуси."
+  proj_scihack_title: "Белорусский научный хакатон (SciHackathon)"
+  proj_scihack_text: "Пилотный хакатон, прошедший 2–3 июня 2017 года в Парке высоких технологий в Минске: учёные и IT-специалисты вместе решали научно-технические задачи. Участвовало более 300 человек; я был одним из организаторов и научным куратором."
+  proj_notes_title: "«Нататкі фітахіміка»"
+  proj_notes_text: "Аудионаброски, записанные вместе с Юстыной Саўкой для детской программы «Дасціпныя. Нястомныя. Кемлівыя» на канале «Культура». Текст — в Викитеке."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -198,13 +212,13 @@ be:
   expertise_h: Што магу пракаментаваць
   portrait_alt: "Партрэт Сяргея Бесараба. Фота: Oleslawlama, CC BY-SA 4.0, абрэзана"
   card1_title: Ядзерная, радыяцыйная і хімічная бяспека
-  card1_text: БелАЭС, чарнобыльскія тэрыторыі, радыеактыўныя і небяспечныя рэчывы, сродкі абароны, ацэнка рызык.
+  card1_text: БелАЭС, чарнобыльскія тэрыторыі, могільнікі радыеактыўных адходаў і пункты іх захавання, радыеактыўныя і небяспечныя рэчывы, сродкі абароны, ацэнка рызык.
   card2_title: Футуралогія і глабальныя рызыкі
   card2_text: Тэхналагічнае прагназаванне, тэхнаэтыка, канвергенцыя чалавека і тэхналогій, экзістэнцыяльныя рызыкі і тэхналогіі двайнога прызначэння.
   card3_title: Тэхналагічная аналітыка
-  card3_text: "ШІ і аналіз даных, біясенсары і насімая электроніка, FoodTech: што новыя тэхналогіі даюць і чым рызыкуюць."
+  card3_text: "ШІ і аналіз даных, біясенсары і насімая электроніка, FoodTech: што новыя тэхналогіі даюць і якія рызыкі нясуць."
   card4_title: Калоідная хімія і навука пра паверхню
-  card4_text: Адсорбцыя, порыстыя матэрыялы, фільтрацыя, каталізатары, наноматэрыялы, зялёная хімія.
+  card4_text: Адсорбцыя, порыстыя матэрыялы, фільтрацыя, каталізатары, нанаматэрыялы, супрамалекулярная хімія, зялёная хімія.
   card5_title: Экалогія і клімат
   card5_text: Ачыстка вады і паветра, устойлівыя забруджвальнікі, экстрэмальнае надвор’е, адаптацыя да змены клімату.
   card6_title: Навуковая камунікацыя
@@ -219,11 +233,12 @@ be:
   write: Напісаць
   press_bio: Біяграфія
   press_page: "Як падпісваць, кароткія біяграфіі"
+  outlet_rubric: "Рубрыка Бесараба «Тапалогія сінгулярнасці» (Раніца з Белсатам)"
   press_media: Архіў СМІ
   press_pgp: Публічны PGP-ключ
   press_photo: Партрэт
   press_photos_more: "Іншыя фота (Вікісховішча)"
-  principle: "Нічога не выдаляецца: у кожным запісе захоўваюцца спасылка на крыніцу, копія ў вэб-архіве і аўдыёфайл."
+  principle: "Нічога не выдаляецца: у кожным запісе захоўваюцца спасылка на крыніцу, копія ў вэб-архівах і аўдыёфайл, калі ён ёсць."
   search_label: Пошук
   search_ph: Назва або выданне
   outlets_h: Выданні
@@ -245,3 +260,9 @@ be:
   proj_zs_text: Каталог малавядомага асветніцкага канала «Загляне сонца» Мікіты Мелказёрава з кнопкай, якая выбірае выпадковую серыю.
   proj_rubric_title: "«Тапалогія сінгулярнасці», аўтарская рубрыка"
   proj_rubric_text: "Аўтарская рубрыка пра навуку, тэхналогіі і будучыню ў праграме «Раніца з Белсатам» на Белсаце (у эфіры называецца «Рубрыка Бесараба»). Усе выпускі, на YouTube і Odysee, — у архіве СМІ."
+  proj_lab66_title: "LAB-66"
+  proj_lab66_text: "Навуковапапулярны праект пра хімію, радыяцыйную, хімічную і біялагічную бяспеку і грамадзянскую навуку, заснаваны ў 2019 годзе і названы ў гонар лабараторыі № 66 Інстытута агульнай і неарганічнай хіміі НАН Беларусі."
+  proj_scihack_title: "Беларускі навуковы хакатон (SciHackathon)"
+  proj_scihack_text: "Пілотны хакатон, які прайшоў 2–3 чэрвеня 2017 года ў Парку высокіх тэхналогій у Мінску: навукоўцы і IT-спецыялісты разам вырашалі навукова-тэхнічныя задачы. Удзельнічала больш за 300 чалавек; я быў адным з арганізатараў і навуковым куратарам."
+  proj_notes_title: "«Нататкі фітахіміка»"
+  proj_notes_text: "Аўдыёнарысы, запісаныя разам з Юстынай Саўкай для дзіцячай праграмы «Дасціпныя. Нястомныя. Кемлівыя» на канале «Культура». Тэкст — у Вікікрыніцах."

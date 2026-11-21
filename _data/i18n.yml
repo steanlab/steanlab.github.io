@@ -35,12 +35,19 @@ en:
   cta_media: Media archive
   portrait_alt: Portrait of Siarhei Besarab
   expertise_h: What I can comment on
-  card1_title: Nuclear & radiation safety
-  card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive materials, emergency preparedness.
-  card2_title: Surface & colloid chemistry
-  card2_text: Adsorbents, porous materials, filtration, nanomaterials for environmental use.
-  card3_title: Environment, climate & biosafety
-  card3_text: Extreme weather, ecosystems, biological risks, evidence-based policy.
+  card1_title: Nuclear, radiation & chemical safety
+  card1_text: Belarusian NPP, Chernobyl-affected territories, radioactive and hazardous materials, protective equipment, risk assessment.
+  card2_title: Futures studies & global risks
+  card2_text: Technology foresight, techno-ethics, human–technology convergence, existential and dual-use risks.
+  card3_title: Technology analysis
+  card3_text: "AI and data science, biosensors and wearables, FoodTech: what new technologies really offer and what they risk."
+  card4_title: Colloid & surface chemistry
+  card4_text: Adsorption, porous materials, filtration, catalysts, nanomaterials, green chemistry.
+  card5_title: Environment & climate
+  card5_text: Water and air purification, persistent pollutants, extreme weather, climate adaptation.
+  card6_title: Science communication
+  card6_text: Science journalism, STEM education, open science, evidence-based policy.
+  expertise_more: All areas
   latest_h: Latest added
   all_records: All records →
   kind_media: Media
@@ -106,12 +113,19 @@ ru:
   cta_media: Архив СМИ
   portrait_alt: Портрет Сергея Бесараба
   expertise_h: Что могу прокомментировать
-  card1_title: Ядерная и радиационная безопасность
-  card1_text: БелАЭС, чернобыльские территории, радиоактивные материалы, готовность к авариям.
-  card2_title: Химия поверхности и коллоидов
-  card2_text: Адсорбенты, пористые материалы, фильтрация, наноматериалы для экологии.
-  card3_title: Экология, климат и биобезопасность
-  card3_text: Экстремальная погода, экосистемы, биологические риски, политика на основе доказательств.
+  card1_title: Ядерная, радиационная и химическая безопасность
+  card1_text: БелАЭС, чернобыльские территории, радиоактивные и опасные вещества, средства защиты, оценка рисков.
+  card2_title: Футурология и глобальные риски
+  card2_text: Технологическое прогнозирование, техноэтика, конвергенция человека и технологий, экзистенциальные риски и технологии двойного назначения.
+  card3_title: Технологическая аналитика
+  card3_text: "ИИ и анализ данных, биосенсоры и носимая электроника, FoodTech: что новые технологии дают и чем рискуют."
+  card4_title: Коллоидная химия и наука о поверхности
+  card4_text: Адсорбция, пористые материалы, фильтрация, катализаторы, наноматериалы, зелёная химия.
+  card5_title: Экология и климат
+  card5_text: Очистка воды и воздуха, стойкие загрязнители, экстремальная погода, адаптация к изменению климата.
+  card6_title: Научная коммуникация
+  card6_text: Научная журналистика, STEM-образование, открытая наука, политика на основе доказательств.
+  expertise_more: Все направления
   latest_h: Последнее добавленное
   all_records: Все материалы →
   kind_media: СМИ
@@ -177,12 +191,19 @@ be:
   cta_media: Архіў СМІ
   portrait_alt: Партрэт Сяргея Бесараба
   expertise_h: Што магу пракаментаваць
-  card1_title: Ядзерная і радыяцыйная бяспека
-  card1_text: БелАЭС, чарнобыльскія тэрыторыі, радыеактыўныя матэрыялы, гатоўнасць да аварый.
-  card2_title: Хімія паверхні і калоідаў
-  card2_text: Адсарбенты, порыстыя матэрыялы, фільтрацыя, наноматэрыялы для экалогіі.
-  card3_title: Экалогія, клімат і біябяспека
-  card3_text: Экстрэмальнае надвор’е, экасістэмы, біялагічныя рызыкі, палітыка на аснове доказаў.
+  card1_title: Ядзерная, радыяцыйная і хімічная бяспека
+  card1_text: БелАЭС, чарнобыльскія тэрыторыі, радыеактыўныя і небяспечныя рэчывы, сродкі абароны, ацэнка рызык.
+  card2_title: Футуралогія і глабальныя рызыкі
+  card2_text: Тэхналагічнае прагназаванне, тэхнаэтыка, канвергенцыя чалавека і тэхналогій, экзістэнцыяльныя рызыкі і тэхналогіі двайнога прызначэння.
+  card3_title: Тэхналагічная аналітыка
+  card3_text: "ШІ і аналіз даных, біясенсары і насімая электроніка, FoodTech: што новыя тэхналогіі даюць і чым рызыкуюць."
+  card4_title: Калоідная хімія і навука пра паверхню
+  card4_text: Адсорбцыя, порыстыя матэрыялы, фільтрацыя, каталізатары, наноматэрыялы, зялёная хімія.
+  card5_title: Экалогія і клімат
+  card5_text: Ачыстка вады і паветра, устойлівыя забруджвальнікі, экстрэмальнае надвор’е, адаптацыя да змены клімату.
+  card6_title: Навуковая камунікацыя
+  card6_text: Навуковая журналістыка, STEM-адукацыя, адкрытая навука, палітыка на аснове доказаў.
+  expertise_more: Усе напрамкі
   latest_h: Апошняе дададзенае
   all_records: Усе матэрыялы →
   kind_media: СМІ

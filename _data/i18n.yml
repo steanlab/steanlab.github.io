@@ -72,6 +72,10 @@ en:
   latest_h: Latest added
   talks_h: "Selected talks"
   talks_ongoing: "ongoing"
+  talks_video: "video"
+  talk_khalezin_title: "Interview about radiation, GMOs and 5G"
+  talk_melkozerov_title: "Interview about the state of science in Belarus"
+  talk_ivulin_title: "Interview about science, health and nuclear power"
   talk_column_venue: "Author's column in the morning show «Раніца з Белсатам», Belsat"
   all_records: All records →
   kind_media: Media
@@ -197,6 +201,10 @@ ru:
   latest_h: Последнее добавленное
   talks_h: "Избранные выступления"
   talks_ongoing: "регулярно"
+  talks_video: "видео"
+  talk_khalezin_title: "Интервью о радиации, ГМО и 5G"
+  talk_melkozerov_title: "Интервью о состоянии науки в Беларуси"
+  talk_ivulin_title: "Интервью о науке, здоровье и атомной энергетике"
   talk_column_venue: "Авторская рубрика в утреннем шоу «Раніца з Белсатам», Белсат"
   all_records: Все материалы →
   kind_media: СМИ
@@ -322,6 +330,10 @@ be:
   latest_h: Апошняе дададзенае
   talks_h: "Выбраныя выступы"
   talks_ongoing: "рэгулярна"
+  talks_video: "відэа"
+  talk_khalezin_title: "Інтэрв’ю пра радыяцыю, ГМА і 5G"
+  talk_melkozerov_title: "Інтэрв’ю пра стан навукі ў Беларусі"
+  talk_ivulin_title: "Інтэрв’ю пра навуку, здароўе і атамную энергетыку"
   talk_column_venue: "Аўтарская рубрыка ў раніцовым шоу «Раніца з Белсатам», Белсат"
   all_records: Усе матэрыялы →
   kind_media: СМІ

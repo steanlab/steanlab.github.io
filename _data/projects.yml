@@ -52,3 +52,8 @@
   group: hardware
   external: true
   url: https://github.com/steanlab/badge154
+- title_key: proj_pin16_title
+  text_key: proj_pin16_text
+  group: hardware
+  external: true
+  url: https://github.com/steanlab/pin16

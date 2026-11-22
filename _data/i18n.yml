@@ -119,6 +119,8 @@ en:
   proj_beacon_text: "A Flipper Zero app that turns the device into a configurable Bluetooth Low Energy beacon with unencrypted advertisements, for testing scanners and smart-home integrations. MIT license."
   proj_b154_title: "badge154"
   proj_b154_text: "A web tool for uploading slideshows over Bluetooth to Hanshow Nebular 154 e-paper price tags, and open firmware for these tags on Telink TLSR8258 processors."
+  proj_pin16_title: "pin16"
+  proj_pin16_text: "A web page for uploading slideshows over Bluetooth to Solum e-paper price tags, and open firmware for these tags on Silicon Labs EFR32BG22 processors."
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -236,6 +238,8 @@ ru:
   proj_beacon_text: "Приложение для Flipper Zero: превращает устройство в настраиваемый маяк Bluetooth Low Energy с незашифрованными рекламными пакетами для проверки сканеров и интеграций умного дома. Лицензия MIT."
   proj_b154_title: "badge154"
   proj_b154_text: "Веб-инструмент для загрузки слайдшоу по Bluetooth на электронные ценники Hanshow Nebular 154 (e-paper), а также открытая прошивка для этих ценников на процессорах Telink TLSR8258."
+  proj_pin16_title: "pin16"
+  proj_pin16_text: "Веб-страница для загрузки слайдшоу по Bluetooth на электронные ценники Solum (e-paper), а также открытая прошивка для этих ценников на процессорах Silicon Labs EFR32BG22."
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -353,3 +357,5 @@ be:
   proj_beacon_text: "Праграма для Flipper Zero: ператварае прыладу ў наладжвальны маяк Bluetooth Low Energy з незашыфраванымі рэкламнымі пакетамі для праверкі сканераў і інтэграцый разумнага дома. Ліцэнзія MIT."
   proj_b154_title: "badge154"
   proj_b154_text: "Вэб-інструмент для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Hanshow Nebular 154 (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Telink TLSR8258."
+  proj_pin16_title: "pin16"
+  proj_pin16_text: "Вэб-старонка для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Solum (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Silicon Labs EFR32BG22."

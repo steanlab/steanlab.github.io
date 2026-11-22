@@ -49,6 +49,9 @@
       <footer class="site-footer">
         <p class="principle">{{ t.principle }}</p>
         {% include footer-links.html %}
+        {%- if site.goatcounter and site.goatcounter != "" %}
+        <p class="footer-note">{{ t.counter_note }}</p>
+        {%- endif %}
       </footer>
     </div>
 

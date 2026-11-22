@@ -303,3 +303,11 @@ h3 { font-size: 1.15rem; }
 .search-results a { display: block; color: $ink; font-weight: 600; text-decoration-color: $line; }
 .search-meta { display: block; font-size: 0.8rem; color: $muted; margin-top: 2px; }
 .search-none { color: $muted; font-size: 0.9rem; }
+
+// ---------- блок контактов на главной ----------
+.contact-list { list-style: none; margin: 22px 0 0; padding: 0; }
+.contact-list li { padding: 6px 0; font-size: 0.93rem; line-height: 1.45; }
+.contact-list .cl { display: inline-block; min-width: 4.8em; color: #cfd6d1; font-weight: 600; }
+.contact-list code { font-size: 0.75em; }
+.contact-note { margin: 14px 0 0; font-size: 0.85rem; color: #cfd6d1; }
+.footer-note { margin: 12px 0 0; font-size: 0.82rem; color: $muted; }

@@ -116,9 +116,21 @@ layout: default
 
 <section id="contact" class="press">
   <div class="press-main">
-    <h2>{{ t.press_h }}</h2>
+    <h2>{{ t.contacts_h }}</h2>
     <p>{{ t.press_text }}</p>
     <a class="btn btn-light" href="mailto:{{ site.footer-links.email }}">{{ t.write }}</a>
+    <ul class="contact-list">
+      <li><span class="cl">{{ t.contact_email }}</span> <a href="mailto:{{ site.footer-links.email }}">{{ site.footer-links.email }}</a>, <a href="mailto:{{ site.data.facts.email_proton }}">{{ site.data.facts.email_proton }}</a></li>
+      {%- if site.data.facts.signal_url and site.data.facts.signal_url != "" %}
+      <li><span class="cl">Signal</span> <a href="{{ site.data.facts.signal_url }}">{{ t.contact_signal_t }}</a></li>
+      {%- endif %}
+      <li><span class="cl">Telegram</span> <a href="{{ site.data.facts.telegram_lab66_url }}">{{ t.contact_tg_t }}</a></li>
+      {%- if site.data.facts.pgp_url and site.data.facts.pgp_url != "" %}
+      <li><span class="cl">PGP</span> <a href="{{ site.data.facts.pgp_url }}">{{ t.contact_pgp_t }}</a>, <a href="{{ site.data.facts.pgp_keys_url }}">keys.openpgp.org</a>{% if site.data.facts.pgp_fingerprint and site.data.facts.pgp_fingerprint != "" %}<br><code>{{ site.data.facts.pgp_fingerprint }}</code>{% endif %}</li>
+      {%- endif %}
+    </ul>
+    <p class="contact-note">{{ t.contact_note }}</p>
+    <p class="contact-note">{{ t.contact_emerg }}</p>
   </div>
   <ul class="press-list">
     <li><a href="{{ site.baseurl }}{{ home }}press/">{{ t.press_page }}</a></li>

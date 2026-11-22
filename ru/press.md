@@ -38,6 +38,7 @@ description: "Пресс-кит: как подписывать Сергея Бе
 Для чувствительных разговоров предпочтителен Signal. Доступны также почта и PGP.
 
 - Signal: [мой профиль в Signal]({{ site.data.facts.signal_url }}).
+- Telegram: [личные сообщения канала LAB-66]({{ site.data.facts.telegram_lab66_url }}). Для чувствительных тем лучше Signal.
 - PGP: [публичный ключ]({{ site.data.facts.pgp_url }}), отпечаток `{{ site.data.facts.pgp_fingerprint }}`. Ключ есть и на [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}

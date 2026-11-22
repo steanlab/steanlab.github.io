@@ -38,6 +38,7 @@ description: "Прэс-кіт: як падпісваць Сяргея Бесар
 Для адчувальных размоў пераважны Signal. Даступныя таксама пошта і PGP.
 
 - Signal: [мой профіль у Signal]({{ site.data.facts.signal_url }}).
+- Telegram: [асабістыя паведамленні канала LAB-66]({{ site.data.facts.telegram_lab66_url }}). Для адчувальных тэм лепш Signal.
 - PGP: [публічны ключ]({{ site.data.facts.pgp_url }}), адбітак `{{ site.data.facts.pgp_fingerprint }}`. Ключ ёсць і на [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}

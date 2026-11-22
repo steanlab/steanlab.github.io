@@ -38,6 +38,7 @@ The [full biography]({{ site.baseurl }}/about/) has education, awards and public
 For sensitive conversations, Signal is preferred. Email and PGP are also available.
 
 - Signal: [open my Signal profile]({{ site.data.facts.signal_url }}).
+- Telegram: [direct messages of the LAB-66 channel]({{ site.data.facts.telegram_lab66_url }}). For sensitive topics, use Signal.
 - PGP: [public key]({{ site.data.facts.pgp_url }}), fingerprint `{{ site.data.facts.pgp_fingerprint }}`. The key is also on [keys.openpgp.org](https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B).
 
 {% include best-coverage.html %}

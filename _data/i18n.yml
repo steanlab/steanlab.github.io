@@ -90,6 +90,14 @@ en:
   kind_media: Media
   kind_publications: Publication
   press_h: Press kit
+  contacts_h: "Contacts and press kit"
+  contact_email: "Email"
+  contact_signal_t: "my Signal profile"
+  contact_tg_t: "direct messages of the LAB-66 channel"
+  contact_pgp_t: "public key"
+  contact_note: "For sensitive topics, Signal is better than Telegram."
+  contact_emerg: "Emergencies: free urgent advice on environmental and chemical disasters. Write on Signal."
+  counter_note: "The site uses GoatCounter, a visit counter without cookies and without personal data."
   press_text: Everything a journalist needs in one place. Replies in English, Russian and Belarusian.
   write: Write to me
   press_bio: Biography
@@ -228,6 +236,14 @@ ru:
   kind_media: СМИ
   kind_publications: Публикация
   press_h: Пресс-кит
+  contacts_h: "Контакты и пресс-кит"
+  contact_email: "Почта"
+  contact_signal_t: "мой профиль в Signal"
+  contact_tg_t: "личные сообщения канала LAB-66"
+  contact_pgp_t: "публичный ключ"
+  contact_note: "Для чувствительных тем Signal лучше Telegram."
+  contact_emerg: "Чрезвычайные ситуации: бесплатные срочные консультации по экологическим и химическим катастрофам. Пишите в Signal."
+  counter_note: "На сайте стоит GoatCounter, счётчик посещений без cookie и без персональных данных."
   press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском и беларусском.
   write: Написать
   press_bio: Биография
@@ -366,6 +382,14 @@ be:
   kind_media: СМІ
   kind_publications: Публікацыя
   press_h: Прэс-кіт
+  contacts_h: "Кантакты і прэс-кіт"
+  contact_email: "Пошта"
+  contact_signal_t: "мой профіль у Signal"
+  contact_tg_t: "асабістыя паведамленні канала LAB-66"
+  contact_pgp_t: "публічны ключ"
+  contact_note: "Для адчувальных тэм Signal лепшы за Telegram."
+  contact_emerg: "Надзвычайныя сітуацыі: бясплатныя тэрміновыя кансультацыі па экалагічных і хімічных катастрофах. Пішыце ў Signal."
+  counter_note: "На сайце стаіць GoatCounter, лічыльнік наведванняў без cookie і без персанальных даных."
   press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску і па-беларуску.
   write: Напісаць
   press_bio: Біяграфія

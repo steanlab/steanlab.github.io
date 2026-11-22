@@ -28,6 +28,15 @@ en:
   best_note: Nine selected items. The one-line summaries are in English, the titles are in the original language (EN, RU, UK, BE).
   nav_menu: Menu
   theme_toggle: "Switch light or dark theme"
+  search_btn: "Search"
+  search_hint: "Search titles of publications, media items and projects. Press / to open"
+  search_ph: "Search titles"
+  search_none: "Nothing found"
+  search_more: "Showing 40 of {n}. Refine the query"
+  search_close: "Close search"
+  search_kind_pub: "Publication"
+  search_kind_media: "Media"
+  search_kind_project: "Project"
   skip_link: Skip to content
   to_top: Back to top
   support_link: Support the author
@@ -157,6 +166,15 @@ ru:
   best_note: Девять избранных материалов. Краткие описания на английском, названия на языке оригинала (EN, RU, UK, BE).
   nav_menu: Меню
   theme_toggle: "Переключить светлую или тёмную тему"
+  search_btn: "Поиск"
+  search_hint: "Поиск по заголовкам публикаций, материалов в СМИ и проектов. Открыть можно клавишей /"
+  search_ph: "Поиск по заголовкам"
+  search_none: "Ничего не найдено"
+  search_more: "Показаны первые 40 из {n}. Уточните запрос"
+  search_close: "Закрыть поиск"
+  search_kind_pub: "Публикация"
+  search_kind_media: "СМИ"
+  search_kind_project: "Проект"
   skip_link: Перейти к содержимому
   to_top: Наверх
   support_link: Поддержать автора
@@ -286,6 +304,15 @@ be:
   best_note: Дзевяць выбраных матэрыялаў. Кароткія апісанні па-англійску, назвы на мове арыгінала (EN, RU, UK, BE).
   nav_menu: Меню
   theme_toggle: "Пераключыць светлую або цёмную тэму"
+  search_btn: "Пошук"
+  search_hint: "Пошук па загалоўках публікацый, матэрыялаў у СМІ і праектаў. Адкрыць можна клавішай /"
+  search_ph: "Пошук па загалоўках"
+  search_none: "Нічога не знойдзена"
+  search_more: "Паказаны першыя 40 з {n}. Удакладніце запыт"
+  search_close: "Закрыць пошук"
+  search_kind_pub: "Публікацыя"
+  search_kind_media: "СМІ"
+  search_kind_project: "Праект"
   skip_link: Перайсці да зместу
   to_top: Уверх
   support_link: Падтрымаць аўтара
@@ -334,7 +361,7 @@ be:
   talk_khalezin_title: "Інтэрв’ю пра радыяцыю, ГМА і 5G"
   talk_melkozerov_title: "Інтэрв’ю пра стан навукі ў Беларусі"
   talk_ivulin_title: "Інтэрв’ю пра навуку, здароўе і атамную энергетыку"
-  talk_column_venue: "Аўтарская рубрыка ў раніцовым шоу «Раніца з Белсатам», Белсат"
+  talk_column_venue: "Аўтарская рубрыка ў ранішнім шоу «Раніца з Белсатам», Белсат"
   all_records: Усе матэрыялы →
   kind_media: СМІ
   kind_publications: Публікацыя

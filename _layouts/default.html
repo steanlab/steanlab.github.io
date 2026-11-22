@@ -36,6 +36,7 @@
             <a href="{{ site.baseurl }}{{ home }}about/"{% if page.ref == "about" %} aria-current="page"{% endif %}>{{ t.nav_about }}</a>
             <a href="{{ site.baseurl }}{{ home }}#contact">{{ t.nav_contacts }}</a>
           </nav>
+          <button type="button" class="search-toggle" id="search-toggle" aria-label="{{ t.search_btn }}" title="{{ t.search_btn }} (/)"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="6.5" cy="6.5" r="4.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 10l4.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></button>
           <button type="button" class="theme-toggle" id="theme-toggle" aria-label="{{ t.theme_toggle }}" title="{{ t.theme_toggle }}">◐</button>
           {% include lang-switcher.html %}
         </div>
@@ -81,6 +82,7 @@
         }
       })();
     </script>
+    {% include search.html %}
     {% include analytics.html %}
   </body>
 </html>

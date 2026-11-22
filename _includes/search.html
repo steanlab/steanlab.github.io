@@ -1,0 +1,62 @@
+{%- comment -%} Поиск по заголовкам: панель, открывается кнопкой в шапке или клавишей «/». Данные берёт из /search.json {%- endcomment -%}
+<div id="search-panel" class="search-panel" hidden data-home="{{ site.baseurl }}{{ home }}" data-lang="{{ lang }}" data-none="{{ t.search_none }}" data-more="{{ t.search_more }}"
+     data-kp="{{ t.search_kind_pub }}" data-km="{{ t.search_kind_media }}" data-kr="{{ t.search_kind_project }}">
+  <div class="search-box">
+    <input type="search" id="search-q" placeholder="{{ t.search_ph }}" aria-label="{{ t.search_btn }}" autocomplete="off">
+    <button type="button" id="search-close" class="search-close" aria-label="{{ t.search_close }}">×</button>
+  </div>
+  <p class="search-hint">{{ t.search_hint }}</p>
+  <ul id="search-results" class="search-results"></ul>
+</div>
+<script>
+(function () {
+  var panel = document.getElementById("search-panel"), q = document.getElementById("search-q"),
+      list = document.getElementById("search-results"), btn = document.getElementById("search-toggle");
+  if (!panel || !q || !list) return;
+  var data = null, loading = false, lang = panel.getAttribute("data-lang"), home = panel.getAttribute("data-home");
+  function norm(s) { return String(s || "").toLowerCase().replace(/\u0451/g, "\u0435"); }
+  function load(cb) {
+    if (data) return cb();
+    if (loading) return;
+    loading = true;
+    fetch("{{ site.baseurl }}/search.json").then(function (r) { return r.json(); }).then(function (j) {
+      data = j.map(function (x) {
+        var title = x.ti ? (x.ti[lang] || x.ti.en) : x.t;
+        var hay = x.ti ? norm(x.ti.en + " " + x.ti.ru + " " + x.ti.be) : norm(x.t + " " + (x.s || ""));
+        return { k: x.k, t: title, s: x.s || "", u: (x.l ? home : "") + x.u, h: hay };
+      });
+      loading = false; cb();
+    }, function () { loading = false; });
+  }
+  function kindName(k) { return panel.getAttribute(k === "p" ? "data-kp" : k === "m" ? "data-km" : "data-kr"); }
+  function render() {
+    var words = norm(q.value).split(/\s+/).filter(Boolean);
+    list.innerHTML = "";
+    if (!words.length || !data) return;
+    var out = [];
+    for (var i = 0; i < data.length; i++) {
+      var ok = true;
+      for (var w = 0; w < words.length; w++) { if (data[i].h.indexOf(words[w]) < 0) { ok = false; break; } }
+      if (ok) out.push(data[i]);
+    }
+    if (!out.length) { var n = document.createElement("li"); n.className = "search-none"; n.textContent = panel.getAttribute("data-none"); list.appendChild(n); return; }
+    out.slice(0, 40).forEach(function (x) {
+      var li = document.createElement("li"), a = document.createElement("a"), m = document.createElement("span");
+      a.href = x.u; a.textContent = x.t;
+      m.className = "search-meta"; m.textContent = kindName(x.k) + (x.s ? " · " + x.s : "");
+      li.appendChild(a); li.appendChild(m); list.appendChild(li);
+    });
+    if (out.length > 40) { var more = document.createElement("li"); more.className = "search-none"; more.textContent = panel.getAttribute("data-more").replace("{n}", out.length); list.appendChild(more); }
+  }
+  function open() { panel.hidden = false; load(render); q.focus(); q.select(); }
+  function close() { panel.hidden = true; }
+  if (btn) btn.addEventListener("click", function () { if (panel.hidden) open(); else close(); });
+  document.getElementById("search-close").addEventListener("click", close);
+  q.addEventListener("input", function () { load(render); render(); });
+  document.addEventListener("keydown", function (e) {
+    var tag = (e.target && e.target.tagName) || "";
+    if (e.key === "Escape" && !panel.hidden) { close(); return; }
+    if (e.key === "/" && !e.ctrlKey && !e.metaKey && !e.altKey && tag !== "INPUT" && tag !== "TEXTAREA" && tag !== "SELECT") { e.preventDefault(); open(); }
+  });
+})();
+</script>

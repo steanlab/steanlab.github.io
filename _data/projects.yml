@@ -42,11 +42,15 @@
   group: hardware
   external: true
   url: https://github.com/steanlab/flipper-elements
+  shot: /images/projects/flipper-elements.png
+  shot_alt_key: proj_elements_shot
 - title_key: proj_beacon_title
   text_key: proj_beacon_text
   group: hardware
   external: true
   url: https://github.com/steanlab/BLE-Beacon
+  shot: /images/projects/flipper-beacon.png
+  shot_alt_key: proj_beacon_shot
 - title_key: proj_b154_title
   text_key: proj_b154_text
   group: hardware

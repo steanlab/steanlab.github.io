@@ -20,7 +20,8 @@ layout: default
   <h2 class="project-group">{{ t.proj_hw_heading }}</h2>
   <ul class="project-list">
     {%- for p in site.data.projects %}{% if p.group == "hardware" %}
-    <li class="project">
+    <li class="project{% if p.shot %} has-shot{% endif %}">
+      {%- if p.shot %}<a class="project-shot" href="{{ site.baseurl }}{{ p.shot }}"><img src="{{ site.baseurl }}{{ p.shot }}" alt="{{ t[p.shot_alt_key] | escape }}" width="512" height="256" loading="lazy"></a>{% endif %}
       <h3>{% if p.url %}<a href="{{ p.url }}">{{ t[p.title_key] }}</a>{% else %}{{ t[p.title_key] }}{% endif %}</h3>
       {%- if p.text_key %}<p>{{ t[p.text_key] }}</p>{% endif %}
     </li>

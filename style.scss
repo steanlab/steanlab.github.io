@@ -151,6 +151,18 @@ h3 { font-size: 1.15rem; }
   .project.has-logo h3 { margin-top: 12px; }
   .project.has-logo h3, .project.has-logo p { grid-column: 1; margin-left: 22px; }
 }
+.project.has-shot { display: grid; grid-template-columns: 240px 1fr; column-gap: 20px; align-items: center; padding: 0; overflow: hidden; }
+.project-shot { grid-row: 1 / span 2; grid-column: 1; display: block; padding: 14px; line-height: 0; }
+.project-shot img { width: 100%; height: auto; display: block; border-radius: 6px; image-rendering: pixelated; }
+.project.has-shot h3, .project.has-shot p { grid-column: 2; margin-right: 22px; }
+.project.has-shot h3 { margin-top: 20px; }
+.project.has-shot p { margin-bottom: 20px; }
+@media (max-width: 640px) {
+  .project.has-shot { grid-template-columns: 1fr; }
+  .project-shot { grid-column: 1; grid-row: auto; padding: 14px 22px 0; }
+  .project.has-shot h3 { margin-top: 12px; }
+  .project.has-shot h3, .project.has-shot p { grid-column: 1; margin-left: 22px; }
+}
 .project p { margin: 0; color: $muted; font-size: 0.95rem; }
 .project-group { margin: 2.4rem 0 1rem; }
 .callout { background: $card; border: 1px solid $line; border-left: 4px solid $warm; padding: 16px 20px; margin: 0 0 1.8rem; }

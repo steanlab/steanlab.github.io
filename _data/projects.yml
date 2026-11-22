@@ -56,6 +56,11 @@
   group: hardware
   external: true
   url: https://github.com/steanlab/badge154
+  shot: /images/projects/badge154.jpg
+  shot_alt_key: proj_b154_shot
+  shot_w: 400
+  shot_h: 400
+  shot_photo: true
 - title_key: proj_pin16_title
   text_key: proj_pin16_text
   group: hardware

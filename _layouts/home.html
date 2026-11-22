@@ -83,10 +83,10 @@ layout: default
   <div class="latest">
     {%- for r in site.data.talks %}
     <article class="latest-item">
-      <div class="latest-date">{% if r.ongoing %}{{ t.talks_ongoing }}{% else %}{{ r.year }}{% endif %}</div>
+      <div class="latest-date">{% if r.ongoing %}{{ t.talks_ongoing }}{% elsif r.video %}{{ t.talks_video }}{% else %}{{ r.year }}{% endif %}</div>
       <div class="latest-body">
         <div class="label">{% if r.venue_key %}{{ t[r.venue_key] }}{% else %}{{ r.venue }}{% endif %}</div>
-        <h3><a href="{% if r.local %}{{ site.baseurl }}{{ home }}{% endif %}{{ r.url }}">{{ r.title }}</a></h3>
+        <h3><a href="{% if r.local %}{{ site.baseurl }}{{ home }}{% endif %}{{ r.url }}">{% if r.title_key %}{{ t[r.title_key] }}{% else %}{{ r.title }}{% endif %}</a></h3>
       </div>
     </article>
     {%- endfor %}

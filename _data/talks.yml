@@ -4,6 +4,18 @@
   venue: "TEDxUlicaMińska"
   title: "«Вы радиоактивны. И это отличная новость»"
   url: https://www.youtube.com/watch?v=jXHqw--DG_A
+- video: true
+  venue: "Авторский проект Николая Халезина «Перетрем с Халезиным»"
+  title_key: talk_khalezin_title
+  url: https://www.youtube.com/watch?v=_LWtUZAOuFk
+- video: true
+  venue: "Авторский проект Никиты Мелкозерова «Жизнь-малина»"
+  title_key: talk_melkozerov_title
+  url: https://www.youtube.com/watch?v=ffLIJD4RGxs
+- video: true
+  venue: "Авторский проект Александра Ивулина «ЧестнОК-LIVE»"
+  title_key: talk_ivulin_title
+  url: https://www.youtube.com/watch?v=OWHWzmSAe0E
 - ongoing: true
   venue_key: talk_column_venue
   title: "«Топология сингулярности»"

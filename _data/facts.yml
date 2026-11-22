@@ -16,4 +16,4 @@ signal_url: "https://signal.me/#eu/APv59BW-jqxXZ4JkNBtbx2DcyBenNa1Qd_jLIX8QfUbUE
 email_proton: "labinform@proton.me"
 pgp_keys_url: "https://keys.openpgp.org/search?q=CD18FA2136794D16DDA519EDA1D6DCCEC753B27B"
 # Telegram-канал LAB-66: в его личные сообщения тоже можно писать
-telegram_lab66_url: "https://t.me/lab66"
+telegram_lab66_url: "https://t.me/lab66?direct"

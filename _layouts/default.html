@@ -7,7 +7,7 @@
   <head>
     <script>document.documentElement.className += " js";</script>
     <script>try { var th = localStorage.getItem("theme"); if (th === "dark" || th === "light") document.documentElement.setAttribute("data-theme", th); } catch (e) {}</script>
-    <title>{% if page.seo_title %}{{ page.seo_title }} – {{ t.description }}{% else %}{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ t.name }} – {{ t.description }}{% endif %}</title>
+    <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title and page.title != "" %}{% if page.title contains t.name %}{{ page.title }}{% else %}{{ page.title }} – {{ t.name }}{% endif %}{% else %}{{ t.name }} – {{ t.description }}{% endif %}</title>
 
     {% include meta.html %}
     {% include hreflang.html %}

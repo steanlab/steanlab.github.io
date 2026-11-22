@@ -4,6 +4,7 @@ lang: en
 ref: press
 permalink: /press/
 title: "Press kit"
+seo_title: "Press kit: Siarhei Besarab"
 published: true
 description: "Press kit: how to credit Siarhei Besarab, short and medium biographies, availability and a featured TEDx talk."
 ---

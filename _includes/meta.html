@@ -18,7 +18,7 @@
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
 <meta property="og:site_name" content="{{ meta_t.name }}">
 <meta property="og:locale" content="{% if page.lang == 'ru' %}ru_RU{% elsif page.lang == 'be' %}be_BY{% else %}en_US{% endif %}">
-<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:title" content="{{ page.seo_title | default: page.title | default: site.title }}">
 <meta property="og:description" content="{{ meta_description }}">
 <!-- Фильтр `absolute_url` теперь будет генерировать ПРАВИЛЬНЫЙ https:// URL -->
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
@@ -49,7 +49,7 @@
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:title" content="{{ page.seo_title | default: page.title | default: site.title }}">
 <meta name="twitter:description" content="{{ meta_description }}">
 {% if site.twitter_username %}
   <meta name="twitter:site" content="@{{ site.twitter_username }}">
@@ -90,6 +90,28 @@
     "https://www.imdb.com/name/nm18663680/",
     "https://t.me/lab66"
   ]
+}
+</script>
+{% endif %}
+
+{%- comment -%} Разметка страниц «Публикации» и «Пресс-кит»: связывает страницу с автором. {%- endcomment -%}
+{% if page.ref == "publications" or page.ref == "press" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.ref == 'press' %}ProfilePage{% else %}CollectionPage{% endif %}",
+  "name": {{ page.seo_title | default: page.title | jsonify }},
+  "description": {{ meta_description | jsonify }},
+  "url": {{ page.url | replace:'index.html','' | absolute_url | jsonify }},
+  "inLanguage": {{ meta_lang | jsonify }},
+  "isPartOf": { "@type": "WebSite", "name": {{ meta_t.name | jsonify }}, "url": {{ "/" | absolute_url | jsonify }} },
+  "{% if page.ref == 'press' %}mainEntity{% else %}author{% endif %}": {
+    "@type": "Person",
+    "name": {{ meta_t.name | jsonify }},
+    "alternateName": ["Siarhei Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
+    "url": {{ "/" | absolute_url | jsonify }},
+    "sameAs": ["https://www.wikidata.org/wiki/Q114079054", "https://en.wikipedia.org/wiki/Siarhei_Besarab", "https://scholar.google.com/citations?user=1jNpf9QAAAAJ"]
+  }
 }
 </script>
 {% endif %}

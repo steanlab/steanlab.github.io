@@ -4,6 +4,7 @@ lang: ru
 ref: press
 permalink: /ru/press/
 title: "Пресс-кит"
+seo_title: "Сергей Бесараб. Пресс-кит"
 published: true
 description: "Пресс-кит: как подписывать Сергея Бесараба, краткие биографии, доступность и избранное выступление TEDx."
 ---

@@ -24,7 +24,9 @@
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
 {% if site.facebook_app_id %}<meta property="fb:app_id" content="{{ site.facebook_app_id }}" />{% endif %}
 
-<!-- Графическое превью -->
+<!-- Графическое превью: своя картинка страницы images/og/<ref>-<язык>.jpg, если она есть -->
+{%- assign og_path = "/images/og/" | append: page.ref | append: "-" | append: meta_lang | append: ".jpg" -%}
+{%- assign og_file = site.static_files | where: "path", og_path | first -%}
 {% if page.image %}
   <meta property="og:image" content="{{ page.image | absolute_url }}">
   <meta property="twitter:image" content="{{ page.image | absolute_url }}">
@@ -32,6 +34,11 @@
   <meta property="og:image:width" content="{{ page.image_width }}">
   <meta property="og:image:height" content="{{ page.image_height }}">
   {% endif %}
+{% elsif og_file %}
+  <meta property="og:image" content="{{ og_path | absolute_url }}">
+  <meta property="twitter:image" content="{{ og_path | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
 {% elsif site.og_image %}
   <meta property="og:image" content="{{ site.og_image | absolute_url }}">
   <meta property="twitter:image" content="{{ site.og_image | absolute_url }}">

@@ -61,3 +61,8 @@
   group: hardware
   external: true
   url: https://github.com/steanlab/pin16
+  shot: /images/projects/pin16.jpg
+  shot_alt_key: proj_pin16_shot
+  shot_w: 400
+  shot_h: 400
+  shot_photo: true

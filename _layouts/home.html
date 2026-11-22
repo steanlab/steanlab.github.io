@@ -78,6 +78,23 @@ layout: default
 
 <section class="block">
   <div class="block-head">
+    <h2>{{ t.talks_h }}</h2>
+  </div>
+  <div class="latest">
+    {%- for r in site.data.talks %}
+    <article class="latest-item">
+      <div class="latest-date">{% if r.ongoing %}{{ t.talks_ongoing }}{% else %}{{ r.year }}{% endif %}</div>
+      <div class="latest-body">
+        <div class="label">{% if r.venue_key %}{{ t[r.venue_key] }}{% else %}{{ r.venue }}{% endif %}</div>
+        <h3><a href="{% if r.local %}{{ site.baseurl }}{{ home }}{% endif %}{{ r.url }}">{{ r.title }}</a></h3>
+      </div>
+    </article>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="block">
+  <div class="block-head">
     <h2>{{ t.latest_h }}</h2>
     <a class="more" href="{{ site.baseurl }}{{ home }}interview/">{{ t.all_records }}</a>
   </div>

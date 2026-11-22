@@ -6,11 +6,13 @@
 <html lang="{{ lang }}">
   <head>
     <script>document.documentElement.className += " js";</script>
+    <script>try { var th = localStorage.getItem("theme"); if (th === "dark" || th === "light") document.documentElement.setAttribute("data-theme", th); } catch (e) {}</script>
     <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ t.name }} – {{ t.description }}</title>
 
     {% include meta.html %}
     {% include hreflang.html %}
 
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/theme.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
@@ -34,6 +36,7 @@
             <a href="{{ site.baseurl }}{{ home }}about/"{% if page.ref == "about" %} aria-current="page"{% endif %}>{{ t.nav_about }}</a>
             <a href="{{ site.baseurl }}{{ home }}#contact">{{ t.nav_contacts }}</a>
           </nav>
+          <button type="button" class="theme-toggle" id="theme-toggle" aria-label="{{ t.theme_toggle }}" title="{{ t.theme_toggle }}">◐</button>
           {% include lang-switcher.html %}
         </div>
       </header>
@@ -61,6 +64,14 @@
         var tg = document.querySelector(".nav-toggle"), hd = document.querySelector(".site-header");
         if (tg && hd) tg.addEventListener("click", function () {
           var o = hd.classList.toggle("nav-open"); tg.setAttribute("aria-expanded", o ? "true" : "false");
+        });
+        var th = document.getElementById("theme-toggle");
+        if (th) th.addEventListener("click", function () {
+          var root = document.documentElement, cur = root.getAttribute("data-theme");
+          if (!cur) cur = (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+          var next = cur === "dark" ? "light" : "dark";
+          root.setAttribute("data-theme", next);
+          try { localStorage.setItem("theme", next); } catch (x) {}
         });
         var up = document.querySelector(".to-top");
         if (up) {

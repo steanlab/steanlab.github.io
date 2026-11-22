@@ -1,0 +1,9 @@
+/* Цвета сайта в CSS-переменных. Светлая тема по умолчанию, тёмная по настройке системы или по кнопке в шапке. */
+:root { --ink: #1f2422; --ink-soft: #3d4743; --muted: #66706b; --line: #e3e6e2; --bg: #fafaf8; --card: #ffffff;
+  --warm: #9a4a08; --on-accent: #ffffff; --hover: #eceee9; --line-strong: #b4bbb6; --press-bg: #3d4743; color-scheme: light; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --ink: #e6e9e7; --ink-soft: #c4ccc7; --muted: #99a39e; --line: #2f3633; --bg: #141816; --card: #1b201e;
+  --warm: #e0955a; --on-accent: #141816; --hover: #252b28; --line-strong: #46504b; --press-bg: #222927; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --ink: #e6e9e7; --ink-soft: #c4ccc7; --muted: #99a39e; --line: #2f3633; --bg: #141816; --card: #1b201e;
+  --warm: #e0955a; --on-accent: #141816; --hover: #252b28; --line-strong: #46504b; --press-bg: #222927; color-scheme: dark; }

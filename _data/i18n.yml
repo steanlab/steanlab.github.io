@@ -27,11 +27,14 @@ en:
   best_heading: Best coverage
   best_note: Nine selected items. The one-line summaries are in English, the titles are in the original language (EN, RU, UK, BE).
   nav_menu: Menu
+  theme_toggle: "Switch light or dark theme"
   skip_link: Skip to content
   to_top: Back to top
   support_link: Support the author
   support_intro: "Support helps keep this work independent: time for research and writing, the LAB66 science communication project, and the equipment and hosting behind it."
   support_methods_h: Ways to support
+  support_indep_h: "Independence"
+  support_indep: "Support does not affect what I write or the conclusions I reach. I remain an independent author, and the views on this site are my own."
   support_preferred: "Preferred: lowest fees"
   support_crypto_h: Cryptocurrency
   support_crypto_note: Copy the address and check its first and last characters before sending. Send only the coin shown, on the network shown.
@@ -67,6 +70,9 @@ en:
   card6_text: Science journalism, STEM education, open science, evidence-based policy.
   expertise_more: All areas
   latest_h: Latest added
+  talks_h: "Selected talks"
+  talks_ongoing: "ongoing"
+  talk_column_venue: "Author's column in the morning show «Раніца з Белсатам», Belsat"
   all_records: All records →
   kind_media: Media
   kind_publications: Publication
@@ -146,11 +152,14 @@ ru:
   best_heading: Избранные материалы
   best_note: Девять избранных материалов. Краткие описания на английском, названия на языке оригинала (EN, RU, UK, BE).
   nav_menu: Меню
+  theme_toggle: "Переключить светлую или тёмную тему"
   skip_link: Перейти к содержимому
   to_top: Наверх
   support_link: Поддержать автора
   support_intro: "Поддержка помогает сохранять независимость этой работы: время на исследования и тексты, научно-коммуникационный проект LAB66, оборудование и хостинг."
   support_methods_h: Способы поддержки
+  support_indep_h: "Независимость"
+  support_indep: "Поддержка не влияет на то, что я пишу, и на мои выводы. Я остаюсь независимым автором, а взгляды на этом сайте мои собственные."
   support_preferred: "Предпочтительно: минимальные комиссии"
   support_crypto_h: Криптовалюта
   support_crypto_note: Скопируйте адрес и перед отправкой проверьте его первые и последние символы. Отправляйте только указанную монету в указанной сети.
@@ -186,6 +195,9 @@ ru:
   card6_text: Научная журналистика, STEM-образование, открытая наука, политика на основе доказательств.
   expertise_more: Все направления
   latest_h: Последнее добавленное
+  talks_h: "Избранные выступления"
+  talks_ongoing: "регулярно"
+  talk_column_venue: "Авторская рубрика в утреннем шоу «Раніца з Белсатам», Белсат"
   all_records: Все материалы →
   kind_media: СМИ
   kind_publications: Публикация
@@ -265,11 +277,14 @@ be:
   best_heading: Выбраныя матэрыялы
   best_note: Дзевяць выбраных матэрыялаў. Кароткія апісанні па-англійску, назвы на мове арыгінала (EN, RU, UK, BE).
   nav_menu: Меню
+  theme_toggle: "Пераключыць светлую або цёмную тэму"
   skip_link: Перайсці да зместу
   to_top: Уверх
   support_link: Падтрымаць аўтара
   support_intro: "Падтрымка дапамагае захоўваць незалежнасць гэтай працы: час на даследаванні і тэксты, навукова-камунікацыйны праект LAB66, абсталяванне і хостынг."
   support_methods_h: Спосабы падтрымкі
+  support_indep_h: "Незалежнасць"
+  support_indep: "Падтрымка не ўплывае на тое, што я пішу, і на мае высновы. Я застаюся незалежным аўтарам, а погляды на гэтым сайце мае ўласныя."
   support_preferred: "Пераважна: мінімальныя камісіі"
   support_crypto_h: Крыптавалюта
   support_crypto_note: Скапіруйце адрас і перад адпраўкай праверце яго першыя і апошнія сімвалы. Адпраўляйце толькі ўказаную манету ва ўказанай сетцы.
@@ -305,6 +320,9 @@ be:
   card6_text: Навуковая журналістыка, STEM-адукацыя, адкрытая навука, палітыка на аснове доказаў.
   expertise_more: Усе напрамкі
   latest_h: Апошняе дададзенае
+  talks_h: "Выбраныя выступы"
+  talks_ongoing: "рэгулярна"
+  talk_column_venue: "Аўтарская рубрыка ў раніцовым шоу «Раніца з Белсатам», Белсат"
   all_records: Усе матэрыялы →
   kind_media: СМІ
   kind_publications: Публікацыя

@@ -6,13 +6,14 @@
 
 @import "reset";
 
-$ink: #1f2422;
-$ink-soft: #3d4743;   // графитовый акцент
-$muted: #66706b;
-$line: #e3e6e2;
-$bg: #fafaf8;
-$card: #ffffff;
-$warm: #9a4a08;       // только мелкие подписи изданий
+// Цвета лежат в CSS-переменных (см. блок «темы» ниже), SCSS-имена оставлены как псевдонимы
+$ink: var(--ink);
+$ink-soft: var(--ink-soft);   // графитовый акцент
+$muted: var(--muted);
+$line: var(--line);
+$bg: var(--bg);
+$card: var(--card);
+$warm: var(--warm);           // только мелкие подписи изданий
 $sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $serif: "Source Serif 4", Georgia, "Times New Roman", serif;
 
@@ -21,6 +22,10 @@ $serif: "Source Serif 4", Georgia, "Times New Roman", serif;
 @font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 200 900; font-display: swap;
   src: url("/fonts/SourceSerif4Variable-Roman.otf.woff2") format("woff2"),
        url("/fonts/SourceSerif4Variable-Roman.ttf.woff2") format("woff2"); }
+
+// Переменные цветов и тёмная тема лежат в обычном theme.css (его не обрабатывает Sass)
+.theme-toggle { font: 500 1rem/1 $sans; width: 34px; height: 30px; padding: 0; border: 1px solid $line; border-radius: 8px; background: $card; color: $ink-soft; cursor: pointer; }
+.theme-toggle:hover { background: var(--hover); color: $ink; }
 
 * { box-sizing: border-box; }
 html { font-size: 100%; scroll-behavior: smooth; }
@@ -40,7 +45,7 @@ h3 { font-size: 1.15rem; }
 // ---------- шапка ----------
 .site-header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; padding: 22px 0; border-bottom: 1px solid $line; }
 .brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; color: $ink; }
-.brand-mark { display: inline-grid; place-items: center; width: 38px; height: 38px; border-radius: 8px; background: $ink-soft; color: #fff; font: 700 14px/1 $sans; letter-spacing: 0.04em; }
+.brand-mark { display: inline-grid; place-items: center; width: 38px; height: 38px; border-radius: 8px; background: $ink-soft; color: var(--on-accent); font: 700 14px/1 $sans; letter-spacing: 0.04em; }
 .brand-name { font: 600 1.05rem/1 $sans; }
 .header-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 22px; }
 .main-nav { display: flex; flex-wrap: wrap; gap: 4px 20px; float: none; margin: 0; }
@@ -49,8 +54,8 @@ h3 { font-size: 1.15rem; }
 .lang-switcher { display: inline-flex; border: 1px solid $line; border-radius: 8px; overflow: hidden; background: $card; font-size: 0.8rem; }
 .lang-switcher a, .lang-switcher .current { padding: 5px 10px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.04em; }
 .lang-switcher a { color: $muted; }
-.lang-switcher a:hover { background: #f0f2ef; color: $ink; }
-.lang-switcher .current { background: $ink-soft; color: #fff; font-weight: 600; }
+.lang-switcher a:hover { background: var(--hover); color: $ink; }
+.lang-switcher .current { background: $ink-soft; color: var(--on-accent); font-weight: 600; }
 
 // ---------- подвал ----------
 .site-footer { margin-top: 72px; padding: 28px 0 48px; border-top: 1px solid $line; color: $muted; font-size: 0.9rem; }
@@ -59,12 +64,12 @@ h3 { font-size: 1.15rem; }
 
 // ---------- кнопки ----------
 .btn { display: inline-block; padding: 11px 20px; border-radius: 8px; font: 600 0.95rem/1.2 $sans; text-decoration: none; border: 1px solid transparent; }
-.btn-primary { background: $ink-soft; color: #fff; }
-.btn-primary:hover { background: $ink; color: #fff; }
+.btn-primary { background: $ink-soft; color: var(--on-accent); }
+.btn-primary:hover { background: $ink; color: var(--on-accent); }
 .btn-outline { border-color: $ink-soft; color: $ink-soft; }
-.btn-outline:hover { background: $ink-soft; color: #fff; }
-.btn-light { background: #fff; color: $ink; }
-.btn-light:hover { background: #eef0ed; color: $ink; }
+.btn-outline:hover { background: $ink-soft; color: var(--on-accent); }
+.btn-light { background: #fff; color: #1f2422; }
+.btn-light:hover { background: #eef0ed; color: #1f2422; }
 // «.press a» (белый) перебивал цвет кнопки: текст был белым на белом
 .press a.btn-light { color: #5b6661; }
 .press a.btn-light:hover { background: #eef0ed; color: #000; }
@@ -75,7 +80,7 @@ h3 { font-size: 1.15rem; }
 .hero h1 { margin-bottom: 18px; }
 .lead { font: 400 1.2rem/1.55 $serif; color: $ink-soft; max-width: 620px; margin: 0 0 26px; }
 .actions { display: flex; flex-wrap: wrap; gap: 12px; }
-.hero-photo img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 16px; background: #e9ece8; border: 1px solid $line; }
+.hero-photo img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 16px; background: var(--hover); border: 1px solid $line; }
 
 .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 8px 0 24px; }
 .stat { background: $card; border: 1px solid $line; border-radius: 12px; padding: 18px 20px; }
@@ -105,7 +110,7 @@ h3 { font-size: 1.15rem; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { display: inline-block; font-size: 0.75rem; padding: 2px 9px; border: 1px solid $line; border-radius: 999px; color: $muted; background: $card; }
 
-.press { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 64px; padding: 36px; border-radius: 16px; background: $ink-soft; color: #e8ece9; }
+.press { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 64px; padding: 36px; border-radius: 16px; background: var(--press-bg); color: #e8ece9; }
 .press h2 { color: #fff; margin-bottom: 12px; }
 .press p { margin: 0 0 20px; color: #cfd6d1; }
 .press-list { list-style: none; margin: 0; padding: 0; align-self: center; }
@@ -171,14 +176,14 @@ h3 { font-size: 1.15rem; }
 .media-side { position: sticky; top: 16px; }
 .side-h { display: block; font: 600 0.85rem/1.3 $sans; margin-bottom: 8px; }
 .outlets-h { margin-top: 28px; }
-.search { width: 100%; min-height: 44px; padding: 0 14px; border: 1px solid #b4bbb6; border-radius: 10px; background: $card; font: 400 1rem $sans; color: $ink; }
+.search { width: 100%; min-height: 44px; padding: 0 14px; border: 1px solid var(--line-strong); border-radius: 10px; background: $card; font: 400 1rem $sans; color: $ink; }
 .search:focus { outline: 2px solid $ink-soft; outline-offset: 1px; }
 .outlets { list-style: none; margin: 0; padding: 0; max-height: 60vh; overflow: auto; }
 .outlet { display: flex; justify-content: space-between; gap: 10px; width: 100%; text-align: left; padding: 6px 8px; margin: 0; border: 0; border-radius: 6px; background: transparent; font: 400 0.92rem/1.35 $sans; color: $ink; cursor: pointer; }
-.outlet:hover { background: #eceee9; }
-.outlet[aria-pressed="true"] { background: $ink-soft; color: #fff; }
+.outlet:hover { background: var(--hover); }
+.outlet[aria-pressed="true"] { background: $ink-soft; color: var(--on-accent); }
 .outlet .n { color: $muted; font-variant-numeric: tabular-nums; }
-.outlet[aria-pressed="true"] .n { color: #d6ddd8; }
+.outlet[aria-pressed="true"] .n { color: var(--on-accent); opacity: 0.8; }
 .reset { margin-top: 12px; padding: 0; border: 0; background: none; color: $ink-soft; font: 400 0.9rem $sans; text-decoration: underline; cursor: pointer; }
 .list-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 24px; padding-bottom: 12px; }
 .count { font-weight: 600; font-size: 0.95rem; }
@@ -204,7 +209,7 @@ h3 { font-size: 1.15rem; }
 .sec-nav li.grp { margin-top: 10px; font-weight: 600; }
 .sec-nav li.sub { padding-left: 10px; }
 .sec-nav a { display: block; padding: 4px 8px; font-size: 0.9rem; line-height: 1.35; text-decoration: none; color: $ink; border-radius: 6px; }
-.sec-nav a:hover { background: #eceee9; }
+.sec-nav a:hover { background: var(--hover); }
 .pub-sec { margin-bottom: 8px; scroll-margin-top: 16px; }
 .pub-h1 { font-size: 1.5rem; margin: 40px 0 8px; padding-top: 24px; border-top: 1px solid $line; }
 .pub-h2 { font-size: 1.1rem; margin: 28px 0 6px; color: $ink-soft; }
@@ -239,7 +244,7 @@ h3 { font-size: 1.15rem; }
 .support-crypto .coin { grid-column: 1 / -1; font-size: 0.9rem; color: $muted; }
 .support-crypto .addr { word-break: break-all; font-size: 0.88rem; }
 .support .copy { font: 500 0.85rem $sans; padding: 5px 12px; border: 1px solid $line; border-radius: 8px; background: $card; color: $ink-soft; cursor: pointer; }
-.support .copy:hover { background: #f0f2ef; }
+.support .copy:hover { background: var(--hover); }
 .support .note { color: $muted; font-size: 0.9rem; margin: 0 0 8px; }
 .quiet { color: $muted; font-size: 0.9rem; margin: 2rem 0 0; }
 
@@ -252,10 +257,10 @@ h3 { font-size: 1.15rem; }
 .toc span { margin-right: 6px; }
 
 /* Меню на узких экранах, пропуск навигации, «наверх» */
-.skip-link { position: absolute; left: -9999px; top: 0; background: $ink; color: #fff; padding: 10px 16px; z-index: 100; border-radius: 0 0 8px 0; }
+.skip-link { position: absolute; left: -9999px; top: 0; background: $ink; color: var(--on-accent); padding: 10px 16px; z-index: 100; border-radius: 0 0 8px 0; }
 .skip-link:focus { left: 0; }
 .nav-toggle { display: none; font: 500 0.9rem $sans; padding: 6px 14px; border: 1px solid $line; border-radius: 8px; background: $card; color: $ink-soft; cursor: pointer; }
-.to-top { position: fixed; right: 18px; bottom: 18px; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; background: $ink-soft; color: #fff; text-decoration: none; font-size: 1.3rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); z-index: 50; }
+.to-top { position: fixed; right: 18px; bottom: 18px; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; background: $ink-soft; color: var(--on-accent); text-decoration: none; font-size: 1.3rem; box-shadow: 0 2px 8px rgba(0,0,0,0.2); z-index: 50; }
 .to-top[hidden] { display: none; }
 @media (max-width: 720px) {
   .js .nav-toggle { display: inline-block; }
@@ -270,8 +275,8 @@ h3 { font-size: 1.15rem; }
 .lang-btn { font: 500 0.82rem $sans; padding: 4px 10px; border: 1px solid $line; border-radius: 999px; background: $card; color: $muted; cursor: pointer; }
 .lang-btn .n { color: $muted; font-size: 0.75rem; }
 .lang-btn:hover { color: $ink; }
-.lang-btn[aria-pressed="true"] { background: $ink-soft; color: #fff; border-color: $ink-soft; }
-.lang-btn[aria-pressed="true"] .n { color: #e3e6e2; }
+.lang-btn[aria-pressed="true"] { background: $ink-soft; color: var(--on-accent); border-color: $ink-soft; }
+.lang-btn[aria-pressed="true"] .n { color: var(--on-accent); opacity: 0.8; }
 
 /* Best coverage: сворачивающийся блок */
 .best-coverage > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; }

@@ -150,6 +150,7 @@ en:
   proj_b154_text: "A web tool for uploading slideshows over Bluetooth to Hanshow Nebular 154 e-paper price tags, and open firmware for these tags on Telink TLSR8258 processors."
   proj_pin16_title: "pin16"
   proj_pin16_text: "A web page for uploading slideshows over Bluetooth to Solum e-paper price tags, and open firmware for these tags on Silicon Labs EFR32BG22 processors."
+  proj_pin16_shot: "The pin16 test screen on a Solum EL016 e-paper price tag"
 ru:
   name: Сергей Бесараб
   description: Мультидисциплинарный учёный · Химик-исследователь · Автор
@@ -298,6 +299,7 @@ ru:
   proj_b154_text: "Веб-инструмент для загрузки слайдшоу по Bluetooth на электронные ценники Hanshow Nebular 154 (e-paper), а также открытая прошивка для этих ценников на процессорах Telink TLSR8258."
   proj_pin16_title: "pin16"
   proj_pin16_text: "Веб-страница для загрузки слайдшоу по Bluetooth на электронные ценники Solum (e-paper), а также открытая прошивка для этих ценников на процессорах Silicon Labs EFR32BG22."
+  proj_pin16_shot: "Тестовый экран pin16 на электронном ценнике Solum EL016"
 be:
   name: Сяргей Бесараб
   description: Мультыдысцыплінарны навуковец · Хімік-даследчык · Аўтар
@@ -446,3 +448,4 @@ be:
   proj_b154_text: "Вэб-інструмент для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Hanshow Nebular 154 (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Telink TLSR8258."
   proj_pin16_title: "pin16"
   proj_pin16_text: "Вэб-старонка для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Solum (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Silicon Labs EFR32BG22."
+  proj_pin16_shot: "Тэставы экран pin16 на электронным цэньніку Solum EL016"

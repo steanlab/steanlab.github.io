@@ -1,6 +1,6 @@
 {%- comment -%}
   Подключается только на английской главной «/». Один раз выбирает язык по языку браузера:
-  первый язык из navigator.languages → версия из site.languages[].browser (ru → /ru/, be и uk → /be/), остальные (в т.ч. pl, en) остаются на EN.
+  первый язык из navigator.languages → версия из site.languages[].browser (ru → /ru/, be и uk → /be/, pl → /pl/), остальные (в т.ч. en) остаются на EN.
   Ручной выбор в переключателе запоминается (localStorage "lang") и имеет приоритет. «/?nolang» отключает перенаправление.
 {%- endcomment -%}
 <script>

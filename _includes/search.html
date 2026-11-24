@@ -22,7 +22,7 @@
     fetch("{{ site.baseurl }}/search.json").then(function (r) { return r.json(); }).then(function (j) {
       data = j.map(function (x) {
         var title = x.ti ? (x.ti[lang] || x.ti.en) : x.t;
-        var hay = x.ti ? norm(x.ti.en + " " + x.ti.ru + " " + x.ti.be) : norm(x.t + " " + (x.s || ""));
+        var hay = x.ti ? norm(x.ti.en + " " + x.ti.ru + " " + x.ti.be + " " + x.ti.pl) : norm(x.t + " " + (x.s || ""));
         return { k: x.k, t: title, s: x.s || "", u: (x.l ? home : "") + x.u, h: hay };
       });
       loading = false; cb();

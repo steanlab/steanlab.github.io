@@ -18,7 +18,7 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
 <meta property="og:site_name" content="{{ meta_t.name }}">
-<meta property="og:locale" content="{% if page.lang == 'ru' %}ru_RU{% elsif page.lang == 'be' %}be_BY{% else %}en_US{% endif %}">
+<meta property="og:locale" content="{% if page.lang == 'ru' %}ru_RU{% elsif page.lang == 'be' %}be_BY{% elsif page.lang == 'pl' %}pl_PL{% else %}en_US{% endif %}">
 <meta property="og:title" content="{{ page.seo_title | default: page.title | default: site.title }}">
 <meta property="og:description" content="{{ meta_description }}">
 <!-- Фильтр `absolute_url` теперь будет генерировать ПРАВИЛЬНЫЙ https:// URL -->
@@ -64,11 +64,11 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": {{ meta_t.name | jsonify }},
-  "alternateName": ["Siarhei Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
+  "alternateName": ["Siarhei Besarab", "Siarhei (Sergiusz) Besarab", "Sergiusz Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
   "url": {{ "/" | absolute_url | jsonify }},
   "image": {{ "/images/portrait.jpg" | absolute_url | jsonify }},
   "description": {{ meta_t.hero_lead | jsonify }},
-  "knowsLanguage": ["en", "ru", "be"],
+  "knowsLanguage": ["en", "ru", "be", "pl"],
   "knowsAbout": ["Belarusian nuclear power plant", "Chernobyl exclusion zone", "Radioactive waste management", "Radiation, biological and chemical safety", "Global catastrophic risks", "Techno-ethics and futurology", "Technology analysis", "Colloid chemistry", "Adsorption and filtration", "Climate and extreme weather", "Climate adaptation", "Science communication"],
   "sameAs": [
     "https://www.wikidata.org/wiki/Q114079054",
@@ -109,7 +109,7 @@
   "{% if page.ref == 'press' %}mainEntity{% else %}author{% endif %}": {
     "@type": "Person",
     "name": {{ meta_t.name | jsonify }},
-    "alternateName": ["Siarhei Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
+    "alternateName": ["Siarhei Besarab", "Siarhei (Sergiusz) Besarab", "Sergiusz Besarab", "Сергей Бесараб", "Сяргей Бесараб"],
     "url": {{ "/" | absolute_url | jsonify }},
     "sameAs": ["https://www.wikidata.org/wiki/Q114079054", "https://en.wikipedia.org/wiki/Siarhei_Besarab", "https://scholar.google.com/citations?user=1jNpf9QAAAAJ"]
   }

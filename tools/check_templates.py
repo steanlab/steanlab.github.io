@@ -223,7 +223,7 @@ def check_home(root, i18n):
     recs = [e for s in media["sections"] for e in s["entries"] if "url" in e]
     copies = sum(1 for e in recs for l in e.get("links", []) if l.get("type") in ("web_archive", "archive_is"))
     ok = True
-    for lang in ("en", "ru", "be"):
+    for lang in ("en", "ru", "be", "pl"):
         latest = yaml.safe_load(open(os.path.join(root, "_data", "latest.yml"), encoding="utf-8"))
         ctx = {"site": {"data": {"media": media, "facts": facts, "i18n": i18n, "latest": latest},
                         "footer-links": {"email": "x@example.org"}},
@@ -248,7 +248,7 @@ def check_media(root, i18n):
     src_urls = sorted(e["url"] for s in media["sections"] for e in s["entries"] if "url" in e)
     ok = sorted(c["url"] for c in cards["cards"]) == src_urls and cards["total"] == len(src_urls)
     print("media_cards   все %d адресов из media.yml на месте: %s" % (len(src_urls), "да" if ok else "НЕТ"))
-    for lang in ("en", "ru", "be"):
+    for lang in ("en", "ru", "be", "pl"):
         ctx = {"site": {"data": {"media_cards": cards, "i18n": i18n}}, "page": {"lang": lang, "title": "T"}}
         out = render_body(os.path.join(root, "_layouts", "media.html"), ctx)
         body = out.split("<script>", 1)[0]
@@ -281,7 +281,7 @@ def check_publications(root, i18n):
     want_texts = [e["text"] for e in ents if "text" in e] + [e["bullet"] for e in ents if "bullet" in e]
     want_links = sum(1 for e in ents for l in e.get("links", []) if "url" in l)
     ok = True
-    for lang in ("en", "ru", "be"):
+    for lang in ("en", "ru", "be", "pl"):
         ctx = {"site": {"data": {"publications": d, "marks": marks, "i18n": i18n}}, "page": {"lang": lang, "title": "T"}}
         out = render_body(os.path.join(root, "_layouts", "publications.html"), ctx)
         body = out.split("<script>", 1)[0]
@@ -309,7 +309,7 @@ def check_static(root, i18n):
             files.append(os.path.join(d, f))
     for f in ("about.md", "projects.md", "bibliography.md", "interview.md", "press.md"):
         files.append(f)
-    for lang in ("ru", "be"):
+    for lang in ("ru", "be", "pl"):
         for f in sorted(os.listdir(os.path.join(root, lang))):
             files.append(os.path.join(lang, f))
     bad = []
@@ -340,10 +340,10 @@ def check_static(root, i18n):
                 print("слой %-14s использует «%s», но не задаёт его" % (f, var))
                 ok = False
     print("слои: переменные t/home заданы везде, где используются" if ok else "слои: ЕСТЬ ПРОБЛЕМЫ")
-    missing = sorted((l, k) for l in ("en", "ru", "be") for k in used if k not in i18n[l])
-    print("i18n: все ключи из шаблонов есть в en/ru/be" if not missing else "i18n: НЕТ КЛЮЧЕЙ %s" % missing)
+    missing = sorted((l, k) for l in ("en", "ru", "be", "pl") for k in used if k not in i18n[l])
+    print("i18n: все ключи из шаблонов есть в en/ru/be/pl" if not missing else "i18n: НЕТ КЛЮЧЕЙ %s" % missing)
     ok &= not missing
-    parity = [l for l in ("ru", "be") if set(i18n[l]) != set(i18n["en"])]
+    parity = [l for l in ("ru", "be", "pl") if set(i18n[l]) != set(i18n["en"])]
     print("i18n: наборы ключей одинаковы" if not parity else "i18n: РАЗНЫЕ НАБОРЫ %s" % parity)
     ok &= not parity
     import make_latest as ML
@@ -372,7 +372,7 @@ def main():
         # хвост после блока `____` (разделы) должен совпасть полностью
         marker = "\n____\n"
         want_tail = body.split(marker, 1)[1]
-        for lang in ("en", "ru", "be"):
+        for lang in ("en", "ru", "be", "pl"):
             ctx = {"site": {"data": {data_name: data, "i18n": i18n}},
                    "page": {"data": data_name, "lang": lang, "intro_key": intro_key}}
             got = render_layout(os.path.join(root, "_layouts", "archive.html"), ctx)

@@ -1,4 +1,4 @@
-# Тексты интерфейса на трёх языках. Названия материалов (статьи, интервью) здесь НЕ переводятся:
+# Тексты интерфейса на четырёх языках (en, ru, be, pl). Названия материалов (статьи, интервью) здесь НЕ переводятся:
 # они хранятся в _data/media.yml и _data/publications.yml на языке оригинала.
 # Строки на русском взяты из прежних страниц дословно. Белорусские строки и подписи EN/BE — черновик,
 # нужна вычитка автором (в тексте это помечено в REPORT.md / в сообщении при передаче).
@@ -98,7 +98,7 @@ en:
   contact_note: "For sensitive topics, Signal is better than Telegram."
   contact_emerg: "Emergencies: free urgent advice on environmental and chemical disasters. Write on Signal."
   counter_note: "The site uses GoatCounter, a visit counter without cookies and without personal data."
-  press_text: Everything a journalist needs in one place. Replies in English, Russian and Belarusian.
+  press_text: Everything a journalist needs in one place. Replies in English, Russian, Belarusian and Polish.
   write: Write to me
   press_bio: Biography
   press_page: "How to credit, short bios"
@@ -248,7 +248,7 @@ ru:
   contact_note: "Для чувствительных тем Signal лучше Telegram."
   contact_emerg: "Чрезвычайные ситуации: бесплатные срочные консультации по экологическим и химическим катастрофам. Пишите в Signal."
   counter_note: "На сайте стоит GoatCounter, счётчик посещений без cookie и без персональных данных."
-  press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском и беларусском.
+  press_text: Всё, что нужно журналисту, в одном месте. Отвечаю на английском, русском, беларусском и польском.
   write: Написать
   press_bio: Биография
   press_page: "Как подписывать, краткие биографии"
@@ -398,7 +398,7 @@ be:
   contact_note: "Для адчувальных тэм Signal лепшы за Telegram."
   contact_emerg: "Надзвычайныя сітуацыі: бясплатныя тэрміновыя кансультацыі па экалагічных і хімічных катастрофах. Пішыце ў Signal."
   counter_note: "На сайце стаіць GoatCounter, лічыльнік наведванняў без cookie і без персанальных даных."
-  press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску і па-беларуску.
+  press_text: Усё, што трэба журналісту, у адным месцы. Адказваю па-англійску, па-руску, па-беларуску і па-польску.
   write: Напісаць
   press_bio: Біяграфія
   press_page: "Як падпісваць, кароткія біяграфіі"
@@ -452,3 +452,153 @@ be:
   proj_pin16_title: "pin16"
   proj_pin16_text: "Вэб-старонка для загрузкі слайдшоу па Bluetooth на электронныя цэньнікі Solum (e-paper), а таксама адкрытая прашыўка для гэтых цэньнікаў на працэсарах Silicon Labs EFR32BG22."
   proj_pin16_shot: "Тэставы экран pin16 на электронным цэньніку Solum EL016"
+pl:
+  name: Siarhei (Sergiusz) Besarab
+  description: Naukowiec multidyscyplinarny · Chemik-badacz · Autor
+  nav_home: Strona główna
+  nav_about: O autorze
+  nav_media: Media i wywiady
+  nav_publications: Publikacje
+  nav_stat: "Przewodnik po @malina_by"
+  language: Język
+  marks_label: Oznaczenia
+  contents: SPIS TREŚCI
+  read_more: Czytaj dalej
+  media_intro: >-
+    Wybór moich wywiadów i eksperckich komentarzy o nauce i technologii, które ukazały się w różnych mediach. Wpisy są pogrupowane według wydań i uzupełniane, kiedy pozwala na to czas.
+  publications_intro: >-
+    Wybór prac autorskich opublikowanych na różnych platformach. Ta lista jest główną, okresowo uzupełnianą bibliografią tekstów z dziennikarstwa technicznego i popularyzacji nauki.
+  home_lead: Niezależny naukowiec, chemik-badacz i autor tekstów popularnonaukowych. Na tej stronie zebrałem swoje wystąpienia w mediach, publikacje i krótkie CV.
+  stat_records: wpisów w archiwum mediów
+  stat_copies: kopii w archiwach internetowych
+  stat_patents: patentów jako autor lub współautor
+  stat_texts: tekstów popularnonaukowych
+  titles_note: Tytuły artykułów i wywiadów podano w języku oryginału.
+  best_heading: Najlepsze publikacje o mnie
+  best_note: Dziewięć wybranych materiałów. Krótkie opisy są po angielsku, a tytuły w języku oryginału (EN, RU, UK, BE).
+  nav_menu: Menu
+  theme_toggle: "Przełącz jasny lub ciemny motyw"
+  search_btn: "Szukaj"
+  search_hint: "Szukaj w tytułach publikacji, materiałów medialnych i projektów. Naciśnij /, aby otworzyć"
+  search_ph: "Szukaj w tytułach"
+  search_none: "Nic nie znaleziono"
+  search_more: "Pokazano 40 z {n}. Doprecyzuj zapytanie"
+  search_close: "Zamknij wyszukiwanie"
+  search_kind_pub: "Publikacja"
+  search_kind_media: "Media"
+  search_kind_project: "Projekt"
+  skip_link: Przejdź do treści
+  to_top: Do góry
+  support_link: Wesprzyj autora
+  support_intro: "Wsparcie pozwala zachować niezależność tej pracy: daje czas na badania i pisanie, na projekt popularyzatorski LAB66 oraz na sprzęt i hosting, które za nim stoją."
+  support_methods_h: Sposoby wsparcia
+  support_indep_h: "Niezależność"
+  support_indep: "Wsparcie nie wpływa na to, co piszę, ani na moje wnioski. Pozostaję niezależnym autorem, a poglądy na tej stronie są moje własne."
+  support_preferred: "Najlepiej: najniższe opłaty"
+  support_crypto_h: Kryptowaluty
+  support_crypto_note: Skopiuj adres i przed wysłaniem sprawdź jego pierwsze i ostatnie znaki. Wysyłaj tylko wskazaną monetę i tylko we wskazanej sieci.
+  support_copy: Kopiuj
+  support_copied: Skopiowano
+  support_consult_h: Konsultacje
+  support_consult: Płatne konsultacje chemiczne na życzenie, szczegóły przez e-mail. Porady dotyczące reagowania na katastrofy ekologiczne i chemiczne są bezpłatne.
+  pub_announce: "Wiadomości o nowych tekstach pojawiają się najpierw na kanale Telegram <a href='https://t.me/lab66'>LAB-66</a>. Nie każda przydatna notatka wyrasta na osobny artykuł, więc drobne notatki żyją tylko tam."
+  lang_h: Język
+  lang_all: Wszystkie
+  avail_emergency: Bezpłatne i pilne porady dotyczące reagowania na katastrofy ekologiczne i chemiczne.
+  nav_expertise: Ekspertyza
+  nav_projects: Projekty
+  nav_contacts: Kontakt
+  hero_eyebrow: Niezależny naukowiec · Chemik-badacz · Popularyzator nauki
+  hero_h1: Chemia, bezpieczeństwo jądrowe i globalne ryzyka.
+  hero_lead: Niezależny naukowiec i chemik-badacz w dziedzinie chemii koloidów i powierzchni, autor 12 patentów. Stały ekspert Biełsatu, Radia Wolna Europa i Deutsche Welle w sprawach bezpieczeństwa jądrowego, globalnych zagrożeń katastroficznych i analizy technologii. Mieszkam w Unii Europejskiej.
+  cta_press: Materiały dla prasy
+  cta_media: Archiwum mediów
+  portrait_alt: "Portret Siarhei Besaraba. Zdjęcie: Oleslawlama, CC BY-SA 4.0, przycięte"
+  expertise_h: "Ekspertyza: co mogę skomentować"
+  card1_title: Bezpieczeństwo jądrowe, radiacyjne i chemiczne
+  card1_text: Białoruska elektrownia jądrowa, tereny skażone po Czarnobylu, składowiska i miejsca unieszkodliwiania odpadów promieniotwórczych, materiały promieniotwórcze i niebezpieczne, środki ochrony, ocena ryzyka.
+  card2_title: Studia nad przyszłością i globalne ryzyka
+  card2_text: Prognozowanie technologiczne, technoetyka, zbliżanie się człowieka i technologii, ryzyka egzystencjalne i podwójnego zastosowania.
+  card3_title: Analiza technologii
+  card3_text: "Sztuczna inteligencja i analiza danych, biosensory i urządzenia noszone, FoodTech: co nowe technologie naprawdę dają i czym grożą."
+  card4_title: Chemia koloidów i powierzchni
+  card4_text: Adsorpcja, materiały porowate, filtracja, katalizatory, nanomateriały, chemia supramolekularna, zielona chemia.
+  card5_title: Środowisko i klimat
+  card5_text: Oczyszczanie wody i powietrza, trwałe zanieczyszczenia, ekstremalna pogoda, adaptacja do zmian klimatu.
+  card6_title: Popularyzacja nauki
+  card6_text: Dziennikarstwo naukowe, edukacja STEM, otwarta nauka, polityka oparta na dowodach.
+  expertise_more: Wszystkie dziedziny
+  latest_h: Ostatnio dodane
+  talks_h: "Wybrane wystąpienia"
+  talks_ongoing: "trwa"
+  talks_video: "wideo"
+  talk_khalezin_title: "Wywiad o promieniowaniu, GMO i 5G"
+  talk_melkozerov_title: "Wywiad o stanie nauki na Białorusi"
+  talk_ivulin_title: "Wywiad o nauce, zdrowiu i energetyce jądrowej"
+  talk_column_venue: "Autorska rubryka w programie porannym «Раніца з Белсатам», Biełsat"
+  all_records: Wszystkie wpisy →
+  kind_media: Media
+  kind_publications: Publikacja
+  press_h: Materiały dla prasy
+  contacts_h: "Kontakt i materiały dla prasy"
+  contact_email: "E-mail"
+  contact_signal_t: "mój profil w Signal"
+  contact_tg_t: "wiadomości prywatne kanału LAB-66"
+  contact_pgp_t: "klucz publiczny"
+  contact_note: "W delikatnych sprawach lepiej używać Signala niż Telegrama."
+  contact_emerg: "Sytuacje awaryjne: bezpłatne, pilne porady dotyczące katastrof ekologicznych i chemicznych. Napisz na Signal."
+  counter_note: "Strona używa GoatCounter, licznika odwiedzin bez plików cookie i bez danych osobowych."
+  press_text: Wszystko, czego potrzebuje dziennikarz, w jednym miejscu. Odpowiadam po angielsku, rosyjsku, białorusku i polsku.
+  write: Napisz do mnie
+  press_bio: Biogram
+  press_page: "Jak podpisywać, krótkie biogramy"
+  outlet_rubric: "Rubryka Besaraba «Topologia osobliwości» (Раніца з Белсатам)"
+  press_media: Archiwum mediów
+  press_pgp: Klucz publiczny PGP
+  press_photo: Zdjęcie portretowe
+  press_photos_more: "Inne zdjęcia (Wikimedia Commons)"
+  principle: "Nic nie jest usuwane: każdy wpis zachowuje link do źródła, kopie w archiwach internetowych i plik audio, jeśli taki istnieje."
+  search_label: Szukaj
+  search_ph: Tytuł lub wydawca
+  outlets_h: Wydawcy
+  count_tpl: "Pokazano {n} z {total}"
+  legend_date: "≈ data najwcześniejszej kopii w archiwum internetowym"
+  empty: Nic nie znaleziono. Spróbuj innego zapytania.
+  reset_filter: Pokaż wszystkich wydawców
+  l_src: Źródło
+  l_web: Archiwum internetowe
+  l_ais: archive.today
+  l_audio: Audio
+  l_lang: Wersja
+  l_other: Kopia
+  badge_audio: Audio
+  sections_h: Serie i tematy
+  proj_malina_title: malina.by, katalog pamięci
+  proj_malina_text: Katalog wszystkich filmów Mikity Miełkazioraua, stworzony ku jego pamięci, z przewodnikiem po gościach według zawodu.
+  proj_zs_title: «Загляне сонца», przewodnik po programie
+  proj_zs_text: Katalog mniej znanego kanału edukacyjnego «Загляне сонца» Mikity Miełkazioraua, z przyciskiem, który wybiera losowy odcinek.
+  proj_rubric_title: "«Topologia osobliwości», rubryka autorska"
+  proj_rubric_text: "Autorska rubryka o nauce, technologii i przyszłości w programie «Раніца з Белсатам» w Biełsacie (na antenie nazywa się «Рубрыка Бесараба»). Wszystkie odcinki, na YouTube i Odysee, są w archiwum mediów."
+  proj_lab66_title: "LAB-66"
+  proj_lab66_text: "Autorski projekt popularyzacji nauki o chemii, radiacji, bezpieczeństwie chemicznym i biologicznym oraz nauce obywatelskiej, założony w 2019 roku i nazwany od laboratorium nr 66 Instytutu Chemii Ogólnej i Nieorganicznej Narodowej Akademii Nauk Białorusi."
+  proj_scihack_title: "Białoruski Hackathon Naukowy (SciHackathon)"
+  proj_scihack_text: "Pilotażowy hackathon, który odbył się 2–3 czerwca 2017 roku w Parku Wysokich Technologii w Mińsku i połączył naukowców oraz specjalistów IT w rozwiązywaniu problemów naukowych i technicznych. Wzięło w nim udział ponad 300 osób. Byłem jednym z organizatorów i jego kuratorem naukowym."
+  proj_notes_title: "Нататкі фітахіміка (Notatki fitochemika)"
+  proj_notes_text: "Szkice audio nagrane razem z <a href='https://be.wikisource.org/wiki/%D0%90%D1%9E%D1%82%D0%B0%D1%80:%D0%AE%D1%81%D1%82%D1%8B%D0%BD%D0%B0_%D0%A1%D0%B0%D1%9E%D0%BA%D0%B0'>Юстына Саўка</a>, nadawane w programie dla dzieci «Дасціпныя. Нястомныя. Кемлівыя» na antenie radiowej «Культура». Nagrania odcinków są na Wikiźródłach."
+  proj_hw_heading: "Elektronika i otwarte oprogramowanie"
+  proj_hame_title: "Miniaturowy router, klon Hame A15"
+  proj_hame_text: "Poradnik uruchamiania klona popularnego chińskiego miniaturowego routera Hame A15, opublikowany na Habrze w 2018 roku i zaprezentowany na Chaos Constructions 2019. Także własne otwarte oprogramowanie autora oparte na OpenWRT dla procesorów Ralink."
+  proj_bthome_title: "BTHome Logger"
+  proj_bthome_text: "Aplikacja na Androida z otwartym kodem do zapisu danych z czujników Bluetooth Low Energy w formacie BTHome. Przyjęta do F-Droid, publikacja w toku."
+  proj_elements_title: "Układ okresowy dla Flipper Zero"
+  proj_elements_text: "Aplikacja na Flipper Zero: zwięzły przewodnik po 119 pierwiastkach z danymi fizycznymi, kwantowymi, geochemicznymi i biologicznymi. Licencja MIT."
+  proj_elements_shot: "Ekran startowy aplikacji Układ okresowy na wyświetlaczu Flipper Zero"
+  proj_beacon_title: "BLE Beacon dla Flipper Zero"
+  proj_beacon_text: "Aplikacja na Flipper Zero, która zamienia urządzenie w konfigurowalny beacon Bluetooth Low Energy z niezaszyfrowanymi ogłoszeniami, do testowania skanerów i integracji inteligentnego domu. Licencja MIT."
+  proj_beacon_shot: "Ekran startowy aplikacji BLE Beacon na wyświetlaczu Flipper Zero"
+  proj_b154_title: "badge154"
+  proj_b154_text: "Narzędzie internetowe do wgrywania pokazów slajdów przez Bluetooth na elektroniczne etykiety cenowe e-paper Hanshow Nebular 154 oraz otwarte oprogramowanie układowe dla tych etykiet na procesorach Telink TLSR8258."
+  proj_b154_shot: "Ekran informacji o oprogramowaniu badge154 na etykiecie cenowej e-paper Hanshow Nebular 154"
+  proj_pin16_title: "pin16"
+  proj_pin16_text: "Strona internetowa do wgrywania pokazów slajdów przez Bluetooth na elektroniczne etykiety cenowe Solum e-paper oraz otwarte oprogramowanie układowe dla tych etykiet na procesorach Silicon Labs EFR32BG22."
+  proj_pin16_shot: "Ekran testowy pin16 na etykiecie cenowej e-paper Solum EL016"

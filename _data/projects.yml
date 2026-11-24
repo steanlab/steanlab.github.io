@@ -25,7 +25,8 @@
 - title_key: proj_wind_title
   text_key: proj_wind_text
   external: true
-  url: https://github.com/steanlab/belaes-wind
+  url: https://steanlab.github.io/belaes-wind/
+  shot_smooth: true
   shot: /images/projects/belaes-wind.jpg
   shot_alt_key: proj_wind_shot
 - title_key: proj_rebis_title

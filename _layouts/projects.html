@@ -10,7 +10,8 @@ layout: default
   <div class="entry">{{ content }}</div>
   <ul class="project-list">
     {%- for p in site.data.projects %}{% unless p.group %}
-    <li class="project{% if p.image %} has-logo{% endif %}">
+    <li class="project{% if p.image %} has-logo{% endif %}{% if p.shot %} has-shot{% endif %}{% if p.shot_smooth %} shot-smooth{% endif %}">
+      {%- if p.shot %}<a class="project-shot" href="{{ site.baseurl }}{{ p.shot }}"><img src="{{ site.baseurl }}{{ p.shot }}" alt="{{ t[p.shot_alt_key] | escape }}" width="{{ p.shot_w | default: 512 }}" height="{{ p.shot_h | default: 256 }}" loading="lazy"></a>{% endif %}
       {%- if p.image %}<img class="project-logo" src="{{ p.image }}" alt="{{ t[p.title_key] | escape }}" loading="lazy">{% endif %}
       <h3>{% if p.url %}<a href="{% if p.external %}{{ p.url }}{% else %}{{ site.baseurl }}{% if p.local %}{{ home }}{% endif %}{{ p.url }}{% endif %}">{{ t[p.title_key] }}</a>{% else %}{{ t[p.title_key] }}{% endif %}</h3>
       {%- if p.text_key %}<p>{{ t[p.text_key] }}</p>{% endif %}

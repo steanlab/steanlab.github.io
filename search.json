@@ -12,8 +12,8 @@ sitemap: false
 {{ sep }}{"k":"m","t":{{ c.title | jsonify }},"s":{{ c.outlet | jsonify }},"u":{{ c.url | jsonify }}}
 {%- assign sep = "," -%}
 {%- endif -%}{%- endfor -%}
-{%- for p in site.data.projects -%}
+{%- for p in site.data.projects -%}{%- if p.url -%}
 {{ sep }}{"k":"r","t":{{ site.data.i18n.en[p.title_key] | jsonify }},"ti":{"en":{{ site.data.i18n.en[p.title_key] | jsonify }},"ru":{{ site.data.i18n.ru[p.title_key] | jsonify }},"be":{{ site.data.i18n.be[p.title_key] | jsonify }},"pl":{{ site.data.i18n.pl[p.title_key] | jsonify }}},"u":{{ p.url | jsonify }},"l":{% if p.local %}1{% else %}0{% endif %}}
 {%- assign sep = "," -%}
-{%- endfor -%}
+{%- endif -%}{%- endfor -%}
 ]

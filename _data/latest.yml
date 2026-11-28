@@ -1,5 +1,11 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
+- date: '2026-11-28'
+  approx: false
+  kind: media
+  section: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
+  title: Рубрыка Бесараба. Знікаючыя фатаграфіі і Лічбавая спадчына Праграмма Раніца з Белсатам 28.11.2026
+  url: https://www.youtube.com/watch?v=c4YCE7YLve8
 - date: '2026-11-20'
   approx: true
   kind: media
@@ -42,9 +48,3 @@
   section: Беларускае радыё Рацыя
   title: «Ніводная не адпавядае правілам»
   url: https://racyja.com/by/hramadstva/nivodnaja-ne-adpavjadae-pravilam/
-- date: '2026-09-10'
-  approx: true
-  kind: media
-  section: Радыё Свабода
-  title: 'Экспэрты аб праекце сховішча радыяцыйных адкідаў БелАЭС: «Сьлепа пераймаюць небясьпечны расейкі досьвед»'
-  url: https://www.svaboda.org/a/33851719.html

@@ -981,6 +981,12 @@ sections:
     url: https://www.youtube.com/watch?v=E3LfyONOxmg
     links:
     - {label: ODYSEE, type: mirror, url: 'https://odysee.com/siarhei-besarab-tech-column-belsat-morning-show-:9569ff8815e0849d8e7f2b4133ab6db17f86311a'}
+  - title: Рубрыка Бесараба. Знікаючыя фатаграфіі і Лічбавая спадчына Праграмма Раніца з Белсатам 28.11.2026
+    url: https://www.youtube.com/watch?v=c4YCE7YLve8
+    links:
+    - {label: WEBARCHIVE, type: web_archive, url: 'https://web.archive.org/web/20261128135641/https://www.youtube.com/watch?v=c4YCE7YLve8'}
+    - {label: Original stream, type: other, url: 'https://www.youtube.com/watch?v=5xsgSvJYSY8&t=3489s'}
+    - {label: ODYSEE, type: mirror, url: 'https://odysee.com/@SiarheiBesarab:4/siarhei-besarab-tech-column-belsat-morning-show-wikimedia-commons-digital-heritage-creative-commons:6'}
 - title: Зеленый портал
   level: 1
   entries:

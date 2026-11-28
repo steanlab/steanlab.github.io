@@ -1,9 +1,9 @@
 # Собирается автоматически: python3 tools/make_latest.py (его вызывает tools/add_item.py).
 # Руками не править.
-total: 438
+total: 439
 langs:
 - code: be
-  count: 234
+  count: 235
 - code: ru
   count: 184
 - code: en
@@ -30,7 +30,7 @@ outlets:
 - name: Обычное утро (ОУ)
   count: 18
 - name: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
-  count: 14
+  count: 15
 - name: Штодзень
   count: 14
 - name: Malanka Media
@@ -116,6 +116,24 @@ outlets:
 - name: ЭХО Новости
   count: 1
 cards:
+- date: '2026-11-28'
+  approx: false
+  outlet: Рубрыка Бесараба «Топология сингулярности» (Раніца з Белсатам)
+  title: Рубрыка Бесараба. Знікаючыя фатаграфіі і Лічбавая спадчына Праграмма Раніца з Белсатам 28.11.2026
+  url: https://www.youtube.com/watch?v=c4YCE7YLve8
+  lang: be
+  audio: false
+  search: рубрыка бесараба. знікаючыя фатаграфіі і лічбавая спадчына праграмма раніца з белсатам 28.11.2026 рубрыка бесараба «топология сингулярности» (раніца з белсатам)
+  links:
+  - kind: web_archive
+    label: ''
+    url: https://web.archive.org/web/20261128135641/https://www.youtube.com/watch?v=c4YCE7YLve8
+  - kind: other
+    label: Original stream
+    url: https://www.youtube.com/watch?v=5xsgSvJYSY8&t=3489s
+  - kind: mirror
+    label: ODYSEE
+    url: https://odysee.com/@SiarheiBesarab:4/siarhei-besarab-tech-column-belsat-morning-show-wikimedia-commons-digital-heritage-creative-commons:6
 - date: '2026-11-20'
   approx: true
   outlet: ВОТ-ТАК ТВ
